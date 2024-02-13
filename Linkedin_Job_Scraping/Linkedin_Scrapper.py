@@ -1,3 +1,4 @@
+# MAin script to get jobs from Linkedin for our Data engineering project Jan 2014
 # Import necessary packages for web scraping and logging
 import logging
 from selenium import webdriver
@@ -10,9 +11,108 @@ from selenium.webdriver.chrome.service import Service as ChromeService
 import pandas as pd
 import random
 import time
+from time import sleep
+import json
+import re
 
 # Configure logging settings
 logging.basicConfig(filename="scraping.log", level=logging.INFO)
+
+skill_categories = {
+        "ProgLanguage": ("Python", "Java", "C++", "C#", "Scala", "R", " R ", "/R/", "Julia", "Go", "Kotlin", "Bash", "JavaScript", "HTML"),
+        "DataBase": ("SQL", "NoSQL", " MongoDB", "Cassandra", "Neo4j", "HBase", "Elasticsearch"),
+        "DataAnalytics": ("Pandas", "NumPy", "R", " R ", "/R/", "MATLAB"),
+        "BigData": ("Hadoop", "Spark", "Databricks", "Flink", "Apache Airflow"),
+        "MachingLearning": ("Scikit-Learn", "TensorFlow", "Keras", "PyTorch", "XGBoost", "LightGBM", "CatBoost", "Orange"),
+        "DataSerialization" : ("Avro","Protocol Buffers","Json","XML"),
+        "DataVisualization": ("Tableau", "Power BI", "PowerBI", "Matplotlib", "Seaborn", "Plotly"),
+        "Statistics": ("Statistics", "Statistiques", "Statistiques Descriptives", "Inférentielles", "Bayesian Statistics", "Statistiques Bayésiennes"),
+        "CloudComputing": ("AWS", "Azure", "Google Cloud Platform", "IBM Cloud", "Alibaba Cloud"),
+        "DevTools": ("Git", "Docker", "Jenkins", "Travis CI"),
+        "Os": ("Linux", "Windows", "MacOS"),
+        "DBMS": ("MySQL", "PostgreSQL", "Oracle", "SQL Server", "Snowflake", "Snowflake","BigQuery","Big Query","SingleStore"),
+        "SoftBigDataProcessing": ("Apache Kafka", "Apache Flink", "HBase", "Apache Cassandra"),
+        "Automation": ("Ansible", "Kubernetes", "Puppet", "Chef", "Airflow"),
+        "InfrastructureAsCode": ("Terraform", "CloudFormation"),
+        "NetworkSecurty": ("VPN", "Firewall", "SSL/TLS", "Wireshark"),
+        "Virtualisation": ("VMware", "vSphere", "VirtualBox", "Hyper-V"),
+        "Containers": ("Docker", "Kubernetes", "OpenShift"),
+        "Collaboration": ("JIRA", "Confluence", "Slack", "Microsoft Teams", "Discord", "Teams"),
+        "Other": ("DevOps","Backend Development","Big Data","ML","Machine Learning","Statistiques","Cloud","CI/CD","CI / CD"),
+        "FrSoftSkills": ("Communication","Travail d'équipe","Gestion du temps","Adaptabilité","Résolution de problèmes","Leadership" ,"Créativité","Empathie","Collaboration","Gestion du stress","Organisation","Flexibilité","Esprit d'initiative","Pensée critique","Relations interpersonnelles"),
+        "EnSoftSkils": ("Communication","Teamwork","Time Management","Adaptability","Problem Solving","Leadership","Creativity","Empathy","Collaboration","Stress Management","Organization","Flexibility","Initiative","Critical Thinking","Interpersonal Skills"),
+    }
+job_detail = {
+        "JobDetail":("Hybride","Remote","Temps plein","Full","Confirmé","Confirmed","Junior","Senior"),
+        "TypeContract":("CDI","CDD","Freelence"),
+        "Salary":("Salaire","Salary","Rénumeration","Renumeration","Package"),
+        "Level":("Bac+5","Bac+3"),
+        "Experience":("ans"),
+    }
+def extract_skills(description: str) -> dict:
+        """
+        Extract skills from a job description and categorize them into skill groups.
+
+        Args:
+            description (str): The job description text.
+
+        Returns:
+            dict: A dictionary containing skill groups with their respective skills.
+        """
+        extracted_skills = {category: [] for category in skill_categories}
+
+        # Iterate over each skill category
+        for category, skills in skill_categories.items():
+            # Check if any skill in the category is mentioned in the description
+            mentioned_skills = [skill for skill in skills if skill.lower() in description.lower()]
+
+            # Append mentioned skills to the corresponding category list
+            extracted_skills[category] = mentioned_skills
+
+        return extracted_skills
+
+def extract_job_details(description: str) -> dict:
+    """
+    Extract job details such as job type, contract type, salary, etc. from the description.
+
+    Args:
+        description (str): The job description text.
+
+    Returns:
+        dict: A dictionary containing extracted job details.
+    """
+    job_details = {category: [] for category in job_detail}
+
+    try:
+        # Iterate over each category in job_detail
+        for category, details in job_detail.items():
+            # Check if any detail in the category is mentioned in the description
+            mentioned_details = [detail for detail in details if detail.lower() in description.lower()]
+
+            # Append mentioned details to the corresponding category list in job_details
+            job_details[category] = mentioned_details
+
+        # Extract salary using regular expression
+        salary_matches = []
+        for keyword in job_detail["Salary"]:
+            keyword_position = description.lower().find(keyword.lower())
+            if keyword_position != -1:
+                salary_match = re.search(r'\b\d+(?:[.,]\d+)?(?:\s?[Kk]|€|euros?)?\b', description[keyword_position+len(keyword):])
+                if salary_match:
+                    salary_matches.append(salary_match.group())
+        if salary_matches:
+            job_details["Salary"] = salary_matches
+
+       # Extract experience using regular expression
+        for keyword in job_detail["Experience"]:
+            experience_match = re.search(r'\b(\d+)\s?ans\b', description, re.IGNORECASE)
+            if experience_match:
+                job_details["Experience"].append(experience_match.group(1))
+
+    except Exception as e:
+        logging.warning(f"An error occurred while extracting job details: {str(e)}")
+
+    return job_details
 
 
 def scrape_linkedin_jobs(job_title: str, location: str, pages: int = None) -> list:
@@ -39,12 +139,14 @@ def scrape_linkedin_jobs(job_title: str, location: str, pages: int = None) -> li
     # Log a message indicating that we're starting a LinkedIn job search
     logging.info(f'Starting LinkedIn job scrape for "{job_title}" in "{location}"...')
 
+           
     # Sets the pages to scrape if not provided
     pages = pages or 1
 
     # Set up ChromeOptions
     options = Options()
     options.add_argument("--start-maximized")
+    options.add_argument("--log-level=2")  
 
     # Specify the path to your chromedriver executable
     chrome_driver_path = r'C:\\Users\\Default\\Desktop\\chromedriver-win64\\chromedriver.exe'
@@ -122,8 +224,13 @@ def scrape_linkedin_jobs(job_title: str, location: str, pages: int = None) -> li
 
                 # Find the job description element and extract its text
                 job_description = description_soup.find(
-                    "div", class_="description__text description__text--rich"
-                ).text.strip()
+                "div", class_="description__text description__text--rich").get_text(strip=True, separator='\n')
+
+                # Extract skills from the job description
+                extracted_skills = extract_skills(job_description)
+
+                # Extract job details using extract_job_details function
+                job_details = extract_job_details(job_description)
 
             # Handle the AttributeError exception that may occur if the element is not found
             except AttributeError:
@@ -143,6 +250,8 @@ def scrape_linkedin_jobs(job_title: str, location: str, pages: int = None) -> li
                     "location": job_location,
                     "link": apply_link,
                     "description": job_description,
+                    "skills": extracted_skills,
+                    "details": job_details,
                 }
             )
             # Logging scrapped job with company and location information
@@ -179,11 +288,15 @@ def save_job_data(data: dict) -> None:
     df = pd.DataFrame(data)
 
     # Save the DataFrame to a CSV file without including the index column
-    df.to_csv("jobs.csv", index=False)
+    df.to_csv("jobs_DataEngineer1_test.csv", index=False)
+
+    # Save the data to a JSON file
+    with open("jobs_DataEngineer1_test.json", "w") as json_file:
+        json.dump(data, json_file, indent=4)
 
     # Log a message indicating how many jobs were successfully scraped and saved to the CSV file
-    logging.info(f"Successfully scraped {len(data)} jobs and saved to jobs.csv")
+    logging.info(f"Successfully scraped {len(data)} jobs and saved to jobs_DataEngineer1_test.csv")
 
 
-data = scrape_linkedin_jobs("Data Engineer", "France")
+data = scrape_linkedin_jobs("Data engineer", "France", 1)
 save_job_data(data)
