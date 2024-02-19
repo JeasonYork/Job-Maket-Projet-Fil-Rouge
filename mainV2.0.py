@@ -23,20 +23,20 @@ filename = "PE_scrapping_" + datetime.now().strftime("%Y%m%d_%H%M%S") + ".json"
 
 # List of search terms for web scraping.
 Search_term = [
-    #"data architect",
-    #"data engineer",
-    #"data scientist",
+    "data architect",
+    "data engineer",
+    "data scientist",
     "data analyst",
-    #"software engineer",
-    #"Data Warehousing Engineer",
-    #"Machine Learning Engineer",
-    #"cloud architect",
-    #"solution architect",
-    #"cloud engineer",
-    #"big data engineer",
-    #"Data Infrastructure Engineer",
-    #"Data Pipeline Engineer",
-    #"ETL Developer"
+    "software engineer",
+    "Data Warehousing Engineer",
+    "Machine Learning Engineer",
+    "cloud architect",
+    "solution architect",
+    "cloud engineer",
+    "big data engineer",
+    "Data Infrastructure Engineer",
+    "Data Pipeline Engineer",
+    "ETL Developer"
 ]
 # Dictionary of skills and their associated skills categories.
 skill_categories = {
