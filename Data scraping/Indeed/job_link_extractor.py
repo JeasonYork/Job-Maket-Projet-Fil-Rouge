@@ -3,8 +3,7 @@ import asyncio
 import re
 import logging
 import random
-import os
-import json
+import sys
 import csv
 from pathlib import Path
 
@@ -53,7 +52,7 @@ txt_path = script_directory / txt_filename
 logging.basicConfig(
     level=logging.DEBUG,
     handlers=[
-        logging.StreamHandler(),
+        logging.StreamHandler(stream=sys.stdout),
         logging.FileHandler("logfile_joblinks.txt"),
     ],
     format="%(asctime)s - %(levelname)s - %(message)s",
@@ -97,7 +96,7 @@ async def get_next_page_link(page, next_page_selector, job_position):
 
             await asyncio.sleep(random.uniform(0.5, 1))
 
-            regex_pattern = fr"^https:\/\/fr\.indeed\.com\/jobs\?q={job_position.replace(' ', '\+')}"
+            regex_pattern = rf"^https:\/\/fr\.indeed\.com\/jobs\?q={job_position.replace(' ', r'\+')}"
 
             next_page_link = await page.evaluate(
                 r"(links) => {"
@@ -133,7 +132,7 @@ async def save_links_to_csv(liste, file_path):
 
 async def main():
     async with async_playwright() as p:
-        browser = await p.firefox.launch(headless=False)
+        browser = await p.firefox.launch(headless=True)
 
         context = await browser.new_context()
 
@@ -147,7 +146,7 @@ async def main():
 
                 await page.goto(base_url)
 
-                await asyncio.sleep(40)
+                await asyncio.sleep(5)
 
                 for attempt in range(3):
                     try:

@@ -4,9 +4,7 @@ import re
 import logging
 from pathlib import Path
 import json
-import csv
-import random
-
+import aiofiles
 
 ######################## CONSTANTS ########################
 
@@ -22,7 +20,6 @@ COMPANY_INFORMATIONS_SELECTORS = {
     "company_size": '[data-testid="companyInfo-employee"]',
     "company_turnover": '[data-testid="companyInfo-revenue"]',
     "company_industry": '[data-testid="companyInfo-industry"]',
-    "company_headquarter": '[data-testid="companyInfo-headquartersLocation"]',
 }
 SKILLS_DICT = {
     "Langages de Programmation": [
@@ -123,7 +120,7 @@ SKILLS_DICT = {
     ],
 }
 JOB_DESCRIPTION_SELECTOR = '[id="jobDescriptionText"]'
-csv_file_path = Path("indeed_db.csv")
+
 
 logging.basicConfig(
     level=logging.DEBUG,
@@ -223,23 +220,27 @@ async def get_contract_infos(page, selector):
 
             if "salaire" in value.lower():
                 salary_value = re.sub(r"Salaire|\n|\xa0", "", value)
-            if "type de poste" in value.lower():
+            elif "type de poste" in value.lower():
                 raw_contract_type = (
                     re.sub(r"Type de poste", "", value).replace("\n", ", ").lstrip(", ")
                 )
-                contract_type_value: raw_contract_type if any(
-                    word in raw_contract_type.lower()
-                    for word in [
-                        "cdi",
-                        "stage",
-                        "freelance",
-                        "cdd",
-                        "interim",
-                        "apprentissage",
-                        "contrat pro",
-                        "temps partiel",
-                    ]
-                ) else None
+                contract_type_value = (
+                    raw_contract_type
+                    if any(
+                        word in raw_contract_type.lower()
+                        for word in [
+                            "cdi",
+                            "stage",
+                            "freelance",
+                            "cdd",
+                            "interim",
+                            "apprentissage",
+                            "contrat pro",
+                            "temps partiel",
+                        ]
+                    )
+                    else None
+                )
 
         return "salary", salary_value, "contract_type", contract_type_value
 
@@ -333,82 +334,77 @@ async def get_skills(page, selector, dictionary, database):
     return database
 
 
-async def main():
-    job_information = []
-    json_path = Path("indeed_db.json")
-    job_links_path = "job_links.txt"
+file_lock = asyncio.Lock()
 
-    with open(job_links_path, "r") as file:
-        urls = file.readlines()
 
-    if json_path.exists():
-        with json_path.open("r", encoding="utf-8") as file:
-            job_information = json.load(file)
+async def scrape_and_save(url, page, job_links_path, json_path):
+    await page.goto(url)
+    await page.wait_for_load_state("networkidle")
+    await asyncio.sleep(0.5)
 
+    job_info = await get_informations(url, page, JOB_INFORMATIONS_SELECTORS)
+    job_info = await get_skills(page, JOB_DESCRIPTION_SELECTOR, SKILLS_DICT, job_info)
+
+    company_link = await get_company_link(page)
+
+    if company_link is not None:
+        for attempt in range(2):
+            try:
+                job_info = await get_company_info(page, company_link, job_info)
+                break  # Si la deuxième tentative réussit, sortir de la boucle
+            except Exception as e:
+                logging.error(
+                    f"Error processing company information for link '{company_link}': {str(e)}"
+                )
+
+    logging.info(f"Job done: All data extracted from link {url}")
+
+    if job_info is None or all(v is None for v in job_info):
+        logging.info("Scraping unsuccessful, the link is conserved.")
+    else:
+        # Ajouter les résultats directement dans le fichier JSON en mode append
+        async with aiofiles.open(json_path, "a", encoding="utf-8") as file:
+            await file.write(json.dumps(job_info, ensure_ascii=False, indent=4))
+            await file.write(",\n")
+
+        remove_url_from_file(job_links_path, url)
+
+    await asyncio.sleep(0.5)
+
+
+async def main_batched(urls_batch, job_links_path, json_path):
     async with async_playwright() as p:
         browser = await p.firefox.launch(headless=True)
         context = await browser.new_context()
 
-        page = await context.new_page()
+        pages = [await context.new_page() for _ in range(20)]
 
-        semaphore = asyncio.Semaphore(5)
+        tasks = [
+            scrape_and_save(url.strip(), page, job_links_path, json_path)
+            for url, page in zip(urls_batch, pages)
+        ]
 
-        for url in urls:
-            url = url.strip()
-            await page.goto(url)
+        await asyncio.gather(*tasks)
 
-            await page.wait_for_load_state("networkidle")
-
-            await asyncio.sleep(0.5)
-
-            async with semaphore:
-                job_info = await get_informations(url, page, JOB_INFORMATIONS_SELECTORS)
-
-                job_info = await get_skills(
-                    page, JOB_DESCRIPTION_SELECTOR, SKILLS_DICT, job_info
-                )
-
-                company_link = await get_company_link(page)
-
-                if company_link is not None:
-                    for attempt in range(2):
-                        try:
-                            job_info = await get_company_info(
-                                page, company_link, job_info
-                            )
-                            break  # Si la deuxième tentative réussit, sortir de la boucle
-                        except Exception as e:
-                            logging.error(
-                                f"Error processing company information for link '{company_link}': {str(e)}"
-                            )
-
-                job_information.append(job_info)
-
-                logging.info(f"job done : All data extracted from link {url}")
-
-                if job_info is None:
-                    pass
-                elif all(v is None for v in job_info):
-                    logging.info("Scraping unsuccessful, the link is conserved.")
-                    break
-                else:
-                    remove_url_from_file(job_links_path, url)
-                    logging.info(
-                        f"Scraping successful. The url was removed from the list."
-                    )
-
-            with json_path.open("w", encoding="utf-8") as file:
-                json.dump(job_information, file, ensure_ascii=False, indent=4)
-
-            await asyncio.sleep(0.5)
-
-        with open(csv_file_path, mode="a", newline="", encoding="utf-8") as csvfile:
-            writer = csv.DictWriter(csvfile, fieldnames=None)
-            for job in job_information:
-                writer.writerow(job)
-
-        await asyncio.sleep(random.uniform(0.5, 1))
+        await asyncio.gather(*[page.close() for page in pages])
         await browser.close()
+
+
+async def main():
+    json_path = Path("indeed_raw_db_v3.json")
+    job_links_path = "job_links.txt"
+
+    with open(job_links_path, "r") as file:
+        all_urls = file.readlines()
+
+    batch_size = 100
+
+    while all_urls:
+        urls_batch = all_urls[:batch_size]
+
+        await main_batched(urls_batch, job_links_path, json_path)
+
+        all_urls = all_urls[batch_size:]
 
 
 if __name__ == "__main__":

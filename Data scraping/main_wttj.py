@@ -8,12 +8,13 @@ sys.path.append(str(current_dir))
 import logging
 import sys
 import asyncio
-from scrap_wttj.constants import (BASEURL, JOBS, RACINE_URL, TOTAL_PAGE_SELECTOR, JOB_LINK_SELECTOR,
+from scrap_wttj.constants import (JOBS, RACINE_URL, TOTAL_PAGE_SELECTOR, JOB_LINK_SELECTOR,
                                   CONTRACT_INFO_SELECTOR,
                                   COMPANY_INFO_SELECTOR, CONTRACT_SELECTORS, COMPANY_SELECTORS, SKILLS_DICT,
                                   JOB_DESCRIPTION_SELECTOR)
 from playwright.async_api import async_playwright
-from scrap_wttj.data_extraction import extract_links, get_contract_elements, get_company_elements, get_job_skills
+from scrap_wttj.data_extraction import extract_links, get_contract_elements, get_company_elements, get_job_skills, \
+    get_raw_description
 from scrap_wttj.pagination_functions import get_total_pages, get_html
 from scrap_wttj.file_operations import save_file
 
@@ -29,6 +30,7 @@ async def main():
 
         try:
             total_pages = await get_total_pages(baseurl, TOTAL_PAGE_SELECTOR)
+            logging.info(f"Number of pages : {total_pages}")
 
             async with async_playwright() as p:
                 browser = await p.chromium.launch()
@@ -50,11 +52,14 @@ async def main():
 
                             skills_data = await get_job_skills(html, JOB_DESCRIPTION_SELECTOR, SKILLS_DICT)
 
+                            raw_description = await get_raw_description(html, JOB_DESCRIPTION_SELECTOR)
+
                             # Merge contract_data and company_data into a single dictionary
-                            job_offer = {**contract_data, **company_data, **skills_data}
+                            job_offer = {**contract_data, **company_data, **skills_data,
+                                         'raw_description': raw_description}
 
                             # Save the output in a json file
-                            save_file(job_offer, 'wttj_database')
+                            save_file(job_offer, 'wttj_database_bronze')
 
         except Exception as e:
             logging.error(f'Erreur inattendue : {e}')
