@@ -22,9 +22,12 @@ async def get_html(url: str):
         try:
             resp = await client.get(url, headers=headers)
             html = HTMLParser(resp.text)
+        except httpx.HTTPError as e:
+            logging.error(f"HTTP error while fetching {url}: {e}")
+            return None
         except Exception as e:
-            print(f"Error parsing HTML: {e}")
-            html = None
+            logging.error(f"An error occurred while fetching {url}: {e}")
+            return None
     return html
 
 

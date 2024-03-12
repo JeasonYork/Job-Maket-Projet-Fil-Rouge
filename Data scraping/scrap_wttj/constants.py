@@ -21,32 +21,33 @@ JOBS = ["data engineer",
         "ETL Developer"]
 RACINE_URL = 'https://www.welcometothejungle.com'
 JOB_LINK_SELECTOR = '.sc-6i2fyx-0.gIvJqh'
-TOTAL_PAGE_SELECTOR = '.sc-bhqpjJ.iCgvlm'
+TOTAL_PAGE_SELECTOR = '[aria-label="Pagination"]'
 CONTRACT_INFO_SELECTOR = '[data-testid="job-metadata-block"]'
 COMPANY_INFO_SELECTOR = '.sc-bXCLTC.dBpdut'
 JOB_DESCRIPTION_SELECTOR = '[data-testid="job-section-description"]'
 CONTRACT_SELECTORS = {
-    'job_title': '.sc-empnci.cYPTxs.wui-text',
+    'job_title': '.sc-bdOgaJ.kEoFYF',
     'contract_type': '[name="contract"]',
     'salary': '[name="salary"]',
-    'company': '.sc-empnci.hmOCpj.wui-text',
+    'company': '.sc-bdOgaJ.kaknoe',
     'location': '[name="location"]',
     'remote': '[name="remote"]',
     'experience': '[name="suitcase"]',
     'education_level': '[name="education_level"]'
 }
 COMPANY_SELECTORS = {
-    'sector': '[alt="Tag"]',
-    'company_size': '[alt="Department"]',
-    'creation_date': '[alt="Date"]',
+    'sector': '[name="tag"]',
+    'company_size': '[name="department"]',
+    'creation_date': '[name="date"]',
     'address': '.sc-ezreuY.iObOsq.sc-boZgaH.fVBQVn.sc-4e9f7k-2.kAeJOl',
-    'average_age_of_employees': '[alt="Birthday"]',
-    'turnover_in_millions': '[alt="EuroCurrency"]',
-    'proportion_female': '[alt="Female"]',
-    'proportion_male': '[alt="Male"]'
+    'average_age_of_employees': '[name="birthday"]',
+    'turnover_in_millions': '[name="euro_currency"]',
+    'proportion_female': '[name="female"]',
+    'proportion_male': '[male="male"]'
 }
+RAW_DESCRIPTION_SELECTORS = '.sc-bXCLTC.enCjpg'
 SKILLS_DICT = {
-    "Langages de Programmation": [
+    "programming_languages": [
         "Python",
         "Java",
         "C++",
@@ -59,7 +60,7 @@ SKILLS_DICT = {
         "Kotlin",
         "Bash",
     ],
-    "Bases de Données": [
+    "databases": [
         "SQL",
         "NoSQL",
         "MongoDB",
@@ -68,9 +69,9 @@ SKILLS_DICT = {
         "HBase",
         "Elasticsearch",
     ],
-    "Analyse de Données": ["Pandas", "NumPy", " R,", "/R/", " R ", "MATLAB"],
-    "Big Data": ["Hadoop", "Spark", "Databricks", "Flink", "Apache Airflow"],
-    "Machine Learning et Data Mining": [
+    "data_analyze": ["Pandas", "NumPy", " R,", "/R/", " R ", "MATLAB"],
+    "big_data_tools": ["Hadoop", "Spark", "Databricks", "Flink", "Apache Airflow"],
+    "ML_and_data_mining": [
         "Scikit-Learn",
         "TensorFlow",
         "Keras",
@@ -80,20 +81,20 @@ SKILLS_DICT = {
         "CatBoost",
         "Orange",
     ],
-    "Visualisation de Données": [
+    "data_viz": [
         "Tableau",
         "Power BI",
         "Matplotlib",
         "Seaborn",
         "Plotly",
     ],
-    "Statistiques": [
+    "statistics": [
         "Statistiques Descriptives",
         "Inférentielles",
         "Bayesian Statistics",
         "Statistiques Bayésiennes",
     ],
-    "Cloud Computing": [
+    "cloud_computing": [
         "AWS",
         "Azure",
         "Google Cloud Platform",
@@ -101,9 +102,9 @@ SKILLS_DICT = {
         "IBM Cloud",
         "Alibaba Cloud",
     ],
-    "Outils de Développement": ["Git", "Docker", "Jenkins", "Travis CI"],
-    "Systèmes d'Exploitation": ["Linux", "Windows", "MacOS"],
-    "Bases de Données": [
+    "dev_tools": ["Git", "Docker", "Jenkins", "Travis CI"],
+    "OS": ["Linux", "Windows", "MacOS"],
+    "databases": [
         "MySQL",
         "PostgreSQL",
         "Oracle SQL",
@@ -113,19 +114,19 @@ SKILLS_DICT = {
         "Big Query",
         "SingleStore",
     ],
-    "Big Data et Processing": ["Apache Kafka", "Apache Flink", "HBase", "Cassandra"],
-    "Automatisation et Orchestration": [
+    "big_data_and_processing": ["Apache Kafka", "Apache Flink", "HBase", "Cassandra"],
+    "automation_and_orchestration": [
         "Ansible",
         "Kubernetes",
         "Puppet",
         "Chef",
         "Airflow",
     ],
-    "Infrastructure as Code (IaC)": ["Terraform", "CloudFormation"],
-    "Sécurité et Réseau": ["VPN", "Firewall", "SSL/TLS", "Wireshark"],
-    "Virtualisation": ["VMware", "VirtualBox", "Hyper-V"],
-    "Containers": ["Docker", "Kubernetes", "OpenShift"],
-    "Outils de Collaboration": [
+    "IaC": ["Terraform", "CloudFormation"],
+    "security_and_network": ["VPN", "Firewall", "SSL/TLS", "Wireshark"],
+    "virtualization": ["VMware", "VirtualBox", "Hyper-V"],
+    "containers": ["Docker", "Kubernetes", "OpenShift"],
+    "collaboration": [
         "JIRA",
         "Confluence",
         "Slack",
@@ -133,7 +134,7 @@ SKILLS_DICT = {
         "Teams",
         "Discord",
     ],
-    "Compétences": [
+    "skills": [
         "Big Data",
         "ML",
         "Machine Learning",

@@ -1,12 +1,12 @@
 """
 This module groups together all the functions needed to obtain information from web pages.
 """
-
 import logging
+from selectolax.parser import HTMLParser
+
 
 # Configuration des logs
 logging.basicConfig(level=logging.INFO)
-
 
 async def extract_links(page, job_search_url: str, job_links_selector: str):
     """
@@ -171,4 +171,16 @@ async def get_job_skills(html, job_description_selector, job_info_dict):
     except Exception as e:
         # Gérer les exceptions et enregistrer les logs
         logging.error(f"Une erreur s'est produite: {str(e)}")
+        return None
+
+
+async def get_raw_description(html, selector):
+    try:
+        raw_description = html.css_first(selector)
+        if raw_description:
+            return raw_description.text()
+        else:
+            return None
+    except Exception as e:
+        logging.error(f"An error occurred while parsing HTML: {e}")
         return None
