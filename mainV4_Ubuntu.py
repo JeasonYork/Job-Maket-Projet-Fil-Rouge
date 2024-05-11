@@ -190,7 +190,9 @@ def scraping_and_process(term, driver, collect_all=False):
         print(f"{term} - Nombre total d'annonces : {total_offers}")
 
         # Click the necessary number of times to display all offers.
-
+        if clicks_needed > 49:
+            print("(Nombre de pages à charger supérieur à 49)", clicks_needed)
+            clicks_needed = 49
         clicks_needed = (total_offers // 20)
         print(f'Nombre de pages à charger : {clicks_needed}')
         click_result = click_show_more_offers(driver, clicks_needed)
@@ -273,8 +275,11 @@ def scraping_and_process(term, driver, collect_all=False):
                     company_size = driver.find_element(By.CSS_SELECTOR, 'div.media > div.media-body > p').text
                 except:
                     company_size = None
-                extracted_skills = extract_skills(description)
-
+                try:
+                    extracted_skills = extract_skills(description)
+                except:
+                    extracted_skills = None
+                    
                 driver.close()
                 driver.switch_to.window(main_window)
                 job = {
