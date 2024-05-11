@@ -1,2 +1,0 @@
-aiofiles==23.2.1
-playwright==1.41.1
