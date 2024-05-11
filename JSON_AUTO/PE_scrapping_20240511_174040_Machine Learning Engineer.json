@@ -1,0 +1,851 @@
+[
+    {
+        "source": "France Travail",
+        "company_data": {
+            "sector": "Conseil en systèmes et logiciels informatiques",
+            "company_size": "50 à 99 salariés",
+            "adress": "ÎLE-DE-FRANCE",
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/173DNTT",
+        "skills": {
+            "ProgLanguage": [
+                "Python",
+                "Java",
+                "Scala",
+                "R"
+            ],
+            "DataBase": [
+                "SQL"
+            ],
+            "DataAnalytics": [
+                "R"
+            ],
+            "BigData": null,
+            "MachingLearning": null,
+            "DataSerialization": null,
+            "DataVisualization": [
+                "Tableau"
+            ],
+            "Statistics": null,
+            "CloudComputing": [
+                "AWS"
+            ],
+            "DevTools": null,
+            "Os": null,
+            "DBMS": null,
+            "SoftBigDataProcessing": null,
+            "Automation": null,
+            "InfrastructureAsCode": null,
+            "NetworkSecurty": null,
+            "Virtualisation": null,
+            "Containers": null,
+            "Collaboration": null,
+            "Other": [
+                "ML",
+                "Machine Learning",
+                "Cloud"
+            ],
+            "FrSoftSkills": [
+                "Leadership",
+                "Collaboration",
+                "Organisation"
+            ],
+            "EnSoftSkils": [
+                "Leadership",
+                "Collaboration"
+            ]
+        },
+        "contract_type": "CDI",
+        "salary": "Salaire brut : Annuel de 55000.0 Euros à 80000.0 Euros sur 12.0 mois",
+        "company": "INNOVA SOLUTIONS ",
+        "location": "ÎLE-DE-FRANCE",
+        "remote": null,
+        "experience": "7 An(s)",
+        "education_level": null,
+        "publication_date": "Publié il y a 23 jours\nSoyez parmi les 1ers à postuler",
+        "job_title": "Machine Learning Engineer - Ops (H/F)",
+        "raw_description": "En qualité de cabinet de recrutement, nous accompagnons un client final dans le recrutement d'un Machine Learning Engineer - OPS sur la région parisienne. Le télétravail est à hauteur de 3 jours par semaine !\n\n\nMissions :\n\n- Travailler en partenariat avec les équipes techniques de l'ensemble de l'entreprise pour résoudre les problèmes.\n\n- Faire preuve d'un mentorat actif et d'une identification des talents en devenir.\n\n- Développer une vision sur le long terme.\n\n- Démontrer un impact positif et un leadership dans l'ensemble de l'organisation.\n\n- Agir en tant que spécialiste dans l'élaboration de modèles de solutions de conception pour tout cas d'utilisation.\n\n- Prendre en compte les besoins de l'entreprise et de l'application et les exposer aux équipes et partenaires intéressés.\n\n- Démontrer une maîtrise de la conception de logiciels, façonne des méthodologies de codage qui sont évolutives, résilientes et stables.\n\n- Se plonger dans le code de n'importe quel composant et apporter sa contribution.\n\n- Maîtriser des pratiques professionnelles d'ingénierie logicielle pour l'ensemble du cycle de développement des logiciels, y compris les normes de codage, les revues de code, la gestion du contrôle de la source, les processus de construction, les tests et les opérations.\n\n- Diriger la collaboration avec des partenaires clés et apporter une expertise en la matière pour développer des solutions uniques à des problèmes complexes.\n\n- Avoir une bonne connaissance de l'infrastructure (AWS)\n\n- Apporter une certaine expérience avec les données (BI, Reporting, Analytics, Machine Learning et ainsi de suite) serait un plus.\n\n\nProfil recherché :\n\n- Au moins 7 ans d'expérience professionnelle en modélisation de données, schémas de conception et modèles d'accès aux données (notamment API, stream, data lake) et AWS.\n\n- Expérience réussie sur différentes technologies cloud et la construction de produits de données pour soutenir les applications DS, ML et Deep learning en batch et en temps réel.\n\n- Savoir concevoir, communiquer et exécuter de manière autonome l'architecture de produits de données modérément sophistiqués.\n\n- Bonne compréhension des outils et des technologies de test et de monitoring.\n\n- Guider les autres dans la conception de logiciels facilement testables et observables.\n\n- Un background en développement Java est indispensable pour ce poste.\n\n- Maîtriser le développement de plateformes utilisant Java/Python/Scala et SQL.\n\n- Avoir une certaine expérience sur Amazon Sagemaker ou équivalent, du feature store, des tableaux de bord, etc."
+    }
+, {
+    "source": "France Travail",
+    "company_data": {
+        "sector": null,
+        "company_size": null,
+        "adress": "NORD 59",
+        "average_age_of_employees": null,
+        "turnover_in_millions": null,
+        "proportion_female": null,
+        "proportion_male": null
+    },
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/6419971",
+    "skills": {
+        "ProgLanguage": [
+            "Python",
+            "R",
+            "Go"
+        ],
+        "DataBase": [
+            "SQL"
+        ],
+        "DataAnalytics": [
+            "R"
+        ],
+        "BigData": null,
+        "MachingLearning": null,
+        "DataSerialization": null,
+        "DataVisualization": null,
+        "Statistics": null,
+        "CloudComputing": null,
+        "DevTools": [
+            "Git"
+        ],
+        "Os": null,
+        "DBMS": [
+            "Big Query"
+        ],
+        "SoftBigDataProcessing": null,
+        "Automation": null,
+        "InfrastructureAsCode": null,
+        "NetworkSecurty": null,
+        "Virtualisation": null,
+        "Containers": null,
+        "Collaboration": null,
+        "Other": [
+            "DevOps",
+            "ML",
+            "Machine Learning"
+        ],
+        "FrSoftSkills": null,
+        "EnSoftSkils": null
+    },
+    "contract_type": "Profession",
+    "salary": null,
+    "company": null,
+    "location": "NORD 59",
+    "remote": null,
+    "experience": "Débutant accepté",
+    "education_level": null,
+    "publication_date": "Publié il y a 8 jours",
+    "job_title": "Machine Learning Engineer (IT) / Freelance (H/F)",
+    "raw_description": "Python - Confirmé - Impératif\nDevops - Confirmé - Impératif\nFrançais Professionnel (Impératif)\nnous cherchons un LLMOps qui aura pour missions de :\n- mettre en production des LLM, sous forme d'API ou sous forme de produits complets, embarquant leur Frontend\n- automatiser ces mises en production\n- assurer le run\nLes processus et outils relatifs à la Generative AI n'étant pas encore industriels, une partie importante de la mission consistera à contribuer à explorer, à réaliser des benchmarks et à industrialiser les manières de faire.\nSur cette mission, les principales compétences attendues sont :\n- Hard Skills : GCP, Big Query, GCS, Python, SQL, Generative AI et plus généralement les LLM, Bases de données (SQL, No SQL, bases d'embedding), Devops, Github\n- Soft Skills : ouverture d'esprit, capacité à apprendre, capacité à industrialiser\nEnfin, des compétences \"basiques\" de développement Front (préférence pour Vue JS ou Svelte ou Angular) sont non obligatoires, mais constituent des atouts appréciés.\nProfil candidat:\nPROFIL EXPERT\nUn Machine Learning (ML) Engineer est une personne dans le domaine de l'informatique qui se concentre sur la recherche, la construction et la conception de systèmes d'intelligence artificielle (IA) autogérés pour automatiser les modèles prédictifs. Les ingénieurs en apprentissage automatique conçoivent et créent les algorithmes d'IA capables d'apprendre et de faire des prédictions qui définissent l'apprentissage automatique.\nSES MISSIONS\nL'ingénieur ML aura en charge de :\n- Collaborer étroitement avec les data scientists pour identifier les opportunités d'impact business, exploiter les données pour quantifier les résultats et participer à la planification de la stratégie et de la feuille de route de ML pour l'équipe\n- Contribuer à la production et l'industrialisation des systèmes innovants d'apprentissage automatique de bout en bout\n- Créer des systèmes intelligents de surveillance et d'observabilité en temps réel de la ML et des données\n- Contribuer au partage des bonnes pratiques sur les outils ML afin d'améliorer la productivité et la qualité des résultats pour les ingénieurs et les scientifiques de données ML dans toute l'entreprise\n- Coacher, faire du mentorat et recruter d'autres membres pour aider à accroître l'efficacité et la croissance de l'équipe"
+}, {
+    "source": "France Travail",
+    "company_data": {
+        "sector": null,
+        "company_size": null,
+        "adress": "VILLENEUVE D ASCQ 59",
+        "average_age_of_employees": null,
+        "turnover_in_millions": null,
+        "proportion_female": null,
+        "proportion_male": null
+    },
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/6419853",
+    "skills": {
+        "ProgLanguage": [
+            "Python",
+            "R"
+        ],
+        "DataBase": [
+            "SQL"
+        ],
+        "DataAnalytics": [
+            "R"
+        ],
+        "BigData": null,
+        "MachingLearning": null,
+        "DataSerialization": null,
+        "DataVisualization": null,
+        "Statistics": null,
+        "CloudComputing": null,
+        "DevTools": [
+            "Git"
+        ],
+        "Os": null,
+        "DBMS": [
+            "Big Query"
+        ],
+        "SoftBigDataProcessing": null,
+        "Automation": null,
+        "InfrastructureAsCode": null,
+        "NetworkSecurty": null,
+        "Virtualisation": null,
+        "Containers": null,
+        "Collaboration": null,
+        "Other": [
+            "DevOps",
+            "Machine Learning"
+        ],
+        "FrSoftSkills": null,
+        "EnSoftSkils": null
+    },
+    "contract_type": "Profession",
+    "salary": null,
+    "company": null,
+    "location": "VILLENEUVE D ASCQ 59",
+    "remote": null,
+    "experience": "Débutant accepté",
+    "education_level": null,
+    "publication_date": "Publié il y a 8 jours",
+    "job_title": "Machine Learning Engineer (H/F) (IT) / Freelance",
+    "raw_description": "Espace-Freelance, réseau de consultants indépendants, recherche pour l?un de ses clients directs : Un Machine Learning Engineer (H/F)\nVotre mission :\nAfin d'accompagner la montée en puissance de la Generative AI, notre client recherche un LLMOps qui aura pour missions de :\n- Mettre en production des LLM, sous forme d'API ou sous forme de produits complets, embarquant leur Frontend\n- Automatiser ces mises en production\nLes processus et outils relatifs à la Generative AI n'étant pas encore industriels, une partie importante de la mission consistera à contribuer à explorer, à réaliser des benchmarks et à industrialiser les manières de faire.\nProfil candidat:\nVotre profil :\nVous justifierez d'une expérience significative sur une mission similaire.\nLes compétences attendues sont les suivantes:\n- Hard Skills : GCP, Big Query, GCS, Python, SQL, Generative AI et plus généralement les LLM, Bases de données (SQL, No SQL, bases d'embedding), Devops, Github\n- Soft Skills : ouverture d'esprit, capacité à apprendre, capacité à industrialiser\nEnfin, des compétences \"basiques\" de développement Front (préférence pour Vue JS ou Svelte ou Angular) sont non obligatoires, mais constituent des atouts appréciés."
+}, {
+    "source": "France Travail",
+    "company_data": {
+        "sector": null,
+        "company_size": null,
+        "adress": "LILLE 59",
+        "average_age_of_employees": null,
+        "turnover_in_millions": null,
+        "proportion_female": null,
+        "proportion_male": null
+    },
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/6419757",
+    "skills": {
+        "ProgLanguage": [
+            "Python",
+            "R"
+        ],
+        "DataBase": [
+            "SQL"
+        ],
+        "DataAnalytics": [
+            "R"
+        ],
+        "BigData": null,
+        "MachingLearning": null,
+        "DataSerialization": null,
+        "DataVisualization": null,
+        "Statistics": null,
+        "CloudComputing": null,
+        "DevTools": [
+            "Git"
+        ],
+        "Os": null,
+        "DBMS": [
+            "BigQuery"
+        ],
+        "SoftBigDataProcessing": null,
+        "Automation": null,
+        "InfrastructureAsCode": null,
+        "NetworkSecurty": null,
+        "Virtualisation": null,
+        "Containers": null,
+        "Collaboration": null,
+        "Other": [
+            "ML",
+            "Machine Learning"
+        ],
+        "FrSoftSkills": null,
+        "EnSoftSkils": null
+    },
+    "contract_type": "Profession",
+    "salary": null,
+    "company": null,
+    "location": "LILLE 59",
+    "remote": null,
+    "experience": "Débutant accepté",
+    "education_level": null,
+    "publication_date": "Publié il y a 8 jours",
+    "job_title": "Machine Learning Engineer (IT) / Freelance (H/F)",
+    "raw_description": "La mission consiste à :\n- Identifier les données pour quntifier les résultats et participer à la planification de la stratégie et la feuille de route de ML pour l'équipe\n- Contribuer à la production et l'industrialisation des systèmes innovants d'apprentissage automatique de bout en bout\n- Créer des systèmes intelligents de surveillance et d'observabilité en temps réel de la ML et des données\n- Contribuer au partage des bonnes pratiques sur les outils ML afin d'améliorer la productivité et la qualité des résultats pour les ingénieurs et les scientifiques de données ML dans toute l'entreprise\n- Mission sur la métropole lilloise avec 2/3 jours de télétravail\n \nCompétences demandées :\n- Formation supérieure en école d?ingénieur, école d?informatique ou Master spécialisé dans la Data Science\n- GCP, BigQuery, SQL, Python, Generative AI, Bases de données, GIT\n- Excellents savoir-être : ouverture d'esprit, capacité à apprendre, capacité à industrialiser \n- Compétences basiques de développement Front un +\n- Anglais\nProfil candidat:\nVous êtes consultant Freelance,\nNous recherchons actuellement pour l?un de nos clients Grand Compte basé sur Lille, un(e) Machine Learning Engineer confirmé(e), pour accompagner le client dans sa montée en puissance de la Generative AI."
+}, {
+    "source": "France Travail",
+    "company_data": {
+        "sector": "Autres assurances",
+        "company_size": "Notre raison d'être chez AXA ? Chaque jour, nous agissons ensemble pour le progrès humain en protégeant ce qui compte. Une mission qui donne le sourire et envie de se lever le matin !  \nUn des leaders mondiaux de l'assurance dans la protection des biens, des personnes et des actifs, AXA c'est 145 000 collaborateurs et contributeurs qui s'engagent au quotidien pour nos clients, c'est 51 pays dans lesquels nous distribuons nos produits et services et plus de 90 millions de client qui n...",
+        "adress": "92",
+        "average_age_of_employees": null,
+        "turnover_in_millions": null,
+        "proportion_female": null,
+        "proportion_male": null
+    },
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/5589717",
+    "skills": {
+        "ProgLanguage": [
+            "Python",
+            "R"
+        ],
+        "DataBase": null,
+        "DataAnalytics": [
+            "R"
+        ],
+        "BigData": [
+            "Spark"
+        ],
+        "MachingLearning": null,
+        "DataSerialization": null,
+        "DataVisualization": null,
+        "Statistics": null,
+        "CloudComputing": [
+            "Azure"
+        ],
+        "DevTools": [
+            "Git"
+        ],
+        "Os": null,
+        "DBMS": null,
+        "SoftBigDataProcessing": null,
+        "Automation": [
+            "Kubernetes"
+        ],
+        "InfrastructureAsCode": null,
+        "NetworkSecurty": null,
+        "Virtualisation": null,
+        "Containers": [
+            "Kubernetes"
+        ],
+        "Collaboration": null,
+        "Other": [
+            "DevOps",
+            "Big Data",
+            "ML",
+            "Machine Learning",
+            "Cloud"
+        ],
+        "FrSoftSkills": null,
+        "EnSoftSkils": null
+    },
+    "contract_type": "CDI",
+    "salary": null,
+    "company": "AXA EN FRANCE ",
+    "location": "92",
+    "remote": null,
+    "experience": "Expérience exigée",
+    "education_level": null,
+    "publication_date": "Publié il y a 20 jours",
+    "job_title": "Machine Learning Engineer H/F",
+    "raw_description": "POSTE : Machine Learning Engineer H/F\nDESCRIPTION : En tant que Machine Learning Engineer (H/F), vous intégrerez la Guilde Data dans une équipe d'une quinzaine de personnes. Vous serez intégré au sein d'une squad agile animée par un Product Owner avec des data scientists, data engineers, tech lead, test engineers.\n\nEn lien avec la Data Office vous avez comme objectif de développer des projets qui s'appuient sur de l'Intelligence Artificielle pour répondre à nos besoins.\n\nVous aurez la charge d'accompagner la squad dans le cadrage des projets et dans la mise en place des bonnes pratiques de qualité logicielle et d'architecture, de contribuer à la mise en production automatisée des modèles de Machine Learning en vous assurant du maintien de leur fonctionnement et d'être garant de l'application des pratiques ML OPS.\n\nVous aurez la possibilité de participer à l'amélioration des pratiques ML OPS, de participer à la veille technique au sein de communautés de pratiques (CoP) et de communiquer / participer à des Meetups et BBLs autours de sujet techniques.\nPROFIL : Vous avez une formation supérieure en informatique ou en Data Science avec des compétences fortes en développement logiciel. Vous avez des compétences relationnelles qui vous permettent de travailler dans une équipe pluridisciplinaire et d'interagir avec différentes parties prenantes d'un projet (Product Owner, Data Scientist, Architectes, etc.).\n\nVous maitrisez le langage Python, Git et avez des expériences significatives sur des projets Agile intégrant de l'Intelligence Artificielle.\n\nVous faites preuve d'une grande sensibilité pour la qualité de code et appliquez les pratiques du Software Craftsmanship dans votre workflow de développement (BDD/TDD/Clean Code/Code Review) et êtes familier avec les patterns d'architecture orienté microservices et Big Data.\n\nVous maitrisez des technologies parmi les suivantes : Kubernetes, Kafka, Spark / pySpark\n\net idéalement\n\nUne connaissance de la stack Cloud Azure (Azure DEVOPS, Azure ML, etc.)\n\nVous êtes passionné.e de technique et développez vos propres projets personnels.\n\nVous avez un Anglais courant"
+}, {
+    "source": "France Travail",
+    "company_data": {
+        "sector": "Conseil en systèmes et logiciels informatiques",
+        "company_size": "A la fois Cabinet de recrutement & Société de conseil, Innova Solutions a une couverture nationale. Nous sommes basés à Sophia Antipolis, au coeur de la French Riviera, nous accompagnons nos clients dans toute la France et offrons à nos candidats des postes dans les secteurs de l'IT, des Télécoms et de l'Engineering.\n\nNos clients ont accès à plus de 85 bureaux à travers le monde :\n-  Aux États-Unis\n-  En Europe (Belgique et Nice)\n-  Au Royaume-Uni\n-  ...",
+        "adress": "75",
+        "average_age_of_employees": null,
+        "turnover_in_millions": null,
+        "proportion_female": null,
+        "proportion_male": null
+    },
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/5425912",
+    "skills": {
+        "ProgLanguage": [
+            "Python",
+            "Java",
+            "Scala",
+            "R"
+        ],
+        "DataBase": [
+            "SQL"
+        ],
+        "DataAnalytics": [
+            "R"
+        ],
+        "BigData": null,
+        "MachingLearning": null,
+        "DataSerialization": null,
+        "DataVisualization": [
+            "Tableau"
+        ],
+        "Statistics": null,
+        "CloudComputing": [
+            "AWS"
+        ],
+        "DevTools": null,
+        "Os": null,
+        "DBMS": null,
+        "SoftBigDataProcessing": null,
+        "Automation": null,
+        "InfrastructureAsCode": null,
+        "NetworkSecurty": null,
+        "Virtualisation": null,
+        "Containers": null,
+        "Collaboration": null,
+        "Other": [
+            "ML",
+            "Machine Learning",
+            "Cloud"
+        ],
+        "FrSoftSkills": [
+            "Leadership",
+            "Collaboration",
+            "Organisation"
+        ],
+        "EnSoftSkils": [
+            "Leadership",
+            "Collaboration"
+        ]
+    },
+    "contract_type": "CDI",
+    "salary": "Salaire brut : Annuel de 55000,00 Euros à 80000,00 Euros",
+    "company": "INNOVA SOLUTIONS ",
+    "location": "75",
+    "remote": null,
+    "experience": "Expérience exigée",
+    "education_level": null,
+    "publication_date": "Publié il y a 23 jours",
+    "job_title": "Machine Learning Engineer - Ops H/F",
+    "raw_description": "POSTE : Machine Learning Engineer - Ops H/F\nDESCRIPTION : En qualité de cabinet de recrutement, nous accompagnons un client final dans le recrutement d'un Machine Learning Engineer - OPS sur la région parisienne. Le télétravail est à hauteur de 3 jours par semaine !\n\nMissions :\n-  Travailler en partenariat avec les équipes techniques de l'ensemble de l'entreprise pour résoudre les problèmes.\n-  Faire preuve d'un mentorat actif et d'une identification des talents en devenir.\n-  Développer une vision sur le long terme.\n-  Démontrer un impact positif et un leadership dans l'ensemble de l'organisation.\n-  Agir en tant que spécialiste dans l'élaboration de modèles de solutions de conception pour tout cas d'utilisation.\n-  Prendre en compte les besoins de l'entreprise et de l'application et les exposer aux équipes et partenaires intéressés.\n-  Démontrer une maîtrise de la conception de logiciels, façonne des méthodologies de codage qui sont évolutives, résilientes et stables.\n-  Se plonger dans le code de n'importe quel composant et apporter sa contribution.\n-  Maîtriser des pratiques professionnelles d'ingénierie logicielle pour l'ensemble du cycle de développement des logiciels, y compris les normes de codage, les revues de code, la gestion du contrôle de la source, les processus de construction, les tests et les opérations.\n-  Diriger la collaboration avec des partenaires clés et apporter une expertise en la matière pour développer des solutions uniques à des problèmes complexes.\n-  Avoir une bonne connaissance de l'infrastructure (AWS)\n-  Apporter une certaine expérience avec les données (BI, Reporting, Analytics, Machine Learning et ainsi de suite) serait un plus.\nPROFIL : -   Au moins 7 ans d'expérience professionnelle en modélisation de données, schémas de conception et modèles d'accès aux données (notamment API, stream, data lake) et AWS.\n-   Expérience réussie sur différentes technologies cloud et la construction de produits de données pour soutenir les applications DS, ML et Deep learning en batch et en temps réel.\n-   Savoir concevoir, communiquer et exécuter de manière autonome l'architecture de produits de données modérément sophistiqués.\n-   Bonne compréhension des outils et des technologies de test et de monitoring.\n-   Guider les autres dans la conception de logiciels facilement testables et observables.\n-   Un background en développement Java est indispensable pour ce poste.\n-   Maîtriser le développement de plateformes utilisant Java/Python/Scala et SQL.\n-   Avoir une certaine expérience sur Amazon Sagemaker ou équivalent, du feature store, des tableaux de bord, etc."
+}, {
+    "source": "France Travail",
+    "company_data": {
+        "sector": "Formation continue d'adultes",
+        "company_size": "DSTI - School of Engineering s'est donnée pour mission première de former des spécialistes en Informatique, Cloud et Intelligence Artificielle.\n\nDepuis 2015, DSTI a formé + de 1000 étudiants sur les métiers de la donnée (Data Analyst/Data Engineer/Data Scientist), en offrant les programmes les plus intensifs du marché et les plus reconnus sur le marché de l'emploi.\n\nPres de 2/3 des candidats ont trouvé une alternance grâce au réseau de l'école et de nos parte...",
+        "adress": "33",
+        "average_age_of_employees": null,
+        "turnover_in_millions": null,
+        "proportion_female": null,
+        "proportion_male": null
+    },
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/4968778",
+    "skills": {
+        "ProgLanguage": [
+            "R",
+            "Go"
+        ],
+        "DataBase": null,
+        "DataAnalytics": [
+            "R"
+        ],
+        "BigData": null,
+        "MachingLearning": null,
+        "DataSerialization": null,
+        "DataVisualization": [
+            "Tableau"
+        ],
+        "Statistics": null,
+        "CloudComputing": null,
+        "DevTools": null,
+        "Os": null,
+        "DBMS": null,
+        "SoftBigDataProcessing": null,
+        "Automation": null,
+        "InfrastructureAsCode": null,
+        "NetworkSecurty": null,
+        "Virtualisation": null,
+        "Containers": null,
+        "Collaboration": null,
+        "Other": [
+            "Big Data",
+            "Machine Learning"
+        ],
+        "FrSoftSkills": null,
+        "EnSoftSkils": null
+    },
+    "contract_type": "CDD",
+    "salary": null,
+    "company": "DATA SCIENCETECH INSTITUTE ",
+    "location": "33",
+    "remote": null,
+    "experience": "Expérience exigée",
+    "education_level": null,
+    "publication_date": "Publié il y a 30 jours",
+    "job_title": "Machine Learning Engineer en Alternance H/F",
+    "raw_description": "POSTE : Machine Learning Engineer en Alternance H/F\nDESCRIPTION : L'alternance à DSTI est une passerelle vers l'excellence, offrant une formation de haut niveau sans coût pour l'étudiant, et mariant habilement pratique et théorie pour une immersion réussie dans le monde professionnel.\n\n-  Description du poste :\n\nNous sommes à la recherche d'ALTERNANT.ES (H/F) qui souhaitent intégrer nos Applied MSc pour rejoindre l'une de nos 300 entreprises partenaires dans le secteur industriel et tertiaire, pour la rentrée de Mars 2024 et Septembre 2024.\n\nVoici quelques exemples de missions proposées en entreprise :\n\n-  Alimentation de systèmes de Data Warehouse.\n-  Développement de bases de données multidimensionnelles.\n-  Industrialisation d'algorithmes d'IA\n-  Pipelines de données : développement de scripts ETL (Extract-transform-load) dans des environnements Big Data.\n-  Identifier les problématiques business et proposer des pistes de modélisation.\n-  Proposer des solutions d'extraction et d'exploitation des données.\n-  Créer des tableaux de bords (Data Visualisation)\n-  Exploiter des modèles de données (Data model), gérer et alimenter des bases de données.\n\nLa formation est entièrement prise en charge par l'entreprise d'accueil dans le cadre d'un contrat d'apprentissage ou contrat de professionnalisation. Vous serez rémunéré à un pourcentage du barème légal en fonction de votre âge.\n\nAprès une expérience d'un an en entreprise, vous obtiendrez le titre « Expert en Science des Données », titre enregistré au RNCP de niveau 7 (niveau Master).\nPROFIL : Vous êtes titulaire d'un Bac +4/Bac +5  Bac +3 possible pour le programme en Data Analytics) ou de plusieurs années d'expériences professionnelles dans le domaine visé ? Vous recherchez une spécialisation reconnue avant d'entrer sur le marché du travail ?\n\nLa sélection s'appuie sur plusieurs éléments : Analyse du dossier, vérification des prérequis, examen en ligne, entretien et commission de sélection."
+}, {
+    "source": "France Travail",
+    "company_data": {
+        "sector": "Formation continue d'adultes",
+        "company_size": null,
+        "adress": "69",
+        "average_age_of_employees": null,
+        "turnover_in_millions": null,
+        "proportion_female": null,
+        "proportion_male": null
+    },
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/4968225",
+    "skills": {
+        "ProgLanguage": [
+            "R",
+            "Go"
+        ],
+        "DataBase": null,
+        "DataAnalytics": [
+            "R"
+        ],
+        "BigData": null,
+        "MachingLearning": null,
+        "DataSerialization": null,
+        "DataVisualization": [
+            "Tableau"
+        ],
+        "Statistics": null,
+        "CloudComputing": null,
+        "DevTools": null,
+        "Os": null,
+        "DBMS": null,
+        "SoftBigDataProcessing": null,
+        "Automation": null,
+        "InfrastructureAsCode": null,
+        "NetworkSecurty": null,
+        "Virtualisation": null,
+        "Containers": null,
+        "Collaboration": null,
+        "Other": [
+            "Big Data",
+            "Machine Learning"
+        ],
+        "FrSoftSkills": null,
+        "EnSoftSkils": null
+    },
+    "contract_type": "CDD",
+    "salary": null,
+    "company": "DATA SCIENCETECH INSTITUTE ",
+    "location": "69",
+    "remote": null,
+    "experience": "Débutant accepté",
+    "education_level": null,
+    "publication_date": "Publié il y a 30 jours",
+    "job_title": "Machine Learning Engineer en Alternance H/F",
+    "raw_description": "POSTE : Machine Learning Engineer en Alternance H/F\nDESCRIPTION : Data ScienceTech Institute (DSTI), 1ère école supérieure d'application à la Data Science, l'IA et du Big Data en France, lance le parcours en alternance à partir de la prochaine rentrée prévue en Septembre 2023 pour intégrer les formations Applied MSc in Data Analytics, Applied MSc in Data Science and Artificial Intelligence ou Applied MSc in Data Engineering for Artificial Intelligence, enregistrées au RNCP de niveau 7 (équivalent Bac +5). Deux modes d'études possibles : en présentiel sur nos campus de Sophia-Antipolis et Paris, ou en ligne sur tout le territoire national.\n-  Description du poste :\n\nNous sommes à la recherche d'ALTERNANT.ES (H/F) qui souhaitent intégrer nos formation pour rejoindre l'une de nos 300 entreprises partenaires dans le secteur industriel et tertiaire, pour la rentrée de Septembre 2023.\n\nNous vous proposons un programme d'intégration et d'apprentissage sur un métier d'avenir qui connaît déjà une une demande croissante. Vous alternerez entre périodes en entreprise et périodes en formation avec un suivi pédagogique et un accompagnement personnalisé.\n\nVoici quelques exemples de missions proposées en entreprise :\n-  Alimentation de systèmes de Data Warehouse.\n-  Développement de bases de données multidimensionnelles.\n-  Industrialisation d'algorithmes d'IA\n-  Pipelines de données : développement de scripts ETL (Extract-transform-load) dans des environnements Big Data.\n-  Identifier les problématiques business et proposer des pistes de modélisation.\n-  Proposer des solutions d'extraction et d'exploitation des données.\n-  Créer des tableaux de bords (Data Visualisation)\n-  Exploiter des modèles de données (Data model), gérer et alimenter des bases de données.\n\nLa formation est entièrement prise en charge par l'entreprise d'accueil dans le cadre d'un contrat d'apprentissage ou contrat de professionnalisation. Vous serez rémunéré à un pourcentage du barème légal en fonction de votre âge.\n\nAprès une expérience d'un an en entreprise, vous obtiendrez le titre « Expert en Science des Données », titre enregistré au RNCP de niveau 7 (niveau Master).\n\nVous êtes titulaire d'un Bac +4/Bac +5 (Bac +3 possible pour le programme en Data Analytics) ou de plusieurs années d'expériences professionnelles dans le domaine visé ? Vous recherchez une spécialisation reconnue avant d'entrer sur le marché du travail ?\n\nLa sélection s'appuie sur plusieurs éléments : Analyse du dossier, vérification des prérequis, examen en ligne, entretien et commission de sélection.\nPROFIL :"
+}, {
+    "source": "France Travail",
+    "company_data": {
+        "sector": "Autres assurances",
+        "company_size": "Notre raison d'être chez AXA ? Chaque jour, nous agissons ensemble pour le progrès humain en protégeant ce qui compte. Une mission qui donne le sourire et envie de se lever le matin !  \nUn des leaders mondiaux de l'assurance dans la protection des biens, des personnes et des actifs, AXA c'est 145 000 collaborateurs et contributeurs qui s'engagent au quotidien pour nos clients, c'est 51 pays dans lesquels nous distribuons nos produits et services et plus de 90 millions de client qui n...",
+        "adress": "59",
+        "average_age_of_employees": null,
+        "turnover_in_millions": null,
+        "proportion_female": null,
+        "proportion_male": null
+    },
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/4967975",
+    "skills": {
+        "ProgLanguage": [
+            "Python",
+            "R"
+        ],
+        "DataBase": null,
+        "DataAnalytics": [
+            "R"
+        ],
+        "BigData": [
+            "Spark"
+        ],
+        "MachingLearning": null,
+        "DataSerialization": null,
+        "DataVisualization": null,
+        "Statistics": null,
+        "CloudComputing": [
+            "Azure"
+        ],
+        "DevTools": [
+            "Git"
+        ],
+        "Os": null,
+        "DBMS": null,
+        "SoftBigDataProcessing": null,
+        "Automation": [
+            "Kubernetes"
+        ],
+        "InfrastructureAsCode": null,
+        "NetworkSecurty": null,
+        "Virtualisation": null,
+        "Containers": [
+            "Kubernetes"
+        ],
+        "Collaboration": null,
+        "Other": [
+            "DevOps",
+            "Big Data",
+            "ML",
+            "Machine Learning",
+            "Cloud"
+        ],
+        "FrSoftSkills": null,
+        "EnSoftSkils": null
+    },
+    "contract_type": "CDI",
+    "salary": null,
+    "company": "AXA EN FRANCE ",
+    "location": "59",
+    "remote": null,
+    "experience": "Expérience exigée",
+    "education_level": null,
+    "publication_date": "Publié il y a 30 jours",
+    "job_title": "Machine Learning Engineer H/F",
+    "raw_description": "POSTE : Machine Learning Engineer H/F\nDESCRIPTION : En tant que Machine Learning Engineer, vous intégrerez la Guilde Data dans une équipe d'une quinzaine de personnes. Vous serez intégré au sein d'une squad agile animée par un Product Owner avec des data scientists, data engineers, tech lead, test engineers.\n\nEn lien avec la Data Office vous avez comme objectif de développer des projets qui s'appuient sur de l'Intelligence Artificielle pour répondre à nos besoins.\n\nVous aurez la charge d'accompagner la squad dans le cadrage des projets et dans la mise en place des bonnes pratiques de qualité logicielle et d'architecture, de contribuer à la mise en production automatisée des modèles de Machine Learning en vous assurant du maintien de leur fonctionnement et d'être garant de l'application des pratiques ML OPS.\n\nVous aurez la possibilité de participer à l'amélioration des pratiques ML OPS, de participer à la veille technique au sein de communautés de pratiques (CoP) et de communiquer / participer à des Meetups et BBLs autours de sujet techniques.\nPROFIL : Vous avez une formation supérieure en informatique ou en Data Science avec des compétences fortes en développement logiciel. Vous avez des compétences relationnelles qui vous permettent de travailler dans une équipe pluridisciplinaire et d'interagir avec différentes parties prenantes d'un projet (Product Owner, Data Scientist, Architectes, etc.).\n\nVous maitrisez le langage Python, Git et avez des expériences significatives sur des projets Agile intégrant de l'Intelligence Artificielle.\n\nVous faites preuve d'une grande sensibilité pour la qualité de code et appliquez les pratiques du Software Craftsmanship dans votre workflow de développement (BDD/TDD/Clean Code/Code Review) et êtes familier avec les patterns d'architecture orienté microservices et Big Data.\n\nVous maitrisez des technologies parmi les suivantes : Kubernetes, Kafka, Spark / pySpark\n\net idéalement\n\nUne connaissance de la stack Cloud Azure (Azure DEVOPS, Azure ML, etc.)\n\nVous êtes passionné.e de technique et développez vos propres projets personnels.\n\nVous avez un Anglais courant"
+}, {
+    "source": "France Travail",
+    "company_data": {
+        "sector": null,
+        "company_size": null,
+        "adress": null,
+        "average_age_of_employees": null,
+        "turnover_in_millions": null,
+        "proportion_female": null,
+        "proportion_male": null
+    },
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2920625",
+    "skills": {
+        "ProgLanguage": [
+            "R"
+        ],
+        "DataBase": null,
+        "DataAnalytics": [
+            "R"
+        ],
+        "BigData": null,
+        "MachingLearning": null,
+        "DataSerialization": null,
+        "DataVisualization": null,
+        "Statistics": null,
+        "CloudComputing": null,
+        "DevTools": [
+            "Git"
+        ],
+        "Os": null,
+        "DBMS": null,
+        "SoftBigDataProcessing": null,
+        "Automation": null,
+        "InfrastructureAsCode": null,
+        "NetworkSecurty": null,
+        "Virtualisation": null,
+        "Containers": null,
+        "Collaboration": null,
+        "Other": [
+            "Machine Learning",
+            "Cloud"
+        ],
+        "FrSoftSkills": [
+            "Collaboration"
+        ],
+        "EnSoftSkils": [
+            "Collaboration"
+        ]
+    },
+    "contract_type": "CDI",
+    "salary": null,
+    "company": null,
+    "location": null,
+    "remote": null,
+    "experience": "Débutant accepté",
+    "education_level": null,
+    "publication_date": "Publié il y a plus de 30 jours",
+    "job_title": "Machine learning ops engineer f/h (H/F)",
+    "raw_description": "QUI SOMMES-NOUS ?Thales Digital Factory s'inscrit dans le programme de transformation de Thales qui a pour ambition de devenir un acteur incontournable et exemplaire du digital, et ce dans l'ensemble de ses marchés.  Notre mission consiste à accélérer la transition numérique du Groupe Thales en s'aventurant dans de nouveaux modes de travail et de décision. Notre stratégie s'articule autour de 6 valeurs : Responsabilisation, Orientée sur la donnée, Centrée sur l'utilisateur, Collaboration, Amélioration continue et Culture de l'échec. Nos bureaux se répartissent de Paris à Singapour en passant par Montréal au coeur d'écosystèmes innovants. Thales Digital Factory se distingue également grâce à son incubateur qui accompagne des start-ups internes et externes, ses plateformes digitales, son centre d'excellence Cloud et le développement de MVP, porteurs d'innovation pour l'offre digitale du Groupe et de nos clients.Le Data Studio : L'équipe du Data Studio contribue projet après projet à la transformation Data & IA de tout Thales.En relation avec toutes les entités business et fonctions de Thales, cette équipe développe et industrialise des solutions embarquant du machine learning, pour tout type de cas d'usage, d'utilisateurs et d'environnements technologiques. L'équipe intervient pendant tout le cycle de vie du projet, incluant également la qualification des opportunités à travers l'axe technique et le potentiel de valeur associé."
+}, {
+    "source": "France Travail",
+    "company_data": {
+        "sector": "Conseil pour les affaires et autres conseils de gestion",
+        "company_size": "Twenty One Talents",
+        "adress": "13",
+        "average_age_of_employees": null,
+        "turnover_in_millions": null,
+        "proportion_female": null,
+        "proportion_male": null
+    },
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2539598",
+    "skills": {
+        "ProgLanguage": [
+            "Python",
+            "R",
+            "Go"
+        ],
+        "DataBase": [
+            "SQL"
+        ],
+        "DataAnalytics": [
+            "Pandas",
+            "R"
+        ],
+        "BigData": null,
+        "MachingLearning": [
+            "TensorFlow",
+            "PyTorch",
+            "XGBoost"
+        ],
+        "DataSerialization": null,
+        "DataVisualization": null,
+        "Statistics": null,
+        "CloudComputing": [
+            "AWS",
+            "Azure",
+            "Google Cloud Platform"
+        ],
+        "DevTools": [
+            "Git",
+            "Docker"
+        ],
+        "Os": null,
+        "DBMS": [
+            "PostgreSQL",
+            "BigQuery"
+        ],
+        "SoftBigDataProcessing": null,
+        "Automation": [
+            "Kubernetes"
+        ],
+        "InfrastructureAsCode": null,
+        "NetworkSecurty": null,
+        "Virtualisation": null,
+        "Containers": [
+            "Docker",
+            "Kubernetes"
+        ],
+        "Collaboration": null,
+        "Other": [
+            "ML",
+            "Machine Learning",
+            "Cloud",
+            "CI/CD"
+        ],
+        "FrSoftSkills": [
+            "Collaboration"
+        ],
+        "EnSoftSkils": [
+            "Collaboration",
+            "Initiative"
+        ]
+    },
+    "contract_type": "CDI",
+    "salary": "Salaire brut : Annuel de 70000,00 Euros à 80000,00 Euros",
+    "company": "TWENTY ONE TALENTS ",
+    "location": "13",
+    "remote": null,
+    "experience": "Expérience exigée",
+    "education_level": null,
+    "publication_date": "Publié il y a plus de 30 jours",
+    "job_title": "Lead Machine Learning Engineer Datascientist d'Exp Mini H/F",
+    "raw_description": "POSTE : Lead Machine Learning Engineer Datascientist d'Exp Mini H/F\nDESCRIPTION : L'entreprise est une start-up innovante qui occupe la 21ème place sur la prestigieuse liste des 1000 entreprises européennes à la croissance la plus rapide. Elle se positionne également comme la première entreprise française dans ce classement. Rejoindre l'entreprise signifie participer à plusieurs aspects :\n\nUn challenge collectif : Vous accompagnerez la croissance d'une start-up 100% digitale, ultra-dynamique, qui confirme ses positions chaque année. Elle opère sur un marché à fort potentiel : l'intérim, un secteur représentant 25 milliards d'Euros en France. Avec plus de 5 ans d'expérience, 17 millions d'Euros de fonds levés depuis sa création en 2015 et un chiffre d'affaires qui double chaque année (estimé à 100 millions d'Euros en 2021), l'entreprise est en pleine expansion.\n\nUne aventure humaine : Au sein d'une équipe audacieuse, enthousiaste et positive, vous pourrez révéler votre personnalité. L'entreprise compte déjà plus de 110 personnes passionnées, réparties entre Aix-en-Provence, Paris, Bordeaux, Lyon et même en remote !\n\nUne dynamique commerciale : l'entreprise travaille avec plus de 750 entreprises clientes, dont des grands groupes.\n\nUne mission résolument utile : En nous rejoignant, vous contribuerez au retour à l'emploi et donnerez une chance à ceux qui sont motivés ! Plus de 320 000 intérimaires bénéficient des services chez nous\n\nVos missions :\n-  Vous travaillez en collaboration avec le Produit dans l'identification de sujets sur lesquels la data science peut avoir de l'impact au service du business et de la stratégie.\n-  Vous modélisez les problèmes métiers puis construisez avec pragmatisme, déployez et maintenez les produits data science de bout en bout : scoring, matching, recommandation, sequence modelling, NLP, LLM.\n-  Vous améliorez continuellement les produits data science existants comme notre algorithme de matching au service des recruteurs et des intérimaires ainsi que notre intelligence conversationnelle.\n-  Vous mesurez l'impact de vos travaux et vous assurez la pérennité de la performance des modèles mis en production.\n-  Vous améliorez continuellement l'efficacité et l'excellence de l'équipe de datascience. Vous êtes un élément moteur dans la vie de l'équipe : daily, upskilling, pair coding, partage de connaissance. Vous êtes un mentor et réalisez le coaching technique de 3 data scientists et les aider à monter en compétence techniquement et à gagner en ownership sur les projets data que vous avez initiés.\nPROFIL : -   Vous avez une expérience professionnelle d'au moins 5 ans en tant que ML Engineer-Data Scientist. Vous avez un cursus Bac +5 ou ingénieur dans un de ces domaines : informatique, stats, mathématiques et/ou data science.\n-   Vous avez une excellente maîtrise de Python et SQL et une expérience professionnelle sur des projets NLP.\n-   Vous êtes familier avec le déploiement de solutions Data Science dans des infrastructures Cloud (type GCP, AWS, Azure ou autre). Vous savez travailler avec Gitlab, et une maîtrise de la CI/CD est un plus.\n-   Vous êtes de nature entreprenante, vous savez porter des initiatives et être un réel moteur de la stratégie data.\n-   Vous êtes capable de vulgariser des concepts complexes à des utilisateurs et de les expliquer avec humilité.\n\nCompétences techniques\n\nQuelle est notre stack technique DS ?\n-   Language : Python (pandas, pytest, fast-api, pandera)\n-   Infra / Cloud : Google Cloud Platform\n-   Models : classification / regression with sklearn xgboost, transformers avec tensorflow / pytorch / sentence-transformers\n-   Storage : PostgreSQL, BigQuery, Cloud Storage, InfluxDB, PubSub\n-   ETL pipelines : DBT\n-   Deploy : Docker, Kubernetes, Vertex Pipelines (Kubeflow), Cloud Run\n-   CICD : Gitlab, ArgoCD\n-   Libraries : Poetry (ex : custom feature store)\n-   Monitoring : Grafana, APM\n\nNote importante aux candidats : Veuillez ne postuler que si vous remplissez toutes les qualifications essentielles et les compétences requises mentionnées dans cette annonce. Cela nous permettra de traiter les candidatures plus efficacement et de garantir que nous consacrons notre temps et notre attention aux candidats qui correspondent au profil recherché."
+}, {
+    "source": "France Travail",
+    "company_data": {
+        "sector": "Conseil en systèmes et logiciels informatiques",
+        "company_size": "Adherence Consulting : Votre partenaire IT de choix !\n\nImplantés à Paris, Lille et Marseille, nous sommes au coeur de l'innovation technologique et organisationnelle.\n\nNotre mission ? Booster votre performance et vous accompagner dans chaque étape de votre transformation digitale.\n\nSi vous êtes prêt(e) pour une carrière qui dépasse vos attentes, c'est le moment !\n\nhttps://www.adherence-consulting.fr/",
+        "adress": "59",
+        "average_age_of_employees": null,
+        "turnover_in_millions": null,
+        "proportion_female": null,
+        "proportion_male": null
+    },
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/0495442",
+    "skills": {
+        "ProgLanguage": [
+            "Python",
+            "R",
+            "Go"
+        ],
+        "DataBase": [
+            "SQL"
+        ],
+        "DataAnalytics": [
+            "R"
+        ],
+        "BigData": null,
+        "MachingLearning": [
+            "TensorFlow"
+        ],
+        "DataSerialization": null,
+        "DataVisualization": null,
+        "Statistics": null,
+        "CloudComputing": null,
+        "DevTools": [
+            "Git",
+            "Docker"
+        ],
+        "Os": null,
+        "DBMS": [
+            "Big Query"
+        ],
+        "SoftBigDataProcessing": null,
+        "Automation": null,
+        "InfrastructureAsCode": null,
+        "NetworkSecurty": null,
+        "Virtualisation": null,
+        "Containers": [
+            "Docker"
+        ],
+        "Collaboration": null,
+        "Other": [
+            "ML",
+            "Machine Learning",
+            "Cloud"
+        ],
+        "FrSoftSkills": null,
+        "EnSoftSkils": null
+    },
+    "contract_type": "CDI",
+    "salary": "Salaire brut : Annuel de 40000,00 Euros à 70000,00 Euros",
+    "company": "ADHERENCE CONSULTING ",
+    "location": "59",
+    "remote": null,
+    "experience": "Expérience exigée",
+    "education_level": null,
+    "publication_date": "Publié il y a plus de 30 jours",
+    "job_title": "Machine Learning Engineer H/F",
+    "raw_description": "POSTE : Machine Learning Engineer H/F\nDESCRIPTION : Nous recherchons un ML Engineer qui rejoindra l'équipe MLOPS. Les missions de cette équipe sont :\n-  D'accompagner les Data Scientists sur toutes les parties techniquement complexes de leur projet (mise en production, entraînement avec gros volumes de data)\n-  De mettre à disposition des Data Scientists tous les outils techniques permettant d'entraîner / réentraîner, de mettre en production des modèles de ML\n-  Le ML Engineer devra avoir des compétences en Data Science (ie. comprendre les algorithmes de ML \"connus\") et avoir une bonne maîtrise sur le build de pipeline ML.\n-  Il devra également avoir une expérience de mise en production / run de modèles de ML (expérience indispensable)\nPROFIL : En termes de technologies, l'écosystème est constitué de :\n-   Python (avec tensorflow) et SQL\n-   Big Query, GCS, Data Flow, Vertex AI\n-   Docker, Github, Github Actions\n-   Datadog\n-   MLOPS\n-   Data science\n-   Python\n-   Cloud"
+}, {
+    "source": "France Travail",
+    "company_data": {
+        "sector": "Conseil en systèmes et logiciels informatiques",
+        "company_size": "A la fois Cabinet de recrutement & Société de conseil, VOLT (Innova Solutions) a une couverture nationale. Nous sommes basés à Sophia Antipolis, au coeur de la French Riviera, nous accompagnons nos clients dans toute la France et offrons à nos candidats des postes dans les secteurs de l'IT, des Télécoms et de l'Engineering.\n\nNos clients ont accès à plus de 85 bureaux à travers le monde :\n-  Aux États-Unis\n-  En Europe (Belgique et Nice)\n-  Aux Royaume-Uni~...",
+        "adress": "92",
+        "average_age_of_employees": null,
+        "turnover_in_millions": null,
+        "proportion_female": null,
+        "proportion_male": null
+    },
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/0127730",
+    "skills": {
+        "ProgLanguage": [
+            "Python",
+            "Java",
+            "Scala",
+            "R"
+        ],
+        "DataBase": [
+            "SQL"
+        ],
+        "DataAnalytics": [
+            "R"
+        ],
+        "BigData": null,
+        "MachingLearning": null,
+        "DataSerialization": null,
+        "DataVisualization": [
+            "Tableau"
+        ],
+        "Statistics": null,
+        "CloudComputing": [
+            "AWS"
+        ],
+        "DevTools": null,
+        "Os": null,
+        "DBMS": null,
+        "SoftBigDataProcessing": null,
+        "Automation": null,
+        "InfrastructureAsCode": null,
+        "NetworkSecurty": null,
+        "Virtualisation": null,
+        "Containers": null,
+        "Collaboration": null,
+        "Other": [
+            "ML",
+            "Machine Learning",
+            "Cloud"
+        ],
+        "FrSoftSkills": [
+            "Leadership",
+            "Collaboration",
+            "Organisation"
+        ],
+        "EnSoftSkils": [
+            "Leadership",
+            "Collaboration"
+        ]
+    },
+    "contract_type": "CDI",
+    "salary": "Salaire brut : Annuel de 55000,00 Euros à 80000,00 Euros",
+    "company": "INNOVA SOLUTIONS ",
+    "location": "92",
+    "remote": null,
+    "experience": "Expérience exigée",
+    "education_level": null,
+    "publication_date": "Publié il y a plus de 30 jours",
+    "job_title": "Senior Machine Learning Engineer - Ops Aws H/F",
+    "raw_description": "POSTE : Senior Machine Learning Engineer - Ops Aws H/F\nDESCRIPTION : En qualité de cabinet de recrutement, nous accompagnons un client client final dans le recrutement d'un Senior Machine Learning Engineer. Notre client est un éditeur de logiciels dans le domaine du tourisme en région parisienne à Issy-les-Moulineaux. Le télétravail est à hauteur de 3 jours par semaine.\n\nMissions :\n-  Travailler en partenariat avec les équipes techniques de l'ensemble de l'entreprise pour résoudre les problèmes.\n-  Faire preuve d'un mentorat actif et d'une identification des talents en devenir.\n-  Développer une vision sur le long terme.\n-  Démontrer un impact positif et un leadership dans l'ensemble de l'organisation.\n-  Agir en tant que spécialiste dans l'élaboration de modèles de solutions de conception pour tout cas d'utilisation. Prendre en compte les besoins de l'entreprise et de l'application et les exposer aux équipes et partenaires intéressés.\n-  Démontrer une maîtrise de la conception de logiciels, façonne des méthodologies de codage qui sont évolutives, résilientes et stables.\n-  Se plonger dans le code de n'importe quel composant et apporter sa contribution.\n-  Maîtriser des pratiques professionnelles d'ingénierie logicielle pour l'ensemble du cycle de développement des logiciels, y compris les normes de codage, les revues de code, la gestion du contrôle de la source, les processus de construction, les tests et les opérations.\n-  Diriger la collaboration avec des partenaires clés et apporter une expertise en la matière pour développer des solutions uniques à des problèmes complexes.\n-  Avoir une bonne connaissance de l'infrastructure (AWS)\n-  Apporter une certaine expérience avec les données (BI, Reporting, Analytics, Machine Learning et ainsi de suite) serait un plus.\nPROFIL : -   Au moins 8 ans d'expérience professionnelle en modélisation de données, schémas de conception et modèles d'accès aux données (notamment API, stream, data lake) et AWS.\n-   Expérience réussie sur différentes technologies cloud et la construction de produits de données pour soutenir les applications DS, ML et Deep learning en batch et en temps réel.\n-   Savoir concevoir, communiquer et exécuter de manière autonome l'architecture de produits de données modérément sophistiqués.\n-   Bonne compréhension des outils et des technologies de test et de monitoring.\n-   Guider les autres dans la conception de logiciels facilement testables et observables.\n-   Maîtriser le développement de plateformes utilisant Java/Python/Scala et SQL.\n-   Avoir une certaine expérience sur Amazon Sagemaker ou équivalent, du feature store, des tableaux de bord, etc."
+}]
