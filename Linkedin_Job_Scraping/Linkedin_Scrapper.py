@@ -8,12 +8,14 @@ from selenium.webdriver.support import expected_conditions as EC
 from bs4 import BeautifulSoup
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.chrome.service import Service as ChromeService
+from selenium.webdriver.common.keys import Keys
 import pandas as pd
 import random
 import time
 from time import sleep
 import json
 import re
+import datetime
 
 # Configure logging settings
 logging.basicConfig(filename="scraping.log", level=logging.INFO)
@@ -153,7 +155,22 @@ def scrape_linkedin_jobs(job_title: str, location: str, pages: int = None) -> li
     service = ChromeService(chrome_driver_path)
     # Set up the Chrome WebDriver
     driver = webdriver.Chrome(service=service, options=options)
+    """
+    driver.get("https://www.linkedin.com/login")
 
+    # Find the username and password input fields and enter your credentials
+    username_field = driver.find_element_by_id("username")
+    username_field.send_keys("csaid07@****")  
+
+    password_field = driver.find_element_by_id("password")
+    password_field.send_keys("****")  
+
+    # Submit the form
+    password_field.send_keys(Keys.RETURN)
+
+    # Wait for the page to load
+    time.sleep(5) 
+    """
     # Navigate to the LinkedIn job search page with the given job title and location
     driver.get(
         f"https://www.linkedin.com/jobs/search/?keywords={job_title}&location={location}"
@@ -245,6 +262,7 @@ def scrape_linkedin_jobs(job_title: str, location: str, pages: int = None) -> li
             # Add job details to the jobs list
             jobs.append(
                 {
+                    "source": "LinkedIn",
                     "title": job_title,
                     "company": job_company,
                     "location": job_location,
@@ -273,30 +291,65 @@ def scrape_linkedin_jobs(job_title: str, location: str, pages: int = None) -> li
     return jobs
 
 
-def save_job_data(data: dict) -> None:
+def save_job_data(data: dict, job_title: str, location: str, pages: int) -> None:
     """
     Save job data to a CSV file.
 
     Args:
         data: A dictionary containing job data.
+        job_title: The job title used for the search.
+        location: The location used for the search.
+        pages: The number of pages scraped.
 
     Returns:
         None
     """
 
+    # Format current date and time
+    current_datetime = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
+
+    # Format job title for file name
+    formatted_job_title = job_title.replace(" ", "_")
+
+    # Construct file names
+    csv_file_name = f"Jobs_{formatted_job_title}_{current_datetime}_Pages{pages}.csv"
+    json_file_name = f"Jobs_{formatted_job_title}_{current_datetime}_Pages{pages}.json"
+
     # Create a pandas DataFrame from the job data dictionary
     df = pd.DataFrame(data)
 
     # Save the DataFrame to a CSV file without including the index column
-    df.to_csv("jobs_DataEngineer1_test.csv", index=False)
+    df.to_csv(csv_file_name, index=False)
 
     # Save the data to a JSON file
-    with open("jobs_DataEngineer1_test.json", "w") as json_file:
+    with open(json_file_name, "w") as json_file:
         json.dump(data, json_file, indent=4)
 
     # Log a message indicating how many jobs were successfully scraped and saved to the CSV file
-    logging.info(f"Successfully scraped {len(data)} jobs and saved to jobs_DataEngineer1_test.csv")
+    logging.info(f"Successfully scraped {len(data)} jobs and saved to {csv_file_name} and {json_file_name}")
 
+# Call the functions below
+job_title_list = [
+    "data engineer",
+    "data architect",
+    "data scientist",
+    "data analyst",
+    "software engineer",
+    "Data Warehousing Engineer",
+    "Machine Learning Engineer",
+    "cloud architect",
+    "solution architect",
+    "cloud engineer",
+    "big data engineer",
+    "Data Infrastructure Engineer",
+    "Data Pipeline Engineer",
+    "ETL Developer",
+]
 
-data = scrape_linkedin_jobs("Data engineer", "France", 1)
-save_job_data(data)
+location = "France"
+pages = 20
+
+for position in job_title_list:
+
+    data = scrape_linkedin_jobs(position, location, pages)
+    save_job_data(data, position, location, pages)
