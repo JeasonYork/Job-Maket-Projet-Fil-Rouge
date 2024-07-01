@@ -25,7 +25,7 @@ skill_categories = {
         "DataBase": ("SQL", "NoSQL", " MongoDB", "Cassandra", "Neo4j", "HBase", "Elasticsearch"),
         "DataAnalytics": ("Pandas", "NumPy", "R", " R ", "/R/", "MATLAB"),
         "BigData": ("Hadoop", "Spark", "Databricks", "Flink", "Apache Airflow"),
-        "MachingLearning": ("Scikit-Learn", "TensorFlow", "Keras", "PyTorch", "XGBoost", "LightGBM", "CatBoost", "Orange"),
+        "MachineLearning": ("Scikit-Learn", "TensorFlow", "Keras", "PyTorch", "XGBoost", "LightGBM", "CatBoost", "Orange"),
         "DataSerialization" : ("Avro","Protocol Buffers","Json","XML"),
         "DataVisualization": ("Tableau", "Power BI", "PowerBI", "Matplotlib", "Seaborn", "Plotly"),
         "Statistics": ("Statistics", "Statistiques", "Statistiques Descriptives", "Inférentielles", "Bayesian Statistics", "Statistiques Bayésiennes"),
