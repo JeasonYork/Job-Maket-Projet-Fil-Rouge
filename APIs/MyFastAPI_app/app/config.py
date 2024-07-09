@@ -1,5 +1,8 @@
 import bcrypt
 
+# Nom de l'index Elasticsearch pour les offres d'emploi
+JOBMARKET_INDEX = "jobmarket"
+
 # Hachage des mots de passe des utilisateurs admin
 def hash_password(password: str) -> str:
     return bcrypt.hashpw(password.encode('utf-8'), bcrypt.gensalt()).decode('utf-8')

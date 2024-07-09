@@ -4,6 +4,7 @@ my-fastapi-app/
 │   ├── __init__.py
 │   ├── main.py
 │   └── config.py
+│   └── elastic.py
 ├── requirements.txt
 ├── Dockerfile
 └── .dockerignore

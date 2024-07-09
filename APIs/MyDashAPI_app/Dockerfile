@@ -1,4 +1,4 @@
-# Utiliser une image officielle python comme base
+# Utiliser une image officielle Python slim comme base
 FROM python:3.9-slim
 
 # Définir le répertoire de travail dans le conteneur
@@ -10,15 +10,17 @@ COPY requirements.txt .
 # Installer les dépendances Python
 RUN pip install --no-cache-dir -r requirements.txt
 
-# Copier le contenu de l'appli dans le répertoire de travail
+# Copier le contenu de l'application dans le répertoire de travail
 COPY . .
 
 # Définir la variable d'environnement ES_HOST
 ENV ES_HOST=13.60.31.28:9200
 
+# Ajouter /app au PYTHONPATH pour permettre les imports
+ENV PYTHONPATH=/app
+
 # Exposer le port sur lequel l'application va tourner
-EXPOSE 8000
+EXPOSE 5000
 
-# Commande pour démarrer l'application
-CMD ["uvicorn", "app.main:app", "--host", "0.0.0.0", "--port", "8000"]
-
+# Commande pour exécuter l'application Dash
+CMD ["python3", "app/main.py"]

@@ -4,7 +4,7 @@ from pydantic import BaseModel
 from .elastic import get_es_client
 import base64
 from fastapi.security import HTTPBasic, HTTPBasicCredentials
-from .config import admins, hash_password, verify_password
+from .config import admins, hash_password, verify_password, JOBMARKET_INDEX
 
 app = FastAPI(
     title="Job Market API",
@@ -74,7 +74,7 @@ async def get_job_offers(query: Optional[str] = None):
                     }
                 }
             }
-            result = es.search(index="jobmarket", body=query_body)
+            result = es.search(index=JOBMARKET_INDEX, body=query_body)
         else:
             # Requête Elasticsearch pour obtenir toutes les offres d'emplois
             query_body = {
@@ -83,7 +83,7 @@ async def get_job_offers(query: Optional[str] = None):
                 },
                 "size": 10000  # Pour récupérer jusqu'à 10000 documents
             }
-            result = es.search(index="jobmarket", body=query_body)
+            result = es.search(index=JOBMARKET_INDEX, body=query_body)
 
         # Récupération des résultats de la recherche
         hits = result["hits"]["hits"]
@@ -102,11 +102,24 @@ async def create_job_offer(job_offer: JobOffer, username: str = Security(authent
     """Créer une nouvelle offre d'emploi
        - La méthode create_job_offer prend un objet JobOffer en corps de la requête et l'indexe dans Elasticsearch.
        - Retourne l'offre d'emploi nouvellement créée avec son ID.
+       - Il faut preciser "id":""  dans la structure du Json à importer
     """
     try:
-        result = es.index(index="jobmarket", document=job_offer.dict())
-        job_offer_id = result['_id']
-        return {**job_offer.dict(), "id": job_offer_id}
+        #convertir le modèle en dictionnaire
+        job_offer_dict = job_offer.dict()
+
+        #supprimer l'id s'il est présent, pour permettre à Elasticsearch de générer un ID automatiquement
+        job_offer_dict.pop("id", None)
+
+        # Indexer le document dans Elasticsearch
+        result = es.index(index=JOBMARKET_INDEX, body=job_offer_dict)
+
+        job_offer_id = result["_id"]
+
+        job_offer.id = job_offer_id
+
+        return job_offer
+
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
 
@@ -116,7 +129,7 @@ async def create_job_offer(job_offer: JobOffer, username: str = Security(authent
 async def delete_job_offer(job_id: str, username: str = Security(authenticate_admin)):
     """Supprimer une offre d'emploi en fonction de son ID"""
     try:
-        result = es.delete(index="jobmarket", id=job_id)
+        result = es.delete(index=JOBMARKET_INDEX, id=job_id)
         if result['result'] == 'deleted':
             return {"message": "Job offer deleted successfully"}
         else:
@@ -130,7 +143,7 @@ async def delete_job_offer(job_id: str, username: str = Security(authenticate_ad
 async def update_job_offer(job_id: str, job_offer: JobOffer, username: str = Security(authenticate_admin)):
     """Mettre à jour une offre d'emploi en fonction du job_id"""
     try:
-        result = es.update(index="jobmarket", id=job_id, body={"doc": job_offer.dict()})
+        result = es.update(index=JOBMARKET_INDEX, id=job_id, body={"doc": job_offer.dict()})
         if result['result'] == 'updated':
             return {"message": "Job offer updated successfully"}
         else:
