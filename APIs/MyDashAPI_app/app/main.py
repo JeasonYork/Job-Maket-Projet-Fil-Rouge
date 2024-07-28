@@ -191,10 +191,10 @@ layout_2 = html.Div([
             page_size=10,
             page_action='native',
         )
-    ], style={'margin-bottom': '20px', 'width': '90%', 'padding': '10px'}),
+    ], style={'margin-bottom': '20px', 'width': '90%', 'padding': '10px', 'margin-left': '10px'}),
     html.Div([
         dcc.Graph(id='graph-2-skills')
-    ], style={'margin-bottom': '20px', 'width': '90%', 'padding': '10px'})
+    ], style={'margin-bottom': '20px', 'width': '90%', 'padding': '10px', 'margin-left': '10px'})
 ])
 
 # Callback main page
@@ -428,7 +428,7 @@ def update_graph_1(pathname, n_postes, n_companies, n_locations, selected_locati
     Input('dropdown-2-postes', 'value'),
     Input('dropdown-2-locations', 'value')]
 )
-def update_table(pathname,selected_poste,selected_location):
+def update_table(pathname, selected_poste, selected_location):
     if pathname == '/page-2':
         if es is None:
             return dash.no_update  # Évitez les erreurs si `es` est None
@@ -450,18 +450,43 @@ def update_table(pathname,selected_poste,selected_location):
         if selected_location:
             query['query']['bool']['must'].append({"match": {"location": selected_location}})
 
-
-        res = es.search(index=JOBMARKET_INDEX, body=query)
+        res = es.search(index=JOBMARKET_INDEX, body=query, size=3000)
         offres = res['hits']['hits']
-        table_data = [{
-            'id': offre['_id'],
-            'title': offre['_source'].get('title', ''),
-            'company': offre['_source'].get('company', ''),
-            'location': offre['_source'].get('location', ''),
-            'experiences': ", ".join(offre['_source'].get('details', {}).get('Experience', [])),
-            'salary': ", ".join(offre['_source'].get('details', {}).get('Salary', [])),
-            'link': f"[Lien]({offre['_source'].get('link', '')})"
-        } for offre in offres]
+        table_data = []
+        for offre in offres:
+            source = offre['_source']
+            details = source.get('details', {})
+
+            # Obtenir experiences et salary soit à partir de details soit directement à partir de la source
+            experiences = details.get('Experience', source.get('Experience', []))
+            salary = details.get('Salary', source.get('Salary', []))
+
+            # S'assurer que experiences et salary sont des listes
+            if not isinstance(experiences, list):
+                experiences = [experiences]
+            if not isinstance(salary, list):
+                salary = [salary]
+
+            # Filtrer les valeurs None dans experiences et salary
+            experiences = [exp for exp in experiences if exp is not None]
+            salary = [sal for sal in salary if sal is not None]
+
+            # Gestion du lien
+            link = source.get('link', '')
+            if link:
+                link = f"[Lien]({link})"
+            else:
+                link = ''
+
+            table_data.append({
+                'id': offre['_id'],
+                'title': source.get('title', ''),
+                'company': source.get('company', ''),
+                'location': source.get('location', ''),
+                'experiences': ", ".join(experiences),
+                'salary': ", ".join(salary),
+                'link': link
+            })
 
         return table_data
 

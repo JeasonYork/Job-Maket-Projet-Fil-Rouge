@@ -1,6 +1,6 @@
-from fastapi import FastAPI, HTTPException, Security, Depends
+from fastapi import FastAPI, HTTPException, Security, Depends, Query
 from typing import List, Optional
-from pydantic import BaseModel
+from pydantic import BaseModel, validator, HttpUrl
 from .elastic import get_es_client
 import base64
 from fastapi.security import HTTPBasic, HTTPBasicCredentials
@@ -35,12 +35,30 @@ class JobOffer(BaseModel):
     id: Optional[str]
     source: str
     title: str
-    company: str
-    location: str
-    link: str
-    description: str
-    skills: dict
-    details: dict
+    company: Optional[str] = "Unknown Company"
+    location: Optional[str] = "Unknown Location"
+    link: Optional[str] = "http://default.link"
+    description: Optional[str] = "Unknown Description"
+    skills: dict = {}
+    details: dict = {}
+
+    # Ajouter une methode pour valider l'url
+    @validator('link', pre=True, always=True)
+    def validate_link(cls, v):
+        return v or "http://default.link"
+
+    @validator('company', 'location', 'description', pre=True, always=True)
+    def validate_string_fields(cls, v):
+        return v or "Unknown"
+
+    @validator('skills', pre=True, always=True)
+    def validate_skills(cls, v):
+        return v or {}
+
+    @validator('details', pre=True, always=True)
+    def validate_details(cls, v):
+        return v or {}
+
 
 @app.get("/")
 def read_root():
@@ -49,13 +67,13 @@ def read_root():
 
 # Endpoint pour récupérer les offres d'emplois
 @app.get("/job_offers/", response_model=List[JobOffer])
-async def get_job_offers(query: Optional[str] = None):
+async def get_job_offers(query: Optional[str] = None, size: int = Query(50, ge=1)):
     """Obtenir la liste des Jobs selons les critères
        - Si query est fourni, il est divisé en mots-clés individuels à l'aide de split().
        - Si La query contient plusieur mots clés (Data engineer, spark, python, Azure),
          Chaque multi_match recherche dans les champs spécifiés (title, description, company) 
          pour le mot-clé correspondant. Exemple http://localhost:8000/job_offers/?query=data%20engineer.
-       - Si le champ query est vide, 10000 offres seront retourné de l'indice jobmarket
+       - Pour recuperer une liste d'offres sans critère utilisez un espace ' ' dans le champ query.
     """
     try:
         if query:
@@ -72,7 +90,8 @@ async def get_job_offers(query: Optional[str] = None):
                             }} for keyword in keywords
                         ]
                     }
-                }
+                },
+                "size": size  # Pour récupérer jusqu'à 50 documents
             }
             result = es.search(index=JOBMARKET_INDEX, body=query_body)
         else:
@@ -81,7 +100,7 @@ async def get_job_offers(query: Optional[str] = None):
                 "query": {
                     "match_all": {}
                 },
-                "size": 10000  # Pour récupérer jusqu'à 10000 documents
+                "size": size  # Pour récupérer jusqu'à 50 documents
             }
             result = es.search(index=JOBMARKET_INDEX, body=query_body)
 
