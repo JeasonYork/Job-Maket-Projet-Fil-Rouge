@@ -1,0 +1,322 @@
+Importation des fichiers :
+Traceback (most recent call last):
+  File "/home/ubuntu/test_said/bulk_script.py", line 31, in <module>
+    for json_file in os.listdir(json_directory_path):
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/home/ubuntu/elasticsearch/Json'
+Importation des fichiers :
+Traceback (most recent call last):
+  File "/home/ubuntu/test_said/bulk_script.py", line 31, in <module>
+    for json_file in os.listdir(json_directory_path):
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/home/ubuntu/elasticsearch/Json'
+Importation des fichiers :
+Jobs_data_scientist_20240508_232347_Pages20.json importé avec succès.
+Jobs_solution_architect_20240509_014550_Pages20.json importé avec succès.
+Jobs_Data_Pipeline_Engineer_20240509_030600_Pages20.json importé avec succès.
+Jobs_data_architect_20240508_230408_Pages20.json importé avec succès.
+Jobs_software_engineer_20240509_002434_Pages20.json importé avec succès.
+Jobs_cloud_architect_20240509_012549_Pages20.json importé avec succès.
+Jobs_Data_Warehousing_Engineer_20240509_004511_Pages20.json importé avec succès.
+Jobs_cloud_engineer_20240509_020557_Pages20.json importé avec succès.
+Jobs_Machine_Learning_Engineer_20240509_010529_Pages20.json importé avec succès.
+Jobs_data_analyst_20240508_234433_Pages20.json importé avec succès.
+Jobs_ETL_Developer_20240509_032551_Pages20.json importé avec succès.
+Jobs_data_engineer_20240508_225057_Pages20.json importé avec succès.
+Jobs_Data_Infrastructure_Engineer_20240509_024624_Pages20.json importé avec succès.
+Jobs_big_data_engineer_20240509_022620_Pages20.json importé avec succès.
+Importation des fichiers :
+Jobs_data_scientist_20240508_232347_Pages20.json importé avec succès.
+Jobs_solution_architect_20240509_014550_Pages20.json importé avec succès.
+Jobs_Data_Pipeline_Engineer_20240509_030600_Pages20.json importé avec succès.
+Jobs_data_architect_20240508_230408_Pages20.json importé avec succès.
+Jobs_software_engineer_20240509_002434_Pages20.json importé avec succès.
+Jobs_cloud_architect_20240509_012549_Pages20.json importé avec succès.
+Jobs_Data_Warehousing_Engineer_20240509_004511_Pages20.json importé avec succès.
+Jobs_cloud_engineer_20240509_020557_Pages20.json importé avec succès.
+Jobs_Machine_Learning_Engineer_20240509_010529_Pages20.json importé avec succès.
+Jobs_data_analyst_20240508_234433_Pages20.json importé avec succès.
+Jobs_ETL_Developer_20240509_032551_Pages20.json importé avec succès.
+Jobs_data_engineer_20240508_225057_Pages20.json importé avec succès.
+Jobs_Data_Infrastructure_Engineer_20240509_024624_Pages20.json importé avec succès.
+Jobs_big_data_engineer_20240509_022620_Pages20.json importé avec succès.
+Importation des fichiers :
+Erreur d'importation du fichier /home/ubuntu/test_mohamed/package-lock.json: 5 document(s) failed to index.
+indeed_gold.json importé avec succès.
+Erreur d'importation du fichier /home/ubuntu/test_mohamed/package.json: 1 document(s) failed to index.
+Importation des fichiers :
+PE_scrapping_20240524_155312_cloud engineer.json importé avec succès.
+PE_scrapping_20240524_120530_data architect.json importé avec succès.
+PE_scrapping_20240524_120530_cloud architect.json importé avec succès.
+PE_scrapping_20240524_155312_big data engineer.json importé avec succès.
+PE_scrapping_20240524_120530_Machine Learning Engineer.json importé avec succès.
+PE_scrapping_20240524_120530_data engineer.json importé avec succès.
+PE_scrapping_20240524_155312_Data Infrastructure Engineer.json importé avec succès.
+PE_scrapping_20240524_120530_data analyst.json importé avec succès.
+PE_scrapping_20240524_155312_solution architect.json importé avec succès.
+PE_scrapping_20240524_120530_data scientist.json importé avec succès.
+Importation des fichiers :
+PE_scrapping_20240524_155312_cloud engineer.json importé avec succès.
+PE_scrapping_20240524_120530_data architect.json importé avec succès.
+PE_scrapping_20240524_120530_cloud architect.json importé avec succès.
+PE_scrapping_20240524_155312_big data engineer.json importé avec succès.
+PE_scrapping_20240524_120530_Machine Learning Engineer.json importé avec succès.
+PE_scrapping_20240524_120530_data engineer.json importé avec succès.
+PE_scrapping_20240524_155312_Data Infrastructure Engineer.json importé avec succès.
+PE_scrapping_20240524_120530_data analyst.json importé avec succès.
+PE_scrapping_20240524_155312_solution architect.json importé avec succès.
+PE_scrapping_20240524_120530_data scientist.json importé avec succès.
+Importation des fichiers :
+Jobs_data_scientist_20240508_232347_Pages20.json importé avec succès.
+Jobs_solution_architect_20240509_014550_Pages20.json importé avec succès.
+Jobs_Data_Pipeline_Engineer_20240509_030600_Pages20.json importé avec succès.
+Jobs_data_architect_20240508_230408_Pages20.json importé avec succès.
+Jobs_software_engineer_20240509_002434_Pages20.json importé avec succès.
+Jobs_cloud_architect_20240509_012549_Pages20.json importé avec succès.
+Jobs_Data_Warehousing_Engineer_20240509_004511_Pages20.json importé avec succès.
+Jobs_cloud_engineer_20240509_020557_Pages20.json importé avec succès.
+Jobs_Machine_Learning_Engineer_20240509_010529_Pages20.json importé avec succès.
+Jobs_data_analyst_20240508_234433_Pages20.json importé avec succès.
+Jobs_ETL_Developer_20240509_032551_Pages20.json importé avec succès.
+Jobs_data_engineer_20240508_225057_Pages20.json importé avec succès.
+Jobs_Data_Infrastructure_Engineer_20240509_024624_Pages20.json importé avec succès.
+Jobs_big_data_engineer_20240509_022620_Pages20.json importé avec succès.
+Importation des fichiers :
+PE_scrapping_20240524_155312_cloud engineer.json importé avec succès.
+PE_scrapping_20240524_120530_data architect.json importé avec succès.
+PE_scrapping_20240524_120530_cloud architect.json importé avec succès.
+PE_scrapping_20240524_155312_big data engineer.json importé avec succès.
+PE_scrapping_20240524_120530_Machine Learning Engineer.json importé avec succès.
+PE_scrapping_20240524_120530_data engineer.json importé avec succès.
+PE_scrapping_20240524_155312_Data Infrastructure Engineer.json importé avec succès.
+PE_scrapping_20240524_120530_data analyst.json importé avec succès.
+PE_scrapping_20240524_155312_solution architect.json importé avec succès.
+PE_scrapping_20240524_120530_data scientist.json importé avec succès.
+Importation des fichiers :
+wttj_database_gold.json importé avec succès.
+indeed_gold.json importé avec succès.
+Importation des fichiers :
+wttj_database_gold.json importé avec succès.
+indeed_gold.json importé avec succès.
+Importation des fichiers :
+wttj_database_gold.json importé avec succès.
+indeed_gold.json importé avec succès.
+Importation des fichiers :
+FT_scrapping_20240702_202840_software engineer_updated.json importé avec succès.
+wttj_database_gold_updated.json importé avec succès.
+FT_scrapping_20240702_202840_cloud architect_updated.json importé avec succès.
+Jobs_data_scientist_20240508_232347_Pages20_updated.json importé avec succès.
+Jobs_Data_Pipeline_Engineer_20240509_030600_Pages20_updated.json importé avec succès.
+indeed_gold_updated.json importé avec succès.
+FT_scrapping_20240702_202840_Machine Learning Engineer_updated.json importé avec succès.
+Jobs_solution_architect_20240509_014550_Pages20_updated.json importé avec succès.
+FT_scrapping_20240702_202840_data analyst_updated.json importé avec succès.
+Jobs_Data_Infrastructure_Engineer_20240509_024624_Pages20_updated.json importé avec succès.
+FT_scrapping_20240702_202840_data architect_updated.json importé avec succès.
+Jobs_data_engineer_20240508_225057_Pages20_updated.json importé avec succès.
+FT_scrapping_20240702_202840_data engineer_updated.json importé avec succès.
+Jobs_data_analyst_20240508_234433_Pages20_updated.json importé avec succès.
+Jobs_data_architect_20240508_230408_Pages20_updated.json importé avec succès.
+Jobs_software_engineer_20240509_002434_Pages20_updated.json importé avec succès.
+FT_scrapping_20240702_202840_cloud engineer_updated.json importé avec succès.
+Jobs_cloud_architect_20240509_012549_Pages20_updated.json importé avec succès.
+Jobs_Machine_Learning_Engineer_20240509_010529_Pages20_updated.json importé avec succès.
+Jobs_cloud_engineer_20240509_020557_Pages20_updated.json importé avec succès.
+FT_scrapping_20240702_202840_Data Infrastructure Engineer_updated.json importé avec succès.
+Jobs_Data_Warehousing_Engineer_20240509_004511_Pages20_updated.json importé avec succès.
+FT_scrapping_20240702_202840_data scientist_updated.json importé avec succès.
+Jobs_ETL_Developer_20240509_032551_Pages20_updated.json importé avec succès.
+FT_scrapping_20240702_202840_big data engineer_updated.json importé avec succès.
+Jobs_big_data_engineer_20240509_022620_Pages20_updated.json importé avec succès.
+Importation des fichiers :
+FT_scrapping_20240702_202840_software engineer_updated.json importé avec succès.
+wttj_database_gold_updated.json importé avec succès.
+FT_scrapping_20240702_202840_cloud architect_updated.json importé avec succès.
+Jobs_data_scientist_20240508_232347_Pages20_updated.json importé avec succès.
+Jobs_Data_Pipeline_Engineer_20240509_030600_Pages20_updated.json importé avec succès.
+indeed_gold_updated.json importé avec succès.
+FT_scrapping_20240702_202840_Machine Learning Engineer_updated.json importé avec succès.
+Jobs_solution_architect_20240509_014550_Pages20_updated.json importé avec succès.
+FT_scrapping_20240702_202840_data analyst_updated.json importé avec succès.
+Jobs_Data_Infrastructure_Engineer_20240509_024624_Pages20_updated.json importé avec succès.
+FT_scrapping_20240702_202840_data architect_updated.json importé avec succès.
+Jobs_data_engineer_20240508_225057_Pages20_updated.json importé avec succès.
+FT_scrapping_20240702_202840_data engineer_updated.json importé avec succès.
+Jobs_data_analyst_20240508_234433_Pages20_updated.json importé avec succès.
+Jobs_data_architect_20240508_230408_Pages20_updated.json importé avec succès.
+Jobs_software_engineer_20240509_002434_Pages20_updated.json importé avec succès.
+FT_scrapping_20240702_202840_cloud engineer_updated.json importé avec succès.
+Jobs_cloud_architect_20240509_012549_Pages20_updated.json importé avec succès.
+Jobs_Machine_Learning_Engineer_20240509_010529_Pages20_updated.json importé avec succès.
+Jobs_cloud_engineer_20240509_020557_Pages20_updated.json importé avec succès.
+FT_scrapping_20240702_202840_Data Infrastructure Engineer_updated.json importé avec succès.
+Jobs_Data_Warehousing_Engineer_20240509_004511_Pages20_updated.json importé avec succès.
+FT_scrapping_20240702_202840_data scientist_updated.json importé avec succès.
+Jobs_ETL_Developer_20240509_032551_Pages20_updated.json importé avec succès.
+FT_scrapping_20240702_202840_big data engineer_updated.json importé avec succès.
+Jobs_big_data_engineer_20240509_022620_Pages20_updated.json importé avec succès.
+Importation des fichiers :
+FT_scrapping_20240702_202840_software engineer_updated.json importé avec succès.
+wttj_database_gold_updated.json importé avec succès.
+FT_scrapping_20240702_202840_cloud architect_updated.json importé avec succès.
+Jobs_data_scientist_20240508_232347_Pages20_updated.json importé avec succès.
+Jobs_Data_Pipeline_Engineer_20240509_030600_Pages20_updated.json importé avec succès.
+indeed_gold_updated.json importé avec succès.
+FT_scrapping_20240702_202840_Machine Learning Engineer_updated.json importé avec succès.
+Jobs_solution_architect_20240509_014550_Pages20_updated.json importé avec succès.
+FT_scrapping_20240702_202840_data analyst_updated.json importé avec succès.
+Jobs_Data_Infrastructure_Engineer_20240509_024624_Pages20_updated.json importé avec succès.
+FT_scrapping_20240702_202840_data architect_updated.json importé avec succès.
+Traceback (most recent call last):
+  File "/home/ubuntu/ETL/Load/load_mohamed.py", line 44, in <module>
+    main()
+  File "/home/ubuntu/ETL/Load/load_mohamed.py", line 37, in main
+    helpers.bulk(es, json_data, index='jobmarket')
+  File "/home/ubuntu/.pyenv/versions/3.12.0/lib/python3.12/site-packages/elasticsearch/helpers/actions.py", line 521, in bulk
+    for ok, item in streaming_bulk(
+  File "/home/ubuntu/.pyenv/versions/3.12.0/lib/python3.12/site-packages/elasticsearch/helpers/actions.py", line 436, in streaming_bulk
+    for data, (ok, info) in zip(
+  File "/home/ubuntu/.pyenv/versions/3.12.0/lib/python3.12/site-packages/elasticsearch/helpers/actions.py", line 339, in _process_bulk_chunk
+    resp = client.bulk(*args, operations=bulk_actions, **kwargs)  # type: ignore[arg-type]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/.pyenv/versions/3.12.0/lib/python3.12/site-packages/elasticsearch/_sync/client/utils.py", line 446, in wrapped
+    return api(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/.pyenv/versions/3.12.0/lib/python3.12/site-packages/elasticsearch/_sync/client/__init__.py", line 714, in bulk
+    return self.perform_request(  # type: ignore[return-value]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/.pyenv/versions/3.12.0/lib/python3.12/site-packages/elasticsearch/_sync/client/_base.py", line 271, in perform_request
+    response = self._perform_request(
+               ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/.pyenv/versions/3.12.0/lib/python3.12/site-packages/elasticsearch/_sync/client/_base.py", line 316, in _perform_request
+    meta, resp_body = self.transport.perform_request(
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/.pyenv/versions/3.12.0/lib/python3.12/site-packages/elastic_transport/_transport.py", line 342, in perform_request
+    resp = node.perform_request(
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/.pyenv/versions/3.12.0/lib/python3.12/site-packages/elastic_transport/_node/_http_urllib3.py", line 167, in perform_request
+    response = self.pool.urlopen(
+               ^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/.pyenv/versions/3.12.0/lib/python3.12/site-packages/urllib3/connectionpool.py", line 793, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/.pyenv/versions/3.12.0/lib/python3.12/site-packages/urllib3/connectionpool.py", line 537, in _make_request
+    response = conn.getresponse()
+               ^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/.pyenv/versions/3.12.0/lib/python3.12/site-packages/urllib3/connection.py", line 466, in getresponse
+    httplib_response = super().getresponse()
+                       ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/.pyenv/versions/3.12.0/lib/python3.12/http/client.py", line 1411, in getresponse
+    response.begin()
+  File "/home/ubuntu/.pyenv/versions/3.12.0/lib/python3.12/http/client.py", line 324, in begin
+    version, status, reason = self._read_status()
+                              ^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/.pyenv/versions/3.12.0/lib/python3.12/http/client.py", line 285, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/.pyenv/versions/3.12.0/lib/python3.12/socket.py", line 707, in readinto
+    return self._sock.recv_into(b)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+KeyboardInterrupt
+Importation des fichiers :
+FT_scrapping_20240702_202840_software engineer_updated.json importé avec succès.
+wttj_database_gold_updated.json importé avec succès.
+FT_scrapping_20240702_202840_cloud architect_updated.json importé avec succès.
+Jobs_data_scientist_20240508_232347_Pages20_updated.json importé avec succès.
+Jobs_Data_Pipeline_Engineer_20240509_030600_Pages20_updated.json importé avec succès.
+indeed_gold_updated.json importé avec succès.
+FT_scrapping_20240702_202840_Machine Learning Engineer_updated.json importé avec succès.
+Jobs_solution_architect_20240509_014550_Pages20_updated.json importé avec succès.
+FT_scrapping_20240702_202840_data analyst_updated.json importé avec succès.
+Jobs_Data_Infrastructure_Engineer_20240509_024624_Pages20_updated.json importé avec succès.
+FT_scrapping_20240702_202840_data architect_updated.json importé avec succès.
+Jobs_data_engineer_20240508_225057_Pages20_updated.json importé avec succès.
+FT_scrapping_20240702_202840_data engineer_updated.json importé avec succès.
+Jobs_data_analyst_20240508_234433_Pages20_updated.json importé avec succès.
+Jobs_data_architect_20240508_230408_Pages20_updated.json importé avec succès.
+Jobs_software_engineer_20240509_002434_Pages20_updated.json importé avec succès.
+FT_scrapping_20240702_202840_cloud engineer_updated.json importé avec succès.
+Jobs_cloud_architect_20240509_012549_Pages20_updated.json importé avec succès.
+Jobs_Machine_Learning_Engineer_20240509_010529_Pages20_updated.json importé avec succès.
+Jobs_cloud_engineer_20240509_020557_Pages20_updated.json importé avec succès.
+FT_scrapping_20240702_202840_Data Infrastructure Engineer_updated.json importé avec succès.
+Jobs_Data_Warehousing_Engineer_20240509_004511_Pages20_updated.json importé avec succès.
+FT_scrapping_20240702_202840_data scientist_updated.json importé avec succès.
+Jobs_ETL_Developer_20240509_032551_Pages20_updated.json importé avec succès.
+FT_scrapping_20240702_202840_big data engineer_updated.json importé avec succès.
+Jobs_big_data_engineer_20240509_022620_Pages20_updated.json importé avec succès.
+Importation des fichiers :
+FT_scrapping_20240702_202840_software engineer_updated.json importé avec succès.
+wttj_database_gold_updated.json importé avec succès.
+FT_scrapping_20240702_202840_cloud architect_updated.json importé avec succès.
+Jobs_data_scientist_20240508_232347_Pages20_updated.json importé avec succès.
+Jobs_Data_Pipeline_Engineer_20240509_030600_Pages20_updated.json importé avec succès.
+indeed_gold_updated.json importé avec succès.
+FT_scrapping_20240702_202840_Machine Learning Engineer_updated.json importé avec succès.
+Jobs_solution_architect_20240509_014550_Pages20_updated.json importé avec succès.
+FT_scrapping_20240702_202840_data analyst_updated.json importé avec succès.
+Jobs_Data_Infrastructure_Engineer_20240509_024624_Pages20_updated.json importé avec succès.
+FT_scrapping_20240702_202840_data architect_updated.json importé avec succès.
+Jobs_data_engineer_20240508_225057_Pages20_updated.json importé avec succès.
+FT_scrapping_20240702_202840_data engineer_updated.json importé avec succès.
+Jobs_data_analyst_20240508_234433_Pages20_updated.json importé avec succès.
+Jobs_data_architect_20240508_230408_Pages20_updated.json importé avec succès.
+Jobs_software_engineer_20240509_002434_Pages20_updated.json importé avec succès.
+FT_scrapping_20240702_202840_cloud engineer_updated.json importé avec succès.
+Jobs_cloud_architect_20240509_012549_Pages20_updated.json importé avec succès.
+Jobs_Machine_Learning_Engineer_20240509_010529_Pages20_updated.json importé avec succès.
+Jobs_cloud_engineer_20240509_020557_Pages20_updated.json importé avec succès.
+FT_scrapping_20240702_202840_Data Infrastructure Engineer_updated.json importé avec succès.
+Jobs_Data_Warehousing_Engineer_20240509_004511_Pages20_updated.json importé avec succès.
+FT_scrapping_20240702_202840_data scientist_updated.json importé avec succès.
+Jobs_ETL_Developer_20240509_032551_Pages20_updated.json importé avec succès.
+FT_scrapping_20240702_202840_big data engineer_updated.json importé avec succès.
+Jobs_big_data_engineer_20240509_022620_Pages20_updated.json importé avec succès.
+Importation des fichiers :
+FT_scrapping_20240702_202840_software engineer_updated.json importé avec succès.
+wttj_database_gold_updated.json importé avec succès.
+FT_scrapping_20240702_202840_cloud architect_updated.json importé avec succès.
+Jobs_data_scientist_20240508_232347_Pages20_updated.json importé avec succès.
+Jobs_Data_Pipeline_Engineer_20240509_030600_Pages20_updated.json importé avec succès.
+indeed_gold_updated.json importé avec succès.
+FT_scrapping_20240702_202840_Machine Learning Engineer_updated.json importé avec succès.
+Jobs_solution_architect_20240509_014550_Pages20_updated.json importé avec succès.
+FT_scrapping_20240702_202840_data analyst_updated.json importé avec succès.
+Jobs_Data_Infrastructure_Engineer_20240509_024624_Pages20_updated.json importé avec succès.
+FT_scrapping_20240702_202840_data architect_updated.json importé avec succès.
+Jobs_data_engineer_20240508_225057_Pages20_updated.json importé avec succès.
+FT_scrapping_20240702_202840_data engineer_updated.json importé avec succès.
+Jobs_data_analyst_20240508_234433_Pages20_updated.json importé avec succès.
+Jobs_data_architect_20240508_230408_Pages20_updated.json importé avec succès.
+Jobs_software_engineer_20240509_002434_Pages20_updated.json importé avec succès.
+FT_scrapping_20240702_202840_cloud engineer_updated.json importé avec succès.
+Jobs_cloud_architect_20240509_012549_Pages20_updated.json importé avec succès.
+Jobs_Machine_Learning_Engineer_20240509_010529_Pages20_updated.json importé avec succès.
+Jobs_cloud_engineer_20240509_020557_Pages20_updated.json importé avec succès.
+FT_scrapping_20240702_202840_Data Infrastructure Engineer_updated.json importé avec succès.
+Jobs_Data_Warehousing_Engineer_20240509_004511_Pages20_updated.json importé avec succès.
+FT_scrapping_20240702_202840_data scientist_updated.json importé avec succès.
+Jobs_ETL_Developer_20240509_032551_Pages20_updated.json importé avec succès.
+FT_scrapping_20240702_202840_big data engineer_updated.json importé avec succès.
+Jobs_big_data_engineer_20240509_022620_Pages20_updated.json importé avec succès.
+ERROR:root:Erreur d'importation du fichier /home/ubuntu/ETL/Json_transformed/indeed_gold_updated.json: Connection error caused by: ConnectionError(Connection error caused by: NewConnectionError(<urllib3.connection.HTTPConnection object at 0x77c219e7e330>: Failed to establish a new connection: [Errno 111] Connection refused))
+ERROR:root:Erreur d'importation du fichier /home/ubuntu/ETL/Json_transformed/FT_scrapping_20240702_202840_Machine Learning Engineer_updated.json: Connection error caused by: ConnectionError(Connection error caused by: NewConnectionError(<urllib3.connection.HTTPConnection object at 0x77c219b19220>: Failed to establish a new connection: [Errno 111] Connection refused))
+ERROR:root:Erreur d'importation du fichier /home/ubuntu/ETL/Json_transformed/Jobs_solution_architect_20240509_014550_Pages20_updated.json: Connection error caused by: ConnectionError(Connection error caused by: NewConnectionError(<urllib3.connection.HTTPConnection object at 0x77c218e13e60>: Failed to establish a new connection: [Errno 111] Connection refused))
+ERROR:root:Erreur d'importation du fichier /home/ubuntu/ETL/Json_transformed/FT_scrapping_20240702_202840_data analyst_updated.json: Connection error caused by: ConnectionError(Connection error caused by: NewConnectionError(<urllib3.connection.HTTPConnection object at 0x77c219b19220>: Failed to establish a new connection: [Errno 111] Connection refused))
+ERROR:root:Erreur d'importation du fichier /home/ubuntu/ETL/Json_transformed/Jobs_Data_Infrastructure_Engineer_20240509_024624_Pages20_updated.json: Connection error caused by: ConnectionError(Connection error caused by: NewConnectionError(<urllib3.connection.HTTPConnection object at 0x77c21864d550>: Failed to establish a new connection: [Errno 111] Connection refused))
+ERROR:root:Erreur d'importation du fichier /home/ubuntu/ETL/Json_transformed/FT_scrapping_20240702_202840_data architect_updated.json: Connection error caused by: ConnectionError(Connection error caused by: NewConnectionError(<urllib3.connection.HTTPConnection object at 0x77c21864cd10>: Failed to establish a new connection: [Errno 111] Connection refused))
+ERROR:root:Erreur d'importation du fichier /home/ubuntu/ETL/Json_transformed/Jobs_data_engineer_20240508_225057_Pages20_updated.json: Connection error caused by: ConnectionError(Connection error caused by: NewConnectionError(<urllib3.connection.HTTPConnection object at 0x77c2185e0b30>: Failed to establish a new connection: [Errno 111] Connection refused))
+ERROR:root:Erreur d'importation du fichier /home/ubuntu/ETL/Json_transformed/FT_scrapping_20240702_202840_data engineer_updated.json: Connection error caused by: ConnectionError(Connection error caused by: NewConnectionError(<urllib3.connection.HTTPConnection object at 0x77c2185e05c0>: Failed to establish a new connection: [Errno 111] Connection refused))
+ERROR:root:Erreur d'importation du fichier /home/ubuntu/ETL/Json_transformed/Jobs_data_analyst_20240508_234433_Pages20_updated.json: Connection error caused by: ConnectionError(Connection error caused by: NewConnectionError(<urllib3.connection.HTTPConnection object at 0x77c21864d1c0>: Failed to establish a new connection: [Errno 111] Connection refused))
+ERROR:root:Erreur d'importation du fichier /home/ubuntu/ETL/Json_transformed/Jobs_data_architect_20240508_230408_Pages20_updated.json: Connection error caused by: ConnectionError(Connection error caused by: NewConnectionError(<urllib3.connection.HTTPConnection object at 0x77c219b1b950>: Failed to establish a new connection: [Errno 111] Connection refused))
+ERROR:root:Erreur d'importation du fichier /home/ubuntu/ETL/Json_transformed/Jobs_software_engineer_20240509_002434_Pages20_updated.json: Connection error caused by: ConnectionError(Connection error caused by: NewConnectionError(<urllib3.connection.HTTPConnection object at 0x77c21864df70>: Failed to establish a new connection: [Errno 111] Connection refused))
+ERROR:root:Erreur d'importation du fichier /home/ubuntu/ETL/Json_transformed/FT_scrapping_20240702_202840_cloud engineer_updated.json: Connection error caused by: ConnectionError(Connection error caused by: NewConnectionError(<urllib3.connection.HTTPConnection object at 0x77c219b9fb30>: Failed to establish a new connection: [Errno 111] Connection refused))
+ERROR:root:Erreur d'importation du fichier /home/ubuntu/ETL/Json_transformed/Jobs_cloud_architect_20240509_012549_Pages20_updated.json: Connection error caused by: ConnectionError(Connection error caused by: NewConnectionError(<urllib3.connection.HTTPConnection object at 0x77c219ba6930>: Failed to establish a new connection: [Errno 111] Connection refused))
+ERROR:root:Erreur d'importation du fichier /home/ubuntu/ETL/Json_transformed/Jobs_Machine_Learning_Engineer_20240509_010529_Pages20_updated.json: Connection error caused by: ConnectionError(Connection error caused by: NewConnectionError(<urllib3.connection.HTTPConnection object at 0x77c2185e34d0>: Failed to establish a new connection: [Errno 111] Connection refused))
+ERROR:root:Erreur d'importation du fichier /home/ubuntu/ETL/Json_transformed/Jobs_cloud_engineer_20240509_020557_Pages20_updated.json: Connection error caused by: ConnectionError(Connection error caused by: NewConnectionError(<urllib3.connection.HTTPConnection object at 0x77c21864da00>: Failed to establish a new connection: [Errno 111] Connection refused))
+ERROR:root:Erreur d'importation du fichier /home/ubuntu/ETL/Json_transformed/FT_scrapping_20240702_202840_Data Infrastructure Engineer_updated.json: Connection error caused by: ConnectionError(Connection error caused by: NewConnectionError(<urllib3.connection.HTTPConnection object at 0x77c219b196d0>: Failed to establish a new connection: [Errno 111] Connection refused))
+ERROR:root:Erreur d'importation du fichier /home/ubuntu/ETL/Json_transformed/Jobs_Data_Warehousing_Engineer_20240509_004511_Pages20_updated.json: Connection error caused by: ConnectionError(Connection error caused by: NewConnectionError(<urllib3.connection.HTTPConnection object at 0x77c2185e1e80>: Failed to establish a new connection: [Errno 111] Connection refused))
+ERROR:root:Erreur d'importation du fichier /home/ubuntu/ETL/Json_transformed/FT_scrapping_20240702_202840_data scientist_updated.json: Connection error caused by: ConnectionError(Connection error caused by: NewConnectionError(<urllib3.connection.HTTPConnection object at 0x77c218e5fdd0>: Failed to establish a new connection: [Errno 111] Connection refused))
+ERROR:root:Erreur d'importation du fichier /home/ubuntu/ETL/Json_transformed/Jobs_ETL_Developer_20240509_032551_Pages20_updated.json: Connection error caused by: ConnectionError(Connection error caused by: NewConnectionError(<urllib3.connection.HTTPConnection object at 0x77c218db7020>: Failed to establish a new connection: [Errno 111] Connection refused))
+ERROR:root:Erreur d'importation du fichier /home/ubuntu/ETL/Json_transformed/FT_scrapping_20240702_202840_big data engineer_updated.json: Connection error caused by: ConnectionError(Connection error caused by: NewConnectionError(<urllib3.connection.HTTPConnection object at 0x77c219a5ffb0>: Failed to establish a new connection: [Errno 111] Connection refused))
+ERROR:root:Erreur d'importation du fichier /home/ubuntu/ETL/Json_transformed/Jobs_big_data_engineer_20240509_022620_Pages20_updated.json: Connection error caused by: ConnectionError(Connection error caused by: NewConnectionError(<urllib3.connection.HTTPConnection object at 0x77c2199b0650>: Failed to establish a new connection: [Errno 111] Connection refused))

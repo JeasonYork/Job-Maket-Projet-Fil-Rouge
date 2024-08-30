@@ -1,0 +1,260 @@
+/home/ubuntu/test_mohamed/my_web_scaper/start.sh: line 15: docker-compose: command not found
+/home/ubuntu/test_mohamed/my_web_scaper/start.sh: line 21: docker-compose: command not found
+#0 building with "default" instance using docker driver
+
+#1 [scraper internal] load .dockerignore
+#1 transferring context:
+#1 transferring context: 2B done
+#1 DONE 0.0s
+
+#2 [scraper internal] load build definition from Dockerfile
+#2 transferring dockerfile: 721B done
+#2 DONE 0.0s
+
+#3 [scraper internal] load metadata for docker.io/library/python:3.12-bookworm
+#3 DONE 1.6s
+
+#4 [scraper internal] load build context
+#4 DONE 0.0s
+
+#5 [scraper 1/7] FROM docker.io/library/python:3.12-bookworm@sha256:69b5ed7edb7c70b0175a5099eccc86ceb5c0fe39ff94384403ceebc26de7f80e
+#5 resolve docker.io/library/python:3.12-bookworm@sha256:69b5ed7edb7c70b0175a5099eccc86ceb5c0fe39ff94384403ceebc26de7f80e 0.0s done
+#5 sha256:69b5ed7edb7c70b0175a5099eccc86ceb5c0fe39ff94384403ceebc26de7f80e 1.65kB / 1.65kB done
+#5 sha256:d3d5f8afa67f736ff75f50ffde0abfaec42d27780155fb19e95f0bbc697eec61 2.01kB / 2.01kB done
+#5 sha256:ab363ab21d7b44b4b0c4032655dca5e812153e81966e758fcdb08cef9d0159e2 7.71kB / 7.71kB done
+#5 CANCELED
+
+#4 [scraper internal] load build context
+#4 transferring context: 4.55kB done
+#4 DONE 0.0s
+
+#6 [scraper 2/7] RUN pip install playwright==1.44.0 &&                            playwright install --with-deps
+#6 CACHED
+
+#7 [scraper 3/7] RUN pip install selectolax logging validator fake-useragent httpx aiofiles pandas
+#7 CACHED
+
+#8 [scraper 4/7] RUN mkdir -p /app/data /app/logs
+#8 CACHED
+
+#9 [scraper 5/7] WORKDIR /app
+#9 CACHED
+
+#10 [scraper 6/7] COPY scraper.py skills.py /app/
+#10 ERROR: failed to calculate checksum of ref afdc9194-fc33-48dc-aaa8-55077a0cb7f7::xcbekf7k6drm8wgfvy7jjur5k: "/scraper.py": not found
+------
+ > [scraper 6/7] COPY scraper.py skills.py /app/:
+------
+failed to solve: failed to compute cache key: failed to calculate checksum of ref afdc9194-fc33-48dc-aaa8-55077a0cb7f7::xcbekf7k6drm8wgfvy7jjur5k: "/scraper.py": not found
+#0 building with "default" instance using docker driver
+
+#1 [scraper internal] load .dockerignore
+#1 transferring context: 2B done
+#1 DONE 0.0s
+
+#2 [scraper internal] load build definition from Dockerfile
+#2 transferring dockerfile: 721B done
+#2 DONE 0.0s
+
+#3 [scraper internal] load metadata for docker.io/library/python:3.12-bookworm
+#3 DONE 0.2s
+
+#4 [scraper internal] load build context
+#4 transferring context: 31B done
+#4 DONE 0.0s
+
+#5 [scraper 2/7] RUN pip install playwright==1.44.0 &&                            playwright install --with-deps
+#5 CACHED
+
+#6 [scraper 3/7] RUN pip install selectolax logging validator fake-useragent httpx aiofiles pandas
+#6 CACHED
+
+#7 [scraper 4/7] RUN mkdir -p /app/data /app/logs
+#7 CACHED
+
+#8 [scraper 5/7] WORKDIR /app
+#8 CACHED
+
+#9 [scraper 6/7] COPY scraper.py skills.py /app/
+#9 ERROR: failed to calculate checksum of ref afdc9194-fc33-48dc-aaa8-55077a0cb7f7::vl2zbana94aqydsylojhyxgnl: "/scraper.py": not found
+
+#10 [scraper 1/7] FROM docker.io/library/python:3.12-bookworm@sha256:69b5ed7edb7c70b0175a5099eccc86ceb5c0fe39ff94384403ceebc26de7f80e
+#10 resolve docker.io/library/python:3.12-bookworm@sha256:69b5ed7edb7c70b0175a5099eccc86ceb5c0fe39ff94384403ceebc26de7f80e 0.0s done
+#10 sha256:69b5ed7edb7c70b0175a5099eccc86ceb5c0fe39ff94384403ceebc26de7f80e 1.65kB / 1.65kB done
+#10 sha256:d3d5f8afa67f736ff75f50ffde0abfaec42d27780155fb19e95f0bbc697eec61 2.01kB / 2.01kB done
+#10 sha256:ab363ab21d7b44b4b0c4032655dca5e812153e81966e758fcdb08cef9d0159e2 7.71kB / 7.71kB done
+#10 CANCELED
+------
+ > [scraper 6/7] COPY scraper.py skills.py /app/:
+------
+failed to solve: failed to compute cache key: failed to calculate checksum of ref afdc9194-fc33-48dc-aaa8-55077a0cb7f7::vl2zbana94aqydsylojhyxgnl: "/scraper.py": not found
+#0 building with "default" instance using docker driver
+
+#1 [scraper internal] load .dockerignore
+#1 transferring context: 2B done
+#1 DONE 0.0s
+
+#2 [scraper internal] load build definition from Dockerfile
+#2 transferring dockerfile: 721B done
+#2 DONE 0.0s
+
+#3 [scraper internal] load metadata for docker.io/library/python:3.12-bookworm
+#3 DONE 0.4s
+
+#4 [scraper internal] load build context
+#4 transferring context: 7.73kB done
+#4 DONE 0.0s
+
+#5 [scraper 1/7] FROM docker.io/library/python:3.12-bookworm@sha256:69b5ed7edb7c70b0175a5099eccc86ceb5c0fe39ff94384403ceebc26de7f80e
+#5 resolve docker.io/library/python:3.12-bookworm@sha256:69b5ed7edb7c70b0175a5099eccc86ceb5c0fe39ff94384403ceebc26de7f80e 0.0s done
+#5 sha256:69b5ed7edb7c70b0175a5099eccc86ceb5c0fe39ff94384403ceebc26de7f80e 1.65kB / 1.65kB done
+#5 sha256:d3d5f8afa67f736ff75f50ffde0abfaec42d27780155fb19e95f0bbc697eec61 2.01kB / 2.01kB done
+#5 sha256:ab363ab21d7b44b4b0c4032655dca5e812153e81966e758fcdb08cef9d0159e2 7.71kB / 7.71kB done
+#5 sha256:3873416e6a335157d669c6193a256dfb289331d669d87f200e4eed1f19f9ebb9 0B / 64.14MB 0.1s
+#5 sha256:fea1432adf0957427b45b0ef8e37cbfe045b7cf8c15e3f43e48f2f613e214d16 0B / 49.58MB 0.1s
+#5 sha256:5651b5803b186603909f6c77cdff7bdd4ba7ab8ca4ebccb5a6b0be9037b4e5b6 0B / 24.05MB 0.1s
+#5 sha256:fea1432adf0957427b45b0ef8e37cbfe045b7cf8c15e3f43e48f2f613e214d16 9.44MB / 49.58MB 0.3s
+#5 sha256:fea1432adf0957427b45b0ef8e37cbfe045b7cf8c15e3f43e48f2f613e214d16 27.82MB / 49.58MB 0.5s
+#5 sha256:5651b5803b186603909f6c77cdff7bdd4ba7ab8ca4ebccb5a6b0be9037b4e5b6 1.93MB / 24.05MB 0.5s
+#5 sha256:3873416e6a335157d669c6193a256dfb289331d669d87f200e4eed1f19f9ebb9 5.24MB / 64.14MB 0.6s
+#5 sha256:fea1432adf0957427b45b0ef8e37cbfe045b7cf8c15e3f43e48f2f613e214d16 33.55MB / 49.58MB 0.6s
+#5 sha256:5651b5803b186603909f6c77cdff7bdd4ba7ab8ca4ebccb5a6b0be9037b4e5b6 6.29MB / 24.05MB 0.6s
+#5 sha256:3873416e6a335157d669c6193a256dfb289331d669d87f200e4eed1f19f9ebb9 12.58MB / 64.14MB 0.8s
+#5 sha256:fea1432adf0957427b45b0ef8e37cbfe045b7cf8c15e3f43e48f2f613e214d16 49.58MB / 49.58MB 0.8s
+#5 sha256:5651b5803b186603909f6c77cdff7bdd4ba7ab8ca4ebccb5a6b0be9037b4e5b6 17.83MB / 24.05MB 0.8s
+#5 sha256:3873416e6a335157d669c6193a256dfb289331d669d87f200e4eed1f19f9ebb9 23.33MB / 64.14MB 0.9s
+#5 sha256:fea1432adf0957427b45b0ef8e37cbfe045b7cf8c15e3f43e48f2f613e214d16 49.58MB / 49.58MB 0.9s done
+#5 sha256:5651b5803b186603909f6c77cdff7bdd4ba7ab8ca4ebccb5a6b0be9037b4e5b6 24.05MB / 24.05MB 0.9s
+#5 sha256:8a142b8b0e695954ed154c13c098ede4e217dcb99aa7158e34361604191822bd 0B / 211.21MB 0.9s
+#5 sha256:3873416e6a335157d669c6193a256dfb289331d669d87f200e4eed1f19f9ebb9 29.36MB / 64.14MB 1.0s
+#5 sha256:5651b5803b186603909f6c77cdff7bdd4ba7ab8ca4ebccb5a6b0be9037b4e5b6 24.05MB / 24.05MB 1.0s done
+#5 extracting sha256:fea1432adf0957427b45b0ef8e37cbfe045b7cf8c15e3f43e48f2f613e214d16
+#5 sha256:c1ab5c0b7cabbec24848a07baf1bd993a7b514f6fc50c28b4f0eb895406f4d1f 0B / 6.39MB 1.0s
+#5 sha256:3873416e6a335157d669c6193a256dfb289331d669d87f200e4eed1f19f9ebb9 40.89MB / 64.14MB 1.2s
+#5 sha256:c1ab5c0b7cabbec24848a07baf1bd993a7b514f6fc50c28b4f0eb895406f4d1f 3.15MB / 6.39MB 1.2s
+#5 sha256:3873416e6a335157d669c6193a256dfb289331d669d87f200e4eed1f19f9ebb9 49.28MB / 64.14MB 1.3s
+#5 sha256:c1ab5c0b7cabbec24848a07baf1bd993a7b514f6fc50c28b4f0eb895406f4d1f 6.39MB / 6.39MB 1.3s done
+#5 sha256:541445b689aece25581d8c6dd0688445be39d252b6750a80a712f7562d08d2f3 0B / 22.72MB 1.3s
+#5 sha256:8a142b8b0e695954ed154c13c098ede4e217dcb99aa7158e34361604191822bd 16.78MB / 211.21MB 1.4s
+#5 sha256:3873416e6a335157d669c6193a256dfb289331d669d87f200e4eed1f19f9ebb9 56.62MB / 64.14MB 1.5s
+#5 sha256:541445b689aece25581d8c6dd0688445be39d252b6750a80a712f7562d08d2f3 6.29MB / 22.72MB 1.5s
+#5 sha256:3873416e6a335157d669c6193a256dfb289331d669d87f200e4eed1f19f9ebb9 62.91MB / 64.14MB 1.7s
+#5 sha256:8a142b8b0e695954ed154c13c098ede4e217dcb99aa7158e34361604191822bd 33.55MB / 211.21MB 1.7s
+#5 sha256:541445b689aece25581d8c6dd0688445be39d252b6750a80a712f7562d08d2f3 12.58MB / 22.72MB 1.7s
+#5 sha256:541445b689aece25581d8c6dd0688445be39d252b6750a80a712f7562d08d2f3 17.83MB / 22.72MB 1.8s
+#5 sha256:3873416e6a335157d669c6193a256dfb289331d669d87f200e4eed1f19f9ebb9 64.14MB / 64.14MB 1.9s done
+#5 sha256:541445b689aece25581d8c6dd0688445be39d252b6750a80a712f7562d08d2f3 22.72MB / 22.72MB 1.9s
+#5 sha256:2160297bfeb955247fa434cdc9dd4f20522db6ffbb6a8bb07d1bf363fc12c686 0B / 244B 1.9s
+#5 sha256:8a142b8b0e695954ed154c13c098ede4e217dcb99aa7158e34361604191822bd 53.48MB / 211.21MB 2.1s
+#5 sha256:541445b689aece25581d8c6dd0688445be39d252b6750a80a712f7562d08d2f3 22.72MB / 22.72MB 1.9s done
+#5 sha256:2160297bfeb955247fa434cdc9dd4f20522db6ffbb6a8bb07d1bf363fc12c686 244B / 244B 2.1s done
+#5 sha256:6aa46f5fa6a3c29d1f179578329810c058e9d9991f04b6ca008093406be7c206 0B / 2.74MB 2.1s
+#5 sha256:6aa46f5fa6a3c29d1f179578329810c058e9d9991f04b6ca008093406be7c206 2.74MB / 2.74MB 2.2s done
+#5 sha256:8a142b8b0e695954ed154c13c098ede4e217dcb99aa7158e34361604191822bd 65.01MB / 211.21MB 2.5s
+#5 sha256:8a142b8b0e695954ed154c13c098ede4e217dcb99aa7158e34361604191822bd 82.84MB / 211.21MB 2.9s
+#5 sha256:8a142b8b0e695954ed154c13c098ede4e217dcb99aa7158e34361604191822bd 100.66MB / 211.21MB 3.2s
+#5 sha256:8a142b8b0e695954ed154c13c098ede4e217dcb99aa7158e34361604191822bd 117.44MB / 211.21MB 3.5s
+#5 sha256:8a142b8b0e695954ed154c13c098ede4e217dcb99aa7158e34361604191822bd 130.96MB / 211.21MB 3.7s
+#5 sha256:8a142b8b0e695954ed154c13c098ede4e217dcb99aa7158e34361604191822bd 141.56MB / 211.21MB 4.2s
+#5 sha256:8a142b8b0e695954ed154c13c098ede4e217dcb99aa7158e34361604191822bd 165.68MB / 211.21MB 4.6s
+#5 extracting sha256:fea1432adf0957427b45b0ef8e37cbfe045b7cf8c15e3f43e48f2f613e214d16 3.6s done
+#5 sha256:8a142b8b0e695954ed154c13c098ede4e217dcb99aa7158e34361604191822bd 183.50MB / 211.21MB 4.8s
+#5 extracting sha256:5651b5803b186603909f6c77cdff7bdd4ba7ab8ca4ebccb5a6b0be9037b4e5b6
+#5 sha256:8a142b8b0e695954ed154c13c098ede4e217dcb99aa7158e34361604191822bd 198.18MB / 211.21MB 5.0s
+#5 sha256:8a142b8b0e695954ed154c13c098ede4e217dcb99aa7158e34361604191822bd 211.21MB / 211.21MB 5.2s
+#5 sha256:8a142b8b0e695954ed154c13c098ede4e217dcb99aa7158e34361604191822bd 211.21MB / 211.21MB 5.4s done
+#5 extracting sha256:5651b5803b186603909f6c77cdff7bdd4ba7ab8ca4ebccb5a6b0be9037b4e5b6 0.9s done
+#5 extracting sha256:3873416e6a335157d669c6193a256dfb289331d669d87f200e4eed1f19f9ebb9
+#5 ERROR: failed to register layer: write /usr/lib/python3.11/trace.py: no space left on device
+------
+ > [scraper 1/7] FROM docker.io/library/python:3.12-bookworm@sha256:69b5ed7edb7c70b0175a5099eccc86ceb5c0fe39ff94384403ceebc26de7f80e:
+------
+failed to solve: failed to register layer: write /usr/lib/python3.11/trace.py: no space left on device
+#0 building with "default" instance using docker driver
+
+#1 [scraper internal] load build definition from Dockerfile
+#1 transferring dockerfile: 721B done
+#1 DONE 0.0s
+
+#2 [scraper internal] load .dockerignore
+#2 transferring context: 2B done
+#2 DONE 0.0s
+
+#3 [scraper internal] load metadata for docker.io/library/python:3.12-bookworm
+#3 DONE 0.2s
+
+#4 [scraper internal] load build context
+#4 transferring context: 61B done
+#4 DONE 0.0s
+
+#5 [scraper 1/7] FROM docker.io/library/python:3.12-bookworm@sha256:69b5ed7edb7c70b0175a5099eccc86ceb5c0fe39ff94384403ceebc26de7f80e
+#5 resolve docker.io/library/python:3.12-bookworm@sha256:69b5ed7edb7c70b0175a5099eccc86ceb5c0fe39ff94384403ceebc26de7f80e 0.0s done
+#5 sha256:ab363ab21d7b44b4b0c4032655dca5e812153e81966e758fcdb08cef9d0159e2 7.71kB / 7.71kB done
+#5 sha256:fea1432adf0957427b45b0ef8e37cbfe045b7cf8c15e3f43e48f2f613e214d16 1.05MB / 49.58MB 0.2s
+#5 sha256:5651b5803b186603909f6c77cdff7bdd4ba7ab8ca4ebccb5a6b0be9037b4e5b6 0B / 24.05MB 0.2s
+#5 sha256:3873416e6a335157d669c6193a256dfb289331d669d87f200e4eed1f19f9ebb9 0B / 64.14MB 0.2s
+#5 sha256:69b5ed7edb7c70b0175a5099eccc86ceb5c0fe39ff94384403ceebc26de7f80e 1.65kB / 1.65kB done
+#5 sha256:d3d5f8afa67f736ff75f50ffde0abfaec42d27780155fb19e95f0bbc697eec61 2.01kB / 2.01kB done
+#5 sha256:fea1432adf0957427b45b0ef8e37cbfe045b7cf8c15e3f43e48f2f613e214d16 9.44MB / 49.58MB 0.3s
+#5 sha256:fea1432adf0957427b45b0ef8e37cbfe045b7cf8c15e3f43e48f2f613e214d16 14.68MB / 49.58MB 0.4s
+#5 sha256:5651b5803b186603909f6c77cdff7bdd4ba7ab8ca4ebccb5a6b0be9037b4e5b6 3.15MB / 24.05MB 0.4s
+#5 sha256:5651b5803b186603909f6c77cdff7bdd4ba7ab8ca4ebccb5a6b0be9037b4e5b6 11.53MB / 24.05MB 0.5s
+#5 sha256:3873416e6a335157d669c6193a256dfb289331d669d87f200e4eed1f19f9ebb9 8.39MB / 64.14MB 0.5s
+#5 sha256:fea1432adf0957427b45b0ef8e37cbfe045b7cf8c15e3f43e48f2f613e214d16 23.07MB / 49.58MB 0.7s
+#5 sha256:5651b5803b186603909f6c77cdff7bdd4ba7ab8ca4ebccb5a6b0be9037b4e5b6 24.05MB / 24.05MB 0.7s
+#5 sha256:3873416e6a335157d669c6193a256dfb289331d669d87f200e4eed1f19f9ebb9 24.12MB / 64.14MB 0.7s
+#5 sha256:fea1432adf0957427b45b0ef8e37cbfe045b7cf8c15e3f43e48f2f613e214d16 30.41MB / 49.58MB 0.8s
+#5 sha256:5651b5803b186603909f6c77cdff7bdd4ba7ab8ca4ebccb5a6b0be9037b4e5b6 24.05MB / 24.05MB 0.7s done
+#5 sha256:3873416e6a335157d669c6193a256dfb289331d669d87f200e4eed1f19f9ebb9 28.31MB / 64.14MB 0.8s
+#5 sha256:8a142b8b0e695954ed154c13c098ede4e217dcb99aa7158e34361604191822bd 0B / 211.21MB 0.8s
+#5 sha256:fea1432adf0957427b45b0ef8e37cbfe045b7cf8c15e3f43e48f2f613e214d16 35.65MB / 49.58MB 0.9s
+#5 sha256:fea1432adf0957427b45b0ef8e37cbfe045b7cf8c15e3f43e48f2f613e214d16 40.89MB / 49.58MB 1.1s
+#5 sha256:3873416e6a335157d669c6193a256dfb289331d669d87f200e4eed1f19f9ebb9 38.80MB / 64.14MB 1.1s
+#5 sha256:8a142b8b0e695954ed154c13c098ede4e217dcb99aa7158e34361604191822bd 15.73MB / 211.21MB 1.1s
+#5 sha256:3873416e6a335157d669c6193a256dfb289331d669d87f200e4eed1f19f9ebb9 47.19MB / 64.14MB 1.2s
+#5 sha256:fea1432adf0957427b45b0ef8e37cbfe045b7cf8c15e3f43e48f2f613e214d16 47.19MB / 49.58MB 1.4s
+#5 sha256:3873416e6a335157d669c6193a256dfb289331d669d87f200e4eed1f19f9ebb9 64.14MB / 64.14MB 1.4s
+#5 sha256:8a142b8b0e695954ed154c13c098ede4e217dcb99aa7158e34361604191822bd 42.99MB / 211.21MB 1.4s
+#5 sha256:3873416e6a335157d669c6193a256dfb289331d669d87f200e4eed1f19f9ebb9 64.14MB / 64.14MB 1.5s done
+#5 sha256:fea1432adf0957427b45b0ef8e37cbfe045b7cf8c15e3f43e48f2f613e214d16 49.58MB / 49.58MB 1.6s done
+#5 sha256:8a142b8b0e695954ed154c13c098ede4e217dcb99aa7158e34361604191822bd 61.87MB / 211.21MB 1.6s
+#5 sha256:c1ab5c0b7cabbec24848a07baf1bd993a7b514f6fc50c28b4f0eb895406f4d1f 0B / 6.39MB 1.6s
+#5 extracting sha256:fea1432adf0957427b45b0ef8e37cbfe045b7cf8c15e3f43e48f2f613e214d16
+#5 sha256:541445b689aece25581d8c6dd0688445be39d252b6750a80a712f7562d08d2f3 0B / 22.72MB 1.7s
+#5 sha256:8a142b8b0e695954ed154c13c098ede4e217dcb99aa7158e34361604191822bd 80.74MB / 211.21MB 1.9s
+#5 sha256:c1ab5c0b7cabbec24848a07baf1bd993a7b514f6fc50c28b4f0eb895406f4d1f 6.39MB / 6.39MB 1.8s done
+#5 sha256:541445b689aece25581d8c6dd0688445be39d252b6750a80a712f7562d08d2f3 9.44MB / 22.72MB 1.9s
+#5 sha256:2160297bfeb955247fa434cdc9dd4f20522db6ffbb6a8bb07d1bf363fc12c686 0B / 244B 1.9s
+#5 sha256:541445b689aece25581d8c6dd0688445be39d252b6750a80a712f7562d08d2f3 18.87MB / 22.72MB 2.0s
+#5 sha256:8a142b8b0e695954ed154c13c098ede4e217dcb99aa7158e34361604191822bd 99.61MB / 211.21MB 2.1s
+#5 sha256:541445b689aece25581d8c6dd0688445be39d252b6750a80a712f7562d08d2f3 22.72MB / 22.72MB 2.1s
+#5 sha256:2160297bfeb955247fa434cdc9dd4f20522db6ffbb6a8bb07d1bf363fc12c686 244B / 244B 2.0s done
+#5 sha256:6aa46f5fa6a3c29d1f179578329810c058e9d9991f04b6ca008093406be7c206 0B / 2.74MB 2.1s
+#5 sha256:8a142b8b0e695954ed154c13c098ede4e217dcb99aa7158e34361604191822bd 113.25MB / 211.21MB 2.3s
+#5 sha256:541445b689aece25581d8c6dd0688445be39d252b6750a80a712f7562d08d2f3 22.72MB / 22.72MB 2.1s done
+#5 sha256:6aa46f5fa6a3c29d1f179578329810c058e9d9991f04b6ca008093406be7c206 1.05MB / 2.74MB 2.4s
+#5 sha256:8a142b8b0e695954ed154c13c098ede4e217dcb99aa7158e34361604191822bd 124.78MB / 211.21MB 2.5s
+#5 sha256:6aa46f5fa6a3c29d1f179578329810c058e9d9991f04b6ca008093406be7c206 2.74MB / 2.74MB 2.5s done
+#5 sha256:8a142b8b0e695954ed154c13c098ede4e217dcb99aa7158e34361604191822bd 141.22MB / 211.21MB 2.7s
+#5 sha256:8a142b8b0e695954ed154c13c098ede4e217dcb99aa7158e34361604191822bd 156.24MB / 211.21MB 2.9s
+#5 sha256:8a142b8b0e695954ed154c13c098ede4e217dcb99aa7158e34361604191822bd 183.50MB / 211.21MB 3.2s
+#5 sha256:8a142b8b0e695954ed154c13c098ede4e217dcb99aa7158e34361604191822bd 195.04MB / 211.21MB 3.8s
+#5 sha256:8a142b8b0e695954ed154c13c098ede4e217dcb99aa7158e34361604191822bd 208.67MB / 211.21MB 4.0s
+#5 sha256:8a142b8b0e695954ed154c13c098ede4e217dcb99aa7158e34361604191822bd 211.21MB / 211.21MB 4.4s done
+#5 extracting sha256:fea1432adf0957427b45b0ef8e37cbfe045b7cf8c15e3f43e48f2f613e214d16 3.5s done
+#5 extracting sha256:5651b5803b186603909f6c77cdff7bdd4ba7ab8ca4ebccb5a6b0be9037b4e5b6 0.1s
+#5 extracting sha256:5651b5803b186603909f6c77cdff7bdd4ba7ab8ca4ebccb5a6b0be9037b4e5b6 0.8s done
+#5 extracting sha256:3873416e6a335157d669c6193a256dfb289331d669d87f200e4eed1f19f9ebb9
+#5 ERROR: failed to register layer: write /usr/lib/python3.11/tomllib/_parser.py: no space left on device
+------
+ > [scraper 1/7] FROM docker.io/library/python:3.12-bookworm@sha256:69b5ed7edb7c70b0175a5099eccc86ceb5c0fe39ff94384403ceebc26de7f80e:
+------
+failed to solve: failed to register layer: write /usr/lib/python3.11/tomllib/_parser.py: no space left on device
+/home/ubuntu/test_mohamed/my_web_scaper/start.sh: line 16: /snap/bin/docker-compose: No such file or directory
+/home/ubuntu/test_mohamed/my_web_scaper/start.sh: line 22: /snap/bin/docker-compose: No such file or directory
+/home/ubuntu/test_mohamed/my_web_scaper/start.sh: line 16: /snap/bin/docker-compose: No such file or directory
+/home/ubuntu/test_mohamed/my_web_scaper/start.sh: line 22: /snap/bin/docker-compose: No such file or directory
+/home/ubuntu/test_mohamed/my_web_scaper/start.sh: line 16: /snap/bin/docker-compose: No such file or directory
+/home/ubuntu/test_mohamed/my_web_scaper/start.sh: line 22: /snap/bin/docker-compose: No such file or directory
+/home/ubuntu/test_mohamed/my_web_scaper/start.sh: line 16: /snap/bin/docker-compose: No such file or directory
+/home/ubuntu/test_mohamed/my_web_scaper/start.sh: line 22: /snap/bin/docker-compose: No such file or directory

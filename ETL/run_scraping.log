@@ -1,0 +1,52 @@
+Building scraper
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile.wttj
+#1 transferring dockerfile: 889B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for docker.io/library/python:3.12-bookworm
+#2 DONE 1.4s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/9] FROM docker.io/library/python:3.12-bookworm@sha256:db5117bdc617075dcfebb40b2e5e6887750f83c385ebcaf1302412a6f3b1b147
+#4 DONE 0.0s
+
+#5 [internal] load build context
+#5 transferring context: 17.17kB done
+#5 DONE 0.0s
+
+#6 [4/9] WORKDIR /app/Extract
+#6 CACHED
+
+#7 [3/9] RUN mkdir -p /app/Extract /app/Json_scraping /app/Json_transformed
+#7 CACHED
+
+#8 [2/9] RUN pip install --upgrade pip &&     pip install playwright==1.46.0 &&     playwright install --with-deps chromium &&     pip install selectolax validators fake-useragent httpx aiofiles pandas &&     rm -rf /root/.cache/pip
+#8 CACHED
+
+#9 [5/9] COPY scraper.py /app/Extract/
+#9 CACHED
+
+#10 [6/9] COPY remove_duplicates.py /app/Extract/
+#10 CACHED
+
+#11 [7/9] COPY data_cleaning.py /app/Extract/
+#11 CACHED
+
+#12 [8/9] COPY scrap_wttj /app/Extract/scrap_wttj/
+#12 DONE 0.1s
+
+#13 [9/9] RUN chmod +x scraper.py remove_duplicates.py data_cleaning.py
+#13 DONE 0.6s
+
+#14 exporting to image
+#14 exporting layers 0.1s done
+#14 writing image sha256:2b5c97962571a824cd9721e3e00328ef2e1632d4e80858b83d692a16c78e2f59 done
+#14 naming to docker.io/library/extract_scraper done
+#14 DONE 0.1s
+Creating extract_scraper_1 ... 
+Creating extract_scraper_1 ... done

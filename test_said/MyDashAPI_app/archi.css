@@ -1,0 +1,9 @@
+my-dashapi-app/
+│
+├── app/
+│   ├── main.py
+│   └── __init__.py
+│   └── elastic.py
+│
+├── requirements.txt
+└── Dockerfile

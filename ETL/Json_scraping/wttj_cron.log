@@ -1,0 +1,51 @@
+INFO:root:Successfully removed duplicates and wrote unique job offers to /home/ubuntu/ETL/Json_scraping/wttj_database_2024-08-24.json
+INFO:root:Loaded 6458 offers from today's file.
+INFO:root:Removed 0 duplicate offers.
+INFO:root:Loaded 6504 offers from yesterday's file.
+INFO:root:Removed 0 duplicate offers.
+INFO:root:Filtered out 0 offers present in yesterday's file.
+INFO:root:Saved 6458 new job offers to /home/ubuntu/ETL/Json_scraping/wttj_database_2024-08-25.json
+2024-08-26 02:42:36,966 - root - ERROR - Error during extraction of contract elements: 'NoneType' object has no attribute 'css_first'
+2024-08-26 02:42:36,967 - root - ERROR - Failed to fetch job details from https://www.welcometothejungle.com/fr/companies/arche/jobs/data-analyst-h-f_tours_ARCHE_70LRAXd?q=3d677b15921d8261b8dd72f892619b03&o=2b4780ef-d351-4c19-956f-545fbb417266: 'NoneType' object has no attribute 'css_first'
+2024-08-26 03:12:40,996 - root - ERROR - Timeout error while extracting total number of pages: Page.wait_for_selector: Timeout 5000ms exceeded.
+Call log:
+waiting for locator("[aria-label=\"Pagination\"]") to be visible
+
+2024-08-26 03:12:47,409 - root - ERROR - Timeout error while extracting total number of pages: Page.wait_for_selector: Timeout 5000ms exceeded.
+Call log:
+waiting for locator("[aria-label=\"Pagination\"]") to be visible
+
+2024-08-26 03:12:47,465 - root - ERROR - Failed to retrieve total number of pages after multiple attempts
+2024-08-26 03:12:47,465 - root - ERROR - Could not determine total pages for job: Data Warehousing Engineer
+2024-08-26 04:05:57,621 - root - ERROR - Timeout error while extracting total number of pages: Page.wait_for_selector: Timeout 5000ms exceeded.
+Call log:
+waiting for locator("[aria-label=\"Pagination\"]") to be visible
+
+2024-08-26 04:06:04,330 - root - ERROR - Timeout error while extracting total number of pages: Page.wait_for_selector: Timeout 5000ms exceeded.
+Call log:
+waiting for locator("[aria-label=\"Pagination\"]") to be visible
+
+2024-08-26 04:06:04,373 - root - ERROR - Failed to retrieve total number of pages after multiple attempts
+2024-08-26 04:06:04,373 - root - ERROR - Could not determine total pages for job: ETL Developer
+2024-08-27 02:41:12,718 - root - ERROR - Error during extraction of contract elements: 'NoneType' object has no attribute 'css_first'
+2024-08-27 02:41:12,720 - root - ERROR - Failed to fetch job details from https://www.welcometothejungle.com/fr/companies/arche/jobs/data-analyst-h-f_tours_ARCHE_70LRAXd?q=93a74ee262ce63ef50a1b14575880769&o=2b4780ef-d351-4c19-956f-545fbb417266: 'NoneType' object has no attribute 'css_first'
+2024-08-27 03:10:25,054 - root - ERROR - Timeout error while extracting total number of pages: Page.wait_for_selector: Timeout 5000ms exceeded.
+Call log:
+waiting for locator("[aria-label=\"Pagination\"]") to be visible
+
+2024-08-27 03:10:31,417 - root - ERROR - Timeout error while extracting total number of pages: Page.wait_for_selector: Timeout 5000ms exceeded.
+Call log:
+waiting for locator("[aria-label=\"Pagination\"]") to be visible
+
+2024-08-27 03:10:31,482 - root - ERROR - Failed to retrieve total number of pages after multiple attempts
+2024-08-27 03:10:31,482 - root - ERROR - Could not determine total pages for job: Data Warehousing Engineer
+2024-08-27 04:03:09,713 - root - ERROR - Timeout error while extracting total number of pages: Page.wait_for_selector: Timeout 5000ms exceeded.
+Call log:
+waiting for locator("[aria-label=\"Pagination\"]") to be visible
+
+2024-08-27 04:03:16,101 - root - ERROR - Timeout error while extracting total number of pages: Page.wait_for_selector: Timeout 5000ms exceeded.
+Call log:
+waiting for locator("[aria-label=\"Pagination\"]") to be visible
+
+2024-08-27 04:03:16,155 - root - ERROR - Failed to retrieve total number of pages after multiple attempts
+2024-08-27 04:03:16,155 - root - ERROR - Could not determine total pages for job: ETL Developer

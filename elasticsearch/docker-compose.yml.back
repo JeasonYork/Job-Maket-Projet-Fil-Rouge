@@ -1,0 +1,58 @@
+version: "3.0"
+
+services:
+  elasticsearch:
+    container_name: es-container
+    image: docker.elastic.co/elasticsearch/elasticsearch:8.1.2
+    environment:
+      - xpack.security.enabled=false
+      - "discovery.type=single-node"
+    networks:
+      - es-net
+    ports:
+      - 9200:9200
+    volumes:
+      - esdata:/usr/share/elasticsearch/data
+
+  kibana:
+    container_name: kb-container
+    image: docker.elastic.co/kibana/kibana:8.1.2
+    environment:
+      - ELASTICSEARCH_HOSTS=http://es-container:9200
+      - SERVER_HOST=0.0.0.0
+    networks:
+      - es-net
+    depends_on:
+      - elasticsearch
+    ports:
+      - 5601:5601
+
+  my-dash-app:
+    container_name: my-dash-app
+    image: my-dash-app
+    command: ["sh", "-c", "while ! nc -z es-container 9200; do sleep 1; done; python3 app/main.py"]
+    ports:
+      - 5000:5000
+    networks:
+      - es-net
+    depends_on:
+      - elasticsearch
+
+  my-fastapi-app:
+    container_name: my-fastapi-app
+    image: my-fastapi-app
+    command: ["sh", "-c", "while ! nc -z my-dash-app 5000; do sleep 1; done; uvicorn app.main:app --host 0.0.0.0 --port 8000"]
+    ports:
+      - 8000:8000
+    networks:
+      - es-net
+    depends_on:
+      - my-dash-app
+
+networks:
+  es-net:
+    driver: bridge
+
+volumes:
+  esdata:
+    driver: local
