@@ -19,7 +19,14 @@ import argparse
 import time
 import json
 import os
+<<<<<<< HEAD
 from transform import transform_date
+=======
+import shutil
+import subprocess
+from transform import transform_date
+from data_cleaning_ft import process_all_files_in_directory
+>>>>>>> 2848d0e5d81fc35743010b0d8363a206dc2dd551
 from datetime import datetime
 
 start_time = time.time()
@@ -37,7 +44,13 @@ time_offer = datetime.now().strftime("%Y-%m-%dT%H:%M:%SZ")
 # Chemin du dossier json_scraping local
 current_directory = os.path.dirname(os.path.realpath(__file__))
 
+<<<<<<< HEAD
 json_scraping_directory = os.path.abspath(os.path.join(current_directory, "../../Json_temp"))
+=======
+json_scraping_directory = os.path.abspath(os.path.join(current_directory, "../../Json_scraping"))
+json_temp_directory = os.path.abspath(os.path.join(current_directory, "../../Json_temp"))
+json_transformed_directory = os.path.abspath(os.path.join(current_directory, "../../Json_transformed"))
+>>>>>>> 2848d0e5d81fc35743010b0d8363a206dc2dd551
 
 # Définir les répertoires en utilisant des variables d'environnement
 # json_scraping_directory = os.getenv('JSON_SCRAPING_DIRECTORY', os.path.abspath(os.path.join(os.path.dirname(__file__), "../../json_scraping")))
@@ -46,6 +59,7 @@ json_scraping_directory = os.path.abspath(os.path.join(current_directory, "../..
 if not os.path.exists(json_scraping_directory):
     os.makedirs(json_scraping_directory)
 
+<<<<<<< HEAD
 # List of search terms for web scraping.
 Search_term = [
     "data architect",
@@ -70,6 +84,46 @@ def log_scraping_results(log_file_path, term, num_jobs):
         log_entry = f"{time_file} - Term: {term} - Jobs added: {num_jobs}\n"
         log_file.write(log_entry)
 
+=======
+if not os.path.exists(json_temp_directory):
+    os.makedirs(json_temp_directory)
+
+# List of search terms for web scraping.
+Search_term = [
+    #"data architect",
+    #"data engineer",
+    "data scientist",
+    #"data analyst",
+    #"software engineer",
+    #"Data Warehousing Engineer",
+    #"Machine Learning Engineer",
+    #"cloud architect",
+    #"solution architect",
+    #"cloud engineer",
+    #"big data engineer",
+    #"Data Infrastructure Engineer",
+    #"Data Pipeline Engineer",
+    #"ETL Developer"
+]
+# Fonctions utilitaires
+def log_scraping_results(log_file_path, term, num_jobs):
+    #num_jobs-=1
+    with open(log_file_path, 'a') as log_file:
+        log_entry = f"{time_file} - Terme: {term} - nb d'annonces scrapées: {num_jobs}\n"
+        log_file.write(log_entry)
+
+def move_files(source_directory, destination_directory, prefix, suffix=None):
+    """
+    Déplace les fichiers qui commencent par 'prefix' et se terminent par 'suffix' (facultatif) 
+    du dossier source vers le dossier de destination.
+    """
+    for file_name in os.listdir(source_directory):
+        if file_name.startswith(prefix) and (suffix is None or file_name.endswith(suffix)):
+            source_path = os.path.join(source_directory, file_name)
+            destination_path = os.path.join(destination_directory, file_name)
+            shutil.move(source_path, destination_path)
+
+>>>>>>> 2848d0e5d81fc35743010b0d8363a206dc2dd551
 def initialize_driver():
     #gecko_driver_path = "/usr/bin/geckodriver"
     #firefox_service = FirefoxService(executable_path=gecko_driver_path)
@@ -113,7 +167,11 @@ def get_total_offers(url, collect_all):
             print("Filtre 'Un jour' selectionné")
         except:
             print("impossible d'appliquer le filtre 'Un jour' ")
+<<<<<<< HEAD
         
+=======
+
+>>>>>>> 2848d0e5d81fc35743010b0d8363a206dc2dd551
     try:
         # Find the number of job offers for the search term
         total_offers_element = driver.find_element(By.XPATH, "//div[@id='zoneAfficherListeOffres']//h1[contains(@class, 'title')]")
@@ -138,18 +196,32 @@ def click_show_more_offers(driver, times_to_click):
     except Exception as e:
         print(f"Une erreur s'est produite lors du clic sur le bouton : {e}")
         return False
+<<<<<<< HEAD
     
 def scraping_and_process(term, driver, collect_all=False):
     # Fetch the total number of offers
     url = base_url.format(term.replace(" ", "+"))
     total_offers = get_total_offers(url, collect_all)
                 
+=======
+
+def scraping_and_process(term, driver, collect_all=False):
+    nb_annonce = 0
+    # Fetch the total number of offers
+    url = base_url.format(term.replace(" ", "+"))
+    total_offers = get_total_offers(url, collect_all)
+
+>>>>>>> 2848d0e5d81fc35743010b0d8363a206dc2dd551
     if total_offers is not None:
         print(f"{term} - Nombre total d'annonces : {total_offers}")
 
         # Click the necessary number of times to display all offers.
 
+<<<<<<< HEAD
         clicks_needed = ((total_offers - 1) // 20)
+=======
+        clicks_needed = (total_offers // 20)
+>>>>>>> 2848d0e5d81fc35743010b0d8363a206dc2dd551
         if clicks_needed > 49:
             print("(Nombre de pages à charger supérieur à 49)", clicks_needed)
             clicks_needed = 49
@@ -164,7 +236,11 @@ def scraping_and_process(term, driver, collect_all=False):
                 offer_elements = driver.find_elements(By.CSS_SELECTOR, 'li.result')
             except:
                 print("Impossible de récuperer la liste de résultat")
+<<<<<<< HEAD
             
+=======
+
+>>>>>>> 2848d0e5d81fc35743010b0d8363a206dc2dd551
             nb_annonce = 1
             for offer_element in offer_elements:
                 # Extraction of offer data from the results page.
@@ -262,15 +338,25 @@ def scraping_and_process(term, driver, collect_all=False):
                         #"proportion_male": None,
                         },
                     "description": description,
+<<<<<<< HEAD
                     #"skills": extracted_skills,          
                     #"search_term": term,
                     #"job_reference": Job_ref,                
+=======
+                    #"skills": extracted_skills,
+                    #"search_term": term,
+                    #"job_reference": Job_ref,
+>>>>>>> 2848d0e5d81fc35743010b0d8363a206dc2dd551
                     #"createdAt": time_offer
                 }
                 jobs.append(job)
 
                 # Enregistrement des données
+<<<<<<< HEAD
                 filename = os.path.join(json_scraping_directory, "FT_scrapping_" + time_file + "_" + term + ".json")
+=======
+                filename = os.path.join(json_temp_directory, "FT_scrapping_" + time_file + "_" + term + ".json")
+>>>>>>> 2848d0e5d81fc35743010b0d8363a206dc2dd551
                 file_exists = os.path.isfile(filename)
                 if not file_exists or os.stat(filename).st_size == 0:
                     with open(filename, 'w', encoding='utf-8') as f:
@@ -294,6 +380,7 @@ def scraping_and_process(term, driver, collect_all=False):
                 time.sleep(2)
         else:
             print("Erreur lors du clic sur le bouton.")
+<<<<<<< HEAD
             nb_annonce = 0
     else:
         print("Impossible d'obtenir le nombre total d'annonces.")
@@ -304,6 +391,13 @@ def scraping_and_process(term, driver, collect_all=False):
             log_scraping_results(log_file_path, term, nb_annonce)
     except:
         print("Erreur lors de l'enregistrement du fichier log")
+=======
+    else:
+        print("Impossible d'obtenir le nombre total d'annonces.")
+            # Log the results after processing the term
+    if total_offers is not None:
+        log_scraping_results(log_file_path, term, nb_annonce)
+>>>>>>> 2848d0e5d81fc35743010b0d8363a206dc2dd551
 
 if __name__ == "__main__":
     log_file_path = os.path.join(current_directory, "scraping_log.txt")
@@ -317,16 +411,68 @@ if __name__ == "__main__":
         print("Scraping des 3 derniers mois. (totalité des offres)")
     else:
         print("Scraping du dernier jour.")
+<<<<<<< HEAD
     
+=======
+
+>>>>>>> 2848d0e5d81fc35743010b0d8363a206dc2dd551
     print("initialisation du driver")
     driver = initialize_driver()
     for term in Search_term:
         scraping_and_process(term, driver, collect_all=args.all)
 
+<<<<<<< HEAD
+=======
+    # Exécution du nettoyage des données après le scraping
+    print("Exécution du nettoyage des données...")
+    output_folder = os.path.abspath(os.path.join(current_directory, "../../Json_temp"))
+    log_file_cleaning = os.path.join(current_directory, "cleaning_log.txt")
+
+    # Appel à la fonction de nettoyage des données
+    process_all_files_in_directory(json_temp_directory, output_folder, log_file_cleaning)
+
+    print("Chargement des données dans jobmarket")
+
+    # Exécuter le script bulk_script_ft.py
+    try:
+        result = subprocess.run(["python3", "C:/Users/xavie/Documents/Formation Informatique/Datascientest/Projet JobMarket/VM/ETL/Extract/FranceTravail/bulk_script_ft.py"], check=True)
+        print("Le script bulk_script_ft.py a été exécuté avec succès.")
+    except subprocess.CalledProcessError as e:
+        print(f"Erreur lors de l'exécution de bulk_script_ft.py: {str(e)}")
+
+    time.sleep(4)
+
+    # Déplacement des fichiers transformés
+    print("Déplacement des fichiers transformés...")
+    move_files(output_folder, json_transformed_directory, prefix="FT", suffix="_updated.json")
+
+    # Déplacement des fichiers restants
+    print("Déplacement des fichiers restants vers json_scraping_directory...")
+    try:
+        move_files(output_folder, json_scraping_directory, prefix="FT")
+        print(f"Tous les fichiers JSON ont été déplacés dans {json_transformed_directory} et {json_scraping_directory}")
+    except Exception as e:
+        ("impossible de déplacer les fichiers")
+
+    #"Supression des doublons pour la source France Travail"
+    print("Supression des doublons pour la source France Travail")
+
+    try:
+        result = subprocess.run(["python3", "C:/Users/xavie/Documents/Formation Informatique/Datascientest/Projet JobMarket/VM/ETL/Extract/FranceTravail/es_cleanup_duplicates_02.py"], check=True)
+        print("Suppression des doublons terminée.")
+    except subprocess.CalledProcessError as e:
+        print(f"Erreur pendant l'execution du script es_cleanup_duplicates_02.py: {str(e)}")
+>>>>>>> 2848d0e5d81fc35743010b0d8363a206dc2dd551
 
 end_time = time.time()
 execution_time = end_time - start_time
 minutes, seconds = divmod(execution_time, 60)
+<<<<<<< HEAD
 print("Scrapping France Travail terminé")
 
 print("Durée d'exécution :", int(execution_time), "secondes ({} minutes et {} secondes)".format(int(minutes), int(seconds)))
+=======
+print("*** Scrapping France Travail terminé ***")
+
+print("*** Durée d'exécution :", int(execution_time), "secondes ({} minutes et {} secondes)".format(int(minutes), int(seconds)), "***")
+>>>>>>> 2848d0e5d81fc35743010b0d8363a206dc2dd551

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 20240822_154734 - Term: data architect - Jobs added: 12
 20240822_154734 - Term: data engineer - Jobs added: 66
 20240822_154734 - Term: data scientist - Jobs added: 40
@@ -66,3 +67,24 @@
 20240825_124858 - Term: cloud engineer - Jobs added: 83
 20240825_124858 - Term: big data engineer - Jobs added: 44
 20240825_124858 - Term: Data Infrastructure Engineer - Jobs added: 1
+=======
+20240820_093929 - Term: data architect - Jobs added: 14
+20240820_093929 - Term: data engineer - Jobs added: -1
+20240820_093929 - Term: data scientist - Jobs added: 40
+20240820_093929 - Term: data analyst - Jobs added: 40
+20240820_093929 - Term: software engineer - Jobs added: 4
+20240820_093929 - Term: cloud architect - Jobs added: -1
+20240820_093929 - Term: solution architect - Jobs added: 7
+20240820_093929 - Term: cloud engineer - Jobs added: 4
+20240820_093929 - Term: big data engineer - Jobs added: 5
+20240820_192739 - Term: data architect - Jobs added: 27
+20240820_192739 - Term: data engineer - Jobs added: 78
+20240820_192739 - Term: data scientist - Jobs added: 41
+20240820_192739 - Term: data analyst - Jobs added: 41
+20240820_192739 - Term: software engineer - Jobs added: 3
+20240820_192739 - Term: cloud architect - Jobs added: 29
+20240820_192739 - Term: solution architect - Jobs added: 10
+20240820_192739 - Term: cloud engineer - Jobs added: 5
+20240820_192739 - Term: big data engineer - Jobs added: 7
+20240820_204347 - Terme: data scientist - nb d'annonces scrapées: 41
+>>>>>>> 2848d0e5d81fc35743010b0d8363a206dc2dd551
