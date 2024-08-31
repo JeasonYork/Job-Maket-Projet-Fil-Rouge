@@ -1,0 +1,975 @@
+
+  RuntimeError
+
+  Poetry could not find a pyproject.toml file in /home/ubuntu or its parents
+
+  at /usr/lib/python3/dist-packages/poetry/core/factory.py:369 in locate
+      365│             if poetry_file.exists():
+      366│                 return poetry_file
+      367│ 
+      368│         else:
+    → 369│             raise RuntimeError(
+      370│                 "Poetry could not find a pyproject.toml file in {} or its parents".format(
+      371│                     cwd
+      372│                 )
+      373│             )
+
+  RuntimeError
+
+  Poetry could not find a pyproject.toml file in /home/ubuntu or its parents
+
+  at /usr/lib/python3/dist-packages/poetry/core/factory.py:369 in locate
+      365│             if poetry_file.exists():
+      366│                 return poetry_file
+      367│ 
+      368│         else:
+    → 369│             raise RuntimeError(
+      370│                 "Poetry could not find a pyproject.toml file in {} or its parents".format(
+      371│                     cwd
+      372│                 )
+      373│             )
+
+  RuntimeError
+
+  Poetry could not find a pyproject.toml file in /home/ubuntu or its parents
+
+  at /usr/lib/python3/dist-packages/poetry/core/factory.py:369 in locate
+      365│             if poetry_file.exists():
+      366│                 return poetry_file
+      367│ 
+      368│         else:
+    → 369│             raise RuntimeError(
+      370│                 "Poetry could not find a pyproject.toml file in {} or its parents".format(
+      371│                     cwd
+      372│                 )
+      373│             )
+
+  RuntimeError
+
+  Poetry could not find a pyproject.toml file in /home/ubuntu or its parents
+
+  at /usr/lib/python3/dist-packages/poetry/core/factory.py:369 in locate
+      365│             if poetry_file.exists():
+      366│                 return poetry_file
+      367│ 
+      368│         else:
+    → 369│             raise RuntimeError(
+      370│                 "Poetry could not find a pyproject.toml file in {} or its parents".format(
+      371│                     cwd
+      372│                 )
+      373│             )
+sudo: playwright: command not found
+/home/ubuntu/test_mohamed/wttj/run_script.sh: line 33: /home/ubuntu/test_mohamed/wttj: Is a directory
+2024-06-23 07:25:05,605 - WARNING - Collecting data for data engineer position
+ERROR - Unexpected error : BrowserType.launch: 
+╔══════════════════════════════════════════════════════╗
+║ Host system is missing dependencies to run browsers. ║
+║ Please install them with the following command:      ║
+║                                                      ║
+║     sudo playwright install-deps                     ║
+║                                                      ║
+║ Alternatively, use apt:                              ║
+║     sudo apt-get install libatk1.0-0\                ║
+║         libatk-bridge2.0-0\                          ║
+║         libcups2\                                    ║
+║         libatspi2.0-0\                               ║
+║         libxdamage1\                                 ║
+║         libgbm1\                                     ║
+║         libxkbcommon0\                               ║
+║         libpango-1.0-0\                              ║
+║         libcairo2\                                   ║
+║         libasound2                                   ║
+║                                                      ║
+║ <3 Playwright Team                                   ║
+╚══════════════════════════════════════════════════════╝
+ERROR - Unexpected error : BrowserType.launch: 
+╔══════════════════════════════════════════════════════╗
+║ Host system is missing dependencies to run browsers. ║
+║ Please install them with the following command:      ║
+║                                                      ║
+║     sudo playwright install-deps                     ║
+║                                                      ║
+║ Alternatively, use apt:                              ║
+║     sudo apt-get install libatk1.0-0\                ║
+║         libatk-bridge2.0-0\                          ║
+║         libcups2\                                    ║
+║         libatspi2.0-0\                               ║
+║         libxdamage1\                                 ║
+║         libgbm1\                                     ║
+║         libxkbcommon0\                               ║
+║         libpango-1.0-0\                              ║
+║         libcairo2\                                   ║
+║         libasound2                                   ║
+║                                                      ║
+║ <3 Playwright Team                                   ║
+╚══════════════════════════════════════════════════════╝
+2024-06-23 07:25:06,647 - ERROR - Unexpected error : BrowserType.launch: 
+╔══════════════════════════════════════════════════════╗
+║ Host system is missing dependencies to run browsers. ║
+║ Please install them with the following command:      ║
+║                                                      ║
+║     sudo playwright install-deps                     ║
+║                                                      ║
+║ Alternatively, use apt:                              ║
+║     sudo apt-get install libatk1.0-0\                ║
+║         libatk-bridge2.0-0\                          ║
+║         libcups2\                                    ║
+║         libatspi2.0-0\                               ║
+║         libxdamage1\                                 ║
+║         libgbm1\                                     ║
+║         libxkbcommon0\                               ║
+║         libpango-1.0-0\                              ║
+║         libcairo2\                                   ║
+║         libasound2                                   ║
+║                                                      ║
+║ <3 Playwright Team                                   ║
+╚══════════════════════════════════════════════════════╝
+2024-06-23 07:25:06,648 - WARNING - Collecting data for data architect position
+ERROR - Unexpected error : BrowserType.launch: 
+╔══════════════════════════════════════════════════════╗
+║ Host system is missing dependencies to run browsers. ║
+║ Please install them with the following command:      ║
+║                                                      ║
+║     sudo playwright install-deps                     ║
+║                                                      ║
+║ Alternatively, use apt:                              ║
+║     sudo apt-get install libatk1.0-0\                ║
+║         libatk-bridge2.0-0\                          ║
+║         libcups2\                                    ║
+║         libatspi2.0-0\                               ║
+║         libxdamage1\                                 ║
+║         libgbm1\                                     ║
+║         libxkbcommon0\                               ║
+║         libpango-1.0-0\                              ║
+║         libcairo2\                                   ║
+║         libasound2                                   ║
+║                                                      ║
+║ <3 Playwright Team                                   ║
+╚══════════════════════════════════════════════════════╝
+ERROR - Unexpected error : BrowserType.launch: 
+╔══════════════════════════════════════════════════════╗
+║ Host system is missing dependencies to run browsers. ║
+║ Please install them with the following command:      ║
+║                                                      ║
+║     sudo playwright install-deps                     ║
+║                                                      ║
+║ Alternatively, use apt:                              ║
+║     sudo apt-get install libatk1.0-0\                ║
+║         libatk-bridge2.0-0\                          ║
+║         libcups2\                                    ║
+║         libatspi2.0-0\                               ║
+║         libxdamage1\                                 ║
+║         libgbm1\                                     ║
+║         libxkbcommon0\                               ║
+║         libpango-1.0-0\                              ║
+║         libcairo2\                                   ║
+║         libasound2                                   ║
+║                                                      ║
+║ <3 Playwright Team                                   ║
+╚══════════════════════════════════════════════════════╝
+2024-06-23 07:25:07,095 - ERROR - Unexpected error : BrowserType.launch: 
+╔══════════════════════════════════════════════════════╗
+║ Host system is missing dependencies to run browsers. ║
+║ Please install them with the following command:      ║
+║                                                      ║
+║     sudo playwright install-deps                     ║
+║                                                      ║
+║ Alternatively, use apt:                              ║
+║     sudo apt-get install libatk1.0-0\                ║
+║         libatk-bridge2.0-0\                          ║
+║         libcups2\                                    ║
+║         libatspi2.0-0\                               ║
+║         libxdamage1\                                 ║
+║         libgbm1\                                     ║
+║         libxkbcommon0\                               ║
+║         libpango-1.0-0\                              ║
+║         libcairo2\                                   ║
+║         libasound2                                   ║
+║                                                      ║
+║ <3 Playwright Team                                   ║
+╚══════════════════════════════════════════════════════╝
+2024-06-23 07:25:07,096 - WARNING - Collecting data for data scientist position
+ERROR - Unexpected error : BrowserType.launch: 
+╔══════════════════════════════════════════════════════╗
+║ Host system is missing dependencies to run browsers. ║
+║ Please install them with the following command:      ║
+║                                                      ║
+║     sudo playwright install-deps                     ║
+║                                                      ║
+║ Alternatively, use apt:                              ║
+║     sudo apt-get install libatk1.0-0\                ║
+║         libatk-bridge2.0-0\                          ║
+║         libcups2\                                    ║
+║         libatspi2.0-0\                               ║
+║         libxdamage1\                                 ║
+║         libgbm1\                                     ║
+║         libxkbcommon0\                               ║
+║         libpango-1.0-0\                              ║
+║         libcairo2\                                   ║
+║         libasound2                                   ║
+║                                                      ║
+║ <3 Playwright Team                                   ║
+╚══════════════════════════════════════════════════════╝
+ERROR - Unexpected error : BrowserType.launch: 
+╔══════════════════════════════════════════════════════╗
+║ Host system is missing dependencies to run browsers. ║
+║ Please install them with the following command:      ║
+║                                                      ║
+║     sudo playwright install-deps                     ║
+║                                                      ║
+║ Alternatively, use apt:                              ║
+║     sudo apt-get install libatk1.0-0\                ║
+║         libatk-bridge2.0-0\                          ║
+║         libcups2\                                    ║
+║         libatspi2.0-0\                               ║
+║         libxdamage1\                                 ║
+║         libgbm1\                                     ║
+║         libxkbcommon0\                               ║
+║         libpango-1.0-0\                              ║
+║         libcairo2\                                   ║
+║         libasound2                                   ║
+║                                                      ║
+║ <3 Playwright Team                                   ║
+╚══════════════════════════════════════════════════════╝
+2024-06-23 07:25:07,503 - ERROR - Unexpected error : BrowserType.launch: 
+╔══════════════════════════════════════════════════════╗
+║ Host system is missing dependencies to run browsers. ║
+║ Please install them with the following command:      ║
+║                                                      ║
+║     sudo playwright install-deps                     ║
+║                                                      ║
+║ Alternatively, use apt:                              ║
+║     sudo apt-get install libatk1.0-0\                ║
+║         libatk-bridge2.0-0\                          ║
+║         libcups2\                                    ║
+║         libatspi2.0-0\                               ║
+║         libxdamage1\                                 ║
+║         libgbm1\                                     ║
+║         libxkbcommon0\                               ║
+║         libpango-1.0-0\                              ║
+║         libcairo2\                                   ║
+║         libasound2                                   ║
+║                                                      ║
+║ <3 Playwright Team                                   ║
+╚══════════════════════════════════════════════════════╝
+2024-06-23 07:25:07,504 - WARNING - Collecting data for data analyst position
+ERROR - Unexpected error : BrowserType.launch: 
+╔══════════════════════════════════════════════════════╗
+║ Host system is missing dependencies to run browsers. ║
+║ Please install them with the following command:      ║
+║                                                      ║
+║     sudo playwright install-deps                     ║
+║                                                      ║
+║ Alternatively, use apt:                              ║
+║     sudo apt-get install libatk1.0-0\                ║
+║         libatk-bridge2.0-0\                          ║
+║         libcups2\                                    ║
+║         libatspi2.0-0\                               ║
+║         libxdamage1\                                 ║
+║         libgbm1\                                     ║
+║         libxkbcommon0\                               ║
+║         libpango-1.0-0\                              ║
+║         libcairo2\                                   ║
+║         libasound2                                   ║
+║                                                      ║
+║ <3 Playwright Team                                   ║
+╚══════════════════════════════════════════════════════╝
+ERROR - Unexpected error : BrowserType.launch: 
+╔══════════════════════════════════════════════════════╗
+║ Host system is missing dependencies to run browsers. ║
+║ Please install them with the following command:      ║
+║                                                      ║
+║     sudo playwright install-deps                     ║
+║                                                      ║
+║ Alternatively, use apt:                              ║
+║     sudo apt-get install libatk1.0-0\                ║
+║         libatk-bridge2.0-0\                          ║
+║         libcups2\                                    ║
+║         libatspi2.0-0\                               ║
+║         libxdamage1\                                 ║
+║         libgbm1\                                     ║
+║         libxkbcommon0\                               ║
+║         libpango-1.0-0\                              ║
+║         libcairo2\                                   ║
+║         libasound2                                   ║
+║                                                      ║
+║ <3 Playwright Team                                   ║
+╚══════════════════════════════════════════════════════╝
+2024-06-23 07:25:07,986 - ERROR - Unexpected error : BrowserType.launch: 
+╔══════════════════════════════════════════════════════╗
+║ Host system is missing dependencies to run browsers. ║
+║ Please install them with the following command:      ║
+║                                                      ║
+║     sudo playwright install-deps                     ║
+║                                                      ║
+║ Alternatively, use apt:                              ║
+║     sudo apt-get install libatk1.0-0\                ║
+║         libatk-bridge2.0-0\                          ║
+║         libcups2\                                    ║
+║         libatspi2.0-0\                               ║
+║         libxdamage1\                                 ║
+║         libgbm1\                                     ║
+║         libxkbcommon0\                               ║
+║         libpango-1.0-0\                              ║
+║         libcairo2\                                   ║
+║         libasound2                                   ║
+║                                                      ║
+║ <3 Playwright Team                                   ║
+╚══════════════════════════════════════════════════════╝
+2024-06-23 07:25:07,986 - WARNING - Collecting data for software engineer position
+ERROR - Unexpected error : BrowserType.launch: 
+╔══════════════════════════════════════════════════════╗
+║ Host system is missing dependencies to run browsers. ║
+║ Please install them with the following command:      ║
+║                                                      ║
+║     sudo playwright install-deps                     ║
+║                                                      ║
+║ Alternatively, use apt:                              ║
+║     sudo apt-get install libatk1.0-0\                ║
+║         libatk-bridge2.0-0\                          ║
+║         libcups2\                                    ║
+║         libatspi2.0-0\                               ║
+║         libxdamage1\                                 ║
+║         libgbm1\                                     ║
+║         libxkbcommon0\                               ║
+║         libpango-1.0-0\                              ║
+║         libcairo2\                                   ║
+║         libasound2                                   ║
+║                                                      ║
+║ <3 Playwright Team                                   ║
+╚══════════════════════════════════════════════════════╝
+ERROR - Unexpected error : BrowserType.launch: 
+╔══════════════════════════════════════════════════════╗
+║ Host system is missing dependencies to run browsers. ║
+║ Please install them with the following command:      ║
+║                                                      ║
+║     sudo playwright install-deps                     ║
+║                                                      ║
+║ Alternatively, use apt:                              ║
+║     sudo apt-get install libatk1.0-0\                ║
+║         libatk-bridge2.0-0\                          ║
+║         libcups2\                                    ║
+║         libatspi2.0-0\                               ║
+║         libxdamage1\                                 ║
+║         libgbm1\                                     ║
+║         libxkbcommon0\                               ║
+║         libpango-1.0-0\                              ║
+║         libcairo2\                                   ║
+║         libasound2                                   ║
+║                                                      ║
+║ <3 Playwright Team                                   ║
+╚══════════════════════════════════════════════════════╝
+2024-06-23 07:25:08,363 - ERROR - Unexpected error : BrowserType.launch: 
+╔══════════════════════════════════════════════════════╗
+║ Host system is missing dependencies to run browsers. ║
+║ Please install them with the following command:      ║
+║                                                      ║
+║     sudo playwright install-deps                     ║
+║                                                      ║
+║ Alternatively, use apt:                              ║
+║     sudo apt-get install libatk1.0-0\                ║
+║         libatk-bridge2.0-0\                          ║
+║         libcups2\                                    ║
+║         libatspi2.0-0\                               ║
+║         libxdamage1\                                 ║
+║         libgbm1\                                     ║
+║         libxkbcommon0\                               ║
+║         libpango-1.0-0\                              ║
+║         libcairo2\                                   ║
+║         libasound2                                   ║
+║                                                      ║
+║ <3 Playwright Team                                   ║
+╚══════════════════════════════════════════════════════╝
+2024-06-23 07:25:08,363 - WARNING - Collecting data for Data Warehousing Engineer position
+ERROR - Unexpected error : BrowserType.launch: 
+╔══════════════════════════════════════════════════════╗
+║ Host system is missing dependencies to run browsers. ║
+║ Please install them with the following command:      ║
+║                                                      ║
+║     sudo playwright install-deps                     ║
+║                                                      ║
+║ Alternatively, use apt:                              ║
+║     sudo apt-get install libatk1.0-0\                ║
+║         libatk-bridge2.0-0\                          ║
+║         libcups2\                                    ║
+║         libatspi2.0-0\                               ║
+║         libxdamage1\                                 ║
+║         libgbm1\                                     ║
+║         libxkbcommon0\                               ║
+║         libpango-1.0-0\                              ║
+║         libcairo2\                                   ║
+║         libasound2                                   ║
+║                                                      ║
+║ <3 Playwright Team                                   ║
+╚══════════════════════════════════════════════════════╝
+ERROR - Unexpected error : BrowserType.launch: 
+╔══════════════════════════════════════════════════════╗
+║ Host system is missing dependencies to run browsers. ║
+║ Please install them with the following command:      ║
+║                                                      ║
+║     sudo playwright install-deps                     ║
+║                                                      ║
+║ Alternatively, use apt:                              ║
+║     sudo apt-get install libatk1.0-0\                ║
+║         libatk-bridge2.0-0\                          ║
+║         libcups2\                                    ║
+║         libatspi2.0-0\                               ║
+║         libxdamage1\                                 ║
+║         libgbm1\                                     ║
+║         libxkbcommon0\                               ║
+║         libpango-1.0-0\                              ║
+║         libcairo2\                                   ║
+║         libasound2                                   ║
+║                                                      ║
+║ <3 Playwright Team                                   ║
+╚══════════════════════════════════════════════════════╝
+2024-06-23 07:25:08,910 - ERROR - Unexpected error : BrowserType.launch: 
+╔══════════════════════════════════════════════════════╗
+║ Host system is missing dependencies to run browsers. ║
+║ Please install them with the following command:      ║
+║                                                      ║
+║     sudo playwright install-deps                     ║
+║                                                      ║
+║ Alternatively, use apt:                              ║
+║     sudo apt-get install libatk1.0-0\                ║
+║         libatk-bridge2.0-0\                          ║
+║         libcups2\                                    ║
+║         libatspi2.0-0\                               ║
+║         libxdamage1\                                 ║
+║         libgbm1\                                     ║
+║         libxkbcommon0\                               ║
+║         libpango-1.0-0\                              ║
+║         libcairo2\                                   ║
+║         libasound2                                   ║
+║                                                      ║
+║ <3 Playwright Team                                   ║
+╚══════════════════════════════════════════════════════╝
+2024-06-23 07:25:08,911 - WARNING - Collecting data for Machine Learning Engineer position
+ERROR - Unexpected error : BrowserType.launch: 
+╔══════════════════════════════════════════════════════╗
+║ Host system is missing dependencies to run browsers. ║
+║ Please install them with the following command:      ║
+║                                                      ║
+║     sudo playwright install-deps                     ║
+║                                                      ║
+║ Alternatively, use apt:                              ║
+║     sudo apt-get install libatk1.0-0\                ║
+║         libatk-bridge2.0-0\                          ║
+║         libcups2\                                    ║
+║         libatspi2.0-0\                               ║
+║         libxdamage1\                                 ║
+║         libgbm1\                                     ║
+║         libxkbcommon0\                               ║
+║         libpango-1.0-0\                              ║
+║         libcairo2\                                   ║
+║         libasound2                                   ║
+║                                                      ║
+║ <3 Playwright Team                                   ║
+╚══════════════════════════════════════════════════════╝
+ERROR - Unexpected error : BrowserType.launch: 
+╔══════════════════════════════════════════════════════╗
+║ Host system is missing dependencies to run browsers. ║
+║ Please install them with the following command:      ║
+║                                                      ║
+║     sudo playwright install-deps                     ║
+║                                                      ║
+║ Alternatively, use apt:                              ║
+║     sudo apt-get install libatk1.0-0\                ║
+║         libatk-bridge2.0-0\                          ║
+║         libcups2\                                    ║
+║         libatspi2.0-0\                               ║
+║         libxdamage1\                                 ║
+║         libgbm1\                                     ║
+║         libxkbcommon0\                               ║
+║         libpango-1.0-0\                              ║
+║         libcairo2\                                   ║
+║         libasound2                                   ║
+║                                                      ║
+║ <3 Playwright Team                                   ║
+╚══════════════════════════════════════════════════════╝
+2024-06-23 07:25:09,403 - ERROR - Unexpected error : BrowserType.launch: 
+╔══════════════════════════════════════════════════════╗
+║ Host system is missing dependencies to run browsers. ║
+║ Please install them with the following command:      ║
+║                                                      ║
+║     sudo playwright install-deps                     ║
+║                                                      ║
+║ Alternatively, use apt:                              ║
+║     sudo apt-get install libatk1.0-0\                ║
+║         libatk-bridge2.0-0\                          ║
+║         libcups2\                                    ║
+║         libatspi2.0-0\                               ║
+║         libxdamage1\                                 ║
+║         libgbm1\                                     ║
+║         libxkbcommon0\                               ║
+║         libpango-1.0-0\                              ║
+║         libcairo2\                                   ║
+║         libasound2                                   ║
+║                                                      ║
+║ <3 Playwright Team                                   ║
+╚══════════════════════════════════════════════════════╝
+2024-06-23 07:25:09,404 - WARNING - Collecting data for cloud architect position
+ERROR - Unexpected error : BrowserType.launch: 
+╔══════════════════════════════════════════════════════╗
+║ Host system is missing dependencies to run browsers. ║
+║ Please install them with the following command:      ║
+║                                                      ║
+║     sudo playwright install-deps                     ║
+║                                                      ║
+║ Alternatively, use apt:                              ║
+║     sudo apt-get install libatk1.0-0\                ║
+║         libatk-bridge2.0-0\                          ║
+║         libcups2\                                    ║
+║         libatspi2.0-0\                               ║
+║         libxdamage1\                                 ║
+║         libgbm1\                                     ║
+║         libxkbcommon0\                               ║
+║         libpango-1.0-0\                              ║
+║         libcairo2\                                   ║
+║         libasound2                                   ║
+║                                                      ║
+║ <3 Playwright Team                                   ║
+╚══════════════════════════════════════════════════════╝
+ERROR - Unexpected error : BrowserType.launch: 
+╔══════════════════════════════════════════════════════╗
+║ Host system is missing dependencies to run browsers. ║
+║ Please install them with the following command:      ║
+║                                                      ║
+║     sudo playwright install-deps                     ║
+║                                                      ║
+║ Alternatively, use apt:                              ║
+║     sudo apt-get install libatk1.0-0\                ║
+║         libatk-bridge2.0-0\                          ║
+║         libcups2\                                    ║
+║         libatspi2.0-0\                               ║
+║         libxdamage1\                                 ║
+║         libgbm1\                                     ║
+║         libxkbcommon0\                               ║
+║         libpango-1.0-0\                              ║
+║         libcairo2\                                   ║
+║         libasound2                                   ║
+║                                                      ║
+║ <3 Playwright Team                                   ║
+╚══════════════════════════════════════════════════════╝
+2024-06-23 07:25:09,852 - ERROR - Unexpected error : BrowserType.launch: 
+╔══════════════════════════════════════════════════════╗
+║ Host system is missing dependencies to run browsers. ║
+║ Please install them with the following command:      ║
+║                                                      ║
+║     sudo playwright install-deps                     ║
+║                                                      ║
+║ Alternatively, use apt:                              ║
+║     sudo apt-get install libatk1.0-0\                ║
+║         libatk-bridge2.0-0\                          ║
+║         libcups2\                                    ║
+║         libatspi2.0-0\                               ║
+║         libxdamage1\                                 ║
+║         libgbm1\                                     ║
+║         libxkbcommon0\                               ║
+║         libpango-1.0-0\                              ║
+║         libcairo2\                                   ║
+║         libasound2                                   ║
+║                                                      ║
+║ <3 Playwright Team                                   ║
+╚══════════════════════════════════════════════════════╝
+2024-06-23 07:25:09,852 - WARNING - Collecting data for solution architect position
+ERROR - Unexpected error : BrowserType.launch: 
+╔══════════════════════════════════════════════════════╗
+║ Host system is missing dependencies to run browsers. ║
+║ Please install them with the following command:      ║
+║                                                      ║
+║     sudo playwright install-deps                     ║
+║                                                      ║
+║ Alternatively, use apt:                              ║
+║     sudo apt-get install libatk1.0-0\                ║
+║         libatk-bridge2.0-0\                          ║
+║         libcups2\                                    ║
+║         libatspi2.0-0\                               ║
+║         libxdamage1\                                 ║
+║         libgbm1\                                     ║
+║         libxkbcommon0\                               ║
+║         libpango-1.0-0\                              ║
+║         libcairo2\                                   ║
+║         libasound2                                   ║
+║                                                      ║
+║ <3 Playwright Team                                   ║
+╚══════════════════════════════════════════════════════╝
+ERROR - Unexpected error : BrowserType.launch: 
+╔══════════════════════════════════════════════════════╗
+║ Host system is missing dependencies to run browsers. ║
+║ Please install them with the following command:      ║
+║                                                      ║
+║     sudo playwright install-deps                     ║
+║                                                      ║
+║ Alternatively, use apt:                              ║
+║     sudo apt-get install libatk1.0-0\                ║
+║         libatk-bridge2.0-0\                          ║
+║         libcups2\                                    ║
+║         libatspi2.0-0\                               ║
+║         libxdamage1\                                 ║
+║         libgbm1\                                     ║
+║         libxkbcommon0\                               ║
+║         libpango-1.0-0\                              ║
+║         libcairo2\                                   ║
+║         libasound2                                   ║
+║                                                      ║
+║ <3 Playwright Team                                   ║
+╚══════════════════════════════════════════════════════╝
+2024-06-23 07:25:10,256 - ERROR - Unexpected error : BrowserType.launch: 
+╔══════════════════════════════════════════════════════╗
+║ Host system is missing dependencies to run browsers. ║
+║ Please install them with the following command:      ║
+║                                                      ║
+║     sudo playwright install-deps                     ║
+║                                                      ║
+║ Alternatively, use apt:                              ║
+║     sudo apt-get install libatk1.0-0\                ║
+║         libatk-bridge2.0-0\                          ║
+║         libcups2\                                    ║
+║         libatspi2.0-0\                               ║
+║         libxdamage1\                                 ║
+║         libgbm1\                                     ║
+║         libxkbcommon0\                               ║
+║         libpango-1.0-0\                              ║
+║         libcairo2\                                   ║
+║         libasound2                                   ║
+║                                                      ║
+║ <3 Playwright Team                                   ║
+╚══════════════════════════════════════════════════════╝
+2024-06-23 07:25:10,257 - WARNING - Collecting data for cloud engineer position
+ERROR - Unexpected error : BrowserType.launch: 
+╔══════════════════════════════════════════════════════╗
+║ Host system is missing dependencies to run browsers. ║
+║ Please install them with the following command:      ║
+║                                                      ║
+║     sudo playwright install-deps                     ║
+║                                                      ║
+║ Alternatively, use apt:                              ║
+║     sudo apt-get install libatk1.0-0\                ║
+║         libatk-bridge2.0-0\                          ║
+║         libcups2\                                    ║
+║         libatspi2.0-0\                               ║
+║         libxdamage1\                                 ║
+║         libgbm1\                                     ║
+║         libxkbcommon0\                               ║
+║         libpango-1.0-0\                              ║
+║         libcairo2\                                   ║
+║         libasound2                                   ║
+║                                                      ║
+║ <3 Playwright Team                                   ║
+╚══════════════════════════════════════════════════════╝
+ERROR - Unexpected error : BrowserType.launch: 
+╔══════════════════════════════════════════════════════╗
+║ Host system is missing dependencies to run browsers. ║
+║ Please install them with the following command:      ║
+║                                                      ║
+║     sudo playwright install-deps                     ║
+║                                                      ║
+║ Alternatively, use apt:                              ║
+║     sudo apt-get install libatk1.0-0\                ║
+║         libatk-bridge2.0-0\                          ║
+║         libcups2\                                    ║
+║         libatspi2.0-0\                               ║
+║         libxdamage1\                                 ║
+║         libgbm1\                                     ║
+║         libxkbcommon0\                               ║
+║         libpango-1.0-0\                              ║
+║         libcairo2\                                   ║
+║         libasound2                                   ║
+║                                                      ║
+║ <3 Playwright Team                                   ║
+╚══════════════════════════════════════════════════════╝
+2024-06-23 07:25:10,659 - ERROR - Unexpected error : BrowserType.launch: 
+╔══════════════════════════════════════════════════════╗
+║ Host system is missing dependencies to run browsers. ║
+║ Please install them with the following command:      ║
+║                                                      ║
+║     sudo playwright install-deps                     ║
+║                                                      ║
+║ Alternatively, use apt:                              ║
+║     sudo apt-get install libatk1.0-0\                ║
+║         libatk-bridge2.0-0\                          ║
+║         libcups2\                                    ║
+║         libatspi2.0-0\                               ║
+║         libxdamage1\                                 ║
+║         libgbm1\                                     ║
+║         libxkbcommon0\                               ║
+║         libpango-1.0-0\                              ║
+║         libcairo2\                                   ║
+║         libasound2                                   ║
+║                                                      ║
+║ <3 Playwright Team                                   ║
+╚══════════════════════════════════════════════════════╝
+2024-06-23 07:25:10,660 - WARNING - Collecting data for big data engineer position
+ERROR - Unexpected error : BrowserType.launch: 
+╔══════════════════════════════════════════════════════╗
+║ Host system is missing dependencies to run browsers. ║
+║ Please install them with the following command:      ║
+║                                                      ║
+║     sudo playwright install-deps                     ║
+║                                                      ║
+║ Alternatively, use apt:                              ║
+║     sudo apt-get install libatk1.0-0\                ║
+║         libatk-bridge2.0-0\                          ║
+║         libcups2\                                    ║
+║         libatspi2.0-0\                               ║
+║         libxdamage1\                                 ║
+║         libgbm1\                                     ║
+║         libxkbcommon0\                               ║
+║         libpango-1.0-0\                              ║
+║         libcairo2\                                   ║
+║         libasound2                                   ║
+║                                                      ║
+║ <3 Playwright Team                                   ║
+╚══════════════════════════════════════════════════════╝
+ERROR - Unexpected error : BrowserType.launch: 
+╔══════════════════════════════════════════════════════╗
+║ Host system is missing dependencies to run browsers. ║
+║ Please install them with the following command:      ║
+║                                                      ║
+║     sudo playwright install-deps                     ║
+║                                                      ║
+║ Alternatively, use apt:                              ║
+║     sudo apt-get install libatk1.0-0\                ║
+║         libatk-bridge2.0-0\                          ║
+║         libcups2\                                    ║
+║         libatspi2.0-0\                               ║
+║         libxdamage1\                                 ║
+║         libgbm1\                                     ║
+║         libxkbcommon0\                               ║
+║         libpango-1.0-0\                              ║
+║         libcairo2\                                   ║
+║         libasound2                                   ║
+║                                                      ║
+║ <3 Playwright Team                                   ║
+╚══════════════════════════════════════════════════════╝
+2024-06-23 07:25:11,062 - ERROR - Unexpected error : BrowserType.launch: 
+╔══════════════════════════════════════════════════════╗
+║ Host system is missing dependencies to run browsers. ║
+║ Please install them with the following command:      ║
+║                                                      ║
+║     sudo playwright install-deps                     ║
+║                                                      ║
+║ Alternatively, use apt:                              ║
+║     sudo apt-get install libatk1.0-0\                ║
+║         libatk-bridge2.0-0\                          ║
+║         libcups2\                                    ║
+║         libatspi2.0-0\                               ║
+║         libxdamage1\                                 ║
+║         libgbm1\                                     ║
+║         libxkbcommon0\                               ║
+║         libpango-1.0-0\                              ║
+║         libcairo2\                                   ║
+║         libasound2                                   ║
+║                                                      ║
+║ <3 Playwright Team                                   ║
+╚══════════════════════════════════════════════════════╝
+2024-06-23 07:25:11,062 - WARNING - Collecting data for Data Infrastructure Engineer position
+ERROR - Unexpected error : BrowserType.launch: 
+╔══════════════════════════════════════════════════════╗
+║ Host system is missing dependencies to run browsers. ║
+║ Please install them with the following command:      ║
+║                                                      ║
+║     sudo playwright install-deps                     ║
+║                                                      ║
+║ Alternatively, use apt:                              ║
+║     sudo apt-get install libatk1.0-0\                ║
+║         libatk-bridge2.0-0\                          ║
+║         libcups2\                                    ║
+║         libatspi2.0-0\                               ║
+║         libxdamage1\                                 ║
+║         libgbm1\                                     ║
+║         libxkbcommon0\                               ║
+║         libpango-1.0-0\                              ║
+║         libcairo2\                                   ║
+║         libasound2                                   ║
+║                                                      ║
+║ <3 Playwright Team                                   ║
+╚══════════════════════════════════════════════════════╝
+ERROR - Unexpected error : BrowserType.launch: 
+╔══════════════════════════════════════════════════════╗
+║ Host system is missing dependencies to run browsers. ║
+║ Please install them with the following command:      ║
+║                                                      ║
+║     sudo playwright install-deps                     ║
+║                                                      ║
+║ Alternatively, use apt:                              ║
+║     sudo apt-get install libatk1.0-0\                ║
+║         libatk-bridge2.0-0\                          ║
+║         libcups2\                                    ║
+║         libatspi2.0-0\                               ║
+║         libxdamage1\                                 ║
+║         libgbm1\                                     ║
+║         libxkbcommon0\                               ║
+║         libpango-1.0-0\                              ║
+║         libcairo2\                                   ║
+║         libasound2                                   ║
+║                                                      ║
+║ <3 Playwright Team                                   ║
+╚══════════════════════════════════════════════════════╝
+2024-06-23 07:25:11,497 - ERROR - Unexpected error : BrowserType.launch: 
+╔══════════════════════════════════════════════════════╗
+║ Host system is missing dependencies to run browsers. ║
+║ Please install them with the following command:      ║
+║                                                      ║
+║     sudo playwright install-deps                     ║
+║                                                      ║
+║ Alternatively, use apt:                              ║
+║     sudo apt-get install libatk1.0-0\                ║
+║         libatk-bridge2.0-0\                          ║
+║         libcups2\                                    ║
+║         libatspi2.0-0\                               ║
+║         libxdamage1\                                 ║
+║         libgbm1\                                     ║
+║         libxkbcommon0\                               ║
+║         libpango-1.0-0\                              ║
+║         libcairo2\                                   ║
+║         libasound2                                   ║
+║                                                      ║
+║ <3 Playwright Team                                   ║
+╚══════════════════════════════════════════════════════╝
+2024-06-23 07:25:11,498 - WARNING - Collecting data for Data Pipeline Engineer position
+ERROR - Unexpected error : BrowserType.launch: 
+╔══════════════════════════════════════════════════════╗
+║ Host system is missing dependencies to run browsers. ║
+║ Please install them with the following command:      ║
+║                                                      ║
+║     sudo playwright install-deps                     ║
+║                                                      ║
+║ Alternatively, use apt:                              ║
+║     sudo apt-get install libatk1.0-0\                ║
+║         libatk-bridge2.0-0\                          ║
+║         libcups2\                                    ║
+║         libatspi2.0-0\                               ║
+║         libxdamage1\                                 ║
+║         libgbm1\                                     ║
+║         libxkbcommon0\                               ║
+║         libpango-1.0-0\                              ║
+║         libcairo2\                                   ║
+║         libasound2                                   ║
+║                                                      ║
+║ <3 Playwright Team                                   ║
+╚══════════════════════════════════════════════════════╝
+ERROR - Unexpected error : BrowserType.launch: 
+╔══════════════════════════════════════════════════════╗
+║ Host system is missing dependencies to run browsers. ║
+║ Please install them with the following command:      ║
+║                                                      ║
+║     sudo playwright install-deps                     ║
+║                                                      ║
+║ Alternatively, use apt:                              ║
+║     sudo apt-get install libatk1.0-0\                ║
+║         libatk-bridge2.0-0\                          ║
+║         libcups2\                                    ║
+║         libatspi2.0-0\                               ║
+║         libxdamage1\                                 ║
+║         libgbm1\                                     ║
+║         libxkbcommon0\                               ║
+║         libpango-1.0-0\                              ║
+║         libcairo2\                                   ║
+║         libasound2                                   ║
+║                                                      ║
+║ <3 Playwright Team                                   ║
+╚══════════════════════════════════════════════════════╝
+2024-06-23 07:25:11,917 - ERROR - Unexpected error : BrowserType.launch: 
+╔══════════════════════════════════════════════════════╗
+║ Host system is missing dependencies to run browsers. ║
+║ Please install them with the following command:      ║
+║                                                      ║
+║     sudo playwright install-deps                     ║
+║                                                      ║
+║ Alternatively, use apt:                              ║
+║     sudo apt-get install libatk1.0-0\                ║
+║         libatk-bridge2.0-0\                          ║
+║         libcups2\                                    ║
+║         libatspi2.0-0\                               ║
+║         libxdamage1\                                 ║
+║         libgbm1\                                     ║
+║         libxkbcommon0\                               ║
+║         libpango-1.0-0\                              ║
+║         libcairo2\                                   ║
+║         libasound2                                   ║
+║                                                      ║
+║ <3 Playwright Team                                   ║
+╚══════════════════════════════════════════════════════╝
+2024-06-23 07:25:11,917 - WARNING - Collecting data for ETL Developer position
+ERROR - Unexpected error : BrowserType.launch: 
+╔══════════════════════════════════════════════════════╗
+║ Host system is missing dependencies to run browsers. ║
+║ Please install them with the following command:      ║
+║                                                      ║
+║     sudo playwright install-deps                     ║
+║                                                      ║
+║ Alternatively, use apt:                              ║
+║     sudo apt-get install libatk1.0-0\                ║
+║         libatk-bridge2.0-0\                          ║
+║         libcups2\                                    ║
+║         libatspi2.0-0\                               ║
+║         libxdamage1\                                 ║
+║         libgbm1\                                     ║
+║         libxkbcommon0\                               ║
+║         libpango-1.0-0\                              ║
+║         libcairo2\                                   ║
+║         libasound2                                   ║
+║                                                      ║
+║ <3 Playwright Team                                   ║
+╚══════════════════════════════════════════════════════╝
+ERROR - Unexpected error : BrowserType.launch: 
+╔══════════════════════════════════════════════════════╗
+║ Host system is missing dependencies to run browsers. ║
+║ Please install them with the following command:      ║
+║                                                      ║
+║     sudo playwright install-deps                     ║
+║                                                      ║
+║ Alternatively, use apt:                              ║
+║     sudo apt-get install libatk1.0-0\                ║
+║         libatk-bridge2.0-0\                          ║
+║         libcups2\                                    ║
+║         libatspi2.0-0\                               ║
+║         libxdamage1\                                 ║
+║         libgbm1\                                     ║
+║         libxkbcommon0\                               ║
+║         libpango-1.0-0\                              ║
+║         libcairo2\                                   ║
+║         libasound2                                   ║
+║                                                      ║
+║ <3 Playwright Team                                   ║
+╚══════════════════════════════════════════════════════╝
+2024-06-23 07:25:12,384 - ERROR - Unexpected error : BrowserType.launch: 
+╔══════════════════════════════════════════════════════╗
+║ Host system is missing dependencies to run browsers. ║
+║ Please install them with the following command:      ║
+║                                                      ║
+║     sudo playwright install-deps                     ║
+║                                                      ║
+║ Alternatively, use apt:                              ║
+║     sudo apt-get install libatk1.0-0\                ║
+║         libatk-bridge2.0-0\                          ║
+║         libcups2\                                    ║
+║         libatspi2.0-0\                               ║
+║         libxdamage1\                                 ║
+║         libgbm1\                                     ║
+║         libxkbcommon0\                               ║
+║         libpango-1.0-0\                              ║
+║         libcairo2\                                   ║
+║         libasound2                                   ║
+║                                                      ║
+║ <3 Playwright Team                                   ║
+╚══════════════════════════════════════════════════════╝
+2024-06-23 07:25:12,385 - WARNING - File saved to /home/ubuntu/test_mohamed/wttj/data/wttj_database_25.json.json
+/home/ubuntu/test_mohamed/wttj/run_script.sh: line 39: /home/ubuntu/test_mohamed/wttj: Is a directory
+
+  FileNotFoundError
+
+  [Errno 2] No such file or directory: b'/snap/bin/load_json.py'
+
+  at /usr/lib/python3.10/os.py:608 in _execvpe
+       604│         path_list = map(fsencode, path_list)
+       605│     for dir in path_list:
+       606│         fullname = path.join(dir, file)
+       607│         try:
+    →  608│             exec_func(fullname, *argrest)
+       609│         except (FileNotFoundError, NotADirectoryError) as e:
+       610│             last_exc = e
+       611│         except OSError as e:
+       612│             last_exc = e
