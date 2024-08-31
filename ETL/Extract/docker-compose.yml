@@ -1,0 +1,14 @@
+services:
+  scraper:
+    build:
+      context: .
+      dockerfile: Dockerfile.wttj
+    volumes:
+      - .:/app/Extract # Monte tout le contenu de "Extract" dans "/app/Extract"
+      - ../Json_scraping:/app/Json_scraping # Monte "Json_scraping" au niveau de "ETL" dans "/app/Json_scraping"
+      - ../Json_transformed:/app/Json_transformed # Monte "Json_transformed" au niveau de "ETL" dans "/app/Json_transformed"
+    working_dir: /app/Extract
+    command: >
+      bash -c "python scraper.py && python remove_duplicates.py"
+
+    restart: on-failure

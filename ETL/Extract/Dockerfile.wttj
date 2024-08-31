@@ -1,0 +1,24 @@
+# Utiliser une image Python de base
+FROM python:3.12-bookworm
+
+# Installer Playwright, Chromium et des dépendances supplémentaires
+RUN pip install --upgrade pip && \
+    pip install playwright==1.46.0 && \
+    playwright install --with-deps chromium && \
+    pip install selectolax validators fake-useragent httpx aiofiles pandas && \
+    rm -rf /root/.cache/pip
+
+# Créer les répertoires pour les données et les logs
+RUN mkdir -p /app/Extract /app/Json_scraping /app/Json_transformed
+
+# Définir le répertoire de travail
+WORKDIR /app/Extract
+
+# Copier vos scripts dans le conteneur
+COPY scraper.py /app/Extract/
+COPY remove_duplicates.py /app/Extract/
+COPY data_cleaning.py /app/Extract/
+COPY scrap_wttj /app/Extract/scrap_wttj/
+
+# S'assurer que vos scripts sont exécutables
+RUN chmod +x scraper.py remove_duplicates.py 
