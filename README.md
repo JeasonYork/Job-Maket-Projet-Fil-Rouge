@@ -76,10 +76,18 @@ Pour lancer le container Airflow, suivez les étapes suivantes :
 
 2.**Démarrage du container Airflow :**
     
-  Une fois dans le répertoire, démarrez le container Airflow en exécutant la commande suivante :
+  Une fois dans le répertoire, executez le script init_airflow.sh
 
   ```bash
-  docker compose up -d
+   ./init_airflow.sh
+   ```
+  
+   puis démarrez le container Airflow en exécutant les commandes suivantes :
+
+  ```bash
+  docker network connect elasticsearch_es-net airflow_airflow-worker_1
+  docker-compose up airflow-init
+  docker-compose up -d
   ```
 
   Cette commande démarre Airflow en mode détaché, ce qui permet à Airflow de s’exécuter en arrière-plan.
