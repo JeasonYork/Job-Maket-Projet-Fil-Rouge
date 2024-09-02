@@ -1,3 +1,1325 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6c2fb2861d038b26232b348cff98b356f3cd3f85731a1e1260aa048fa0e0cc74
-size 130213
+[
+    {
+        "source": "France Travail",
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/2873377",
+        "company": null,
+        "location": null,
+        "remote": null,
+        "publication_date": "2024-08-25",
+        "details": {
+            "TypeContract": "Intérim",
+            "Salary": null,
+            "Experience": "débutant accepté",
+            "Level": null
+        },
+        "company_data": {
+            "sector": "Activités des agences de travail temporaire",
+            "company_size": "Cabinet de recrutement spécialisé sur les secteurs électronique, informatique, web et mobile",
+            "turnover_in_millions": null
+        },
+        "description": "Nous recherchons pour notre client, editeur d'ERP dédié à l'industrie un Lead Data scientistEncadrement d'une équipe composée de spécialistes en Machine Learning et en Ingénierie des Données.Collaboration avec le Lead Data Scientist et le Lead Tech Senior pour définir les orientations du produit et organiser les tâches.Contribution au développement des fonctionnalités liées aux données et à l'intelligence artificielle.Communication et présentation avec les clients.Veille scientifique et travaux de recherche et développement.",
+        "title": "data scientist",
+        "skills": {
+            "Other": [
+                "Machine Learning"
+            ],
+            "EnSoftSkils": [
+                "Communication",
+                "Collaboration"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/2862448",
+        "company": null,
+        "location": null,
+        "remote": null,
+        "publication_date": "2024-08-24",
+        "details": {
+            "TypeContract": "CDI",
+            "Salary": null,
+            "Experience": "débutant accepté",
+            "Level": null
+        },
+        "company_data": {
+            "sector": null,
+            "company_size": null,
+            "turnover_in_millions": null
+        },
+        "description": "QUI SOMMES-NOUS ?Thales Digital Factory s'inscrit dans le programme de transformation de Thales qui a pour ambition de devenir un acteur incontournable et exemplaire du digital, et ce dans l'ensemble de ses marchés.  Notre mission consiste à accélérer la transition numérique du Groupe Thales en s'aventurant dans de nouveaux modes de travail et de décision. Notre stratégie s'articule autour de 6 valeurs : Responsabilisation, Orientée sur la donnée, Centrée sur l'utilisateur, Collaboration, Amélioration continue et Culture de l'échec. Nos bureaux se répartissent de Paris à Singapour en passant par Montréal au coeur d'écosystèmes innovants. Thales Digital Factory se distingue également grâce à son incubateur qui accompagne des start-ups internes et externes, ses plateformes digitales, son centre d'excellence Cloud et le développement de MVP, porteurs d'innovation pour l'offre digitale du Groupe et de nos clients.Avec plus de 600 experts IA et une centaine de doctorants en IA chaque année, et disposant d'un réseau de partenaires industriels, start-up et académiques de premier ordre, Thales est, depuis une décennie, un acteur majeur de l'IA de confiance, transparente, explicable et éthique. Le Groupe figure en tête, en Europe, dans le classement des déposants de brevets dans l'IA des systèmes critiques. Il intègre de l'IA dans plus d'une centaine de ses produits et services.Nous recherchons notre futur Data Scientist dans le cadre du lancement de notre nouvelle entité CortAix :CortAIx est l'accélérateur IA qui dotera les forces armées, les avionneurs et tous les opérateurs d'infrastructures critiques, de solutions hautement sécurisées leur apportant plus d'efficacité dans l'analyse des données et la prise de décision, tout en tenant compte des contraintes spécifiques, telles que la cybersécurité, l'embarquabilité et la frugalité, liées aux environnements critiques.Au sein de cette nouvelle organisation, nous représentons l'axe \"cortAIx Factory\" qui vise à accélérer la qualification et l'industrialisation des outils de développement de l'IA ainsi que les cas d'usage pour les données des systèmes. Thales dote déjà ses systèmes d'IA et continue d'identifier de nouveaux cas d'usages pour accélérer la performance, comme par exemple la planification de missions, la gestion du trafic aérien, le pilotage de drones et de robots.",
+        "title": "data scientist",
+        "skills": {
+            "Other": [
+                "Cloud"
+            ],
+            "EnSoftSkils": [
+                "Collaboration"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/2856216",
+        "company": "SÉCURITÉ SOCIALE ",
+        "location": "Seine-Saint-Denis",
+        "remote": null,
+        "publication_date": "2024-08-24",
+        "details": {
+            "TypeContract": "CDI",
+            "Salary": null,
+            "Experience": "expérience exigée",
+            "Level": null
+        },
+        "company_data": {
+            "sector": null,
+            "company_size": null,
+            "turnover_in_millions": null
+        },
+        "description": "CCMSA La MSA, Sécurité sociale du monde agricole et rural, est le 2ème régime de protection sociale en France. Avec ses 16 000 collaborateurs répartis au sein de ses 35 organismes, elle protège plus de 5 millions de personnes (agriculteurs, salariés agricoles, collaborateurs des organismes professionnels agricoles) tout au long de leur vie. Interlocuteur unique de ses ressortissants, la MSA verse toutes les prestations auxquelles ils peuvent prétendre en santé, famille, retraite, accident du travail et maladie professionnelle et assure également le recouvrement (cotisations, contributions sociales, assurance chômage ...). La Caisse Centrale de la MSA (CCMSA), 750 collaborateurs, est la tête du réseau. Elle contribue à la mise en œuvre de la politique sociale agricole et représente la MSA au niveau national auprès des Ministères et partenaires. Ce que vous découvrirez en nous rejoignant: Notre mission d'utilité sociale,Nos valeurs issues du mutualisme, que sont la solidarité, la responsabilité et la démocratie,Une richesse de métiers, la MSA assurant la gestion de tous les risques sociaux,Une attention portée à la qualité de vie au travail. Description du poste A la Direction des Statistiques, des Etudes et des Fonds (DSEF), vous intégrez le service Data et publications au sein du Département Synthèse en tant que data scientist. Le département est composé de 12 collaborateurs et collaboratrices. Vous intégrez une équipe composée de 2 data scientists et d'une chargée de mission en charge de la diffusion des publications. En lien avec le responsable du service, vous : Participez aux projets structurants de la direction relatifs à la préparation, l'exploitation et l'analyse des données dans un environnement big data ( cas d'usage sur le non-recours aux droits, sur le risque de désinsertion professionnelle, le suivi du risque de mortalité par suicide),Concevez, développez et appliquez des modèles innovants de data science adaptés aux données et aux besoins opérationnels,Administrez l'outil institutionnel de cartographie dynamique GéoMSA ( ingestion de données issues de différentes sources, mise à jour des référentiels géographiques, développement de portraits de territoire),Animez et formez le réseau des utilisateurs de GéoMSA (entre 5 et 10 jours de formation par an, le réseau comporte plus de 100 utilisateurs),Participez à des groupes de travail réunissant les experts du réseau de la CCMSA. Vous pouvez consulter notre site Profil recherché Vos compétences Vous maîtrisez les langages de bases de données ou de programmation R, Python, et en particulier SQL,Vous avez de l'appétence pour les méthodologies statistiques, économétriques et demachine learning, et vous avez des capacités à vous approprier les nouveaux concepts dans ce domaine,Vous avez une spécialité ou avez des compétences pratiques en cartographie ( ),Vous justifiez d'expériences en gestion de projet,Vous avez des qualités de synthèse, d'expression écrite et orale et de bonnes capacités relationnelles,Vous faites preuve de pédagogie face à vos interlocuteurs en vue de l'animation de réunions ou formations et vous êtes capable de vous adapter à votre public en vue d'échanger des informations,Vous faîtes preuve d'autonomie dans un fonctionnement collectif,La connaissance de la Protection Sociale serait un atout pour le poste. Votre formation Vous êtes diplômé.e d'une formation supérieure bac+5 en statistiques/science de la donnée, Informations complémentaires Pour faire la différence, votre candidature comprendra un CV et une lettre de motivation adaptée au poste recherché. Processus de recrutement : pré qualification téléphonique, entretien RH, entretien opérationnel. Bon à savoir si vous rejoignez la CCMSA dans nos locaux \"Luminem\" : A 2 min de la station Raymond-Queneau Pantin-Bobigny - ligne 5 et d'une station Vélib'Rémunération incluant un 13ème mois / Plan d'Epargne Entreprise (PEE) / Prime d'intéressementPossibilité de bénéficier de télétravail en accord avec le managerPlace de parking et parking vélo accessible depuis le canal de l'OurcqRestaurant d'entreprise et cafétériaComité Social et Economique",
+        "title": "data scientist",
+        "skills": {
+            "ProgLanguage": [
+                "Python",
+                "R"
+            ],
+            "DataBase": [
+                "SQL"
+            ],
+            "DataAnalytics": [
+                "R"
+            ],
+            "Other": [
+                "Big Data",
+                "Statistiques"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/2853842",
+        "company": "SUEZ ",
+        "location": "Hauts-de-Seine",
+        "remote": null,
+        "publication_date": "2024-08-24",
+        "details": {
+            "TypeContract": "CDI",
+            "Salary": null,
+            "Experience": "expérience exigée",
+            "Level": null
+        },
+        "company_data": {
+            "sector": null,
+            "company_size": null,
+            "turnover_in_millions": null
+        },
+        "description": "Contract type\n CDI \n\nQui sommes-nous ?\n\nSUEZ, acteurmajeur des services à l'environnement depuis plus de 160 ans, accompagne chaquejour les collectivités et les industriels dans la gestion des servicesessentiels que sont l'eau, les déchets et l'air. À ce titre, le Groupe produitde l'eau potable pour 66 millions de personnes dans le monde, créé 2 millionsde tonnes de matières premières secondaires par an et 3,1 TWh d'énergierenouvelable à partir des déchets.\n\nLevier de différenciation du Groupe, SUEZ Digital Solutionspropose à ses clients publics et privés des solutions digitales visant réduireleur empreinte environnementale et améliorer la performance de leur patrimoine. \nGrâce à son réseau d'Experts digitaux y compris en matièred'intelligence artificielle, SUEZ Digital Solutions accompagne lescollectivités et les entreprises dans leurs transitions environnementales etcirculaire, ainsi que les citoyens pour leur faciliter l'accès à uneconsommation plus durable.\nNotre ambition : accélérer ledéveloppement et le déploiement de solutions digitales à fort impactenvironnemental pour relever nos défis de demain comme la préservation de laressource en eau et la valorisation de nos déchets.\n\nVotre Mission\n\nDans le cadre du développement de Digital Solutions, nous recherchons un/une :\n\nData scientist H/F (La Défense)\n\nEn tant que membre clé de l'équipe, votre mission en tantque Data scientist sera de \n\n- Concevoir, développer et mettre en œuvre des solutions d'automatisation pour les tâches liées aux opérations de données sur Azure.\nTravailler avec Azure Machine Learning pour intégrer, analyser et modéliser des ensembles de données à grande échelle.\nUtiliser les outils qui renforcent les pratiques DevOps : Git et Azure DevOps pour le versionnage, le contrôle des sources et le déploiement.\n\nVous serez responsable de \n\nParticiper à la création et à la maintenance des pipelines des modèles d'IA pour assurer une livraison continue et fiable des modèles en production.\nSe tenir informé des avancées en matière de data science et d'intelligence artificielle et proposer des innovations pertinentes pour l'entreprise\nVeilles technologique et explorations des dernières approches et technique dans le secteur du Machine Learning et de la computer vision.\n\nQualités requises pour réussir dans ce rôle\n\nQualification: BAC+5 avec une spécialisation dans un domaine technique (computerscience, statistiques, mathématiques)Expérience attendues:minimum deux ans d'expériences sur les sujets data scienceCompétences techniques: d'Azure Synapse Analytics et Azure Machine Learning pour l'analyse et letraitement des données à grande échelle. Maitrise de PythonAutres compétences nécessaires: Expérience avec des outils et des frameworks de data science commeTensorFlow, PyTorch, scikit-learn, Azure Machine Learning Langues: (francais et anglais)Compétences comportementales: Capacité d'analyse et de synthèse\nÉtat d'esprit agile et collaboratif.\nCe que nous vous proposons\nType de contrat: CDIEmploi situé: La DéfenseMode de travail: hybrideDate de début: (ASAP)",
+        "title": "data scientist",
+        "skills": {
+            "MachineLearning": [
+                "PyTorch",
+                "Scikit-Learn"
+            ],
+            "CloudComputing": [
+                "Azure"
+            ],
+            "DevTools": [
+                "Git"
+            ],
+            "Other": [
+                "DevOps",
+                "Machine Learning",
+                "Statistiques"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/2850854",
+        "company": "HOXTON PARTNERS ",
+        "location": "Hauts-de-Seine",
+        "remote": null,
+        "publication_date": "2024-08-24",
+        "details": {
+            "TypeContract": "Profession",
+            "Salary": null,
+            "Experience": "5 an(s)",
+            "Level": null
+        },
+        "company_data": {
+            "sector": null,
+            "company_size": null,
+            "turnover_in_millions": null
+        },
+        "description": "Notre cabinet de recrutement recherche pour l' un de ses clients un consultant (H/F/Y)  Senior Machine Learning Engineer.\nContexte:\nNotre client a déployé la plateforme de data science Domino Datalab à l'international pour soutenir sa stratégie en Intelligence Artificielle et mutualiser les compétences avec les Transversal Analytics Solutions (TAS). \nActuellement, notre client étudie la migration de son infrastructure Cloud pour améliorer l?efficacité, l?architecture, et la sécurité du Datalab et des TAS face aux nouveaux défis technologiques.\nRôle: Etre l'un des référents de la migration des environnements de Datascience, au sein des équipes Data et IA.\nContexte organisationnel de la mission:\n? Equipes de datascientists (nos clients),\n? Equipe d?exploitation de la plateforme Domino,\n? Equipe de développement et de support Python,\nContexte technologique est également très varié :\n? Domino Datalab et autres plateformes Python (DevOps, Git, etc.)\n? Modèles de datascience (Python, Anaconda, Jupyter, MLOps, etc.)\n? Front java\n? Hébergement Cloud, kubernetes, docker, toolchain, etc.\n? Télécoms, API, CFT, cybersécurité, etc.\n? Système d?information (plus de 500 applications, ~10.000 serveurs)",
+        "title": "data scientist",
+        "skills": {
+            "ProgLanguage": [
+                "Python",
+                "Java"
+            ],
+            "DevTools": [
+                "Docker",
+                "Git"
+            ],
+            "Automation": [
+                "Kubernetes"
+            ],
+            "Containers": [
+                "Docker",
+                "Kubernetes"
+            ],
+            "Other": [
+                "Cloud",
+                "DevOps",
+                "Machine Learning"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/2848559",
+        "company": "CTG ",
+        "location": "Paris",
+        "remote": null,
+        "publication_date": "2024-08-24",
+        "details": {
+            "TypeContract": "Profession",
+            "Salary": null,
+            "Experience": "5 an(s)",
+            "Level": null
+        },
+        "company_data": {
+            "sector": null,
+            "company_size": null,
+            "turnover_in_millions": null
+        },
+        "description": "En tant que Data Scientist Junior, vous interviendrez au sein d?un pôle Data Science regroupant différentes compétences. Cette mission sera dans un environnement agile où l?entraide et l?esprit d?équipe sont des points forts de l?organisation.\nPour cela, vous serez amené(e) à :\n·       Intégrer des modèles d?IA\n·       Développer de processus automatisés en utilisant la technologie Airflow en relation étroite avec les métiers\n·       Maintenir et faire évoluer ces automates et micro-services\n·       Contribuer aux différentes plateformes et frameworks développés par l?équipe\n·       Classification les mails, analyse de sentiments, NER (NLP)\n·       Classifier les documents, OCR, reconnaissance faciale",
+        "title": "data scientist",
+        "skills": {
+            "Automation": [
+                "Airflow"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/2827078",
+        "company": null,
+        "location": "Réau",
+        "remote": null,
+        "publication_date": "2024-08-24",
+        "details": {
+            "TypeContract": "CDI",
+            "Salary": "Salaire brut : Annuel de 38000,00 Euros à 45000,00 Euros",
+            "Experience": "expérience exigée",
+            "Level": null
+        },
+        "company_data": {
+            "sector": "Ingénierie, études techniques",
+            "company_size": null,
+            "turnover_in_millions": null
+        },
+        "description": "QUI SOMMES-NOUS ?\n\nARIAL INDUSTRIES, Créée en 2001, est une société d'ingénierie et d'assistance technique en forte croissance dans les métiers de la mécanique, de l'électricité et des systèmes embarqués. Nous intervenons sur le plan national et européen pour des programmes d'envergure auprès des grands comptes des secteurs aéronautique, automobile, spatial, énergies et défense\n\nNOS VALEURS ?\n\nNotre politique RH est construite autour d'un maître mot, l'Humain. Nous souhaitons promouvoir le sens du service et la réactivité, l'écoute et la reconnaissance.\n\nNOS OPPORTUNITES / LES MISSIONS\n\nDans le cadre de nos projets dans le secteur de l'Aéronautique, nous recherchons un Ingénieur Data Scientist pour des projets de Contrôle Non Destructif (H/F).\n\nLe poste est à pourvoir depuis Villaroche (77) et/ou Saclay (91).\n\nLes missions proposées :\n\n- Comprendre les problématiques issues de la détection d'anomalies, le traitement de signals & d'image\n- Collécter les besoins et spécifications des équipes CND\n\n-  \n-  Développement\n-  Corrections d'Algorithmes IA\n-  Algorithmes Heuristiques & ML\n-  Prise en main des codes et bases de données dans le cadre de réapprentissage des modèles\n- Contribuer à la monter en compétences des équipes projets\n\nPROFIL RECHERCHÉ\n\nDe formation BAC+5 spécialisée en DATA, vous justifiez d'une première expérience significative en Data Science incluant du développement Algorithmique.\n\n- Vous avez travaillé sur du développement d'algorithmes IA / Heuristiques / ML\n- Vous comprenez et maitrisez les notions de traitement d'image et de signal\n- La connaissance du domaine du Contrôle Non Destructif serait un plus\n- Vous aimez travailler en équipe\n- Vous êtes force de proposition et Autonome\n- Nous recherchons des profils dynamiques, rigoureux et ayant de fortes compétences relationnelles.\n\nL'anglais est nécessaire sur ce poste.\n\nSALAIRE ET AVANTAGES\n\n- Entre 38 à 45k€ brut par an en fonction du profil,\n- Contrat CDI\n- Vous bénéficiez d'une prise en charge à hauteur de 50% de la mutuelle entreprise, 100% pour la prévoyance,\n- Prime de cooptation, primes de vacances et autres primes\n- Paniers repas par mois,\n- RTT,\n- Participez à nos évènements et rencontrez toutes nos équipes Arial Industries,\n- Plateforme Avantages (cinéma, culture, jeux, multimédia, chèques cadeaux.).\n-  \nVOS OPPORTUNITES CHEZ ARIAL INDUSTRIES\n\nPas de limitation ! Vous avez des objectifs professionnels ? Nous les définirons ensemble et serons heureux de vous aider à les atteindre.\nVotre sérieux et motivation ouvriront les portes des missions qui vous intéressent.\n\nPROCESSUS DE RECRUTEMENT\n\n- Etape 1 : Point téléphonique (10 minutes) avec le chargé de recrutement\n- Etape 2 : Entretien Teams (30 minutes) avec le chargé de recrutement\n- Etape 3 : Entretien (1h) avec le manager technique\n- Etape 4 : Intégration au sein de nos équipes\n\nNous garantissons de la réactivité et nous faisons en sorte de vous partager une réponse le plus vite possible !\n\nEn espérant vous compter parmi nous très prochainement. \n\nRef : C73O80481",
+        "title": "data scientist",
+        "skills": {
+            "Collaboration": [
+                "Teams"
+            ],
+            "Other": [
+                "ML"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/2822745",
+        "company": null,
+        "location": null,
+        "remote": null,
+        "publication_date": "2024-08-24",
+        "details": {
+            "TypeContract": "Profession",
+            "Salary": null,
+            "Experience": "débutant accepté",
+            "Level": null
+        },
+        "company_data": {
+            "sector": null,
+            "company_size": null,
+            "turnover_in_millions": null
+        },
+        "description": "En tant que Data Scientist Junior, vous interviendrez au sein d?un pôle Data Science regroupant différentes compétences. Cette mission sera dans un environnement agile où l?entraide et l?esprit d?équipe sont des points forts de l?organisation.\nPour cela, vous serez amené(e) à :\n Intégrer des modèles d?IA\n Développer de processus automatisés en utilisant la technologie Airflow en relation étroite avec les métiers\n Maintenir et faire évoluer ces automates et micro-services\n Contribuer aux différentes plateformes et frameworks développés par l?équipe\n Classification les mails, analyse de sentiments, NER (NLP)\n Classifier les documents, OCR, reconnaissance faciale\nProfil candidat:\nDe formation supérieure Bac+5, vous justifiez d?une première expérience dans un environnement similaire.\n connaissances avancées en python\n connaissances avancées sur la théorie du deep learning\n interêt prononcé pour l'IA Générative\n industrialisation du code\n maitrise des principaux framework de développement en python\nVous êtes dynamique et avez une bonne capacité de travail en équipe dans un contexte où rigueur, méthode et autonomie sont obligatoires.",
+        "title": "data scientist",
+        "skills": {
+            "ProgLanguage": [
+                "Python"
+            ],
+            "Automation": [
+                "Airflow"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/2822663",
+        "company": null,
+        "location": null,
+        "remote": null,
+        "publication_date": "2024-08-24",
+        "details": {
+            "TypeContract": "CDI",
+            "Salary": null,
+            "Experience": "débutant accepté",
+            "Level": null
+        },
+        "company_data": {
+            "sector": null,
+            "company_size": null,
+            "turnover_in_millions": null
+        },
+        "description": "En tant que Data Scientist/ML engineer, vous serez responsable de concevoir, développer et mettre en oeuvre des composantes/modèles de ML/DL pour améliorer la personnalisation et le système de recommandation du groupe.\nVous serez amené à participez aux différentes étapes d?un projet de la conception au déploiement (idéation, PoC, conception des pipelines MLOps, gestion du cycle de vie des modèles en production...).\nAu quotidien :\no GIT est votre meilleur ami\no Vous développez, testez et optimisez des solutions en utilisant Python sur votre IDE préféré.\no Vous travaillez en étroite collaboration avec les équipes DevOps et data ingénieurs pour garantir une mise en production efficace des solutions.\no Vous participez aux rituels de l?équipe (suivi de projet KANBAN, sessions de partage de connaissance, veille continue, pair programming)\nProfil candidat:\nCompétences et qualités attendues :\nDiplômé en informatique, en science des données ou en ingénierie, passioné par l'IA, vous justifiez d?une expérience de 3 ans dans la mise en production de projets de ML/DL idéalement dans un environnement cloud AWS.\no Vous maîtrisez le langage de programmation Python (Des connaissances en Scala/Spark seraient fortement appréciées)\no Vous avez une compréhension approfondie des algorithmes de ML/DL\no Vous avez l'habitude d'utiliser GIT & avez des connaissances des outils de data engineering de type Airflow, au moins une expérience CLOUD AWS (service ML SAGEMAKER)\no Vous avez une bonne connaissance des meilleures pratiques du développement et du codage : MLengineering et MLOps.\no Vous avez une bonne compréhension des principes de l'intégration continue (CI) et du déploiement continu (CD) et de leur intégration avec Git.\no Vous utilisez Docker et avez la compréhension des principes des conteneurs.\no Vous êtes capable de communiquer efficacement en anglais.",
+        "title": "data scientist",
+        "skills": {
+            "ProgLanguage": [
+                "Python",
+                "Scala"
+            ],
+            "BigData": [
+                "Spark"
+            ],
+            "CloudComputing": [
+                "AWS"
+            ],
+            "DevTools": [
+                "Docker",
+                "Git"
+            ],
+            "Automation": [
+                "Airflow"
+            ],
+            "Containers": [
+                "Docker"
+            ],
+            "Other": [
+                "Cloud",
+                "DevOps",
+                "ML"
+            ],
+            "EnSoftSkils": [
+                "Collaboration"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/2822354",
+        "company": null,
+        "location": null,
+        "remote": null,
+        "publication_date": "2024-08-24",
+        "details": {
+            "TypeContract": "CDI",
+            "Salary": null,
+            "Experience": "débutant accepté",
+            "Level": null
+        },
+        "company_data": {
+            "sector": null,
+            "company_size": null,
+            "turnover_in_millions": null
+        },
+        "description": "La Direction de l?Expérience Client, des services numériques et de la donnée a pour ambition de proposer, concevoir et mettre en ?uvre tous les dispositifs qui permettront au client d?améliorer son excellence opérationnelle et son intimité client, en réponse au niveau d?attente et d?exigence de ses clients.\nLe département Centres de solutions a en charge le développement des solutions IT transverses dans les domaines de la Digital Factory, Client Factory, Doc& Flow Factory (GED, Editique), API, Identité et droits (IAM), Tests (manuels et automatisés) et DataPlatform, contribuant ainsi à la simplification de notre SI et à la construction de la plateforme du client.\nL?entité Data Platform au sein du département Centres de solutions a pour mission de conduire l?ensemble des activités autour de la Data et de mettre en ?uvre une Data Platform transverse à l?organisation. Cette Data Platform met à disposition le socle technologique nécessaire pour répondre à plusieurs enjeux : \n?des enjeux d?acquisition des données (temps réel et batch),\n?des enjeux de traitement des données pour mise en exploitabilité,\n?des enjeux de stockage dans des Datawarehouse, DataHub, DataLake, \n?et des enjeux d?exposition de ces données dans des Magasins ou Bac à sables via API, DataViz, DataPrep.\nL?entité Data Platform porte également les activités de référentiel d?entreprise et intervient aussi sur des problématiques réglementaires telles que la LCB-FT, le profilage client, la Fraude et la corruption.\nLe pôle  Client et Conformité  au sein de l?entité CSOL Data Platform a pour mission de répondre aux besoins du métier Conformité, de les mettre en place dans la Plateforme Sécurité Financière (PSF) et de mettre en ?uvre un nouveau référentiel client isolé de la Plateforme Sécurité Financière.\nEn tant que datascientist confirmé, votre mission consiste à accompagner la montée en compétence, comme de ses premières réalisations d?un data engineer du pôle  Client et Conformité  ayant récemment suivi un cursus de formation en Data Science.\nAu sein de l?entité Data Platform, dans le pôle  Client et Conformité , l?objectif de la mission consiste à soutenir la montée en compétence d?un collaborateur dans la mise en ?uvre des premiers sujets d?expérimentation avec de l?IA, notamment sur des problématiques autour de l?efficience opérationnelle d?activités autour de la LCB-FT et la complétude des données KYC.\nVous avez la charge d?apporter votre expertise avec pédagogie dans la mise en application de modèles prédictifs. A l?issue de la prestation, le collaborateur CNP devra avoir la capacité de mettre en place ses propres modèles en toute autonomie.\nVous êtes en mesure de répondre à des problématiques complexes par des solutions innovantes.\nProfil candidat:\nEnvironnement fonctionnel : réglementaire LCB-FT, procédure KYC\nEnvironnement technique : Jupyter, Python, SQL Developer\n8 ans d?expertise ou plus en tant que data scientist",
+        "title": "data scientist",
+        "skills": {
+            "ProgLanguage": [
+                "Python"
+            ],
+            "DataBase": [
+                "SQL"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/2805429",
+        "company": "GROUPE BEAUMANOIR ",
+        "location": "Ille-et-Vilaine",
+        "remote": null,
+        "publication_date": "2024-08-24",
+        "details": {
+            "TypeContract": "CDD",
+            "Salary": "Salaire brut : Mensuel de 477,07 Euros à 1766,92 Euros",
+            "Experience": "expérience exigée",
+            "Level": null
+        },
+        "company_data": {
+            "sector": "Activités des sociétés holding",
+            "company_size": "Avec ses marques de prêt-à-porter (Cache-Cache, Bréal, Bonobo, La Halle, Vib's, Morgan, Caroll), son pôle lifestyle (Sarenza.com, Quiksilver, Roxy, Billabong, DC Shoes, Element, RVCA et VonZipper), sa filiale logistique C-Log, 2,3 Milliards de CA à fin février 2023, 15000 collaborateurs et 2700 points de vente dans le monde, le Groupe Beaumanoir poursuit son développement et recrute pour son siège.",
+            "turnover_in_millions": null
+        },
+        "description": "POSTE : Alternant Data Analyst - Scientist H/F\nDESCRIPTION : Le Groupe Beaumanoir cherche de nouveaux talents capables de tirer toute la quintessence des données générées par les millions de clients de ses marques de prêt-à-porter.\n\nAu sein de l'équipe DATA du Groupe, vous valorisez l'ensemble des données clients, magasins, produits et intervenez sur différents projets de modélisation de données, analyses descriptives et prédictives en fonction de cas d'usages Business.\nVous participez à des sujets tels que la reconnaissance d'image, la prévision de vente, le scoring d'appétence et développez la connaissance client à des fins de performance commerciale.\n\nIl s'agit d'une opportunité en alternance à pourvoir immédiatement au sein de notre belle ville Malouine !\nPROFIL : Vous suivez un Master en statistique, vous disposez d'une expérience significative en Data Science/Modélisation.\nVous avez de bonnes techniques statistiques et informatiques nécessaires au datamining et au machine Learning.\nVous êtes à l'aise avec les langages SQL, R et Python.\nVous êtes passioné(e) par la Data. Rigoureux(euse) autonome et dynamique, avec un vrai sens du collectif.\nVous avez l'esprit de service, la volonté d'apprendre et d'être un acteur du développement de notre Groupe et de ses marques de prêt-à-porter.\n\nCe que nous pouvons vous offrir ?\n-  Intégrer un groupe familial fondé à Saint-Malo en 1981,\n-  Parce qu'au-delà d'un diplôme c'est aussi une personnalité que nous recrutons, nous sommes animés par 7 valeurs dont le progrès, la proximité et la réactivité,\n-  Contribuer à développer nos actions de RSE,\n-  Profiter d'un parcours d'intégration complet pour avoir une vision 360° du Groupe,\n-  Votre parrain/marraine facilitera votre intégration au sein de la Tribu,\n-  Parce qu'il n'y a pas que la mode qui évolue, nous offrons des possibilités de mobilité interne pour construire votre carrière,\n-  Autres avantages : association sportive interne, avantages Comité d'Entreprise, carte tickets restaurants, réduction au personnel, dispositif \"1% logement\", système de rémunération variable, Blabla Car Daily etc.",
+        "title": "data scientist",
+        "skills": {
+            "ProgLanguage": [
+                "Python",
+                "R"
+            ],
+            "DataBase": [
+                "SQL"
+            ],
+            "DataAnalytics": [
+                "R"
+            ],
+            "Other": [
+                "Machine Learning",
+                "Statistiques"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/2803401",
+        "company": null,
+        "location": "OBERNAI 67",
+        "remote": null,
+        "publication_date": "2024-08-24",
+        "details": {
+            "TypeContract": "CDI",
+            "Salary": null,
+            "Experience": "3 an(s)",
+            "Level": null
+        },
+        "company_data": {
+            "sector": null,
+            "company_size": "Devenez acteur du changement et rejoignez un Leader sur son marché :***Protégez les consommateurs,***Valorisez le savoir-faire des TPME Françaises !\nConstruisons ensemble un monde plus sûr pour les Consommateurs et plus valorisant pour les Entrepreneurs.\nDécouvrez un secteur en pleine expansion et vivez avec nous une histoire pleine de succès !",
+            "turnover_in_millions": null
+        },
+        "description": "Description du poste :\nPrêt(e) pour une aventure statistique excitante ? Rejoins notre équipe !\nEn tant que magicien(ne) des données rattaché(e) à notre DSI, ta mission sera de transformer des montagnes de données en trésors d'informations pour booster les performances de notre entreprise. Tu prendras la suite d'un prestataire externe pour maintenir et faire évoluer notre infrastructure de données.\nTes super-pouvoirs incluront :\n1. La chasse et l'apprivoisement des données :\n- Décrypter les besoins et dénicher les données cruciales.\n- Pister et capturer les données depuis des serveurs, fichiers ou bases de données.\n- Nettoyer et préparer les données pour qu'elles soient prêtes à révéler leurs secrets.\n2. Alchimie des données et prédictions magiques :\n- Créer des algorithmes innovants pour croiser et analyser les données.\n- Utiliser tes outils magiques comme Python et Databricks.\n- Réaliser des essais et ajustements pour obtenir des prédictions ultra-fiables.\n3. Révélation des prophéties :\n- Présenter tes découvertes sous forme de rapports, graphiques, tableaux ou applications enchantées.\n- Collaborer avec différentes équipes métiers pour diffuser la bonne parole.\n- Communiquer avec brio, à l'oral et à l'écrit.\n- Proposer des idées novatrices pour optimiser la collecte de données.\nDescription du profil :\nTes compétences légendaires :\n- Maîtrise des outils de magie informatique (Databricks, PowerBI).\n- Expertise solide en statistiques et programmation, notamment en Python.\n- Capacité à mener des quêtes (projets) et à travailler en équipe de héros.\nSi tu es prêt(e) à enfiler ta cape de statisticien(ne) et à rejoindre notre quête pour transformer les données en succès, alors n'attends plus !",
+        "title": "data scientist",
+        "skills": {
+            "ProgLanguage": [
+                "Python"
+            ],
+            "BigData": [
+                "Databricks"
+            ],
+            "Other": [
+                "Statistiques"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/2801772",
+        "company": "RATP ",
+        "location": "Paris",
+        "remote": null,
+        "publication_date": "2024-08-24",
+        "details": {
+            "TypeContract": "CDI",
+            "Salary": "Salaire brut : Annuel de 35000,00 Euros à 60000,00 Euros",
+            "Experience": "expérience exigée",
+            "Level": null
+        },
+        "company_data": {
+            "sector": "Transports urbains et suburbains de voyageurs",
+            "company_size": "Le Groupe RATP, implanté dans 14 pays, sur quatre continents est le 5e groupe de transport public urbain au monde. Il est composé d'une maison-mère qui exploite le réseau francilien, un réseau multimodal parmi les plus complexes et d'une centaine de filiales qui proposent une variété d'expertises en France et à l'International. C'est une entreprise intégrée qui détient une expertise globale : Ingénierie, exploitation et maintenance.",
+            "turnover_in_millions": null
+        },
+        "description": "POSTE : Data Scientist H/F\nDESCRIPTION : Quel sera votre quotidien ?\n\nVotre principal rôle sera de :\n\nParticiper à l'identification, la qualification et la priorisation de cas d'usage de data science à forte valeur métier ;\n\nAssurer, sous la supervision d'un Lead Data Scientist, la réalisation scientifique et technique des projets de data science, en se conformant au modèle de delivery et aux standards de développement promus par le CE Data\n\nAccompagner le déploiement des projets sur les infrastructures de production (support du build et du run) et leur intégration dans les processus métier concernés\n\nAssurer l'interface avec l'ensemble des parties prenantes (métiers et techniques) et contribuer à l'animation des réunions projet : kick-offs, revues de sprint, comités de pilotage, etc.\n\nValoriser les travaux au sein et à l'extérieur du groupe par le biais de communications et de démonstrations\n\nVous contribuerez également aux activités transverses du CE Data : missions d'expertise diverses, création de contenus de formation et d'acculturation, développement de l'offre du CE Data, participation à l'animation de la communauté data science du groupe, etc.\n\nPour en savoir plus, cliquez sur le lien suivant : https://www.ratp.fr/groupe-ratp\nPrimes (salaire à titre indicatif)\nPROFIL : Vous êtes diplômé d'un Bac +5 en Data Science (ou équivalent) et avez acquis au moins 2 années d'expérience dans ce domaine.\n\nPour relever ces défis, nous recherchons une personne disposant d'un bagage scientifique et technique solide :\n\nCompétences avancées en mathématiques, statistiques et intelligence artificielle\n\nCompétences dans le recueil, le traitement et l'analyse de données afin de répondre à des besoins métier spécifiques\n\nCompétences dans le développement et le déploiement de modèles d'apprentissage automatique dans un contexte industriel\n\nConnaissance de Python et, idéalement, de PySpark, SQL et Git\n\nVous vous reconnaissez ? N'hésitez pas à postuler directement en ligne !\n\nTous nos métiers sont ouverts aux personnes en situation de handicap.\n\nInformations complémentaires\n\nType de contrat : CDI\n\nLocalisation : Maison de le RATP - Paris 12ème\n\nTélétravail : Oui\n\nPrincipaux avantages de l'entreprise\n\nÉvolution de carrière vers d'autres métiers y compris en filiales internationales\n\n9 semaines de congés, soit 206 jours travaillés par an",
+        "title": "data scientist",
+        "skills": {
+            "ProgLanguage": [
+                "Python"
+            ],
+            "DataBase": [
+                "SQL"
+            ],
+            "DevTools": [
+                "Git"
+            ],
+            "Other": [
+                "Statistiques"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/2861045",
+        "company": null,
+        "location": "Nantes",
+        "remote": null,
+        "publication_date": "2024-08-24",
+        "details": {
+            "TypeContract": "CDI",
+            "Salary": null,
+            "Experience": "expérience exigée",
+            "Level": null
+        },
+        "company_data": {
+            "sector": null,
+            "company_size": null,
+            "turnover_in_millions": null
+        },
+        "description": "Qui sommes-nous ?Euro-Information, filiale technologique de Crédit Mutuel Alliance Fédérale, conçoit, réalise, maintient et exploite un système d'information commun utilisé par le Groupe.Les activités de développement et de production informatique au niveau national et international sont assurées par environ 4000 salariés répartis sur plusieurs sites géographiques au niveau national : Strasbourg, Nancy, Dijon, Orléans, Lyon, Lille, Cergy, Val de Fontenay, Paris et Nantes.Première Banque à adopter le statut d'entreprise à mission, le Crédit Mutuel Alliance Fédérale s'investit et s'engage dans différentes missions sociales et environnementales :L'accompagnement de tous par notre organisation coopérative et mutualiste reste au cœur de notre ADN.La technologie au service de l'humain est une référence dans notre monde connecté.La solidarité et l'éco-responsabilité deviennent des axes clés dans notre développement.Notre raison d'être : Ensemble, Ecouter et Agir. Vos missionsVous souhaitez intégrer une équipe dynamique et à taille humaine au sein d'une entreprise solide et d'un grand groupe en développement constant ? Vous souhaitez travailler sur un enjeu d'aujourd'hui et plus encore de demain : la donnée ?Euro-Information, la Fintech de Crédit Mutuel Alliance Fédérale structure une Data Factory pour :Accélérer la valorisation des données au travers d'analyse de masse et de modèles allant jusqu'au prédictif.Répondre à la confiance de nos clients en garantissant la sécurité de leurs données et une utilisation responsable et encadrée, respectueuse de leur vie privée.La Data Factory EI se positionne comme un fournisseur de solutions pour les équipes informatiques et pour l'ensemble des entités du groupe et comme un facilitateur d'échanges et de mutualisation. Pour mener à bien ces missions, la relation métier s'avère essentielle. Elle réunit :Des Data Architects. Ils fournissent l'environnement et les outils et s'assurent de leur performance et de leur constante évolution.Des Data Engineers. Ils ont la maitrise des données, de leur récolte à leur mise à disposition adaptée aux besoins des métiers. Ils conçoivent les modèles d'enregistrement des données.Des Concepteurs Business Intelligence. Ils simplifient, mutualisent et industrialisent les reportings.Des Data Scientists. Ils accompagnent les métiers et les entités sur la Data Science, ils réalisent à façon sur les sujets à fort enjeu.Des Data Officers. Ils coordonnent et mutualisent les énergies sur les projets Data comme dans le cadre de la Gouvernance et de l'administration des données.Nous recherchons un(e) Data Engineer.Vous participerez à la mise en œuvre et au maintien du Système d'information Décisionnel du groupe.Pour les banques, les organismes de crédits à la consommation et les filiales, en France et à l'international :Compréhension de l'activité et des besoins de vos clients, en dialogue avec la MOACompréhension du SI de production, en dialogue avec les équipes MOEModélisation du Système d'Information DécisionnelConception et réalisationDiagnostic des dysfonctionnements rencontrésMaintenances correctives et évolutivesSupport auprès des différents métiersDocumentation techniqueSuivi des traitementsPilotage de projetsVous travaillerez sur une grande variété de projets et à l'échelle de l'ensemble des entités gérées sur le SI d'Euro-Information .Vous intervenez sur des projets à dimension internationale sur des environnements Vertica, Semarchy, WebFOCUS, SAP Business Objects, QlikSense.Vous participerez, coordonnerez et mènerez à bien des projets de valorisation de données sur des cas d'usages concrets :Des projets de bout en bout : de l'expression du besoin jusqu'à la réalisation et au suivi de sa performance en lien avec la MOA et nos Data OfficersEn mobilisant l'ensemble des acteurs : Business, Data Scientists, Data Engineer, sources de données .Avec participation aux prises de décisionEn mutualisant les travaux et les bonnes pratiques entre les acteurs et les différents métiers du groupeDans vos projets et au-delà, vous porterez l'acculturation Data au sein du groupe. Ce que vous allez vivre chez nousTélétravail (2 jours par semaine)Rémunération fixe versée sur 13 moisRTTIntéressement, participation et abondementPlan épargne entreprise et PERCOContrat de santé collectifPrévoyanceRetraite supplémentaire prise en charge à 100% par l'employeurConditions bancaires et assurances préférentiellesPolitique parentale avantageuse Ce que nous allons aimer chez vousDe formation bac +4/5, vous disposez idéalement d'une expérience significative sur un poste équivalent.La maitrise de l'anglais serait un plus.Connaissance du monde OPENVous avez la maitrise d'un ETL, d'une base de données orientée Analytique, d'une solution BI.La connaissance de l'outil de modélisation PowerDesigner serait un plus.Connaissance du monde Host Une",
+        "title": "data engineer",
+        "skills": {}
+    },
+    {
+        "source": "France Travail",
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/2831576",
+        "company": "EY ",
+        "location": "Paris",
+        "remote": null,
+        "publication_date": "2024-08-24",
+        "details": {
+            "TypeContract": "CDI",
+            "Salary": null,
+            "Experience": "3 an(s)",
+            "Level": null
+        },
+        "company_data": {
+            "sector": null,
+            "company_size": null,
+            "turnover_in_millions": null
+        },
+        "description": "Selon votre parcours, vos expériences et votre expertise, vous serez amené(e) à apporter vos compétences à des équipes engagées sur des missions de conseil de différentes natures :\n·       Conception et mise en œuvre de solutions de valorisation de la donnée depuis l'idéation jusqu'à l'industrialisation en passant par les études de faisabilité, la préparation des données et la modélisation\n·        Conception, développement et implémentation d'outils ou de solutions de reporting, d'aide à la décision, de visualisations de données dans les domaines du customer, du digital, de la conformité.\n·       Cartographie des processus de transformation de données\n·       Cadrage et analyse fonctionnelle de projets de transformation data\n·       Accompagnement au pilotage, à la coordination et à la gestion de projets data\n·       Définition de stratégie client en matière d'intelligence artificielle (use cases, trajectoires, roadmap.)\n·       Etudes et choix de solutions et de plateformes big data, analytics.\n·       Veille sur l'évolution des méthodes, des pratiques, des outils.\n \nVous pourrez continuer de développer des compétences dans les domaines de votre choix grâce à l'approche de formation EY.",
+        "title": "data engineer",
+        "skills": {
+            "Other": [
+                "Big Data"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/2830904",
+        "company": "EY ",
+        "location": "Paris",
+        "remote": null,
+        "publication_date": "2024-08-24",
+        "details": {
+            "TypeContract": "CDI",
+            "Salary": null,
+            "Experience": "3 an(s)",
+            "Level": null
+        },
+        "company_data": {
+            "sector": null,
+            "company_size": null,
+            "turnover_in_millions": null
+        },
+        "description": "Selon votre parcours, vos expériences et votre expertise, vous serez amené à apporter vos compétences à des équipes engagées sur des missions de conseil de différentes natures : \nDéveloppement d'outils et de plateformes low-code mettant à profit les développements récents et l'utilisation croissante de ce levier technologique (Power Platform avec Power Automate)\nAccompagnement des clients dans leurs programmes d'automatisation et d'optimisation des processus\nIdentification et évaluation des opportunités d'optimisation et réalisation des études de faisabilité par des leviers technologiques, et définition des Business Cases\nElaboration des études de cadrage et proposition des cartographies de process dans le cadre des projets de transformations de Systèmes d'Informations intégrant des innovations technologiques\nConception de modèles opérationnels cible (processus, organisation, outil, .)\nAccompagnement à la sélection des leviers d'optimisation de processus parmi les offres du marché et au pilotage de transformation de grande envergure s'appuyant sur les leviers technologiques\nConception et implémentation de solution d'optimisations en méthodologie Agile\n \n \nVous pourrez continuer de développer des compétences dans les domaines de votre choix grâce à l'approche de formation EY.",
+        "title": "consultant data",
+        "skills": {}
+    },
+    {
+        "source": "France Travail",
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/2830903",
+        "company": "EY ",
+        "location": "Paris",
+        "remote": null,
+        "publication_date": "2024-08-24",
+        "details": {
+            "TypeContract": "CDI",
+            "Salary": null,
+            "Experience": "3 an(s)",
+            "Level": null
+        },
+        "company_data": {
+            "sector": null,
+            "company_size": null,
+            "turnover_in_millions": null
+        },
+        "description": "·        Conception, développement et implémentation d'outils ou de solutions de reporting, d'aide à la décision, de visualisations de données dans les domaines du customer, du digital, de la conformité.\n·       Conception et mise en œuvre de solutions de valorisation de la donnée depuis l'idéation jusqu'à l'industrialisation en passant par les études de faisabilité, la préparation des données et la modélisation\n·       Définition de stratégie data des clients (cas d'usage, trajectoires, roadmap.)\n·       Conception et mise en place de solutions d'analyse statistique.\n·       Cartographie des processus de transformation de données\n·       Etudes et choix de solutions et de plateformes big data, analytics.\n·       Veille sur l'évolution des méthodes, des pratiques, des outils.\n \nVous pourrez continuer de développer des compétences dans les domaines de votre choix grâce à l'approche de formation EY.",
+        "title": "data analyst",
+        "skills": {
+            "Other": [
+                "Big Data"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/2830902",
+        "company": "EY ",
+        "location": "Paris",
+        "remote": null,
+        "publication_date": "2024-08-24",
+        "details": {
+            "TypeContract": "CDI",
+            "Salary": null,
+            "Experience": "3 an(s)",
+            "Level": null
+        },
+        "company_data": {
+            "sector": null,
+            "company_size": null,
+            "turnover_in_millions": null
+        },
+        "description": "Vous êtes amené à travailler sur des missions de conseil de différentes natures :\n·        Cadrage et analyse fonctionnelle de projets de transformation de projet data analytics ou data science, définition de stratégie client en matière d'intelligence artificielle (use cases, trajectoires, roadmap.) \nEtudes et choix de solutions et de plateformes big data, analytics.\n·        Conception et mise en place d'algorithmes prédictifs (scoring, classification, régression, clustering, ranking, etc.)\n·        Conception et mise en place de solution en NLP, machine learning, deep learning.\n·        Accompagnement au pilotage et à la gestion de projets data management\n·        Conception et mise en œuvre de reportings décisionnels, coordination de projets.\n·        Développement d'outils d'aide à la décision ou d'outils BI dans les domaines du customer, du digital, de la tarification, de la compliance.\n·        Cartographie des processus de transformation de données\n·        Assistance à la mise en œuvre d'exigences réglementaires\n·        Veille sur l'évolution des méthodes, des pratiques, des outils.",
+        "title": "consultant data",
+        "skills": {
+            "Other": [
+                "Big Data",
+                "Machine Learning"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/2823068",
+        "company": null,
+        "location": null,
+        "remote": null,
+        "publication_date": "2024-08-24",
+        "details": {
+            "TypeContract": "CDI",
+            "Salary": null,
+            "Experience": "débutant accepté",
+            "Level": null
+        },
+        "company_data": {
+            "sector": null,
+            "company_size": null,
+            "turnover_in_millions": null
+        },
+        "description": "? CDI (38-45K?) / Freelance / Portage Salarial - ? 2 jours de télétravail / semaine - ? Lyon - ? Expérience de 4 ans minimum\n \n \nEnvie d?un nouveau challenge... CELAD vous attend ! ?\n \nNous poursuivons notre développement et recherchons actuellement un.e Data Analyste pour intervenir chez un de nos clients. ??\n \n \nVoici un aperçu des missions qui vous attendent ? :\n- Amélioration de la qualité des données : Vous identifierez les dysfonctionnements et mettrez en place des plans d'amélioration pour les corriger.\n- Collaboration avec des partenaires externes : Vous travaillerez en étroite collaboration pour importer et manipuler des données, notamment dans le cadre de campagnes marketing.\n- Gestion et qualification des données : Vous serez responsable de l'achat, de la réception, du nettoyage, de la qualification et de l'intégration des données, en partenariat avec des prestataires externes.\n- Automatisation des traitements : Vous participerez à la définition et à la mise en place de traitements automatisés, tout en assurant leur actualisation régulière.\n- Amélioration continue : Vous jouerez un rôle clé dans les réflexions stratégiques visant à améliorer en permanence la base de données.\n- Support aux campagnes marketing : Vous veillerez au bon déroulement des campagnes en assurant la gestion quotidienne des données.\nProfil candidat:\nVos compétences ? :\n- Expertise en nettoyage et normalisation de données\n- Maîtrise des règles de transformation et d'analyse de données\n- Compétence en SQL et CRM Analytics\n- Expérience en traitement de données avec Python\n \n \n? Situation géographique : Lyon (03)\n \n? Quelques infos importantes à retenir :\n- Expérience de 5 ans minimum sur un poste similaire\n- Possibilité de télétravail (3 jours / semaine)\n- Type de contrat : CDI ? Freelance ? Portage Salarial\n \nAvantages à la clé :\n- 15 jours de RTT (100% \"salarié\" & Rachat à 125%)\n- Participation aux bénéfices\n- Indemnité de déplacement (6? net / jour OU 50% du titre de transport)\n- Plan Epargne Entreprise\n- Prime de vacances\n- Avance sur salaire\n- Comité Social et Economique\n \n \nSi vous êtes passionné(e) par l'analyse de données et que vous souhaitez jouer un rôle central dans des projets de grande envergure, nous serions ravis de vous rencontrer. Rejoignez CELAD et participez à notre succès ! ?",
+        "title": "data analyst",
+        "skills": {
+            "ProgLanguage": [
+                "Python"
+            ],
+            "DataBase": [
+                "SQL"
+            ],
+            "EnSoftSkils": [
+                "Collaboration"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/2820797",
+        "company": null,
+        "location": "Lille",
+        "remote": null,
+        "publication_date": "2024-08-24",
+        "details": {
+            "TypeContract": "CDI",
+            "Salary": null,
+            "Experience": "débutant accepté",
+            "Level": null
+        },
+        "company_data": {
+            "sector": null,
+            "company_size": "Le groupe SII est une société d'ingénierie et de conseil en technologies (ICT) et une entreprise de services numériques (ESN) créée en 1979 par Bernard HUVÉ, ingénieur de formation. Le groupe SII fait travailler plus de 16 000 personnes dans 21 pays au travers de 100 implantations de proximité et recrute chaque année en moyenne plus de 4 000 consultants et ingénieurs qui agissent au quotidien pour intégrer et développer de nouvelles technologies et faire évoluer les systèmes d...",
+            "turnover_in_millions": null
+        },
+        "description": "Le groupe SII est une société dingénierie et de conseil en technologies (ICT) et une entreprise de services numériques (ESN) créée en 1979 par Bernard HUVÉ, ingénieur de formation. Le groupe SII fait travailler plus de 16 000 personnes dans 21 pays au travers de 100 implantations de proximité et recrute chaque année en moyenne plus de 4 000 consultants et ingénieurs qui agissent au quotidien pour intégrer et développer de nouvelles technologies et faire évoluer les systèmes dinformation. Toujours soucieux dapporter des solutions à valeur ajoutée et innovantes, SII intervient auprès de grands groupes dans des secteurs dactivité variés tels que lAéronautique, le Spatial et la Défense, la Banque-Assurance, les Télécommunications, lEnergie, le Retail, les Transports et lIndustrie. Notre mission : faire évoluer les systèmes dinformation et contribuer à la conception et au développement des futurs produits ou services de nos clients ! Chez SII, la proximité du management est un enjeu interne important. Et ça, nous lavons bien compris. Chaque agence SII gère ses collaborateurs avec une grande autonomie ce qui permet un meilleur suivi et des cycles hiérarchiques courts. Cela correspond à notre façon de travailler, en méthode Agile : des cycles courts, des réponses rapides, un accès au management simplifié et une bonne réactivité. Labellisé EcoVadis Gold, Great Place To Work pour la septième année consécutive et parmi le Palmarès Best Workplaces des entreprises de plus de 2500 salariés, le groupe SII se démarque par sa politique sociétale en faveur dun monde numérique et durable et par une culture dentreprise ancrée en faveur de la qualité de vie au travail et de linclusion. En tant que société à fortes valeurs humaines, nous sommes signataires de la Charte de la diversité, de la Charte dengagement LGBT+ avec lAssociation L'Autre Cercle et sommes une entreprise handi-accueillante. SII puise sa force dans les hommes et les femmes qui composent le Groupe. Nos collaborateurs sont des ingénieurs passionnés souvent porteurs didées novatrices. Lintrapreneuriat est une valeur forte chez SII. Il insuffle de nombreuses initiatives professionnelles et personnelles. Quel que soit le background de nos collaborateurs, tous sont animés par la même soif de transmettre et dapprendre. Nos domaines dexpertise sont nombreux. Rejoignez-nous !",
+        "title": "data analyst",
+        "skills": {}
+    },
+    {
+        "source": "France Travail",
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/179VCKF",
+        "company": "CAMFIL ",
+        "location": "Oise",
+        "remote": null,
+        "publication_date": "2024-08-22",
+        "details": {
+            "TypeContract": "CDI",
+            "Salary": "Salaire brut : Mensuel de 18000.0 Euros sur 12.0 mois",
+            "Experience": "2 an(s)",
+            "Level": "Bac+3, Bac+4 ou équivalents"
+        },
+        "company_data": {
+            "sector": "Fabrication d'équipements aérauliques et frigorifiques industriels",
+            "company_size": "100 à 199 salariés",
+            "turnover_in_millions": null
+        },
+        "description": "Vous souhaitez travailler dans la filtration ? Vous souhaitez rejoindre une entreprise d'envergure internationale ?\n\nRejoignez-nous et devenez notre assistant.e gestionnaire de base de données produits !\n\nAfin d'accompagner le développement de son activité, Camfil France recrute un/une assistant.e Gestionnaire Base de données Produits pour un poste basé dans nos locaux de Saint-Martin-Longueau (60). En étroite collaboration avec la gestionnaire, vous serez responsable de deux missions principales : la gestion de la base de données articles et le support au service commercial.\n\nVos principales responsabilités seront :\n\n- Participer activement à l'actualisation de notre base de données produits en particulier dans notre ERP Dynamics D365, en ajoutant de nouveaux articles et en mettant à jour les articles existants\n\n- Valider la faisabilité des demandes internes en vous assurant que toutes les informations nécessaires ont été recueillies.\n\n- Assurer la relation interservices : vous apporterez votre soutien aux différentes équipes Camfil (commerce, services techniques, achat.) dans la phase de création et d'enrichissements des données produits\n\n- Être en relation avec nos usines en France et à l'étranger pour diriger les demandes de création de nouveaux produits vers les membres appropriés.\n\nProfil recherché :\n\n- Niveau de formation initial requis : Bac +3\n\n- Expérience dans la gestion de base de données et des connaissances approfondies d'Excel pour gérer efficacement les bases de données. Profil à l'aise avec les tableaux et les chiffres de type assistant achat ou autre pourrait s'épanouir dans cette mission !\n\n- Anglais courant : vous serez en communication régulière avec le groupe en anglais\n\n- Intérêt pour les produits techniques et l'industrie : une appétence pour les produits techniques et une compréhension du monde de l'industrie seront indispensables pour réussir dans ce rôle.\n\n- Rigueur, goût pour le travail d'équipe, réactivité, sens de la communication sont les qualités recherchées pour ce profil\n\nRémunération : selon expérience\n\nQualification : selon profil\n\nEtes-vous prêt à relever le défi ? Alors n'hésitez plus et postulez chez nous !\n\nDans le cadre de notre politique RSE qui incarne notre volonté d'être une entreprise durablement engagée où il fait bon travailler, nous valorisons la diversité et l'égalité professionnelle entre les femmes et les hommes au sein de nos équipes notamment avec le label GEEIS-DIVERSITY. Nous encourageons toutes les candidatures à postuler, quels que soient leurs horizons, leurs expériences, leurs capacités ou leurs perspectives. Le processus de sélection et d'entretien se déroulant en continu, merci de soumettre votre candidature le plus tôt possible à l'adresse suivante recrutement.france@camfil.com",
+        "title": "Other",
+        "skills": {
+            "EnSoftSkils": [
+                "Communication",
+                "Collaboration"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/179SWHH",
+        "company": "MDM &YOBITRUST ",
+        "location": "Seine-Saint-Denis",
+        "remote": null,
+        "publication_date": "2024-08-21",
+        "details": {
+            "TypeContract": "CDI",
+            "Salary": "Salaire brut : Mensuel de 3000.0 Euros à 3800.0 Euros sur 12.0 mois",
+            "Experience": "36 mois",
+            "Level": "Bac+5 et plus ou équivalents mathématiques appliquées - Ingénieur Data Science & AI"
+        },
+        "company_data": {
+            "sector": "Édition de logiciels applicatifs",
+            "company_size": "0 salarié (n'ayant pas d'effectif au 31/12 mais ayant employé des salariés au cours de l'année de référence)",
+            "turnover_in_millions": null
+        },
+        "description": "La détection précoce des maladies \"NR\" est cruciale pour améliorer les résultats cliniques et réduire les taux de mortalité. Ce projet a pour objectif de développer une solution basée sur l'intelligence artificielle (IA) pour détecter les antigènes associés aux maladies ... et générer des anticorps spécifiques à ces antigènes. Cette solution permettra une détection rapide et précise des maladies \"NR\"  en identifiant la présence d'antigènes spécifiques et en générant des anticorps correspondants pour des tests diagnostiques:\n1-Collecte des Données: Récupérer des données de séquences d'antigènes\net d'anticorps à partir de banques de données publiques et spécialisées\n2-Tokenisation et normalisation des séquences d'antigènes et\nd'anticorps. Convertir les structures en représentations numériques adaptées\naux modèles d'IA.\n3-Génération de Structures d'Anticorps\n4 Appliquer des modèles comme IgFold pour prédire\nla structure 3D des anticorps à partir des séquences générées par les modèles IA.\n5-Prédiction de la présence de Maladies \"NR\"; utiliser les anticorps générés pour\ncréer des tests diagnostiques permettant de détecter la présence d'antigènes\net prédire la présence de maladies \"NR\"\n6-Calcul HPC et Quantique\n7-Déploiement et Intégration sur Cloud",
+        "title": "Other",
+        "skills": {
+            "Other": [
+                "Cloud"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/2873377",
+        "company": null,
+        "location": null,
+        "remote": null,
+        "publication_date": "2024-08-25",
+        "details": {
+            "TypeContract": "Intérim",
+            "Salary": null,
+            "Experience": "débutant accepté",
+            "Level": null
+        },
+        "company_data": {
+            "sector": "Activités des agences de travail temporaire",
+            "company_size": "Cabinet de recrutement spécialisé sur les secteurs électronique, informatique, web et mobile",
+            "turnover_in_millions": null
+        },
+        "description": "Nous recherchons pour notre client, editeur d'ERP dédié à l'industrie un Lead Data scientistEncadrement d'une équipe composée de spécialistes en Machine Learning et en Ingénierie des Données.Collaboration avec le Lead Data Scientist et le Lead Tech Senior pour définir les orientations du produit et organiser les tâches.Contribution au développement des fonctionnalités liées aux données et à l'intelligence artificielle.Communication et présentation avec les clients.Veille scientifique et travaux de recherche et développement.",
+        "title": "data scientist",
+        "skills": {
+            "Other": [
+                "Machine Learning"
+            ],
+            "EnSoftSkils": [
+                "Communication",
+                "Collaboration"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/2862448",
+        "company": null,
+        "location": null,
+        "remote": null,
+        "publication_date": "2024-08-24",
+        "details": {
+            "TypeContract": "CDI",
+            "Salary": null,
+            "Experience": "débutant accepté",
+            "Level": null
+        },
+        "company_data": {
+            "sector": null,
+            "company_size": null,
+            "turnover_in_millions": null
+        },
+        "description": "QUI SOMMES-NOUS ?Thales Digital Factory s'inscrit dans le programme de transformation de Thales qui a pour ambition de devenir un acteur incontournable et exemplaire du digital, et ce dans l'ensemble de ses marchés.  Notre mission consiste à accélérer la transition numérique du Groupe Thales en s'aventurant dans de nouveaux modes de travail et de décision. Notre stratégie s'articule autour de 6 valeurs : Responsabilisation, Orientée sur la donnée, Centrée sur l'utilisateur, Collaboration, Amélioration continue et Culture de l'échec. Nos bureaux se répartissent de Paris à Singapour en passant par Montréal au coeur d'écosystèmes innovants. Thales Digital Factory se distingue également grâce à son incubateur qui accompagne des start-ups internes et externes, ses plateformes digitales, son centre d'excellence Cloud et le développement de MVP, porteurs d'innovation pour l'offre digitale du Groupe et de nos clients.Avec plus de 600 experts IA et une centaine de doctorants en IA chaque année, et disposant d'un réseau de partenaires industriels, start-up et académiques de premier ordre, Thales est, depuis une décennie, un acteur majeur de l'IA de confiance, transparente, explicable et éthique. Le Groupe figure en tête, en Europe, dans le classement des déposants de brevets dans l'IA des systèmes critiques. Il intègre de l'IA dans plus d'une centaine de ses produits et services.Nous recherchons notre futur Data Scientist dans le cadre du lancement de notre nouvelle entité CortAix :CortAIx est l'accélérateur IA qui dotera les forces armées, les avionneurs et tous les opérateurs d'infrastructures critiques, de solutions hautement sécurisées leur apportant plus d'efficacité dans l'analyse des données et la prise de décision, tout en tenant compte des contraintes spécifiques, telles que la cybersécurité, l'embarquabilité et la frugalité, liées aux environnements critiques.Au sein de cette nouvelle organisation, nous représentons l'axe \"cortAIx Factory\" qui vise à accélérer la qualification et l'industrialisation des outils de développement de l'IA ainsi que les cas d'usage pour les données des systèmes. Thales dote déjà ses systèmes d'IA et continue d'identifier de nouveaux cas d'usages pour accélérer la performance, comme par exemple la planification de missions, la gestion du trafic aérien, le pilotage de drones et de robots.",
+        "title": "data scientist",
+        "skills": {
+            "Other": [
+                "Cloud"
+            ],
+            "EnSoftSkils": [
+                "Collaboration"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/2856216",
+        "company": "SÉCURITÉ SOCIALE ",
+        "location": "Seine-Saint-Denis",
+        "remote": null,
+        "publication_date": "2024-08-24",
+        "details": {
+            "TypeContract": "CDI",
+            "Salary": null,
+            "Experience": "expérience exigée",
+            "Level": null
+        },
+        "company_data": {
+            "sector": null,
+            "company_size": null,
+            "turnover_in_millions": null
+        },
+        "description": "CCMSA La MSA, Sécurité sociale du monde agricole et rural, est le 2ème régime de protection sociale en France. Avec ses 16 000 collaborateurs répartis au sein de ses 35 organismes, elle protège plus de 5 millions de personnes (agriculteurs, salariés agricoles, collaborateurs des organismes professionnels agricoles) tout au long de leur vie. Interlocuteur unique de ses ressortissants, la MSA verse toutes les prestations auxquelles ils peuvent prétendre en santé, famille, retraite, accident du travail et maladie professionnelle et assure également le recouvrement (cotisations, contributions sociales, assurance chômage ...). La Caisse Centrale de la MSA (CCMSA), 750 collaborateurs, est la tête du réseau. Elle contribue à la mise en œuvre de la politique sociale agricole et représente la MSA au niveau national auprès des Ministères et partenaires. Ce que vous découvrirez en nous rejoignant: Notre mission d'utilité sociale,Nos valeurs issues du mutualisme, que sont la solidarité, la responsabilité et la démocratie,Une richesse de métiers, la MSA assurant la gestion de tous les risques sociaux,Une attention portée à la qualité de vie au travail. Description du poste A la Direction des Statistiques, des Etudes et des Fonds (DSEF), vous intégrez le service Data et publications au sein du Département Synthèse en tant que data scientist. Le département est composé de 12 collaborateurs et collaboratrices. Vous intégrez une équipe composée de 2 data scientists et d'une chargée de mission en charge de la diffusion des publications. En lien avec le responsable du service, vous : Participez aux projets structurants de la direction relatifs à la préparation, l'exploitation et l'analyse des données dans un environnement big data ( cas d'usage sur le non-recours aux droits, sur le risque de désinsertion professionnelle, le suivi du risque de mortalité par suicide),Concevez, développez et appliquez des modèles innovants de data science adaptés aux données et aux besoins opérationnels,Administrez l'outil institutionnel de cartographie dynamique GéoMSA ( ingestion de données issues de différentes sources, mise à jour des référentiels géographiques, développement de portraits de territoire),Animez et formez le réseau des utilisateurs de GéoMSA (entre 5 et 10 jours de formation par an, le réseau comporte plus de 100 utilisateurs),Participez à des groupes de travail réunissant les experts du réseau de la CCMSA. Vous pouvez consulter notre site Profil recherché Vos compétences Vous maîtrisez les langages de bases de données ou de programmation R, Python, et en particulier SQL,Vous avez de l'appétence pour les méthodologies statistiques, économétriques et demachine learning, et vous avez des capacités à vous approprier les nouveaux concepts dans ce domaine,Vous avez une spécialité ou avez des compétences pratiques en cartographie ( ),Vous justifiez d'expériences en gestion de projet,Vous avez des qualités de synthèse, d'expression écrite et orale et de bonnes capacités relationnelles,Vous faites preuve de pédagogie face à vos interlocuteurs en vue de l'animation de réunions ou formations et vous êtes capable de vous adapter à votre public en vue d'échanger des informations,Vous faîtes preuve d'autonomie dans un fonctionnement collectif,La connaissance de la Protection Sociale serait un atout pour le poste. Votre formation Vous êtes diplômé.e d'une formation supérieure bac+5 en statistiques/science de la donnée, Informations complémentaires Pour faire la différence, votre candidature comprendra un CV et une lettre de motivation adaptée au poste recherché. Processus de recrutement : pré qualification téléphonique, entretien RH, entretien opérationnel. Bon à savoir si vous rejoignez la CCMSA dans nos locaux \"Luminem\" : A 2 min de la station Raymond-Queneau Pantin-Bobigny - ligne 5 et d'une station Vélib'Rémunération incluant un 13ème mois / Plan d'Epargne Entreprise (PEE) / Prime d'intéressementPossibilité de bénéficier de télétravail en accord avec le managerPlace de parking et parking vélo accessible depuis le canal de l'OurcqRestaurant d'entreprise et cafétériaComité Social et Economique",
+        "title": "data scientist",
+        "skills": {
+            "ProgLanguage": [
+                "Python",
+                "R"
+            ],
+            "DataBase": [
+                "SQL"
+            ],
+            "DataAnalytics": [
+                "R"
+            ],
+            "Other": [
+                "Big Data",
+                "Statistiques"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/2853842",
+        "company": "SUEZ ",
+        "location": "Hauts-de-Seine",
+        "remote": null,
+        "publication_date": "2024-08-24",
+        "details": {
+            "TypeContract": "CDI",
+            "Salary": null,
+            "Experience": "expérience exigée",
+            "Level": null
+        },
+        "company_data": {
+            "sector": null,
+            "company_size": null,
+            "turnover_in_millions": null
+        },
+        "description": "Contract type\n CDI \n\nQui sommes-nous ?\n\nSUEZ, acteurmajeur des services à l'environnement depuis plus de 160 ans, accompagne chaquejour les collectivités et les industriels dans la gestion des servicesessentiels que sont l'eau, les déchets et l'air. À ce titre, le Groupe produitde l'eau potable pour 66 millions de personnes dans le monde, créé 2 millionsde tonnes de matières premières secondaires par an et 3,1 TWh d'énergierenouvelable à partir des déchets.\n\nLevier de différenciation du Groupe, SUEZ Digital Solutionspropose à ses clients publics et privés des solutions digitales visant réduireleur empreinte environnementale et améliorer la performance de leur patrimoine. \nGrâce à son réseau d'Experts digitaux y compris en matièred'intelligence artificielle, SUEZ Digital Solutions accompagne lescollectivités et les entreprises dans leurs transitions environnementales etcirculaire, ainsi que les citoyens pour leur faciliter l'accès à uneconsommation plus durable.\nNotre ambition : accélérer ledéveloppement et le déploiement de solutions digitales à fort impactenvironnemental pour relever nos défis de demain comme la préservation de laressource en eau et la valorisation de nos déchets.\n\nVotre Mission\n\nDans le cadre du développement de Digital Solutions, nous recherchons un/une :\n\nData scientist H/F (La Défense)\n\nEn tant que membre clé de l'équipe, votre mission en tantque Data scientist sera de \n\n- Concevoir, développer et mettre en œuvre des solutions d'automatisation pour les tâches liées aux opérations de données sur Azure.\nTravailler avec Azure Machine Learning pour intégrer, analyser et modéliser des ensembles de données à grande échelle.\nUtiliser les outils qui renforcent les pratiques DevOps : Git et Azure DevOps pour le versionnage, le contrôle des sources et le déploiement.\n\nVous serez responsable de \n\nParticiper à la création et à la maintenance des pipelines des modèles d'IA pour assurer une livraison continue et fiable des modèles en production.\nSe tenir informé des avancées en matière de data science et d'intelligence artificielle et proposer des innovations pertinentes pour l'entreprise\nVeilles technologique et explorations des dernières approches et technique dans le secteur du Machine Learning et de la computer vision.\n\nQualités requises pour réussir dans ce rôle\n\nQualification: BAC+5 avec une spécialisation dans un domaine technique (computerscience, statistiques, mathématiques)Expérience attendues:minimum deux ans d'expériences sur les sujets data scienceCompétences techniques: d'Azure Synapse Analytics et Azure Machine Learning pour l'analyse et letraitement des données à grande échelle. Maitrise de PythonAutres compétences nécessaires: Expérience avec des outils et des frameworks de data science commeTensorFlow, PyTorch, scikit-learn, Azure Machine Learning Langues: (francais et anglais)Compétences comportementales: Capacité d'analyse et de synthèse\nÉtat d'esprit agile et collaboratif.\nCe que nous vous proposons\nType de contrat: CDIEmploi situé: La DéfenseMode de travail: hybrideDate de début: (ASAP)",
+        "title": "data scientist",
+        "skills": {
+            "MachineLearning": [
+                "PyTorch",
+                "Scikit-Learn"
+            ],
+            "CloudComputing": [
+                "Azure"
+            ],
+            "DevTools": [
+                "Git"
+            ],
+            "Other": [
+                "DevOps",
+                "Machine Learning",
+                "Statistiques"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/2850854",
+        "company": "HOXTON PARTNERS ",
+        "location": "Hauts-de-Seine",
+        "remote": null,
+        "publication_date": "2024-08-24",
+        "details": {
+            "TypeContract": "Profession",
+            "Salary": null,
+            "Experience": "5 an(s)",
+            "Level": null
+        },
+        "company_data": {
+            "sector": null,
+            "company_size": null,
+            "turnover_in_millions": null
+        },
+        "description": "Notre cabinet de recrutement recherche pour l' un de ses clients un consultant (H/F/Y)  Senior Machine Learning Engineer.\nContexte:\nNotre client a déployé la plateforme de data science Domino Datalab à l'international pour soutenir sa stratégie en Intelligence Artificielle et mutualiser les compétences avec les Transversal Analytics Solutions (TAS). \nActuellement, notre client étudie la migration de son infrastructure Cloud pour améliorer l?efficacité, l?architecture, et la sécurité du Datalab et des TAS face aux nouveaux défis technologiques.\nRôle: Etre l'un des référents de la migration des environnements de Datascience, au sein des équipes Data et IA.\nContexte organisationnel de la mission:\n? Equipes de datascientists (nos clients),\n? Equipe d?exploitation de la plateforme Domino,\n? Equipe de développement et de support Python,\nContexte technologique est également très varié :\n? Domino Datalab et autres plateformes Python (DevOps, Git, etc.)\n? Modèles de datascience (Python, Anaconda, Jupyter, MLOps, etc.)\n? Front java\n? Hébergement Cloud, kubernetes, docker, toolchain, etc.\n? Télécoms, API, CFT, cybersécurité, etc.\n? Système d?information (plus de 500 applications, ~10.000 serveurs)",
+        "title": "data scientist",
+        "skills": {
+            "ProgLanguage": [
+                "Python",
+                "Java"
+            ],
+            "DevTools": [
+                "Docker",
+                "Git"
+            ],
+            "Automation": [
+                "Kubernetes"
+            ],
+            "Containers": [
+                "Docker",
+                "Kubernetes"
+            ],
+            "Other": [
+                "Cloud",
+                "DevOps",
+                "Machine Learning"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/2848559",
+        "company": "CTG ",
+        "location": "Paris",
+        "remote": null,
+        "publication_date": "2024-08-24",
+        "details": {
+            "TypeContract": "Profession",
+            "Salary": null,
+            "Experience": "5 an(s)",
+            "Level": null
+        },
+        "company_data": {
+            "sector": null,
+            "company_size": null,
+            "turnover_in_millions": null
+        },
+        "description": "En tant que Data Scientist Junior, vous interviendrez au sein d?un pôle Data Science regroupant différentes compétences. Cette mission sera dans un environnement agile où l?entraide et l?esprit d?équipe sont des points forts de l?organisation.\nPour cela, vous serez amené(e) à :\n·       Intégrer des modèles d?IA\n·       Développer de processus automatisés en utilisant la technologie Airflow en relation étroite avec les métiers\n·       Maintenir et faire évoluer ces automates et micro-services\n·       Contribuer aux différentes plateformes et frameworks développés par l?équipe\n·       Classification les mails, analyse de sentiments, NER (NLP)\n·       Classifier les documents, OCR, reconnaissance faciale",
+        "title": "data scientist",
+        "skills": {
+            "Automation": [
+                "Airflow"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/2827078",
+        "company": null,
+        "location": "Réau",
+        "remote": null,
+        "publication_date": "2024-08-24",
+        "details": {
+            "TypeContract": "CDI",
+            "Salary": "Salaire brut : Annuel de 38000,00 Euros à 45000,00 Euros",
+            "Experience": "expérience exigée",
+            "Level": null
+        },
+        "company_data": {
+            "sector": "Ingénierie, études techniques",
+            "company_size": null,
+            "turnover_in_millions": null
+        },
+        "description": "QUI SOMMES-NOUS ?\n\nARIAL INDUSTRIES, Créée en 2001, est une société d'ingénierie et d'assistance technique en forte croissance dans les métiers de la mécanique, de l'électricité et des systèmes embarqués. Nous intervenons sur le plan national et européen pour des programmes d'envergure auprès des grands comptes des secteurs aéronautique, automobile, spatial, énergies et défense\n\nNOS VALEURS ?\n\nNotre politique RH est construite autour d'un maître mot, l'Humain. Nous souhaitons promouvoir le sens du service et la réactivité, l'écoute et la reconnaissance.\n\nNOS OPPORTUNITES / LES MISSIONS\n\nDans le cadre de nos projets dans le secteur de l'Aéronautique, nous recherchons un Ingénieur Data Scientist pour des projets de Contrôle Non Destructif (H/F).\n\nLe poste est à pourvoir depuis Villaroche (77) et/ou Saclay (91).\n\nLes missions proposées :\n\n- Comprendre les problématiques issues de la détection d'anomalies, le traitement de signals & d'image\n- Collécter les besoins et spécifications des équipes CND\n\n-  \n-  Développement\n-  Corrections d'Algorithmes IA\n-  Algorithmes Heuristiques & ML\n-  Prise en main des codes et bases de données dans le cadre de réapprentissage des modèles\n- Contribuer à la monter en compétences des équipes projets\n\nPROFIL RECHERCHÉ\n\nDe formation BAC+5 spécialisée en DATA, vous justifiez d'une première expérience significative en Data Science incluant du développement Algorithmique.\n\n- Vous avez travaillé sur du développement d'algorithmes IA / Heuristiques / ML\n- Vous comprenez et maitrisez les notions de traitement d'image et de signal\n- La connaissance du domaine du Contrôle Non Destructif serait un plus\n- Vous aimez travailler en équipe\n- Vous êtes force de proposition et Autonome\n- Nous recherchons des profils dynamiques, rigoureux et ayant de fortes compétences relationnelles.\n\nL'anglais est nécessaire sur ce poste.\n\nSALAIRE ET AVANTAGES\n\n- Entre 38 à 45k€ brut par an en fonction du profil,\n- Contrat CDI\n- Vous bénéficiez d'une prise en charge à hauteur de 50% de la mutuelle entreprise, 100% pour la prévoyance,\n- Prime de cooptation, primes de vacances et autres primes\n- Paniers repas par mois,\n- RTT,\n- Participez à nos évènements et rencontrez toutes nos équipes Arial Industries,\n- Plateforme Avantages (cinéma, culture, jeux, multimédia, chèques cadeaux.).\n-  \nVOS OPPORTUNITES CHEZ ARIAL INDUSTRIES\n\nPas de limitation ! Vous avez des objectifs professionnels ? Nous les définirons ensemble et serons heureux de vous aider à les atteindre.\nVotre sérieux et motivation ouvriront les portes des missions qui vous intéressent.\n\nPROCESSUS DE RECRUTEMENT\n\n- Etape 1 : Point téléphonique (10 minutes) avec le chargé de recrutement\n- Etape 2 : Entretien Teams (30 minutes) avec le chargé de recrutement\n- Etape 3 : Entretien (1h) avec le manager technique\n- Etape 4 : Intégration au sein de nos équipes\n\nNous garantissons de la réactivité et nous faisons en sorte de vous partager une réponse le plus vite possible !\n\nEn espérant vous compter parmi nous très prochainement. \n\nRef : C73O80481",
+        "title": "data scientist",
+        "skills": {
+            "Collaboration": [
+                "Teams"
+            ],
+            "Other": [
+                "ML"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/2822745",
+        "company": null,
+        "location": null,
+        "remote": null,
+        "publication_date": "2024-08-24",
+        "details": {
+            "TypeContract": "Profession",
+            "Salary": null,
+            "Experience": "débutant accepté",
+            "Level": null
+        },
+        "company_data": {
+            "sector": null,
+            "company_size": null,
+            "turnover_in_millions": null
+        },
+        "description": "En tant que Data Scientist Junior, vous interviendrez au sein d?un pôle Data Science regroupant différentes compétences. Cette mission sera dans un environnement agile où l?entraide et l?esprit d?équipe sont des points forts de l?organisation.\nPour cela, vous serez amené(e) à :\n Intégrer des modèles d?IA\n Développer de processus automatisés en utilisant la technologie Airflow en relation étroite avec les métiers\n Maintenir et faire évoluer ces automates et micro-services\n Contribuer aux différentes plateformes et frameworks développés par l?équipe\n Classification les mails, analyse de sentiments, NER (NLP)\n Classifier les documents, OCR, reconnaissance faciale\nProfil candidat:\nDe formation supérieure Bac+5, vous justifiez d?une première expérience dans un environnement similaire.\n connaissances avancées en python\n connaissances avancées sur la théorie du deep learning\n interêt prononcé pour l'IA Générative\n industrialisation du code\n maitrise des principaux framework de développement en python\nVous êtes dynamique et avez une bonne capacité de travail en équipe dans un contexte où rigueur, méthode et autonomie sont obligatoires.",
+        "title": "data scientist",
+        "skills": {
+            "ProgLanguage": [
+                "Python"
+            ],
+            "Automation": [
+                "Airflow"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/2822663",
+        "company": null,
+        "location": null,
+        "remote": null,
+        "publication_date": "2024-08-24",
+        "details": {
+            "TypeContract": "CDI",
+            "Salary": null,
+            "Experience": "débutant accepté",
+            "Level": null
+        },
+        "company_data": {
+            "sector": null,
+            "company_size": null,
+            "turnover_in_millions": null
+        },
+        "description": "En tant que Data Scientist/ML engineer, vous serez responsable de concevoir, développer et mettre en oeuvre des composantes/modèles de ML/DL pour améliorer la personnalisation et le système de recommandation du groupe.\nVous serez amené à participez aux différentes étapes d?un projet de la conception au déploiement (idéation, PoC, conception des pipelines MLOps, gestion du cycle de vie des modèles en production...).\nAu quotidien :\no GIT est votre meilleur ami\no Vous développez, testez et optimisez des solutions en utilisant Python sur votre IDE préféré.\no Vous travaillez en étroite collaboration avec les équipes DevOps et data ingénieurs pour garantir une mise en production efficace des solutions.\no Vous participez aux rituels de l?équipe (suivi de projet KANBAN, sessions de partage de connaissance, veille continue, pair programming)\nProfil candidat:\nCompétences et qualités attendues :\nDiplômé en informatique, en science des données ou en ingénierie, passioné par l'IA, vous justifiez d?une expérience de 3 ans dans la mise en production de projets de ML/DL idéalement dans un environnement cloud AWS.\no Vous maîtrisez le langage de programmation Python (Des connaissances en Scala/Spark seraient fortement appréciées)\no Vous avez une compréhension approfondie des algorithmes de ML/DL\no Vous avez l'habitude d'utiliser GIT & avez des connaissances des outils de data engineering de type Airflow, au moins une expérience CLOUD AWS (service ML SAGEMAKER)\no Vous avez une bonne connaissance des meilleures pratiques du développement et du codage : MLengineering et MLOps.\no Vous avez une bonne compréhension des principes de l'intégration continue (CI) et du déploiement continu (CD) et de leur intégration avec Git.\no Vous utilisez Docker et avez la compréhension des principes des conteneurs.\no Vous êtes capable de communiquer efficacement en anglais.",
+        "title": "data scientist",
+        "skills": {
+            "ProgLanguage": [
+                "Python",
+                "Scala"
+            ],
+            "BigData": [
+                "Spark"
+            ],
+            "CloudComputing": [
+                "AWS"
+            ],
+            "DevTools": [
+                "Docker",
+                "Git"
+            ],
+            "Automation": [
+                "Airflow"
+            ],
+            "Containers": [
+                "Docker"
+            ],
+            "Other": [
+                "Cloud",
+                "DevOps",
+                "ML"
+            ],
+            "EnSoftSkils": [
+                "Collaboration"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/2822354",
+        "company": null,
+        "location": null,
+        "remote": null,
+        "publication_date": "2024-08-24",
+        "details": {
+            "TypeContract": "CDI",
+            "Salary": null,
+            "Experience": "débutant accepté",
+            "Level": null
+        },
+        "company_data": {
+            "sector": null,
+            "company_size": null,
+            "turnover_in_millions": null
+        },
+        "description": "La Direction de l?Expérience Client, des services numériques et de la donnée a pour ambition de proposer, concevoir et mettre en ?uvre tous les dispositifs qui permettront au client d?améliorer son excellence opérationnelle et son intimité client, en réponse au niveau d?attente et d?exigence de ses clients.\nLe département Centres de solutions a en charge le développement des solutions IT transverses dans les domaines de la Digital Factory, Client Factory, Doc& Flow Factory (GED, Editique), API, Identité et droits (IAM), Tests (manuels et automatisés) et DataPlatform, contribuant ainsi à la simplification de notre SI et à la construction de la plateforme du client.\nL?entité Data Platform au sein du département Centres de solutions a pour mission de conduire l?ensemble des activités autour de la Data et de mettre en ?uvre une Data Platform transverse à l?organisation. Cette Data Platform met à disposition le socle technologique nécessaire pour répondre à plusieurs enjeux : \n?des enjeux d?acquisition des données (temps réel et batch),\n?des enjeux de traitement des données pour mise en exploitabilité,\n?des enjeux de stockage dans des Datawarehouse, DataHub, DataLake, \n?et des enjeux d?exposition de ces données dans des Magasins ou Bac à sables via API, DataViz, DataPrep.\nL?entité Data Platform porte également les activités de référentiel d?entreprise et intervient aussi sur des problématiques réglementaires telles que la LCB-FT, le profilage client, la Fraude et la corruption.\nLe pôle  Client et Conformité  au sein de l?entité CSOL Data Platform a pour mission de répondre aux besoins du métier Conformité, de les mettre en place dans la Plateforme Sécurité Financière (PSF) et de mettre en ?uvre un nouveau référentiel client isolé de la Plateforme Sécurité Financière.\nEn tant que datascientist confirmé, votre mission consiste à accompagner la montée en compétence, comme de ses premières réalisations d?un data engineer du pôle  Client et Conformité  ayant récemment suivi un cursus de formation en Data Science.\nAu sein de l?entité Data Platform, dans le pôle  Client et Conformité , l?objectif de la mission consiste à soutenir la montée en compétence d?un collaborateur dans la mise en ?uvre des premiers sujets d?expérimentation avec de l?IA, notamment sur des problématiques autour de l?efficience opérationnelle d?activités autour de la LCB-FT et la complétude des données KYC.\nVous avez la charge d?apporter votre expertise avec pédagogie dans la mise en application de modèles prédictifs. A l?issue de la prestation, le collaborateur CNP devra avoir la capacité de mettre en place ses propres modèles en toute autonomie.\nVous êtes en mesure de répondre à des problématiques complexes par des solutions innovantes.\nProfil candidat:\nEnvironnement fonctionnel : réglementaire LCB-FT, procédure KYC\nEnvironnement technique : Jupyter, Python, SQL Developer\n8 ans d?expertise ou plus en tant que data scientist",
+        "title": "data scientist",
+        "skills": {
+            "ProgLanguage": [
+                "Python"
+            ],
+            "DataBase": [
+                "SQL"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/2805429",
+        "company": "GROUPE BEAUMANOIR ",
+        "location": "Ille-et-Vilaine",
+        "remote": null,
+        "publication_date": "2024-08-24",
+        "details": {
+            "TypeContract": "CDD",
+            "Salary": "Salaire brut : Mensuel de 477,07 Euros à 1766,92 Euros",
+            "Experience": "expérience exigée",
+            "Level": null
+        },
+        "company_data": {
+            "sector": "Activités des sociétés holding",
+            "company_size": "Avec ses marques de prêt-à-porter (Cache-Cache, Bréal, Bonobo, La Halle, Vib's, Morgan, Caroll), son pôle lifestyle (Sarenza.com, Quiksilver, Roxy, Billabong, DC Shoes, Element, RVCA et VonZipper), sa filiale logistique C-Log, 2,3 Milliards de CA à fin février 2023, 15000 collaborateurs et 2700 points de vente dans le monde, le Groupe Beaumanoir poursuit son développement et recrute pour son siège.",
+            "turnover_in_millions": null
+        },
+        "description": "POSTE : Alternant Data Analyst - Scientist H/F\nDESCRIPTION : Le Groupe Beaumanoir cherche de nouveaux talents capables de tirer toute la quintessence des données générées par les millions de clients de ses marques de prêt-à-porter.\n\nAu sein de l'équipe DATA du Groupe, vous valorisez l'ensemble des données clients, magasins, produits et intervenez sur différents projets de modélisation de données, analyses descriptives et prédictives en fonction de cas d'usages Business.\nVous participez à des sujets tels que la reconnaissance d'image, la prévision de vente, le scoring d'appétence et développez la connaissance client à des fins de performance commerciale.\n\nIl s'agit d'une opportunité en alternance à pourvoir immédiatement au sein de notre belle ville Malouine !\nPROFIL : Vous suivez un Master en statistique, vous disposez d'une expérience significative en Data Science/Modélisation.\nVous avez de bonnes techniques statistiques et informatiques nécessaires au datamining et au machine Learning.\nVous êtes à l'aise avec les langages SQL, R et Python.\nVous êtes passioné(e) par la Data. Rigoureux(euse) autonome et dynamique, avec un vrai sens du collectif.\nVous avez l'esprit de service, la volonté d'apprendre et d'être un acteur du développement de notre Groupe et de ses marques de prêt-à-porter.\n\nCe que nous pouvons vous offrir ?\n-  Intégrer un groupe familial fondé à Saint-Malo en 1981,\n-  Parce qu'au-delà d'un diplôme c'est aussi une personnalité que nous recrutons, nous sommes animés par 7 valeurs dont le progrès, la proximité et la réactivité,\n-  Contribuer à développer nos actions de RSE,\n-  Profiter d'un parcours d'intégration complet pour avoir une vision 360° du Groupe,\n-  Votre parrain/marraine facilitera votre intégration au sein de la Tribu,\n-  Parce qu'il n'y a pas que la mode qui évolue, nous offrons des possibilités de mobilité interne pour construire votre carrière,\n-  Autres avantages : association sportive interne, avantages Comité d'Entreprise, carte tickets restaurants, réduction au personnel, dispositif \"1% logement\", système de rémunération variable, Blabla Car Daily etc.",
+        "title": "data scientist",
+        "skills": {
+            "ProgLanguage": [
+                "Python",
+                "R"
+            ],
+            "DataBase": [
+                "SQL"
+            ],
+            "DataAnalytics": [
+                "R"
+            ],
+            "Other": [
+                "Machine Learning",
+                "Statistiques"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/2803401",
+        "company": null,
+        "location": "OBERNAI 67",
+        "remote": null,
+        "publication_date": "2024-08-24",
+        "details": {
+            "TypeContract": "CDI",
+            "Salary": null,
+            "Experience": "3 an(s)",
+            "Level": null
+        },
+        "company_data": {
+            "sector": null,
+            "company_size": "Devenez acteur du changement et rejoignez un Leader sur son marché :***Protégez les consommateurs,***Valorisez le savoir-faire des TPME Françaises !\nConstruisons ensemble un monde plus sûr pour les Consommateurs et plus valorisant pour les Entrepreneurs.\nDécouvrez un secteur en pleine expansion et vivez avec nous une histoire pleine de succès !",
+            "turnover_in_millions": null
+        },
+        "description": "Description du poste :\nPrêt(e) pour une aventure statistique excitante ? Rejoins notre équipe !\nEn tant que magicien(ne) des données rattaché(e) à notre DSI, ta mission sera de transformer des montagnes de données en trésors d'informations pour booster les performances de notre entreprise. Tu prendras la suite d'un prestataire externe pour maintenir et faire évoluer notre infrastructure de données.\nTes super-pouvoirs incluront :\n1. La chasse et l'apprivoisement des données :\n- Décrypter les besoins et dénicher les données cruciales.\n- Pister et capturer les données depuis des serveurs, fichiers ou bases de données.\n- Nettoyer et préparer les données pour qu'elles soient prêtes à révéler leurs secrets.\n2. Alchimie des données et prédictions magiques :\n- Créer des algorithmes innovants pour croiser et analyser les données.\n- Utiliser tes outils magiques comme Python et Databricks.\n- Réaliser des essais et ajustements pour obtenir des prédictions ultra-fiables.\n3. Révélation des prophéties :\n- Présenter tes découvertes sous forme de rapports, graphiques, tableaux ou applications enchantées.\n- Collaborer avec différentes équipes métiers pour diffuser la bonne parole.\n- Communiquer avec brio, à l'oral et à l'écrit.\n- Proposer des idées novatrices pour optimiser la collecte de données.\nDescription du profil :\nTes compétences légendaires :\n- Maîtrise des outils de magie informatique (Databricks, PowerBI).\n- Expertise solide en statistiques et programmation, notamment en Python.\n- Capacité à mener des quêtes (projets) et à travailler en équipe de héros.\nSi tu es prêt(e) à enfiler ta cape de statisticien(ne) et à rejoindre notre quête pour transformer les données en succès, alors n'attends plus !",
+        "title": "data scientist",
+        "skills": {
+            "ProgLanguage": [
+                "Python"
+            ],
+            "BigData": [
+                "Databricks"
+            ],
+            "Other": [
+                "Statistiques"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/2801772",
+        "company": "RATP ",
+        "location": "Paris",
+        "remote": null,
+        "publication_date": "2024-08-24",
+        "details": {
+            "TypeContract": "CDI",
+            "Salary": "Salaire brut : Annuel de 35000,00 Euros à 60000,00 Euros",
+            "Experience": "expérience exigée",
+            "Level": null
+        },
+        "company_data": {
+            "sector": "Transports urbains et suburbains de voyageurs",
+            "company_size": "Le Groupe RATP, implanté dans 14 pays, sur quatre continents est le 5e groupe de transport public urbain au monde. Il est composé d'une maison-mère qui exploite le réseau francilien, un réseau multimodal parmi les plus complexes et d'une centaine de filiales qui proposent une variété d'expertises en France et à l'International. C'est une entreprise intégrée qui détient une expertise globale : Ingénierie, exploitation et maintenance.",
+            "turnover_in_millions": null
+        },
+        "description": "POSTE : Data Scientist H/F\nDESCRIPTION : Quel sera votre quotidien ?\n\nVotre principal rôle sera de :\n\nParticiper à l'identification, la qualification et la priorisation de cas d'usage de data science à forte valeur métier ;\n\nAssurer, sous la supervision d'un Lead Data Scientist, la réalisation scientifique et technique des projets de data science, en se conformant au modèle de delivery et aux standards de développement promus par le CE Data\n\nAccompagner le déploiement des projets sur les infrastructures de production (support du build et du run) et leur intégration dans les processus métier concernés\n\nAssurer l'interface avec l'ensemble des parties prenantes (métiers et techniques) et contribuer à l'animation des réunions projet : kick-offs, revues de sprint, comités de pilotage, etc.\n\nValoriser les travaux au sein et à l'extérieur du groupe par le biais de communications et de démonstrations\n\nVous contribuerez également aux activités transverses du CE Data : missions d'expertise diverses, création de contenus de formation et d'acculturation, développement de l'offre du CE Data, participation à l'animation de la communauté data science du groupe, etc.\n\nPour en savoir plus, cliquez sur le lien suivant : https://www.ratp.fr/groupe-ratp\nPrimes (salaire à titre indicatif)\nPROFIL : Vous êtes diplômé d'un Bac +5 en Data Science (ou équivalent) et avez acquis au moins 2 années d'expérience dans ce domaine.\n\nPour relever ces défis, nous recherchons une personne disposant d'un bagage scientifique et technique solide :\n\nCompétences avancées en mathématiques, statistiques et intelligence artificielle\n\nCompétences dans le recueil, le traitement et l'analyse de données afin de répondre à des besoins métier spécifiques\n\nCompétences dans le développement et le déploiement de modèles d'apprentissage automatique dans un contexte industriel\n\nConnaissance de Python et, idéalement, de PySpark, SQL et Git\n\nVous vous reconnaissez ? N'hésitez pas à postuler directement en ligne !\n\nTous nos métiers sont ouverts aux personnes en situation de handicap.\n\nInformations complémentaires\n\nType de contrat : CDI\n\nLocalisation : Maison de le RATP - Paris 12ème\n\nTélétravail : Oui\n\nPrincipaux avantages de l'entreprise\n\nÉvolution de carrière vers d'autres métiers y compris en filiales internationales\n\n9 semaines de congés, soit 206 jours travaillés par an",
+        "title": "data scientist",
+        "skills": {
+            "ProgLanguage": [
+                "Python"
+            ],
+            "DataBase": [
+                "SQL"
+            ],
+            "DevTools": [
+                "Git"
+            ],
+            "Other": [
+                "Statistiques"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/2781077",
+        "company": "DEMETER ",
+        "location": "Hauts-de-Seine",
+        "remote": null,
+        "publication_date": "2024-08-23",
+        "details": {
+            "TypeContract": "CDI",
+            "Salary": "Salaire brut : Annuel de 50000,00 Euros à 80500,00 Euros",
+            "Experience": "expérience exigée",
+            "Level": null
+        },
+        "company_data": {
+            "sector": "Conseil pour les affaires et autres conseils de gestion",
+            "company_size": "Le Groupe DEMETER est un cabinet de recrutement fondé par quatre Ingénieurs et Business Managers ayant la même passion pour la transformation, l'innovation et le management d'équipe.\nNotre client est un groupe de conseil en transformation, management et stratégie français indépendant. Il accompagne ses clients sur leurs grands projets de transformation grâce à ses domaines d'excellence tels que la Data, le Digital, le Marketing, le Change management, la Finance, la Compliance, ...",
+            "turnover_in_millions": null
+        },
+        "description": "POSTE : Data Scientist Senior Banque - Assurance H/F\nDESCRIPTION : Nous recherchons plusieurs consultants séniors pour venir renforcer les expertises Data du cabinet. Vous évoluerez sur des périmètres clients divers tels que :\n* Analytics et Data Intelligence\n* DataScience et Big Data\n* Business intelligence et Data Visualisation\n* Méthodes et modélisation statistiques\n* Evolutions réglementaires (BCBS 239, Risques climatiques)\n* Impacts métiers (Marketing automation, Uplift\n\nen vous appuyant sur les outils & technologies suivants :\n* Python / R / Spark / SAS\n* Solution data science type Dataiku\n\nAu sein de la communauté Data, vous serez amené à :\n* Participer avec nos autres experts aux réflexions & travaux du domaine d'excellence Data du groupe : veille, événements, création de contenus, soutien aux initiatives R&D, réalisation de cas d'usage data science etc.\n* Participer à des réponses à appel d'offres\n* Participer à de la veille\n* Participer à la vision et porter les convictions du cabinet sur les sujets Data\nPROFIL : Les principaux attendus pour ce poste sont les suivants :\n* Diplômé(e) d'un Bac +5 en mathématiques appliquées ou statistiques avec une spécialisation dans les techniques de Machine Learning, vous disposez d'une expérience pratique d'au moins 5 ans sur du développement dans les langages Python, R, SAS Toute candidature de jeune diplômé ne sera pas traitée.\n* Vous connaissez le monde de la banque / assurance et justifiez d'une expérience minimum de 4 ans dans ce secteur\n* Rigoureux(se) dans la réalisation de vos objectifs, vous disposez de bonnes capacités organisationnelles et de gestion du temps\n* Anglais obligatoire",
+        "title": "data scientist",
+        "skills": {
+            "ProgLanguage": [
+                "Python",
+                "R"
+            ],
+            "DataAnalytics": [
+                "R"
+            ],
+            "BigData": [
+                "Spark"
+            ],
+            "Other": [
+                "Big Data",
+                "Machine Learning",
+                "Statistiques"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/2780399",
+        "company": "ISAGRI ",
+        "location": "Pyrénées-Atlantiques",
+        "remote": null,
+        "publication_date": "2024-08-23",
+        "details": {
+            "TypeContract": "CDI",
+            "Salary": null,
+            "Experience": "expérience exigée",
+            "Level": null
+        },
+        "company_data": {
+            "sector": "Édition de logiciels applicatifs",
+            "company_size": "142",
+            "turnover_in_millions": null
+        },
+        "description": "POSTE : Data Scientist H/F\nDESCRIPTION : VOS MISSIONS En tant que Data Scientist, votre expertise en modélisation prédictive, en machine learning, et en deep learning sera essentielle pour débloquer de nouvelles voies d'innovation et d'efficacité opérationnelle. Vous êtes capable de résoudre des problèmes complexes grâce à votre curiosité et à vos compétences techniques. Votre rôle est de révéler la véritable valeur des données et de les exploiter au profit de l'entreprise.\n\nResponsabilités Principales :\n1.Analyse de Données :\n-  Collecter et nettoyer de larges volumes de données structurées et non structurées,\n-  Traiter, analyser et modéliser les données,\n-  Interpréter les résultats pour identifier des tendances et des patterns.\n\n2.Mise en Place du Data Lake :\n-  Définir l'architecture de données, y compris les modalités de stockage, d'ingestion, de traitement des données,\n-  Développer et déployer les processus d'ingestion pour collecter les données des différentes sources,\n-  Effectuer des tests complets pour vérifier la performance et l'intégrité des données.\n\n3.Data Science :\n-  Résoudre les problèmes de l'entreprise grâce à l'analyse de données,\n-  Fournir des informations exploitables pour la prise de décisions,\n-  Développer des modèles descriptifs et prédictifs.\n\n4.Partage des Connaissances :\n-  Réaliser une veille sur les modèles d'analyse de données,\n-  Partager les meilleures pratiques avec l'équipe.\n\nCONDITIONS PROPOSEES Poste en CDI basé à Pau à pourvoir dès que possible.\nRémunération : Fixe - Variable\nPossibilité de bénéficier de notre cellule d'aide au logement.\nTélétravail possible jusqu'à 2jrs/semaine\n\nDans le cadre de sa politique RH, ISAGRI étudie, à compétences égales, toutes candidatures dont celles de personnes en situation de handicap.\nIntéressement\nPROFIL : VOTRE PROFIL - Vous avez un Diplôme en informatique, génie logiciel, ou domaine connexe,\n-  Maîtrise des langages de programmation Python (Pandas, NumPy, Matplotlib ),\n-  Maîtrise des langages et les outils de traitement et d'analyse de données (Spark ou Hadoop, SQL, Elasticsearch),\n-  Solide compétences en Data Science (NLP, Computer-vision, Classification, Clustering) et en Frameworks deep learning (PyTorch et TensorFlow),\n-  Solide compétences en Big Data (organisation d'un Data Lake, stockage et traitements des données distribués).\nVos connaissances de PowerBI, Tableau, MLAzure et de MLFlow seront appréciées.\n\nVOS EVOLUTIONS La politique RH vous garantit un accompagnement régulier pour vous faire progresser et évoluer vers de nouvelles missions en fonction de votre projet. Rejoindre notre Groupe, c'est la garantie d'une formation initiale et continue, d'un plan de carrière personnalisé et d'un management de proximité.",
+        "title": "data scientist",
+        "skills": {
+            "ProgLanguage": [
+                "Python"
+            ],
+            "DataBase": [
+                "Elasticsearch",
+                "SQL"
+            ],
+            "DataAnalytics": [
+                "Pandas",
+                "NumPy"
+            ],
+            "BigData": [
+                "Hadoop",
+                "Spark"
+            ],
+            "MachineLearning": [
+                "PyTorch",
+                "TensorFlow"
+            ],
+            "DataVisualisation": [
+                "Matplotlib",
+                "Tableau"
+            ],
+            "Other": [
+                "Big Data",
+                "Machine Learning"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/2775724",
+        "company": "ELAN RH ",
+        "location": "Ille-et-Vilaine",
+        "remote": null,
+        "publication_date": "2024-08-23",
+        "details": {
+            "TypeContract": "CDD",
+            "Salary": null,
+            "Experience": "débutant accepté",
+            "Level": null
+        },
+        "company_data": {
+            "sector": "Conseil pour les affaires et autres conseils de gestion",
+            "company_size": "Elan RH, un Cabinet de Recrutement et Conseil en Evolution Professionnelle, qui accompagne les entreprises dans une démarche qualitative et sur-mesure, mettant l humain au coeur de sa stratégie. \n \nSpécialisé dans le recrutement de Cadres et de Dirigeant, le cabinet intervient dans les domaines suivants : Achats & Supply Chain, Digital & Communication, Finance & RH, Retail & Commerce. \nAgilité, efficacité, écoute et bienveillance telles sont les valeurs essentielles d E...",
+            "turnover_in_millions": null
+        },
+        "description": "POSTE : Data Scientist H/F\nDESCRIPTION : Notre client, LibertéWatts, est une startup qui transforme radicalement le monde de l'énergie en permettant à n'importe qui d'être rémunéré lorsqu'il consomme moins d'électricité à la maison.\n\nSon objectif : Offrir une expérience utilisateur unique et proposer une application \nmobile de référence pour la consommation d'électricité.\n\nPour cela, ta mission sera de mettre la data au service du business et des besoins de nos utilisateurs.\n\nTon rôle :\n\nEn tant Data Scientist, tu interviens directement dans la construction de nos algorithmes sur des sujets d'analyse, de prévisions ou encore de machine learning.\n\nTes missions et responsabilités : \nAlgorithmes de prévision des effacements : anticiper les économies d'électricité de nos \nutilisateurs en fonction de leurs habitudes de consommation, de la météo ou encore du jour de la semaine. \nSuivi des effacements : assurer le suivi et l'analyse des données relatives aux effacements et aux économies d'électricité réalisées par nos utilisateurs sur la base de la réglementation des mécanismes NEBEF, de CAPACITÉ ou encore l'Appel d'Offres Flexibilités Décarbonées. \nMise en place d'un système de récompenses dynamique : participer à la création d'un \nsystème de récompenses pour encourager les utilisateurs à réduire leur consommation \nd'électricité de manière optimale\nPROFIL : Ce job est fait pour toi si : \nTu possèdes des expériences réussies en lien avec la data science (IA, machine learning) \nTu souhaites jouer un rôle clé dans une entreprise dynamique et engagée pour \nl'environnement. \nTu es convaincu que la data peut faire évoluer les comportements.\n\nCompétences obligatoires requises :\n\nBonne maîtrise des techniques de machine learning et de l'analyse de données. \nExpérience avec des langages de programmation tels que Python ou R. \nConnaissance des bases de données SQL et NoSQL. \nCompétences en modélisation statistique et en prévision\n\nCompétences souhaitées :\n\nExpérience avec des frameworks de machine learning (TensorFlow, Scikit-Learn, etc.). \nConnaissance des systèmes de gestion de l'énergie et des smart grids. \nExpérience dans le développement de systèmes de recommandation ou de gamification.\n\nSoftkills :\n\nCapacité à travailler de manière autonome et à prendre des initiatives. \nSensibilité pour les enjeux environnementaux et énergétiques. \nAptitude à travailler en équipe et à communiquer efficacement. \nVolonté de participer à une aventure entrepreneuriale",
+        "title": "data scientist",
+        "skills": {
+            "ProgLanguage": [
+                "Python",
+                "R"
+            ],
+            "DataBase": [
+                "SQL",
+                "NoSQL"
+            ],
+            "DataAnalytics": [
+                "R"
+            ],
+            "MachineLearning": [
+                "Scikit-Learn",
+                "TensorFlow"
+            ],
+            "Other": [
+                "Machine Learning"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/2769208",
+        "company": "DOGFINANCE ",
+        "location": "Pyrénées-Orientales",
+        "remote": null,
+        "publication_date": "2024-08-23",
+        "details": {
+            "TypeContract": "CDI",
+            "Salary": "Salaire brut : A négocier",
+            "Experience": "débutant accepté",
+            "Level": null
+        },
+        "company_data": {
+            "sector": "Programmation informatique",
+            "company_size": "Rejoindre le Crédit Agricole Sud Méditerranée, c'est rejoindre la première banque locale, coopérative et indépendante de l'Ariège et des Pyrénées-Orientales. C'est aussi rejoindre le premier financeur de l'économie française et le leader de la bancassurance en Europe. Fort de ses fondements coopératifs, notre Caisse Régionale s'appuie sur un modèle mutualiste avec plus de 127 910 clients sociétaires et 470 administrateurs élus qui les représentent. La responsabilité, l'ut...",
+            "turnover_in_millions": null
+        },
+        "description": "Descriptif du poste:\n\nRejoignez la banque leader des Pyrénées-Orientales et de l'Ariège ! Evoluez à nos côtés au sein d'une banque mutualiste, connectée et résolument orientée clients ! 100% humain et 100% digital, c'est un combo gagnant qui nous mène vers notre ambition : devenir un tiers de confiance reconnu et plébiscité en interne comme en externe ! Si vous êtes expert et passionné de data et que vous avez envie d'être acteur de votre carrière, votre place est surement parmi nous !\nPourquoi recrutons-nous ? Dans un contexte où nous souhaitons renforcer et assoir notre modèle de banque universelle de proximité, nous recherchons un Lead Data Scientist pour rejoindre notre Siège Social de Perpignan. Le marketing digital et l'utilisation de nos données clients sont de véritables outils au service de la satisfaction clients et de la réalisation de nos ambitions. Avec vous, nous allons poursuivre le travail de mise en place et de développement de notre stratégie numérique et digitale clients. Vous travaillerez en synergie avec les équipes du marketing relationnel et les autres services de la Direction Expérience Clients et Sociétaires.\nVotre rôle dans l'équipe : En véritable responsable du marketing digital et encadrant d'une équipe de data scientists, vos missions seront notamment les suivantes : Développer les compétences des Data Scientists et piloter leurs activités, en incarnant pleinement les rôles de Leader, Capitaine, Coach. Elaborer les feuilles de route des études et projets data Proposer des actions e-commerce, les mettre en œuvre et piloter l'atteinte des objectifs associés Opérer les actions de marketing direct en coordination avec le marketing relationnel et la communication Bâtir le plan d'acquisition digitale régional, en cohérence avec le plan média national Groupe Faciliter la connaissance des parcours digitaux clients et conseillers Initier des modèles générateurs d'opportunités commerciales ou relationnelles Détecter les opportunités business et mettre en œuvre leur distribution auprès des agences, participer au pilotage de leur transformation Diffuser la culture du digital et de la data au sein de l'entreprise\n\nPour mener à bien ces missions, les compétences et aptitudes suivantes vous seront nécessaires : Une expertise en data et digital, y compris technique et opérationnelle Une maîtrise des leviers du webmarketing, (projets data / digitaux) Des qualités avérées de synthèse et d'analyse Un intérêt marqué pour la data et ses évolutions Une première expérience réussie en management d'équipe\n\nProfil recherché:\n\nQuel profil recherchons-nous ? Formation de niveau Bac +5 Econométrie, Statistiques, Data Science Parfaite maîtrise des outils informatiques et bureautiques Bonnes connaissances en SQL, RStudio, Python, HTML Maitrise du Machine Learning : Anomaly Detection, Gradiant Descent, Computer Vision, neural networks Culture IT Gestion d'équipes techniques Force de proposition et créativité Rigueur et Organisation Esprit d'équipe Polyvalence\nCompétences informatiques\nPython\nHTML\nSQL\nManagement",
+        "title": "data scientist",
+        "skills": {
+            "ProgLanguage": [
+                "Python"
+            ],
+            "DataBase": [
+                "SQL"
+            ],
+            "Other": [
+                "Machine Learning",
+                "Statistiques"
+            ],
+            "EnSoftSkils": [
+                "Communication"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/2768578",
+        "company": "EURO-INFORMATION DEVELOPPEMENTS ",
+        "location": "Bas-Rhin",
+        "remote": null,
+        "publication_date": "2024-08-23",
+        "details": {
+            "TypeContract": "CDI",
+            "Salary": "Salaire brut : A négocier",
+            "Experience": "débutant accepté",
+            "Level": null
+        },
+        "company_data": {
+            "sector": "Tierce maintenance de systèmes et d'applications informatiques",
+            "company_size": "Euro-Information, filiale technologique de Crédit Mutuel Alliance Fédérale, conçoit, réalise, maintient et exploite un système d'information commun utilisé par le Groupe.\n\nLes activités de développement et de production informatique au niveau national et international sont assurées par environ 4000 salariés répartis sur plusieurs sites géographiques au niveau national : Strasbourg, Nancy, Dijon, Orléans, Lyon, Lille, Cergy, Val de Fontenay, Paris et Nantes.\n\nPremière Ban...",
+            "turnover_in_millions": null
+        },
+        "description": "Descriptif du poste:\n\nNous recherchons actuellement un(e) Datascientist pour le secteur Solutions Cognitives. Notre équipe est en charge de la R&D et de la création des modèles d'IA pour le traitement automatique du langage (dont l'IA générative).\nNous développons notamment des modèles pour : l'analyse des e-mails, les chatbots à destination des clients et collaborateurs, les outils pour l'aide aux développeurs avec l'IA générative.\nNous travaillons sur les dernières technologies à l'état de l'art (Finetuning de Large language models open source, Llama, Mixtral etc.) avec une capacité de calcul sur GPU installé dans nos datacenters.\nNous recherchons une personne capable de travailler de l'étude d'un sujet R&D jusqu'à sa mise à disposition en production dans le cloud. Nous recherchons quelqu'un qui s'intéresse au sujet, se renseigne, aime apprendre et surtout, aime concevoir et développer des modèles et des services.\n \nDans ce contexte, en tant que Data Scientist, vous aurez à charge de développer des modèles et services d'intelligence artificielle dans un mode de fonctionnement agile (Scrum).\n\nPlus précisément, vous aurez à :\n* Créer des modèles de machine learning (Deep Learning, IA générative)\n* Réaliser de la veille technologique afin de rester à l'état de l'art.\n* Développer des services en Python\n* Rédiger des spécifications\n* Respecter les normes de développement et suivre des jalons définis dans les outils internes\n* Déploiements sur le cloud interne\n* Suivre les cérémonies de la méthodologie Scrum (planification de sprint, mêlée journalière etc...)\n\nProfil recherché:\n\nDe formation bac +4/5, vous avez les compétences suivantes :\n* Une solide compréhension de l'intelligence artificielle\n* Une capacité d'analyse et de veille afin de réaliser des études R&D\n* Une bonne connaissance du développement en Python et déploiement sur le cloud.\n* Bonne communication\n* Méthodologie de développement agile\n* Connaissance d'autres langages objets (C#, Java)\nVous maîtrisez l'anglais écrit et parlé.\n \nAutonome et organisé(e), vous faites preuve d'initiatives et d'esprit de synthèse.\nUne capacité à généraliser les concepts et à voir des similarités là où tout le monde ne voit que des différences sera très appréciée.\nVous avez le souci du respect des normes et standards qualité.",
+        "title": "data scientist",
+        "skills": {
+            "ProgLanguage": [
+                "R",
+                "Python",
+                "Java"
+            ],
+            "DataAnalytics": [
+                "R"
+            ],
+            "Other": [
+                "Cloud",
+                "Machine Learning"
+            ],
+            "EnSoftSkils": [
+                "Communication"
+            ]
+        }
+    }
+]

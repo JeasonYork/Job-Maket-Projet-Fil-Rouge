@@ -1,3 +1,83 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:574b4bfbf418f84b2f178e17961b63589f822a3224752a18a7a034ec6909496b
-size 12179
+[
+    {
+        "source": "France Travail",
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/2830688",
+        "title": "SOFTWARE ENGINEER (H/F)",
+        "company": "EXPECTRA ",
+        "location": "75",
+        "remote": null,
+        "publication_date": "2024-08-24",
+        "details": {
+            "TypeContract": "CDI",
+            "Salary": null,
+            "Experience": "Expérience exigée de 3 An(s)",
+            "Level": null
+        },
+        "company_data": {
+            "sector": null,
+            "company_size": "Expectra, leader en France de l'intérim spécialisé et du recrutement en CDI de cadres et agents de maîtrise.\nLes consultants du Département Informatique - Intégration vous proposent des opportunités de carrière.",
+            "turnover_in_millions": null
+        },
+        "description": "Nous sommes actuellement à la recherche, dans le cadre d'un contrat chez notre client intégrateur de CRM, d'un Software Engineer (f/h).Au sein de la business unit française, vous participez principalement sur des projets d'implémentation, d'intégration et d'analyse du CRM HubSpot (Sales/Marketing).\nEn tant que consultant technique CRM, vous avez un rôle important à jouer pour les clients.\nVous apportez un regard technique auprès des clients dans leurs projets de transformation numérique autour de l'activation des ventes, de l'automatisation du marketing, du commerce électronique et de la gestion de la relation client.\nVous travaillez en étroite collaboration avec le chef de projet et les développeurs pour mettre en œuvre le projet.\nVos tâches quotidiennes seront diverses mais vous pouvez vous attendre à :\n - Collecter, identifier et analyser les besoins clients.\n - Analyser le système actuel des clients (ex. API,...)\n - Rédiger des spécifications / cahiers des charges technique à destination des équipes de développement.\n - Conseiller les clients dans la \"faisabilité\" de leurs demandes\n - Soutenir les clients pendant les phase de test\n - Assister aux réunions techniques avec le client si nécessaire\n - Participer à des phases de développement si nécessaire. Au moins, à une réflexion technique en collaboration avec les équipes."
+    }
+, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2781613",
+    "title": "Software Engineer Golang - Aws H/F",
+    "company": "SEYOS ",
+    "location": "75",
+    "remote": null,
+    "publication_date": "2024-08-23",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": "Salaire brut : Annuel de 50000,00 Euros à 60000,00 Euros",
+        "Experience": "Expérience exigée",
+        "Level": null
+    },
+    "company_data": {
+        "sector": "Conseil pour les affaires et autres conseils de gestion",
+        "company_size": "Seyos est un cabinet de recrutement spécialisé dans les métiers de l'IT. Nous intervenons au niveau national et proposons aux candidats des opportunités professionnelles au sein d'éditeurs de logiciels, DSI d'entreprises (clients finaux), startups, acteurs E-commerce. En 9 années d'existence, plus de 1 300 professionnels de l'IT et du Digital ont déjà été recrutés par l'intermédiaire de Seyos au sein de 400 entreprises.",
+        "turnover_in_millions": null
+    },
+    "description": "POSTE : Software Engineer Golang - Aws H/F\nDESCRIPTION : Notre client final, est l'un des leaders du travail temporaire et du recrutement en France (2 300 collaborateurs dont 450 collaborateurs sur Paris) et à l'international.\nDepuis 3 ans, ils viennent d'accélérer leur transformation digitale avec la création d'un département innovation R&D travaillant directement avec la direction (migration de toute la solution back-office directement dans le cloud AWS à 100%).\n\nVous allez rejoindre ce département R&D (30 collaborateurs) dans un environnement Agile / SCRUM et prendre part à un projet grandissant (équipe en croissance).\nAu sein de l'équipe back-end composée de 5 collaborateurs, vous allez participer à la création d'une plateforme centralisée dans le cloud dans lequel on retrouvera tous les candidats au même endroit, les intérimaires, les besoins et clients.\n\nLocalisation : Paris (75017) - remote possible (2 jours / semaine).\nEnvironnement technique : AWS (CDK, Lambda, DynamoDB, SQS, SNS, S3), Golang, TypeScript / React, REST APIs, Docker, Github, Codepipeline, Sonar Cloud, Jira, Confluence.\nRémunération : 50 000 / 65 000 Euros (annuel).\n\nAu sein de la squad back-end, vous allez :\n\n-  Participer à la définition du contenu des sprints et veiller à leur bon déroulement,\n-  Veiller à la mise en place des bonnes pratiques de développement et s'assurer de la bonne qualité jusqu'à la mise en production,\n-  Assurer le développement des microservices en GO,\n-  Participer à la rédaction de la documentation technique et assurer la qualité des livrables produits,\n-  Contribuer à la construction de la vision technique en compagnie de l'équipe architecture.\n-\nPROFIL : Votre profil :\n\n-  Vous disposez d'au moins 2 ans d'expérience à un poste similaire,\n-  Passionné de GO.\n-  Initié aux bonnes pratiques de développement (TDD / BDD / DDD).\n-  Capacité d'écoute, remise en question, d'adaptation du discours au niveau technique de ses interlocuteurs,\n-  Travail en équipe,\n-  Nombreux avantages (primes, télétravail, etc).\n\nCe poste vous intéresse   Postulez à cette annonce ou contactez Maximilien Waeters pour toute question."
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2780735",
+    "title": "Cloud Software Engineer Expertise Golang H/F",
+    "company": "SEYOS ",
+    "location": "38",
+    "remote": null,
+    "publication_date": "2024-08-23",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": "Salaire brut : Annuel de 45000,00 Euros à 55000,00 Euros",
+        "Experience": "Expérience exigée",
+        "Level": null
+    },
+    "company_data": {
+        "sector": "Conseil pour les affaires et autres conseils de gestion",
+        "company_size": "Seyos est un cabinet de recrutement spécialisé dans les métiers de l'IT. Nous intervenons au niveau national et proposons aux candidats des opportunités professionnelles au sein d'éditeurs de logiciels, DSI d'entreprises (clients finaux), startups, acteurs E-commerce. En 9 années d'existence, plus de 1 300 professionnels de l'IT et du Digital ont déjà été recrutés par l'intermédiaire de Seyos au sein de 400 entreprises.",
+        "turnover_in_millions": null
+    },
+    "description": "POSTE : Cloud Software Engineer Expertise Golang H/F\nDESCRIPTION : Circle Anatoscope Intuitive Design est un éditeur de logiciels permettant aux dentistes et prothésistes de produire des prothèses dentaires de la plus haute qualité et au meilleur coût, grâce à une intégration des flux de spécification, conception et fabrication.\nCirlce compte une quarantaine de salariés répartis dans des locaux sur Grenoble et Montpellier.\n\nAu sein de la filiale dentaire, vous rejoindrez la nouvelle équipe Cloud (composée de trois personnes), cette équipe sera en charge de développer et proposer une solution multi cloud, solution de calcul déportés et de streaming dans le cloud ayant vocation à remplacer le système actuel en production.\n\nPoste en CDI\nLocalisation : Grenoble (Montbonnot St Martin)\nRémunération : 45 000 - 55 000 Euros\nStack technique : Golang, Docker, CI/CD, GCP, AWSTélétravail possible\n\nAu sein de votre équipe de développement, vous allez :\n\n-  Participer au développement de modules et d'API pour l'orchestrateur de conteneurs basé sur Kubernetes\n-  Contribuer au développement du pipeline de test/versioning/packaging/déploiement\n-  Participer au développement de leur technologie de streaming\n-  Intervenir en tant que support de niveau 3\n\nAvantages :\n\n-  Tickets restaurants (10e), 60% pris en charge par Circle\n-  Mutuelle à 100%\n-  22 RTT\n-  Variable à 10% (13ème mois + performance individuelle)\n-  CET\n-\nPROFIL : -  Vous êtes titulaire d'un Bac +5\n-  Vous disposez de 5 ans d'expérience sur un poste similaire\n-  Vous avez des compétences techniques en développement GO\n-  Vous maitrisez Docker et des outils de CI/CD"
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2767148",
+    "title": "SENIOR SOFTWARE ENGINEER - NETWORKING F/H - Informatique industrielle (H/F)",
+    "company": "ABK CONSULTING RH ",
+    "location": "91",
+    "remote": null,
+    "publication_date": "2024-08-23",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": "Salaire brut : 50 - 70 k€ brut annuel",
+        "Experience": "Expérience exigée de 7 An(s)",
+        "Level": null
+    },
+    "company_data": {
+        "sector": "Conseil pour les affaires et autres conseils de gestion",
+        "company_size": "Ils sont les artisans du son dans toute sa beauté, révélateur d'expression et d'émotion. Grâce à leur engagement pour l'innovation et l'excellence de la conception de produits, notre Client façonne le futur du son avec des technologies de pointe qui permettent aux professionnels de l'audio et aux artistes d'améliorer l'expérience de l'auditeur. Présent à l'international, il est le leader mondial dans la conception, la fabrication et la distribution de technologies de sonorisatio...",
+        "turnover_in_millions": null
+    },
+    "description": "Descriptif du poste:\n\nL'équipe que vous rejoindrez\nVous ferez partie d'une équipe d'experts dont la mission est de fournir des logiciels et des micrologiciels avec la meilleure expérience utilisateur et une fiabilité inégalée pour toute la gamme d'appareils, y compris les contrôleurs amplifiés, les processeurs audio, les équipements réseau et d'autres produits multimédias à venir.\nLes technologies que notre client développe :\n·        Transport audio/vidéo déterministe en temps réel sur Ethernet filaire et sans fil (IEEE 802.1 AVB/TSN, 802.3, 802.11).\n·        Protocoles de contrôle basés sur Ethernet brut et TCP/IP.\n·        Logiciel de bas niveau pour plateformes embarquées (mise en route des appareils, surveillance du matériel, développement de pilotes, intégration RTOS).\n·        Temps réel et applications exécutées sur MCU(s), DSP(s) et FPGA(s).\nVous découvrirez l'état d'esprit d'une start-up avec la structure, les outils et l'impact d'une entreprise mondiale et d'un leader du marché.\n \nÀ quoi vous contribuerez\n·        Maintenir la pile réseau à un très haut niveau de fiabilité et de performance.\n·        Concevoir, mettre en œuvre et tester de nouveaux modules AVB/TSN.\n·        Concevoir, mettre en œuvre et tester de nouveaux protocoles basés sur TCP/IP.\n·        Analyser et améliorer les performances du système.\n·        Enquêter et résoudre les problèmes signalés.\n·        Construire une documentation détaillée.\n·        Participer à des groupes de travail techniques et à des comités de normalisation (IEEE, Avnu).\n\nProfil recherché:\n\nCe dont vous aurez besoin pour réussir\n* Maîtrise en informatique ou dans un domaine connexe.\n* Maîtrise en développement de logiciels.\n* Maîtrise des protocoles et piles de communication basés sur Ethernet.\n* Maîtrise du langage de programmation C.\n* Excellentes capacités d'analyse, persévérance et souci du détail.\n*  Curieux, désireux d'apprendre et de s'adapter rapidement aux nouvelles exigences et technologies.\n* Autonome avec un sens aigu des responsabilités.\n* Anglais courant\n \nCompétences recherchées\n* Connaissance approfondie des opérations internes TCP/IP.\n*  Bonne connaissance des normes/technologies AVB/TSN .\n*  Expérience avec la méthodologie de tests unitaires.\n* Expérience des contraintes des systèmes embarqués.\n* A l'aise avec la lecture de schémas et l'utilisation d'un oscilloscope.\n*  Bonne connaissance d'un langage de script de haut niveau comme Python.\n "
+}]

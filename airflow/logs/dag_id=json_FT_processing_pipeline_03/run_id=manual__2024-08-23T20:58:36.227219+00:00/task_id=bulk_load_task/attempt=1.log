@@ -1,0 +1,29 @@
+[2024-08-23T20:59:28.360+0000] {taskinstance.py:1956} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: json_FT_processing_pipeline_03.bulk_load_task manual__2024-08-23T20:58:36.227219+00:00 [queued]>
+[2024-08-23T20:59:28.376+0000] {taskinstance.py:1956} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: json_FT_processing_pipeline_03.bulk_load_task manual__2024-08-23T20:58:36.227219+00:00 [queued]>
+[2024-08-23T20:59:28.376+0000] {taskinstance.py:2170} INFO - Starting attempt 1 of 61
+[2024-08-23T20:59:28.387+0000] {taskinstance.py:2191} INFO - Executing <Task(PythonOperator): bulk_load_task> on 2024-08-23 20:58:36.227219+00:00
+[2024-08-23T20:59:28.393+0000] {standard_task_runner.py:60} INFO - Started process 16284 to run task
+[2024-08-23T20:59:28.397+0000] {standard_task_runner.py:87} INFO - Running: ['***', 'tasks', 'run', 'json_FT_processing_pipeline_03', 'bulk_load_task', 'manual__2024-08-23T20:58:36.227219+00:00', '--job-id', '37', '--raw', '--subdir', 'DAGS_FOLDER/FranceTravail_pipeline_dag03.py', '--cfg-path', '/tmp/tmp55w5cya_']
+[2024-08-23T20:59:28.398+0000] {standard_task_runner.py:88} INFO - Job 37: Subtask bulk_load_task
+[2024-08-23T20:59:28.412+0000] {warnings.py:109} WARNING - /home/***/.local/lib/python3.8/site-packages/***/settings.py:194: DeprecationWarning: The sql_alchemy_conn option in [core] has been moved to the sql_alchemy_conn option in [database] - the old setting has been used, but please update your config.
+  SQL_ALCHEMY_CONN = conf.get("database", "SQL_ALCHEMY_CONN")
+
+[2024-08-23T20:59:28.446+0000] {task_command.py:423} INFO - Running <TaskInstance: json_FT_processing_pipeline_03.bulk_load_task manual__2024-08-23T20:58:36.227219+00:00 [running]> on host 9e648299db30
+[2024-08-23T20:59:28.521+0000] {taskinstance.py:2480} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='***' AIRFLOW_CTX_DAG_ID='json_FT_processing_pipeline_03' AIRFLOW_CTX_TASK_ID='bulk_load_task' AIRFLOW_CTX_EXECUTION_DATE='2024-08-23T20:58:36.227219+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2024-08-23T20:58:36.227219+00:00'
+[2024-08-23T20:59:29.134+0000] {taskinstance.py:2698} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/taskinstance.py", line 433, in _execute_task
+    result = execute_callable(context=context, **execute_callable_kwargs)
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/operators/python.py", line 199, in execute
+    return_value = self.execute_callable()
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/operators/python.py", line 216, in execute_callable
+    return self.python_callable(*self.op_args, **self.op_kwargs)
+  File "/opt/airflow/dags/FranceTravail_pipeline_dag03.py", line 92, in bulk_load
+    subprocess.run(['python', '/opt/airflow/ETL/Load/bulk_script_ft.py', file_path, log_file], check=True)
+  File "/usr/local/lib/python3.8/subprocess.py", line 516, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['python', '/opt/airflow/ETL/Load/bulk_script_ft.py', '/opt/airflow/ETL/Json_transformed/FT_scrapping_20240823_114458_cloud engineer_updated.json', '/opt/airflow/logs/bulk_load_task.log']' returned non-zero exit status 1.
+[2024-08-23T20:59:29.151+0000] {taskinstance.py:1138} INFO - Marking task as UP_FOR_RETRY. dag_id=json_FT_processing_pipeline_03, task_id=bulk_load_task, execution_date=20240823T205836, start_date=20240823T205928, end_date=20240823T205929
+[2024-08-23T20:59:29.171+0000] {standard_task_runner.py:107} ERROR - Failed to execute job 37 for task bulk_load_task (Command '['python', '/opt/airflow/ETL/Load/bulk_script_ft.py', '/opt/airflow/ETL/Json_transformed/FT_scrapping_20240823_114458_cloud engineer_updated.json', '/opt/airflow/logs/bulk_load_task.log']' returned non-zero exit status 1.; 16284)
+[2024-08-23T20:59:29.212+0000] {local_task_job_runner.py:234} INFO - Task exited with return code 1
+[2024-08-23T20:59:29.230+0000] {taskinstance.py:3280} INFO - 0 downstream tasks scheduled from follow-on schedule check

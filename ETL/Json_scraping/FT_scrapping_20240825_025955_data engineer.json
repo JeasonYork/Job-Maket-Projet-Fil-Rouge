@@ -1,3 +1,783 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2c1de89bf30472cd311e37f5366973c6568bb4a3756156576a1533d4d3406c8e
-size 126592
+[
+    {
+        "source": "France Travail",
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/2873325",
+        "title": "Data Engineer (Snowflake) F/H (H/F)",
+        "company": null,
+        "location": "LOIRE ATLANTIQUE 44",
+        "remote": null,
+        "publication_date": "2024-08-25",
+        "details": {
+            "TypeContract": "CDI",
+            "Salary": null,
+            "Experience": "Débutant accepté",
+            "Level": null
+        },
+        "company_data": {
+            "sector": null,
+            "company_size": "Cabinet de recrutement spécialisé sur les secteurs électronique, informatique, web et mobile",
+            "turnover_in_millions": null
+        },
+        "description": "Moi c'est Hadrien, Consultant chez Externatic et j'ai une belle offre à te partager du côté de Nantes (sud Loire).Voici quelques infos ci-dessous, et je serais ravi d'échanger ensemble plus de détails !L'entrepriseGrand groupe multinational, leader sur les produits d'hygiène professionnelle et de sécurité depuis plus de 50 ansSiège nantais regroupant plus de 1000 collaborateursEntreprise engagée en faveur du développement durable et respectueuse du bien-être de ses équipesLe posteDans un contexte de transformation digitale globale, tu rejoins l'équipe BI / Décisionnelle en création, qui va piloter les projets d'harmonisation et d'optimisation des solutions BI pour l'ensemble des entités du Groupe.Ton rôle sera de porter l'expertise technique pour plusieurs projets clés comme : la mise en place d'un data warehouse, la MCO de l'ESB permettant la bonne communication inter-applicative, l'urbanisation du modèle DATA / BI...Tes missions seront de gérer ces projets de bout en bout, de leur conception jusqu'à leur mise en production :Concevoir, développer et optimiser les solutions décisionnelles (notamment le data warehouse sous Snowflake)Recommander l'architecture technique sécurisée nécessaire à l'exploitation des donnéesAdministrer et contribuer à la bonne utilisation des solutions BIAssurer l'AMOA autour de ces solutions (en binôme avec le chef de projet BI)Environnement technique : Power BI, Snowflake, Talend, SQL, Azure"
+    }
+, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2861045",
+    "title": "Data Engineer - data factory (H/F)",
+    "company": null,
+    "location": "NANTES 44",
+    "remote": null,
+    "publication_date": "2024-08-24",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": null,
+        "Experience": "Expérience exigée",
+        "Level": null
+    },
+    "company_data": {
+        "sector": null,
+        "company_size": null,
+        "turnover_in_millions": null
+    },
+    "description": "Qui sommes-nous ?Euro-Information, filiale technologique de Crédit Mutuel Alliance Fédérale, conçoit, réalise, maintient et exploite un système d'information commun utilisé par le Groupe.Les activités de développement et de production informatique au niveau national et international sont assurées par environ 4000 salariés répartis sur plusieurs sites géographiques au niveau national : Strasbourg, Nancy, Dijon, Orléans, Lyon, Lille, Cergy, Val de Fontenay, Paris et Nantes.Première Banque à adopter le statut d'entreprise à mission, le Crédit Mutuel Alliance Fédérale s'investit et s'engage dans différentes missions sociales et environnementales :L'accompagnement de tous par notre organisation coopérative et mutualiste reste au cœur de notre ADN.La technologie au service de l'humain est une référence dans notre monde connecté.La solidarité et l'éco-responsabilité deviennent des axes clés dans notre développement.Notre raison d'être : Ensemble, Ecouter et Agir. Vos missionsVous souhaitez intégrer une équipe dynamique et à taille humaine au sein d'une entreprise solide et d'un grand groupe en développement constant ? Vous souhaitez travailler sur un enjeu d'aujourd'hui et plus encore de demain : la donnée ?Euro-Information, la Fintech de Crédit Mutuel Alliance Fédérale structure une Data Factory pour :Accélérer la valorisation des données au travers d'analyse de masse et de modèles allant jusqu'au prédictif.Répondre à la confiance de nos clients en garantissant la sécurité de leurs données et une utilisation responsable et encadrée, respectueuse de leur vie privée.La Data Factory EI se positionne comme un fournisseur de solutions pour les équipes informatiques et pour l'ensemble des entités du groupe et comme un facilitateur d'échanges et de mutualisation. Pour mener à bien ces missions, la relation métier s'avère essentielle. Elle réunit :Des Data Architects. Ils fournissent l'environnement et les outils et s'assurent de leur performance et de leur constante évolution.Des Data Engineers. Ils ont la maitrise des données, de leur récolte à leur mise à disposition adaptée aux besoins des métiers. Ils conçoivent les modèles d'enregistrement des données.Des Concepteurs Business Intelligence. Ils simplifient, mutualisent et industrialisent les reportings.Des Data Scientists. Ils accompagnent les métiers et les entités sur la Data Science, ils réalisent à façon sur les sujets à fort enjeu.Des Data Officers. Ils coordonnent et mutualisent les énergies sur les projets Data comme dans le cadre de la Gouvernance et de l'administration des données.Nous recherchons un(e) Data Engineer.Vous participerez à la mise en œuvre et au maintien du Système d'information Décisionnel du groupe.Pour les banques, les organismes de crédits à la consommation et les filiales, en France et à l'international :Compréhension de l'activité et des besoins de vos clients, en dialogue avec la MOACompréhension du SI de production, en dialogue avec les équipes MOEModélisation du Système d'Information DécisionnelConception et réalisationDiagnostic des dysfonctionnements rencontrésMaintenances correctives et évolutivesSupport auprès des différents métiersDocumentation techniqueSuivi des traitementsPilotage de projetsVous travaillerez sur une grande variété de projets et à l'échelle de l'ensemble des entités gérées sur le SI d'Euro-Information .Vous intervenez sur des projets à dimension internationale sur des environnements Vertica, Semarchy, WebFOCUS, SAP Business Objects, QlikSense.Vous participerez, coordonnerez et mènerez à bien des projets de valorisation de données sur des cas d'usages concrets :Des projets de bout en bout : de l'expression du besoin jusqu'à la réalisation et au suivi de sa performance en lien avec la MOA et nos Data OfficersEn mobilisant l'ensemble des acteurs : Business, Data Scientists, Data Engineer, sources de données .Avec participation aux prises de décisionEn mutualisant les travaux et les bonnes pratiques entre les acteurs et les différents métiers du groupeDans vos projets et au-delà, vous porterez l'acculturation Data au sein du groupe. Ce que vous allez vivre chez nousTélétravail (2 jours par semaine)Rémunération fixe versée sur 13 moisRTTIntéressement, participation et abondementPlan épargne entreprise et PERCOContrat de santé collectifPrévoyanceRetraite supplémentaire prise en charge à 100% par l'employeurConditions bancaires et assurances préférentiellesPolitique parentale avantageuse Ce que nous allons aimer chez vousDe formation bac +4/5, vous disposez idéalement d'une expérience significative sur un poste équivalent.La maitrise de l'anglais serait un plus.Connaissance du monde OPENVous avez la maitrise d'un ETL, d'une base de données orientée Analytique, d'une solution BI.La connaissance de l'outil de modélisation PowerDesigner serait un plus.Connaissance du monde Host Une"
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2856259",
+    "title": "Data Engineer H/F",
+    "company": "WILL RH ",
+    "location": "59",
+    "remote": null,
+    "publication_date": "2024-08-24",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": null,
+        "Experience": "Expérience exigée",
+        "Level": null
+    },
+    "company_data": {
+        "sector": null,
+        "company_size": null,
+        "turnover_in_millions": null
+    },
+    "description": "Nous recherchons pour l'un de nos client un Data Engineer pour une jeune société de service basée à Tourcoing. Passionné par les domaines de l'expertise data et du développement durable ? Cette annonce est faite pour vous !\n\nLieu :Métropole lilloise\nType de contrat : CDI\nDémarrage :Septembre 2024\n\nVotre mission\n\nEn tant que Data Engineer, vos principales missions seront :\n Conseiller les clients en tant qu'expert data en utilisant les technologies cloud (Google Cloud Platform, Microsoft Azure, Amazon Web Services). Contribuer activement à la formation et à l'agrandissement de l'équipe Big Data. Apporter des idées pour soutenir le développement de l'entreprise (communication, événements, veille technologique, etc.).\nVos responsabilités\n Concevoir, développer et déployer des outils d'infrastructure pour la préparation et la transformation des données. Collaborer avec les Data Scientists pour industrialiser leurs algorithmes et flux de données. Sélectionner et mettre en place l'architecture Big Data la plus adaptée pour répondre aux besoins spécifiques du client. Assurer la sécurité, l'intégrité et l'accessibilité des données. Offrir un support pour les chaînes de traitement mises en place.\nProfil recherché\n\nTitulaire d'un diplôme supérieur en informatique (BAC +4/5), vous avez acquis 2 à 3 ans d'expérience significative dans le domaine. Vous maîtrisez les technologies Big Data (Spark, Kafka, etc.) et vous êtes à l'aise avec les solutions cloud telles que Google Cloud Platform, Amazon Web Services et/ou Microsoft Azure.\n\nCompétences requises :\nMaîtrise des langages SQL & Python. Solides compétences en architecture data (informatique décisionnelle et big data). Capacité à proposer et mettre en œuvre des solutions Big Data innovantes. Motivation pour faire grandir une équipe data. Excellentes qualités relationnelles et rédactionnelles, sens de l'organisation, autonomie et esprit d'équipe."
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2856140",
+    "title": "Data Analytics Engineer H/F/X",
+    "company": "ACCORCORPO ",
+    "location": "92",
+    "remote": null,
+    "publication_date": "2024-08-24",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": null,
+        "Experience": "Expérience exigée",
+        "Level": null
+    },
+    "company_data": {
+        "sector": null,
+        "company_size": null,
+        "turnover_in_millions": null
+    },
+    "description": "Description de l'entreprise\n\nAccor Tech & Digital est le moteur de la tech, des solutions digitales et de la transformation au sein du Groupe. Nos 2 000 talents s'engagent à offrir les meilleures expériences digitales et tech à nos clients, nos hôtels et nos équipes dans 110 pays, et à façonner l'avenir de l'hospitalité. \n\nAccor Tech & Digital, des métiers où l'intelligence est d'abord humaine ! \n\nDescription du poste\n\nNous sommes la Digital & Business Factory du groupe Accor, \n\nle laboratoire d'innovation et de transformation du leader mondial de l'hôtellerie. \n\nAvec nos 700 Heartists, nous concentrons le meilleur de l'hospitalité et le meilleur de la tech & du digital. \n\nNotre ambition : offrir à nos clients des expériences personnalisées, mémorables et durables. \n\nIci, nous faisons naître de nouvelles façons de voyager dans chacun de nos 5 500 hôtels, au plus proche de nos 100 millions de clients dans 110 pays. \n\nIci, nous sommes au cœur d'un formidable terrain de jeu de design et de conception de produits digitaux et de services, pour nos clients et nos équipes en hôtels. \n\nIci, votre champ d'application ne connaîtra aucune frontière, alors, avec nous, osez avoir un impact sur le monde ! \n\nC'est ici que vous attend votre plus grand défi : \n\nA noter que plusieurs postes sont à pourvoir certains dans nos locaux situés aux portes de Paris (Issy-les-Moulineaux) d'autres à Evry (91).\n\nDomaine : Data\n\nEn 2021, Accor a regroupé au sein de la \"Digital Factory\" ses différentes équipes Data sous la responsabilité unique d'un Chief Data Officer. \n\nNotre mission première est de fournir à l'ensemble de l'entreprise - des Hotels à la Direction, en passant par les différents Métiers - des produits Data et Analytics servant de multiples usages. Avec un fort redémarrage post-COVID, nous sommes en pleine modernisation (passage au Cloud massif) et transformation/mise à l'échelle - env. 150 pers aujourd'hui organisées en Tribu/Squad & Chapter inspiré du modèle Spotify - et accompagnons les équipes pour inscrire cette double culture \"Tech\" & \"Produit\" dans la durée. \n\nLa richesse de cet écosystème, l'esprit d'innovation et le sens du \"service\" caractéristique à la culture hotellière d'Accor sont les forces qui nous motivent au quotidien. \n\nAperçu du poste : \n\nAu sein du Data Engineering, nous recrutons des Data & Analytics Engineer pour renforcer les équipes en charge aussi bien des produits métiers que des briques & services fournis par notre plateforme \"Welcome Data\".\n\nAu quotidien, vous intégrez une Feature Team composée d'une dizaine de personnes maximum aux profils variés (PO, data analyst, scrum master, etc.), sous la supervision directe du \"Tech Lead\". \n\nVotre mission : \n\nVous êtes l'acteur clé en charge des chaînes d'approvisionnement, de transformation et de mise en valeur des données, participant à la conception et modélisation des produits, assurant la conformité et la maintenabilité des solutions développées, et relevant les défis techniques liés à la volumétrie et à la qualité du patrimoine de données. \n\nAu quotidien, vos missions sont de : \nConcevoir, développer et déployer les solutions de gestion des données \"Cloud-Native\" Assurer la conformité et la maintenabilité du code (TDD, commentaires, etc.) Détecter, analyser et résoudre les incidents ou anomalies survenant sur les produits de l'équipe Contribuer aux chantiers transverses (usine logicielle-CI/CD, supervision, catalogue, etc.) Comprendre la finalité métiers des produits, et surtout la complexité fonctionnelle des données manipulées Assurer la cohérence de la modélisation des données du patrimoine avec l'aide des Data Managers Accompagner les profils Produit ou Data Science dans le cadrage des besoins de données métiers (disponibilité, qualité, etc.) Participer à l'animation de la communauté \"Data Tech\" (diffusion bonnes pratiques, capitalisation code, veille techno, etc.) Sensibiliser nos différents interlocuteurs aux enjeux et bénéfices 'data' \nQualifications\n\nEt vous ? \nDiplômé(e) en informatique, analyse de données & Big Data, MIAGE, conseils aux entreprises, ou équivalent. Au moins 1 année d'ancienneté en lien avec les domaines de la Data & Analytics.\nCompétences Data & Analytics requises : \nModélisation & documentation des schémas de données (ERD, DataVault, Star-schema, etc.) Intégration & manipulation de données massives (SQL, Python, etc.) Mise en place de supervision de données (contrôle qualité, rejets, alertes) Connaissances des réglementations sur les données, notamment personnelles (ex : RGPD) Connaissances des architectures « Data » opérationnelles ou analytiques Utilisa"
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2856056",
+    "title": "DATA ENGINEER / DATA OPS (F/H) (H/F)",
+    "company": "RCA ",
+    "location": "44",
+    "remote": null,
+    "publication_date": "2024-08-24",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": null,
+        "Experience": "Expérience exigée",
+        "Level": null
+    },
+    "company_data": {
+        "sector": null,
+        "company_size": null,
+        "turnover_in_millions": null
+    },
+    "description": "Description de l'entreprise\n\nÉditeur de logiciels 100% autonome, basé en périphérie de Nantes, RCA développe deux gammes de logiciels : Une gamme de 13 modules à destination des cabinets d'expertise comptable et une plateforme digitale collaborative en mode SaaS destinée aux experts-comptables ainsi qu'à leurs clients (TPE).\n\nDepuis 15 ans, la société n'a cessé d'évoluer. Avec 3 personnes en 2007, nous sommes aujourd'hui 250 collaborateurs engagés dans l'aventure RCA !\n\nDescription du poste\n\nAujourd'hui nous recherchons un- e Data Engineer / Data Ops (F/H) pour renforcer l'équipe.\n\nTA MISSION SI TU L'ACCEPTES\n\nL'équipe Data apporte des solutions aux équipes internes (pour mieux comprendre l'usage des produits RCA, piloter l'activité, analyser et détecter des tendances, ...) et participe au développement de fonctionnalités analytiques pour les clients de RCA. En collaboration avec les Data Analysts et les features teams, tes missions seront les suivantes : \nTu développes des infrastructures data en utilisant des outils IaC (Terraform) dans un contexte cloud AWS et SnowflakeTu codes des packages et applications Python conteneurisées avec Docker en appliquant les bonnes pratiques de développement dans un contexte d'intégration continueTu conçois et mets en oeuvre des pipelines de données robustes et performantes pour répondre aux besoins des utilisateurs RCA et de ses clientsTu sais configurer une CI dans GitlabTu épaules nos Data Analysts et nos PO/PM dans la réalisation de leurs missionsTu es référent dans le choix et la mise en oeuvre des architectures DataTu participes à la définition des bonnes pratiques et à la mise en oeuvre de l'outillage de la plateforme Data (DevOps, tests, observabilité, gouvernance)Tu participes à la définition de la feuille de route data avec l'ensemble de l'équipe (identification, qualification et priorisation des projets métiers et techniques\nCE QUE NOUS TE PROPOSONS\nRejoindre une équipe où tu pourras user de ta curiosité sur différents sujetsUne stack technique très récente et innovanteDe nombreux sujets à explorer (Architecture évènementielle, Cloud, Machine Learning, Data as a Service, ...)Une grande liberté d'expression et de réalisation, tu peux partager et challenger tes idéesUn cadre de travail adapté (locaux modernes, jusqu'à 3 jours de télétravail, horaires flexibles, 5 jours de RTT, lundi de pentecôte et jour anniversaire offerts ...)Et aussi d'autres avantages : team building, participation, chèques cadeaux, titres restaurants ...\nQualifications\n\nTU ES LE CANDIDAT IDÉAL SI\nTu es reconnu- e par tes pairs pour tes compétences data que tu as pu mettre en oeuvre sur de nombreux projetsLes pipelines d'ingestion et préparation de données n'ont plus de secrets pour toiTu as des expériences significatives dans des contextes similaires à RCA (AWS, Python, Snowflake)Tu souhaites proposer un cadre de travail industrialisé et pérenne aux data analysts pour toujours mieux travailler ensemblePragmatique, tu es soucieux- se de la réalisation et de la qualité du travail tout en veillant au respect des priorités.Bon- ne communicant- e, tu aimes les échanges simples et bienveillants, et tu cherches toujours à challenger tes idées et tes méthodes de travail avec celles des autres.Tu es proactif- ve au quotidien et souhaites t'impliquer dans la construction d'une équipe et de ses pratiques\nNOTRE STACK TECHNIQUE \nELT : Airflow / DBT / KafkaDev : Python (Poetry, Pytest, Black, ...), SQL, Gitlab CICloud : AWS (IAM, S3, EKS, ECS, RDS, MSK, DMS, ...)Stockage : Snowflake (Administration, RBAC, ingestion, ...), PostgresBI / Reporting : Holistics, Thoughtspot"
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2853783",
+    "title": "Data Engineer H/F",
+    "company": "PICTARINE ",
+    "location": "31",
+    "remote": null,
+    "publication_date": "2024-08-24",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": null,
+        "Experience": "Expérience exigée",
+        "Level": null
+    },
+    "company_data": {
+        "sector": null,
+        "company_size": null,
+        "turnover_in_millions": null
+    },
+    "description": "À propos de Pictarine\n\nWho we are \nPictarine, c'est l'ambition de créer une expérience photo remarquable.\n\nDepuis 2010, notre scale-up 100% toulousaine bouscule les codes de l'édition et de l'impression photo aux États-Unis. \n\nGrâce à nos applications mobiles et web réalisées avec les dernières tendances technologiques, nous permettons à nos clients de commander leurs plus beaux souvenirs en quelques clics. \nNotre objectif : permettre de récupérer ses photos en moins d'une heure chez nos partenaires Walmart, Walgreens et CVS. Et nous ne comptons pas nous limiter aux US !\n\nEn tant que Product Company, nous créons des produits toujours plus innovants. \n\nNos équipes, passionnées et déterminées, relèvent chaque défi technique, explorent de nouveaux horizons et travaillent ensemble pour rendre l'impossible possible.\n\nAlors, prêt à rejoindre l'aventure de création de souvenirs mémorables avec Pictarine ?\n\nLe poste\n\nMissions and challenges \n\nSi tu es enthousiaste à embarquer dans la nouvelle équipe data de Pictarine pour la faire rayonner avec tout ton savoir-faire, alors c'est l'aventure qu'il te faut! \n\nAvec plus de 1K tables, 2M de clients et 4M de commandes en 2022, les équipes de Pictarine ne sont jamais à court d'idées pour explorer de nouveaux horizons. \n\nEn tant que Data Engineer chez Pictarine tu vas pouvoir utiliser toutes tes compétences SQL pour garantir la qualité de la data sur GCP, accompagner et challenger les besoins data.\n\nTu évolueras au sein de l'équipe Engineering, composée des pôles dev & data.\n\nTon rôle comprendra les aspects suivants \n\nTu es garant de la qualité de la data !\n\nEn simplifiant la structure de la data et réduisant le nombre de tablesEn transformant les données pour les rendre facilement utilisablesEn orchestrant le flux des données de manière continue et automatique\nTu accompagnes et challenges les équipes de Pictarine !\n\nEn co-construisant des solutions data appropriéesEn élevant le niveau de jeu des méthodes data existantesEn faisant rayonner la data autour de bonnes pratiques et d'outillages adéquates\nProfil recherché\n\nAbout you \n\nTu as au moins 3 ans d'expérience sur un poste similaireTu maîtrises le data warehouse BigQuery et son langage SQLTu es à l'aise avec les services GCPTu as de bonnes connaissances dans la conception de modèles de données et les stratégies d'optimisation des requêtes SQLTu as des compétences en DevOps pour le déploiement et la gestion efficace des pipelines de donnéesTu as une bonne maîtrise de Python & GithubTu es organisé, rigoureux et portes une grande attention aux détailsTu es doté d'excellentes qualités relationnelles, de communication et de vulgarisationTu as une passion pour résoudre des problèmes business avec la programmationTu es curieux de tester des nouvelles technologiesTu es un team player et toujours à l'affût de nouvelles idées\nWork @ Pictarine\n\nUn environnement de travail agile, collaboratif, international et multiculturelDes perspectives d'évolution rapidesDes locaux tout beaux à Labège avec du matériel dernier cri (mais aussi des snacks à profusion et un frigo à boissons toujours bien rempli)Un apprentissage permanent : conférence, meet-up, Pictarine Academy, cours d'anglais.Des events tous les mois : massage, pilates, TGIF, team building .Un environnement de travail flexible : horaires, politique de remote hybride.Un package de rémunération attractif : salaire compétitif, RTT, mutuelle & prévoyance 100% prise en charge, intéressement.Des petits + : Développement de photos gratuit, subvention sport, 3 jours \"entraide familiale\", jours de congés en plus avec l'ancienneté... on ne te dévoile pas tout !\nRecruitment process \n\nTu souhaites nous rejoindre ? Viens rencontrer les gens avec qui tu vas bosser : \n\n1er échange pour apprendre à se connaître avec Marie - Engineering Manager Data (15')Entretien Manager avec Marie (60-90')Test pratique afin de nous montrer tes talents (3 heures)Entretien final avec deux membres du CODIR (120')Welcome aboard !"
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2853343",
+    "title": "Data Engineer - SQL & ETL H/F",
+    "company": "ALTER SOLUTIONS ",
+    "location": "59",
+    "remote": null,
+    "publication_date": "2024-08-24",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": null,
+        "Experience": "Expérience exigée",
+        "Level": null
+    },
+    "company_data": {
+        "sector": null,
+        "company_size": null,
+        "turnover_in_millions": null
+    },
+    "description": "Description de l'entreprise\n\nALTER SOLUTIONS est une société de conseil et d'expertise en technologies créée en 2006. Notre vocation est d'accompagner nos clients sur leurs enjeux de transformation numérique. Notre offre s'articule autour des expertises suivantes :\nSoftware DeliveryInfrastructure & Cloud ComputingAgile IT PerformanceBusiness Performance\nNous sommes un groupe international implanté dans plus d'une dizaine de pays et comptant 750 collaborateurs.\n\nNotre succès passant par le développement et l'épanouissement de chaque collaborateur, nous attachons beaucoup d'importance à offrir les meilleures conditions de travail possibles :\nTélétravail disponible sur une grande partie de nos missionsUn environnement de travail en Flex Office disponible pour tous et tout le temps pour favoriser la communication et la collaborationDes communautés d'experts pour partager et diffuser les compétences au sein du groupeUn encadrement projet et un suivi RH de proximitéDes formations et certifications proposées annuellementUne valorisation des parcours d'expertise de nos consultantsUne ouverture forte sur la mobilité internationale ponctuelle ou de longue duréeDes possibilités d'intrapreneuriat\nDescription du poste\n\nVous intégrerez, au sein de notre Pôle Transformation Numérique, une équipe d'experts en gestion de la donnée en charge d'accompagner nos clients.\n\nVous serez détaché(e) chez un acteur majeur du secteur du retail dans une Squad Data en charge d'un périmètre fonctionnel\n\nVos missions seront les suivantes :\n Participer aux rituels agiles de l'équipe,Analyser les besoins des utilisateurs et proposer des solutions innovantes et en phase avec les drivers de l'entreprises,Développer les solutions data (Alimentation, stockage, modélisation, restitution),Valider la qualité des développements de son équipe,Améliorer et optimiser le patrimoine actuel de son équipe,Maintenir les solutions existantes (Run),Contribuer à la construction du nouveau socle et des services sur la plateforme Google Cloud,Accompagner et acculturer les métiers sur les bonnes pratiques de l'exploitation de la Data\nQualifications\n\nQuel profil pour ce poste :\nVous êtes issu(e) d'une formation Bac+5 (École d'ingénieur, Université ou équivalent ...) en informatiqueVous justifiez d'une expérience significative au sein d'une équipe de développement dans un environnement Data à l'échelle du SI d'un grand groupeVous êtes un bon communiquant et disposez de capacités d'analyse et de synthèse éprouvéesVous accordez de l'importance (et du temps) à la veille\nQuelles compétences/connaissances pour ce poste :\nConnaissance de Google Cloud Platform (GCS, BigQueryMaitrise impérative de SQL, ETLBonne maîtrise de Power BI, LookerAnglais courant impératif"
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2831369",
+    "title": "Lead Data Engineer (H/F)",
+    "company": "AXA ",
+    "location": "92",
+    "remote": null,
+    "publication_date": "2024-08-24",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": null,
+        "Experience": "Débutant accepté",
+        "Level": null
+    },
+    "company_data": {
+        "sector": null,
+        "company_size": null,
+        "turnover_in_millions": null
+    },
+    "description": "L'équipe « Big Data » a pour mission principale de contribuer à la dynamique continue d'innovation et de perfectionnement de l'entreprise en résolvant des problématiques business concrètes par la mise en place d'une plateforme Data dans le Cloud, ainsi que la conception et la réalisation de solutions techniques de data science en s'appuyant sur des sources de données variées tant en interne qu'en externe.\nVos missions seront les suivantes :\n·       Prendre en charge la supervision, l'organisation et l'animation d'une équipe de data engineers\n·       Participer au recrutement, à la formation et au coaching des data engineers\n·       Proposer des architectures et orienter le choix des technologies adaptées aux besoins de différents projets Data\n·       Concevoir et mettre en œuvre les traitements d'alimentation du DataLake et de transformation des données\n·       Garantir la qualité des données en mettant en place les outils de mesure et de suivi adéquats\n·       Identifier, collecter, explorer, comprendre et intégrer les données nécessaires à la résolution de problématiques métier et opérationnelles\n·       Participer, avec l'équipe, au développement de la plateforme sur Azure et à la définition des bonnes pratiques de développement\n·       Accompagner les équipes métier dans la prise en main de la plateforme Azure et les aider à monter en compétences en programmation en s'assurant du respect des standards internes\nEnvironnement technique : Spark, Scala, Python, Cloud Azure, OpenShift, SQL"
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2823101",
+    "title": "Data Engineer - Plateforme Data (IT) / Freelance (H/F)",
+    "company": null,
+    "location": "LILLE 59",
+    "remote": null,
+    "publication_date": "2024-08-24",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": null,
+        "Experience": "Débutant accepté",
+        "Level": null
+    },
+    "company_data": {
+        "sector": null,
+        "company_size": null,
+        "turnover_in_millions": null
+    },
+    "description": "La mission sera de renforcer l?équipe en tant que concepteur développeur sur cette nouvelle plateforme, principalement sur ce sujet TRACKING dans un premier temps et d?autres cas d?usages qui se multiplient.\nMissions principales\n? Concevoir et développer les interfaces de construction de la donnée.\n? Modéliser et structurer la donnée dans les différents domaines de la plateforme\n? Comprendre l?architecture existante et être force de proposition pour la faire évoluer\nen fonction des nouveaux besoins\n? Structurer les différents impacts et suivre l?avancée des développements associés\n? Anticipation des besoins de data et capacité de conception et modélisation de\ndonnées structurées.\nProfil candidat:\nLes compétences principales\n? Maîtrise des composants techniques : DBT, Snowflake, Airflow en environnement\nGCP (Composer), GitLab\n? Modélisation et structuration de données\n? Connaissance fonctionnelle du métier du retail\n? Curiosité transverse fonctionnelle\n? Capacité à prendre des initiatives\n? Capacité de communication orale et écrite\n? Capacité d?écoute\n? Bon relationnel et esprit d?équipe\n? Curieux sur les nouvelles technologies"
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2822985",
+    "title": "Data engineer expérimenté - Vannes (IT) / Freelance (H/F)",
+    "company": null,
+    "location": "VANNES 56",
+    "remote": null,
+    "publication_date": "2024-08-24",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": null,
+        "Experience": "Débutant accepté",
+        "Level": null
+    },
+    "company_data": {
+        "sector": null,
+        "company_size": null,
+        "turnover_in_millions": null
+    },
+    "description": "Descriptif de la mission : \n1/ Développer des User Story relatifs à la mise en place de solution de chargement et de restitution du SGBD Teradata. \n2/ Mettre en ?uvre les tests unitaires. \n3/ Déployer le produit dans les différents environnements \n4/ Garantir et assurer le fonctionnement des produits en production. \n5/ Produire la documentation associée à ses développements. \n6/ Participer à l?affinage et chiffrage des solutions\n7/ Participer aux cérémonies et démarche agile SCRUM de la squad.\nLa mission demande d'être présent sur site à Vannes à hauteur de 3 jours / semaine minimum. \nProfil candidat:\nDévelopper des traitements de chargement, d?extraction et de restitution de données utilisateurs à destination de la plateforme Teradata et des Datawarehouse. \nDévelopper des indicateurs de pilotage répondant aux usages métier. Développer des reporting et les moyens de supervision. \nSuivre les évolutions et être garants de la cohérence des solutions mises en ?uvre \nIdentifier / proposer des optimisations des traitements dans une démarche d'amélioration continue du plan de production. \nLe profil devra avoir la capacité de prendre de la hauteur sur les solutions à fournir, avoir la capacité de les expliquer et d?accompagner leur bonne appropriation par les utilisateurs."
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2822808",
+    "title": "DevOps Data/AI Platform Engineer (IT) / Freelance (H/F)",
+    "company": null,
+    "location": null,
+    "remote": null,
+    "publication_date": "2024-08-24",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": null,
+        "Experience": "Débutant accepté",
+        "Level": null
+    },
+    "company_data": {
+        "sector": null,
+        "company_size": null,
+        "turnover_in_millions": null
+    },
+    "description": "Description du Poste :\nNous recherchons un Ingénieur DevOps passionné par les données et l?intelligence artificielle pour rejoindre une équipe technique dynamique. Vous serez responsable de la conception, du déploiement et de la maintenance de l?infrastructure d?une plateforme de données à grande échelle, soutenant des usages variés allant de l?ingestion des données au machine learning.\nResponsabilités :\n? Développer et maintenir une infrastructure robuste pour la gestion des données et des pipelines d?IA.\n? Automatiser les processus de CI/CD pour les composants de la plateforme de données.\n? Assurer la scalabilité et la résilience de la plateforme tout en garantissant la sécurité des données.\n? Collaborer avec des équipes pluridisciplinaires pour améliorer en continu les processus et les performances de la plateforme.\nProfil candidat:\nCompétences Requises :\n? Solide expérience avec des technologies telles que Terraform, Ansible, Kubernetes, et Docker.\n? Maîtrise des outils de monitoring comme Prometheus et Grafana.\n? Expertise en scripting (Python, Bash, Go) pour automatiser les tâches.\n? Connaissance des architectures de données modernes (data lakes, ETL, streaming, etc.)."
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2822761",
+    "title": "Data Engineer ELK (Elasticsearch Logstasch Kibana) H/F (IT) / Freelance",
+    "company": null,
+    "location": "ARCUEIL 94",
+    "remote": null,
+    "publication_date": "2024-08-24",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": null,
+        "Experience": "Débutant accepté",
+        "Level": null
+    },
+    "company_data": {
+        "sector": null,
+        "company_size": null,
+        "turnover_in_millions": null
+    },
+    "description": "Chez notre client Grand Compte bancaire, vous rejoignez l'équipe Obsolescence. Les principales activités de l?équipe obsolescence sont :\n Analyser et anticiper les dates d?obsolescence des produits utilisés par le client\n Mettre en place des solutions graphiques pour permettre aux équipes de surveiller elle-même leur dette\n Récolter les plans de mise à jour et calculer la dette future en fonction du plan de chaque équipe\nAvec comme objectif d?améliorer l?automatisation et le calcul de la dette au jour le jour et de sa simulation, la mission consistera principalement :\nA prendre en main la pipeline de calcul ainsi que les tableaux de bord existants\nMettre en place les évolutions nécessaires sur le calcul et l?affichage\nFaire évoluer la pipeline Logstash pour prendre en compte les nouveaux besoins\nCorriger les bugs et anomalies de calcul\nAutomatiser et industrialiser les étapes d?ingestion manuelle\nAnimer des ateliers avec l?équipe Obsolescence\nRédiger la documentation\nProfil candidat:\nVous vous épanouirez sur ce poste si? \n Vous avez une grande maîtrise de la Stack ELK : Elasticsearch ? Logstasch ? Kibana\n Doté d?un réel esprit d?équipe, vous appréciez l?échange et la transmission\n Curieux et engagé, vous êtes capable d?aller chercher les informations et faites montre d?une motivation sans faille lors de situations critiques\n Rigoureux et vigilant, vous êtes attentif à ce que vous faites et êtes capable d?expliquer l?état d?avancée de vos actions\n Vous êtes reconnu pour votre sens de la communication, tant à l?oral qu?à l?écrit."
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2822695",
+    "title": "data engineer - dbt snowflake - wattrelot (IT) / Freelance (H/F)",
+    "company": null,
+    "location": "WATTRELOS 59",
+    "remote": null,
+    "publication_date": "2024-08-24",
+    "details": {
+        "TypeContract": "Profession",
+        "Salary": null,
+        "Experience": "Expérience exigée de 5 An(s)",
+        "Level": null
+    },
+    "company_data": {
+        "sector": null,
+        "company_size": null,
+        "turnover_in_millions": null
+    },
+    "description": "Nous recherchons un data engineer sénior ( 5 ans d'expérience ) pour un client dans les Hauts-de-France. \nTechnologies : dbt, snowflake, gcp, airflow, gitlab.\nLa mission consistera notamment à intervenir sur les interfaces de données. Modéliser et structurer la données de ce client. Comprendre l'architecture actuelle et la faire évoluer. Intervenir sur le suivi des développements associés. \nLes interlocuteurs durant cette mission seront les équipes métiers et l'équipe de production. Un bon relationnel et un esprit d'équipe est recquis.\nProfil candidat:\nNous recherchons un profil expérimenté de 5 ans dans l'univers de la data. \nExpérience solide en modélisation de la données. \nBon niveau sur les technologies snowflake, airflow, gitlab."
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2821636",
+    "title": "Data Engineer F/H (H/F)",
+    "company": null,
+    "location": "ST CLOUD 92",
+    "remote": null,
+    "publication_date": "2024-08-24",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": null,
+        "Experience": "Débutant accepté",
+        "Level": null
+    },
+    "company_data": {
+        "sector": null,
+        "company_size": null,
+        "turnover_in_millions": null
+    },
+    "description": "Notre Entreprise\nDassault Aviation est un groupe aéronautique français, concepteur et fabricant d'avions militaires, d'avions d'affaires et de systèmes spatiaux.\nArchitecte du futur, le Groupe est le créateur, depuis plus d'un siècle, d'une centaine de prototypes et de plus de 10.000 avions vendus dans 90 pays.\nRiche de ses 12.000 collaborateurs, Dassault Aviation prône une identité forte marquée par la dynamique du collectif et la passion d'entreprendre au sein d'un environnement technologique innovant.\nRejoindre Dassault Aviation c'est marcher dans les pas de femmes et d'hommes qui, depuis plus de 100 ans, sont unis par la même ambition : repousser toujours plus loin la conquête du ciel.\nPrenez votre envol ! Rejoignez-nous !\n#EnsemblePlusLoin\nVos missions\nAu sein de la Direction Générale du Système d'Information, vous intégrerez l'équipe en charge de l'intelligence artificielle et de la business intelligence.\n\nVotre mission consiste à contribuer à l'essor de l'intelligence artificielle chez Dassault Aviation, en interface avec les directions métiers, afin de transformer leurs besoins en réalité opérationnelle.\n\nVos activités principales :\n\n- Recueil des besoins des directions générales, identification des cas d'usage à forte valeur ajoutée et choix de la solution technologique la plus adaptée pour une mise en opérationnel rapide permettant de concrétiser le gain.\n- identification des solutions candidates\n- évaluation de la faisabilité et validation des résultats\n- accompagnement à la mise en oeuvre\n\n\n- Développements IA ou Machine Learning de services transverses société et analyses exploratoires :\n- amélioration des services LLM société\n- datascience\n\n- Déploiements opérationnels MLOps (création, déploiement, support des solutions)\n\n- Contribution à la relation avec les organismes effectuant de la recherche dans le domaine, en lien avec la Direction Générale Technique\n\n- Participation / animation de la communauté IA Dassault Aviation, et évangélisation à l'intelligence artificielle au niveau société.\n\n\nVotre profil\nDe formation ingénieur généraliste ou équivalent, idéalement avec une spécialisation informatique, vos stages, projets et/ou apprentissage ont confirmé votre attrait pour l'IT.\n\nVotre savoir-faire :\n\nCompétences techniques :\n- programmation : développement Python et utilisation des frameworks IA tensorflow et pythorch\n- algorithmes et machine learning : connaissance des algorithmes ML, Deep Learning, NLP, LLM\n- gestion des données : bases de données relationnelles (Oracle, Postgres), langage SQL\n\nCompétences en datascience :\n- analyse de données : capacité à analyser et interpréter les résultats des modèle d'IA\n- statistiques et mathématiques : solides bases en statistiques et en mathématiques appliquées\n\nCompétences en développement logiciel et DevOps/MLOps :\n- compréhension des principes DevOps, y compris la containerisation (Docker), l'orchestration (Kubernetes), et le déploiement continu.\n\n\nVotre forte appétence pour les nouvelles technologies et votre volonté d'apprendre vous permettront de vous épanouir au sein d'une Direction marquée par la solidarité et l'esprit d'équipe.\n\nVous progresserez au sein de votre poste grâce à vos capacités de :\n\n- Polyvalence et adaptabilité\n- Autonomie et esprit d'initiative\n- Proactivité\n- Écoute et capacité à challenger les besoins des clients internes\n- Capacité à transmettre votre expertise\n\n\n\n\nLocalisation\nFrance, Ile de France, 92 - Saint-Cloud\n\n\n\n\nDomaine professionnel / métier\nGouvernance et valorisation de la donnée\n\nType de contrat\nCDI\n\n\n\n\nLangues\n\n\n\n\nAnglais\n\n\nC1 avancé - autonome\n\n\n\n\n\n\n\n\n\nCompétences\n\n\n\n\nRéférence de l'offre\n2024-13111\n\nNombre de postes à pourvoir\n1\n\n\n\n\n\nMerci de postuler:https://aviationjobs.fr/consult.php?offre=c606f1724237410979&job=754"
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2821342",
+    "title": "Data Engineer F/H (H/F)",
+    "company": null,
+    "location": "MERIGNAC 33",
+    "remote": null,
+    "publication_date": "2024-08-24",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": null,
+        "Experience": "Débutant accepté",
+        "Level": null
+    },
+    "company_data": {
+        "sector": null,
+        "company_size": null,
+        "turnover_in_millions": null
+    },
+    "description": "Au sein de la Direction Générale du Système d'Information, vous intégrerez l'équipe en charge de l'intelligence artificielle et de la business intelligence.\n\nVotre mission consiste à contribuer à l'essor de l'intelligence artificielle chez Dassault Aviation, en interface avec les directions métiers, afin de transformer leurs besoins en réalité opérationnelle.\n\nVos activités principales :\n\n- Recueil des besoins des directions générales, identification des cas d'usage à forte valeur ajoutée et choix de la solution technologique la plus adaptée pour une mise en opérationnel rapide permettant de concrétiser le gain.\n- identification des solutions candidates\n- évaluation de la faisabilité et validation des résultats\n- accompagnement à la mise en oeuvre\n\n\n- Développements IA ou Machine Learning de services transverses société et analyses exploratoires :\n- amélioration des services LLM société\n- datascience\n\n- Déploiements opérationnels MLOps (création, déploiement, support des solutions)\n\n- Contribution à la relation avec les organismes effectuant de la recherche dans le domaine, en lien avec la Direction Générale Technique\n\n- Participation / animation de la communauté IA Dassault Aviation, et évangélisation à l'intelligence artificielle au niveau société.\n\nDe formation ingénieur généraliste ou équivalent, idéalement avec une spécialisation informatique, vos stages, projets et/ou apprentissage ont confirmé votre attrait pour l'IT.\n\nVotre savoir-faire :\n\nCompétences techniques :\n- programmation : développement Python et utilisation des frameworks IA tensorflow et pythorch\n- algorithmes et machine learning : connaissance des algorithmes ML, Deep Learning, NLP, LLM\n- gestion des données : bases de données relationnelles (Oracle, Postgres), langage SQL\n\nCompétences en datascience :\n- analyse de données : capacité à analyser et interpréter les résultats des modèle d'IA\n- statistiques et mathématiques : solides bases en statistiques et en mathématiques appliquées\n\nCompétences en développement logiciel et DevOps/MLOps :\n- compréhension des principes DevOps, y compris la containerisation (Docker), l'orchestration (Kubernetes), et le déploiement continu.\n\n\nVotre forte appétence pour les nouvelles technologies et votre volonté d'apprendre vous permettront de vous épanouir au sein d'une Direction marquée par la solidarité et l'esprit d'équipe.\n\nVous progresserez au sein de votre poste grâce à vos capacités de :\n\n- Polyvalence et adaptabilité\n- Autonomie et esprit d'initiative\n- Proactivité\n- Écoute et capacité à challenger les besoins des clients internes\n- Capacité à transmettre votre expertise\n\n[Notre Entreprise]\n\nDassault Aviation est un groupe aéronautique français, concepteur et fabricant d'avions militaires, d'avions d'affaires et de systèmes spatiaux.\nArchitecte du futur, le Groupe est le créateur, depuis plus d'un siècle, d'une centaine de prototypes et de plus de 10.000 avions vendus dans 90 pays.\nRiche de ses 12.000 collaborateurs, Dassault Aviation prône une identité forte marquée par la dynamique du collectif et la passion d'entreprendre au sein d'un environnement technologique innovant.\n\nRejoindre Dassault Aviation c'est marcher dans les pas de femmes et d'hommes qui, depuis plus de 100 ans, sont unis par la même ambition : repousser toujours plus loin la conquête du ciel.\nPrenez votre envol ! Rejoignez-nous !\n#EnsemblePlusLoin"
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2820755",
+    "title": "Data Engineer (IT) / Freelance (H/F)",
+    "company": null,
+    "location": "COURBEVOIE 92",
+    "remote": null,
+    "publication_date": "2024-08-24",
+    "details": {
+        "TypeContract": "Profession",
+        "Salary": null,
+        "Experience": "Débutant accepté",
+        "Level": null
+    },
+    "company_data": {
+        "sector": null,
+        "company_size": null,
+        "turnover_in_millions": null
+    },
+    "description": "Prendre en charge la transformation de ces données (nettoyage, normalisation, et préparation), pour y appliquer les traitements analytiques conçus par les Data Scientists, ou les traitements décisionnels conçus par les Data Analysts.\nEn tant que sénior de l?équipe Data Engineering, vous assurez la relation avec les PO et apportez, au reste de l?équipe, votre maîtrise des architectures de flux de données, votre expérience sur la qualité des flux et des données ainsi que sur la sécurité.\nVous participez activement à l?acculturation des métiers.\n- Recueillir les besoins en données (Data Product Owner, Data Analysts, Data Scientists) et analyser les sources de données, identifier de nouvelles sources de données pertinentes.\n- Coordonner la mise en place de l?architecture Data & Analytics , conçue avec le data architect et en garantir le bon fonctionnement, la disponibilité, l?évolution et la performance technique des outils\n- Développer les pipelines d?intégration de donnée et la data quality en collaboration avec les Data Product Owner, Data Analysts et Data Scientists\n- Garantir l?industrialisation et l?automatisation de la chaîne de valeur de la donnée, en y intégrant les algorithmes décisionnels et les modèles de prédiction des données\n- Effectuer une veille sur les nouvelles technologies et solutions et participer activement à l?effort R& D \n- Contribuer à l?évolution des pratiques dans son domaine de compétences, en étant actif dans des réseaux de veille\nProfil candidat:\nCompétences :\nfortes aptitudes en développement, notamment à travers une excellente maîtrise de langages de programmation comme : Python, C#, ...\nBonne connaissance de la conception, l?audit et du déploiement d?architecture logicielle et technique autour des plateformes décisionnelles et des plateformes Big Data (Spark, Hadoop...)\nUne excellente maîtrise du langage SQL, des bases dans la programmation de quelques bases de données NoSQL (Neo4j, MongoDB, ...)\nExcellente maîtrise des outils et techniques d?analyses des données et des méthodologies statistiques.\nMaitrise des outils de traitement de la donnée (dbt, DataFactory ou autre ETL, Databricks, ...)\nTrès bonne compétences sur DBT.\nTrès bonne connaissance des environnements Cloud, notamment Azure, des technologies d?infrastructures Cloud et leurs performances\nBonne connaissance de Azure DevOps ou outil similaire\nConnaissance des modèles Machine Learning afin d?en assurer l?industrialisation\nCapacité à travailler en mode AGILE"
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2820179",
+    "title": "Lead data engineer F/H (H/F)",
+    "company": null,
+    "location": "MAISONS ALFORT 94",
+    "remote": null,
+    "publication_date": "2024-08-24",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": null,
+        "Experience": "Débutant accepté",
+        "Level": null
+    },
+    "company_data": {
+        "sector": null,
+        "company_size": "Bpifrance, une entreprise pas comme les autres Bpifrance, Banque publique d'investissement est une banque citoyenne qui accompagne les entreprises, de l'amorçage jusqu'à la cotation en bourse, du crédit aux fonds propres. Si nous sommes une structure historique, organisée et reconnue, nous avons l'esprit agile et rapide et les moyens de notre transformation. Nous sommes LA banque partenaire des entrepreneurs, présente à leurs côtés au cœur de nos 50 implantations. Présents à chaq...",
+        "turnover_in_millions": null
+    },
+    "description": "Bpifrance, une entreprise pas comme les autres\n\nBpifrance, Banque publique d'investissement est une banque citoyenne qui accompagne les entreprises, de l'amorçage jusqu'a la cotation en bourse, du crédit aux fonds propres.\n\nSi nous sommes une structure historique, organisée et reconnue, nous avons lesprit agile et rapide et les moyens de notre transformation. Nous sommes LA banque partenaire des entrepreneurs, présente à leurs côtés au cœur de nos 50 implantations. Présents à chaque étape de leur vie ; nous rejoindre cest œuvrer pour leur compétitivité et une mission dintérêt générale.\n\nNotre ambition ? Devenir une Fintech. Et nous avons besoin des meilleurs !\n\nNous souhaitons transmuter pour devenir une FINTECH et offrir les meilleurs services digitaux à lensemble de nos clients, grâce à des plateformes digitales : plateformes doctroi de prêt en ligne et la Banque en Ligne Bpifrance (BEL).\n\nLe goût du challenge\nNous avons développé notre propre techno : Hypercube qui porte lensemble de nos services banque en ligne. Hypercube a vocation à devenir le socle technique partagé par toutes les plateformes et par la Banque En Ligne. Ce projet, cest bien. Cest même plus que bien, cest révolutionnaire. Mais on veut aller encore plus loin.\n\nNous avons le goût du challenge et nos clients ont besoin de nous plus que jamais !\nEn Mars 2020, au cœur de la pandémie de Covid-19 qui frappait le monde, les entreprises françaises en pleine crise, nous avons réussi limpossible : monter en seulement 3 semaines lintégralité de la plateforme qui allait permettre de soutenir des centaines de milliers dentreprises.\n\nPrêts à rejoindre notre équipe ?\n\nProfil de candidat recherché :\n\nVous êtes diplômé(e) dun master 2 ou dune école dingénieur ou de commerce.\nVous êtes doté(e) dune expérience concrète et réussie de plus de 5 ans dans des environnements complexes. Une expérience en startup est un plus.\nVous êtes rigoureux (se), organisé(e) et avez une très forte envie de progresser, de challenger et dêtre challengé. Vous êtes motivé(e) par la recherche de solutions permettant datteindre vos objectifs.\n \n\nCompétences requises :\n\nVous avez une expérience significative dans la data et maitrisez lécosystème des solutions ainsi que lensemble des étapes de réalisation de data product : Storage, Engineering, Analytics, Reporting\nVous avez une expertise technique solide en python, spark, SQL et maitrisez les outils snowflake et dbt.\nVous comprenez les enjeux business et savez les traduire dans un environnement Tech.\nVous avez une culture entrepreneuriale et savez faire bouger les lignes. \nToujours à la recherche daxe damélioration, vous avez le sens du détail afin didentifier les pain points récurrents et trouvez les solutions adéquates.\n \n\n\nLes + du poste :\n * Des challenges tech à relever et des événements tech futuristes auxquels vous serez acteur.trice et convié.e\n * Vivre au rythme dune culture Tech affirmée au cœur dune équipe soudée\n * Vibrer au son dun podcast hebdo\n * Assister à des Town Hall (événements virtuels & soir ées) trimestriels\nLe poste est localise soit au siège de Maisons-Alfort.\n\n\n\nLes bonnes raisons de rejoindre laventure Bpifrance !\n\n * Un travail avec du sens : Vous contribuerez à une mission unique dutilité publique au service de léconomie française et au sein dune banque engagée sur des sujets de société (climat, jeunesse, égalité des chances).\n * Un environnement dans lequel il fait bon vivre : Vous intégrerez des équipes dynamiques et bienveillantes, au sein dune entreprise attentive à la Qualité de Vie au Travail de ses collaborateurs. Nos certifications Happy Trainees et Meilleurs Employeurs France par Glassdoor en témoignent !\n * Des conditions avantageuses : Vous bénéficierez des nombreux avantages quoffre le groupe pour ses collaborateurs : télétravail, congés payés supérieurs au minimum légal, épargne salariale attractive, CSE, dispositifs de Qualité de Vie au Travail\n * Un tremplin pour votre carrière : Vous profiterez des meilleures conditions mises en place chez Bpifrance pour développer vos compétences et construire votre parcours de carrière, grâce à un accompagnement sur-mesure et des parcours de formation complets et personnalisés.\n\nTravailler chez Bpifrance, cest intégrer une banque pas comme les autres, un projet dentreprise ambitieux et tourné vers lavenir. Cest plus quun métier : cest une mission, une équipe, un réseau et un écosystème.\n\nPour découvrir nos autres opportunités et tout savoir de la vie au sein du groupe, rendez-vous sur notre site carrière !\n\n\n\nBpifrance est une banque citoyenne dotée"
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2802194",
+    "title": "Data Engineer en Alternance Bac +3 - 4 H/F",
+    "company": "YUTOPIA META CAMPUS ",
+    "location": "94",
+    "remote": null,
+    "publication_date": "2024-08-24",
+    "details": {
+        "TypeContract": "CDD",
+        "Salary": "Salaire brut : Mensuel de 471,74 Euros à 1747,20 Euros",
+        "Experience": "Expérience exigée",
+        "Level": null
+    },
+    "company_data": {
+        "sector": null,
+        "company_size": null,
+        "turnover_in_millions": null
+    },
+    "description": "POSTE : Data Engineer en Alternance Bac +3 - 4 H/F\nDESCRIPTION : Toi qui cherches une alternance en tant que Data Engineer, cette annonce est faite pour toi ! Yutopia Meta Campus Paris recrute pour un de ses partenaires dans l'univers de la Tech & du Numérique un(e) Data Engineer.\n\nYutopia ? Comment ? Tu ne connais pas?! C'est juste LA formation premium qui s'assure de ton employabilité ! C'est l'école qui s'est donnée comme promesse et mission de t'apporter une formation en alternance d'excellence dans le domaine et un emploi à la suite de ta formation.\n\nConcernant notre alternance, si tu es titulaire d'un Bac +3 et que tu souhaites poursuivre tes études dans un domaine prometteur pour ton avenir, ce poste est fait pour toi ! La formation débutera en Octobre 2024 avec un rythme d'alternance de 3 semaines en entreprise et 1 semaine en cours.\n\nTes missions si tu l'acceptes :\n-  Collecter et transformer des données massives provenant des différents établissements du groupe.\n-  Concevoir, développer et maintenir des pipelines de données robustes et performants.\n-  Collaborer étroitement avec les Data Scientists et les autres parties prenantes pour identifier et répondre aux besoins en données.\n-  Garantir la qualité et l'intégrité des données via des processus rigoureux de validation et de nettoyage.\n-  Optimiser les performances des bases de données et des infrastructures de stockage de données.\n\nFamiliariser avec un environnement technique riche, ton adaptabilité sera un plus pour réussir dans ce poste. Le poste sera évolutif en fonction de tes capacités.\n\nInformations complémentaires : \nRémunération : selon ton talent et ton expérience\n\nNote : On accepte les candidatures de toutes les personnes formidables, peu importe leur genre.\nPROFIL :"
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2877028",
+    "title": "Data Manager (H/F)",
+    "company": "OPENSUCCESS V.S ",
+    "location": "75",
+    "remote": null,
+    "publication_date": "2024-08-25",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": "Salaire brut : Annuel de 60000,00 Euros à 110000,00 Euros",
+        "Experience": "Expérience exigée de 5 An(s)",
+        "Level": null
+    },
+    "company_data": {
+        "sector": "Conseil pour les affaires et autres conseils de gestion",
+        "company_size": null,
+        "turnover_in_millions": null
+    },
+    "description": "Contexte du poste :\n\nVotre rôle sera d'intervenir et d'accompagner les équipes (Data Analyst , Data Engineer ou même Data Scientist) sur des missions stratégiques en Data Science et Data Management, relatives à la manipulation, la transformation, l'analyse de données ou de modèles de données pour servir les besoins opérationnels de nos clients. Exploitation de données hétérogènes, interopérabilité des données, transformation Data et industrialisation sont tout autant de sujets portés par l'offre Data Management.\n\nVous serez en position d'expert et garant de ces sujets/missions auprès des membres de l'équipe et de vos clients. Responsable du développement de votre offre, vous avancez en étroite collaboration avec les équipes business, marketing et recrutement.\n\nVos principales missions :\n\nAccompagner nos clients sur leurs projets de transformation\nPiloter des missions (planning, budget, risques) tout en garantissant la satisfaction clients.\nS'assurer de la qualité du delivery (livrables, solutions développées, ateliers, etc.).\nEncadrer les collaborateurs en mission et favoriser leur montée en compétences.\nParticiper au rayonnement du cabinet en contribuant à la relation clients\nEncadrer et produire les réponses à appel d'offres.\nParticiper au développement interne des expertises au sein de la communauté « Data Innovation & Transformation IT » et plus particulièrement de l'offre Data Management.\nParticiper au développement business en portant nos offres à l'occasion d'échanges avec des acteurs du secteur.\nDévelopper la notoriété du cabinet : co-définir, produire et piloter des livrables de brand- content (articles, livres blancs) et co-construire des conférences ou tables rondes sur des sujets d'expertise ou innovants.\n\nAccompagner la gestion des talents :\n\nAnimer et faire grandir une équipe en fédérant le collectif en participant à la fidélisation des équipes et veiller à la bonne exécution de leur trajectoire professionnelle (mise en place de formations, accompagnement technique, évolutions selon potentiel).\nContribuer au recrutement des \n  \n Profil recherché :\n\nVous êtes diplomé.e d'un Bac +5, cursus grandes Ecoles d'ingénieur ou d'Universités de premier plan.\nVous avez une connaissance du secteur de l'assurance, de la banque ou de la gestion d'actifs\nVous avez de l'expérience en management d'équipe\nVous avez piloté des missions en gestion de projets\nVous avez une vision business du pilotage de votre activité et savez faire croitre votre activité\nVous êtes pédagogue, force de propositions, rigoureux et autonome\nVous maitrisez des langages de programmation comme Python, SQL ou C++\nVous avec une connaissance des outils de data visualisation (Power BI, Tableau, ...)\nVous avez des compétences cloud (AWS, Azure, GCP)\n\nAvantages : \nAvantages : Avantage crèche, indemnité télétravail , Intéressement, Mutuelle, Participation, Primes vacances Rémunération variable sur objectifs, tickets restaurant, transport, chèque vacances & Noel, actionnariat salarié..."
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2846567",
+    "title": "Data manager (H/F)",
+    "company": null,
+    "location": "LILLE 59",
+    "remote": null,
+    "publication_date": "2024-08-24",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": null,
+        "Experience": "Expérience exigée de 3 An(s)",
+        "Level": null
+    },
+    "company_data": {
+        "sector": null,
+        "company_size": null,
+        "turnover_in_millions": null
+    },
+    "description": "Description du poste :\nEn tant que cabinet de recrutement spécialisé dans l'emploi et le handicap, Talents Handicap accompagne de très nombreuses entreprises & organisations en France dans leurs recrutements de collaborateurs en situation de handicap. Dans ce cadre, nous recherchons pour le poste ci-dessous des candidats, en situation de handicap et vous invitons à postuler si vous correspondez au profil.\nL'entreprise Sopra Steria recherche activement des profils pour le poste suivant :\nDescription de l'entreprise\nSopra Steria, acteur majeur de la Tech en Europe avec 56 000 collaborateurs dans près de 30 pays, est reconnu pour ses activités de conseil, de services numériques et d'édition de logiciels. Il aide ses clients à mener leur transformation digitale et à obtenir des bénéfices concrets et durables. Le Groupe apporte une réponse globale aux enjeux de compétitivité des grandes entreprises et organisations, combinant une connaissance approfondie des secteurs d'activité et des technologies innovantes à une approche résolument collaborative.\nSopra Steria place l'humain au centre de son action et s'engage auprès de ses clients à tirer le meilleur parti du digital pour construire un avenir positif. En 2023, le Groupe a réalisé un chiffre d'affaires de 5,8 milliards d'euros.\nThe world is how we shape it\nLa division « Banque » s'est développée autour des métiers de la banque de détail, de la banque privée et des services financiers spécialisés. Nous participons à la révolution digitale grâce à notre expertise en automatisation des processus, Big Data, IA, Cloud. Nous accompagnons la transformation de nos clients en y associant nos compétences dans les domaines fonctionnels des Crédits, des Risques/Conformité et des Moyens de Paiement.\nDescription du poste\nVotre futur environnement de travail :\nAu sein d'une Data Factory, vous êtes pleinement impliqué(e) dans toutes les phases de nos projets pour le compte de grands clients, contribuant ainsi à leur succès.\nVous avez l'occasion de développer vos compétences techniques et fonctionnelles de manière approfondie, tout en travaillant sur des projets exigeants et passionnants pour le compte de grands clients du secteur bancaire.\nC'est tentant non ? Alors embarquez pour une nouvelle aventure professionnelle !\nVos missions :\nRattaché(e) à la division « Banque », vous évoluez dans un environnement challengeant et convivial, entouré(e) de passionnés dotés d'expertises dans leurs domaines.\nEn tant que Data Engineer, vous évoluez sur des projets IT à forte valeur ajoutée et avez pour rôle la mise en place de pipelines de données fiables, sécurisés et à l'échelle pour soutenir la mise à disposition des données aux cas d'usage métier qui en ont besoin.\nVos activités principales sont les suivantes :***Vous travaillez avec le client pour évaluer, concevoir, déployer, améliorer et maintenir les pipelines de données\n* Vous vous assurez que les pipelines de données créés sont résilients, sécurisés et accessibles\n* Vous définissez le modèle opérationnel pour monitorer et supporter les pipelines de données\n* Vous fournissez une expertise à nos clients sur leurs données pour assurer leur optimisation et leur sécurité par rapport à leurs besoins\n* Vous apportez un savoir en gestion de la qualité et la gouvernance de la donnée pour assurer le suivi de la conformité à la gouvernance de la donnée\n* Vous faites de la veille technologique dans le domaine afin d'enrichir les roadmaps technologiques et fournir des solutions modernes à nos clients.\nQualifications\nVotre profil :\nDiplômé(e) d'une formation supérieur en informatique type Bac + 5 (école ingénieur, université ou équivalent), vous avez déjà acquis une expérience significative en data engineer.\nVous avez au moins l'une de ces compétences requises :***Maîtrise des technologies de bases de données Relationnelles et NoSQL\n* Maîtrise d'au moins un outil d'ETL/ELT (Stambia, Informatica, Datastage, etc.)\n* Maîtrise des technologies de traitement distribué de données (Spark, Hadoop)\n* Maîtrise d'au moins un framework de streaming de données (Kafka, RabbitMQ, etc.)\n* Maîtrise de chaines CI/CD et de des bonnes pratiques de DataOps\n* Maîtrise de solution de Virutualisation de données (Denodo, Dremio, etc.)\n* Maîtrise d'au moins un environnement cloud public ou privé (Azure, AWS, Outscale, etc.)\nVous avez développé de solides compétences en matière d'autonomie, d'adaptabilité et de communication.\nInformations supplémentaires\nLes avantages à nous rejoindre :***Un accord télétravail pour télétravailler jusqu'à 2 jours par semaine selon vos missions.\n* Un package avantages intéressants : une mutuelle, un CSE, des titres restaurants, un accord d'i"
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2874496",
+    "title": "Engineering Manager DevOps et Data H/F",
+    "company": null,
+    "location": "LOIRE ATLANTIQUE 44",
+    "remote": null,
+    "publication_date": "2024-08-25",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": null,
+        "Experience": "Débutant accepté",
+        "Level": null
+    },
+    "company_data": {
+        "sector": null,
+        "company_size": "Cabinet de recrutement spécialisé sur les secteurs électronique, informatique, web et mobile",
+        "turnover_in_millions": null
+    },
+    "description": "Consultants en recrutement chez Externatic, nous te proposons aujourd'hui de découvrir l'offre ci-dessous et d'échanger ensemble : plutôt en visio ? Ou autour d'un verre ? On serait ravi de t'accompagner et de te présenter ce job plus en détail !L'entreprise :Cette pépite européenne est une startup high-tech qui conçoit des produits IoT répondant aux enjeux environnementaux du monde de demain. Elle a développé un produit intelligent, sécurisé et durable pour la livraison de colis partout dans le monde. Elle compte 70 collaborateurs répartis principalement sur les sites de Nantes et Paris. C'est une jeune entreprise innovante et dynamique !Le poste :Au sein du centre R&D, l'équipe infra et data recherche son futur Engineering Manager Data & DevOps (H/F) pour continuer sur une belle lancée, en contexte agile.Tu interviendras aux côtés de l'ensemble des équipes (Hardware, Mobile, Backend, Support, Méca et Industrialisation).Tes futures missions en détails :Manager et accompagner l'équipe en place,Prendre les décisions techniques et définir la stratégie pour l'avenir de la plateforme d'ingénierie (améliorer l'automatisation ainsi que l'industrialisation, la disponibilité, la scalabilité, la latence et l'efficacité des services de l'entreprise),Faire le suivi budgétaire des outils en lien au développement et des infrastructures sur le cloud AWS,Promouvoir la culture DevOps au sein des équipes,Garantir l'accès et la fiabilité des services,Gérer et améliorer l'automatisation sur l'infrastructure,Piloter la livraison des environnements, industrialiser leur création ainsi que la suppression sur le Cloud et assurer leur maintien en conditions opérationnelles,Améliorer les pratiques existantes (automatisation, tests, etc.) et les applications (supervision, tests, etc.) de l'équipe,...Environnement technique global :Cloud AWS et infra Data (Glue, SageMaker, EMR,.),Terraform, Kubernetes, ArgoCD, Helm, Github ActionsMonitoring/alerting : Instana, Grafana/Prometheus, Loki, .Message BUS : AWS SNS/SQS, RabbitMQ,."
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2873277",
+    "title": "Data Manager F/H (H/F)",
+    "company": null,
+    "location": "NANTERRE 92",
+    "remote": null,
+    "publication_date": "2024-08-25",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": null,
+        "Experience": "Débutant accepté",
+        "Level": null
+    },
+    "company_data": {
+        "sector": null,
+        "company_size": "Opérateur international reconnu, Orano concentre son activité autour de la valorisation des matières nucléaires, pour produire une électricité sûre et bas carbone et ainsi apporter une réponse aux défis énergétiques et environnementaux du XXIème siècle. Son expertise unique sur le cycle du combustible nucléaire lui permet de proposer à ses clients des produits et des services performants, de la mine au démantèlement, en passant par la conversion, l'enrichissement, le recycla...",
+        "turnover_in_millions": null
+    },
+    "description": "La BU Démantèlement et Services d'Orano (BU DS) a lancé un ambitieux Programme de Transformation (SHIFT DS) intégrant 3 axes de travail :· La transformation managériale et la mise en place des outils de l'Excellence Opérationnelle (LEAN)· L'industrialisation des métiers et la standardisation des pratiques· Le développement et le déploiement de solutions digitalesAfin de contribuer à la Roadmap Data de la BU, qui prévoit d'exploiter et valoriser les données issues des solutions digitales en cours de déploiement, la BU DS souhaite recruter un Data Manager dont les missions sont :· Contribuer à la mise en œuvre de la gouvernance des données et du dispositif de qualité des données dans la BU en coordonnant les différents acteurs du dispositif, en lien avec le Chief Data Officer de la BU ;· Accompagner les opérationnels métier et les Data Analyst dans la conception et développement des cas d'usage de la BU· Contribuer à la valorisation des données en accompagnant le métier dans l'identification de nouveaux cas d'usages à valeur ajoutée ;· Contribuer au respect des exigences de Data Compliance (ex : RGPD) et de normalisation des entrepôts de données à concevoir· Créer une proximité avec les directions opérationnelles afin de les accompagner dans leur montée en compétence Data. Localisation du poste : Massy ou Châtillon"
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2855966",
+    "title": "Manager d'expertise / de coordination DATA F/H (H/F)",
+    "company": "GMF",
+    "location": "GROUPE COVÉA ",
+    "remote": null,
+    "publication_date": "2024-08-24",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": null,
+        "Experience": "Expérience exigée",
+        "Level": null
+    },
+    "company_data": {
+        "sector": null,
+        "company_size": null,
+        "turnover_in_millions": null
+    },
+    "description": "Manager d'expertise / de coordination DATA F/H \n\n\n« La DSI Covéa est riche de 1800 collaborateurs (sur les sites de Niort, Le Mans, Chartres, Saran, Paris Montparnasse, Saint Lazare et Levallois) que je souhaite voir grandir dans un esprit de proximité, de modernité et de ;Rejoignez nos équipes pour répondre à l'ambition de Covéa, de ses métiers (assurance IARD, Vie, Santé, Prévoyance, Protection Juridique, Assistance) et de ses marques (MAAF, MMA et GMF). La DSI reste au cœur des opérations et de la transformation au travers d'un SI doté de capacités digitales, data et d'intelligence artificielle et d'une ambition d'excellence opérationnelle et industrielle (cloud native) » (Philippe CUVELIER - DSI COVEA)Engagés, citoyens, forts de nos valeurs mutualistes et tournés vers l'innovation : c'est ainsi que nous imaginons le futur de l'assurance.\n Rejoignez plus précisément le service « Conseil et Valorisation Data 2 », rattachée au département « Conseil Data et BI » en tant que Manager d'expertise et de coordination DATA F/H.\n Ce poste est à pourvoir dès que possible sur le site de Niort / Chauray.Vous prenez la responsabilité de l'équipe « Conseil et Valorisation Data 2 », composée actuellement de 12 personnes internes et de 2 prestataires travaillant sur les sites de Levallois et de Niort.\n\nObjectifs des équipes « Conseil et Valorisation Data 1 et 2 » :\n- Être le Business Partner de l'ensemble des directions métiers sur le volet data et usages\n - Accompagner les métiers de Covéa dans leurs avant-projets et projets Data\n - Assurer un support et une assistance aux utilisateurs métiers Data\n - Accompagner la transformation Data en cohérence avec le Schéma Directeur du Système d'Informations de Covéa\n\nActivités quotidiennes des équipes « Conseil et Valorisation Data 1 et 2 » :\n - Contribuer à la déclinaison du SDSI sur le périmètre data et accompagner sa démultiplication et son appropriation\n - Contribuer à l'élaboration des cibles et des trajectoires de transformation data\n - Conseiller et accompagner les Directions métier sur l'alignement de leur SI avec la stratégie métier Data\n - Assurer une proximité, un support et une assistance aux utilisateurs métiers data\n - Réaliser les études et apporter du conseil aux métiers sur le volet data et usages\n - Suivre le portefeuille des projets data\n - Suivre la tenue des engagements de la Direction Solutions Data vis-à-vis des métiersVotre mission ?· Vous managez et pilotez les collaborateurs et collaboratrices de votre équipe pour atteindre les objectifs de l'équipe « Conseil et Valorisation Data 2 » », à savoir :o Vous accompagnez vos collaborateurs, en les mobilisant et en les responsabilisant sur les enjeux et orientations stratégiques de l'entreprise.o Vous pilotez les engagements pris par votre équipe (notamment dans le cadre des études d'opportunité et de faisabilité).o Dans une logique d'optimisation, vous définissez et pilotez les indicateurs de suivi et de contrôle pour pouvoir ajuster vos moyens aux résultats attendus.o Au travers le coaching de vos collaborateurs, vous veillez au développement de leurs compétences et à la valorisation de leur performance et anticipez les besoins prévisibles en termes de compétences et de ressources.o Enfin, avec votre attitude ouverte, vous favorisez la coopération au sein et en dehors de l'équipe et vous ferez aborder les changements comme de nouvelles opportunités.Encore une hésitation sur les atouts de ce poste ?3 bonnes raisons de nous rejoindre :Raison #1 L'intégration de la DATA et l'IA dans le plan stratégique Covéa,Raison #2 Une sphère relationnelle élargie : Directions Métier / Data Owner / Architectes Data / Equipes Conseil Data & BI, Delivery Data et Plateformes et Socles Data / Equipe SMART IA,Et Raison #3 ! Un rôle stratégique avec une vue globale sur de l'évolution du patrimoine Data de la Marque et/ou du Métier afin d'apporter la cohérence nécessaire à la bonne tenue de la feuille de route.Avantages du poste :Salaire fixe + primes intéressement et participation attractivesPEE et PERE Collectif avec abondementForfait jours 200 jours travaillés (environ 10,5 semaines de congés + possibilité de les placer sur CET/CETR)Télétravail possible (2 jours/semaine) + indemnités de télétravail + carte tickets restaurantMutuelle avantageuse + régime sur complémentaire santé (prise en charge employeur 60%) + avantages CEForfait mobilités « durables »Formation :Vous bénéficierez d'une formation sur le management, certifiante et innovante, pour vous accompagner dans l'entrée en fonction, vous donner des clés pour vous aider à la bonne appropriation du poste, et ce dans la lignée de l'ambition managériale de Covéa. Ce sera également l'occasion pour vous de partager avec un collectif de"
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2848655",
+    "title": "Data manager (H/F)",
+    "company": "IDNA ",
+    "location": "FRANCE",
+    "remote": null,
+    "publication_date": "2024-08-24",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": "Salaire brut : Annuel de 75000,00 Euros à 80000,00 Euros",
+        "Experience": "Expérience exigée de 10 An(s)",
+        "Level": null
+    },
+    "company_data": {
+        "sector": null,
+        "company_size": null,
+        "turnover_in_millions": null
+    },
+    "description": "Nous recherchons un(e ) Directeur(trice) de Programme DORA pour le compte de notre client( secteur bancaire).\nVos missions\nAu sein du Département Cybersecurity, vous intégrerez une équipe de plus d?une vingtaine de personnes en charge d'assurer le coverage cybersécurité et IT Risk des différentes entités du Groupe.\nVous prendrez en charge le pilotage de la mise en conformité de la réglementation DORA en respectant les échéances définies dans la stratégie du client et en animant différents projets du programme.\nA ce titre, vous serez chargé(e ) d?(e) :\n? Assurer la communication et la vulgarisation des informations au sein du groupe afin de fédérer les équipes.\n? Piloter les équipes dans le cadre de la mise en conformité du groupe\n? Impulser le rythme des travaux menés sur les différents chantiers et procéder à leur coordination.\n? Gérer les priorités pour aboutir à la construction de la cible dans le respect du périmètre du programme, son budget et ses délais.\n? Assurer les échanges avec les différentes équipes telles que les RSSI, les métiers, les équipes applicatives impactées et les équipes techniques du groupe pour assurer le respect des objectifs fixés.\n? Piloter et participer aux instances de Pilotages (CODIR, COPRO, Communauté SSI) et assurer le reporting.\nOutils, Avantages & Perspectives\nPoste à pourvoir le plus rapidement possible\nLocalisation : Paris Est\nRémunération package global +/- 80 ? selon profil (Politique d?intéressement en place depuis 2015)"
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2848631",
+    "title": "Data manager (H/F)",
+    "company": "LEHIBOU ",
+    "location": "92",
+    "remote": null,
+    "publication_date": "2024-08-24",
+    "details": {
+        "TypeContract": "Profession",
+        "Salary": null,
+        "Experience": "Expérience exigée de 10 An(s)",
+        "Level": null
+    },
+    "company_data": {
+        "sector": null,
+        "company_size": null,
+        "turnover_in_millions": null
+    },
+    "description": "Notre client dans le secteur Banque et finance recherche un Directeur de projet Data gouvernance F/H\nDescriptif de la mission: \nDans le cadre du projet de transformation du client en une data-driven company. Attaché(e) à notre Lead Data Gouvernance au sein de notre équipe d?experts Data, tu auras la charge d?accompagner le Data Gouvernance Lead du client dans le déploiement de la gouvernance des données.\nLes missions seront les suivantes :\n? Accompagnement des métiers dans pour la diffusion des pratiques, normes et standards autour de la documentation, sécurisation, protection et qualité des données\n? La définition des process et policies, permettant d?encadrer la gestion des données.\n? L?animation et l?acculturation des acteurs data au sein du client autour des sujets cités\n? L?accompagnement de l?équipe de Data Gouvernance pour la définition d?un outil de gouvernance des données\n? La définition et le déploiement d?un Target Operating Model\n? Le cadrage et le déploiement de BCBS 239\n? Accompagner la data gouvernance dans la définition et le pilotage d?une comitologie adaptée.\nLe client est toujours en quête de son positionnement, entreprise voulant devenir résolument data-Centric, elle est toujours en phase de réflexion sur sa stratégie data.\nAussi, la mission consistera également à accompagner le Head of data, et la data gouvernance autour de la définition d?une stratégie permettant de pouvoir répondre au mieux aux enjeux data de l?entreprise.\nCompétences / Qualités indispensables: \n10-11 ans d?expérience en tant que Directeur de projet Data Gouvernance, \ndirecteur de programme Data avec une composante de data, avec obligatoirement une ou plusieurs d?expériences au sein d?un groupe bancaire/assurance/finance avec des compétences en gestion de projet, embarquant des sujets règlementaires, mais aussi business.\nCompétences / Qualités qui seraient un +: \n? Animer les équipes projets ; motiver les équipes et rendre compte de l?avancement et des éventuelles difficultés \n? Faire le pont entre les équipes techniques et business, en interne comme en externe, \n? Assurer une veille technologique autour des solutions de data gouvernance \n? Très bonne connaissance des enjeux et des processus de data gouvernance ; \n? Très bonne connaissance des métiers bancaires \n? Qualités d?écoute, d?analyse et de synthèse ; \n? Bonne connaissance de l?architecture data \n? Esprit d?équipe, leadership, autonomie \n? Communication à destination des équipes comme de la direction générale\n? Conduite du changement"
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2848582",
+    "title": "Data manager (H/F)",
+    "company": "FINDING SAS ",
+    "location": "69",
+    "remote": null,
+    "publication_date": "2024-08-24",
+    "details": {
+        "TypeContract": "Profession",
+        "Salary": null,
+        "Experience": "Expérience exigée de 5 An(s)",
+        "Level": null
+    },
+    "company_data": {
+        "sector": null,
+        "company_size": null,
+        "turnover_in_millions": null
+    },
+    "description": "Tu es freelance dans le domaine du Cloud et des solutions digitales ? FINDING t?aide à te positionner et te propose des opportunités de missions dans les domaines du Big Data, Cyber, Web, Cloud, et IT?\nNous recherchons un(e) Lead Tech DATA pour un de nos clients situé à Lyon (69).\nUne équipe multi-produits découpée en deux « feature-teams » multi-compétences « data/ dev ».\nVous rejoindrez une équipe de 35 personnes, pour le développement d?applications et de traitements orientées data en Python, le maintien de la qualité logicielle, l?appui aux projets et le cadrage technique des sujets."
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2846877",
+    "title": "Data Manager (H/F)",
+    "company": null,
+    "location": "PARIS 09 75",
+    "remote": null,
+    "publication_date": "2024-08-24",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": "Salaire brut : Annuel de 55000,00 Euros à 70000,00 Euros",
+        "Experience": "Expérience exigée de 3 An(s)",
+        "Level": null
+    },
+    "company_data": {
+        "sector": null,
+        "company_size": "Entreprise de l'Économie Sociale, la Macif n'appartient ni à des actionnaires, ni à l'État, mais à ses sociétaires. Chaque jour, près de 10 000 salariés se mobilisent pour apporter la meilleure qualité de service à nos 5,6 millions de sociétaires et adhérents en assurances dommages, santé-prévoyance et finance-épargne.\nRejoindre la Macif, c'est s'engager dans une entreprise qui innove et qui développe ses expertises sur le marché globalisé des services, notamment ceux ...",
+        "turnover_in_millions": null
+    },
+    "description": "Description du poste :\nLa Direction Activité et Résultat Technique recrute un Responsable Qualité des Données / Data Quality Manager (F/H), en CDI à temps plein, sur le domaine Qualité des Données Solvabilité II à Paris.\nVotre rôle est de :\n- Connaître et décliner les obligations réglementaires liées à Solvabilité II ;\n- Coordonner la politique Qualité des données liée à Solvabilité II en assurance IARD ;\n- Construire et partager avec les parties prenantes, la feuille de route et les objectifs fixés, ainsi que les résultats obtenus ;\n- Coordonner et suivre les plans d'action liés à cette feuille de route ;\n- Participer aux différentes instances et comités sur le sujet et animer le comité opérationnel de la QDD SII IARD regroupant les propriétaires de données ;\n- Coordonner et organiser les activités de façon transverse en initiant et pilotant les actions du domaine QDD.\nDescription du profil :\nVenez nous rejoindre si vous avez le profil suivant :\n- une formation BAC+5 en statistique, DATA ou Actuariat, ou un niveau équivalent justifié par l'expérience acquise ;\n- une expérience professionnelle de 5 ans minimum dans un domaine similaire, et idéalement, une expérience en management transverse ou fonctionnel ;\n- la maîtrise de la réglementation Solvabilité II ;\n- la connaissance de l'environnement DATA et maîtrise des outils bureautiques ;\n- la connaissance des outils de qualités des données serait un plus.\nVous avez une appétence pour les nouveaux outils et nouvelles technologies.\nVous êtes reconnu pour votre esprit d'initiative et avez de fortes qualités relationnelles.\nDes déplacements ponctuels sont à prévoir.\nPoste actuellement sur Paris 15ème Arr. Déménagement à ISSY les MOULINEAUX courant 2025.\nVous vous reconnaissez dans ce poste ? N'hésitez plus, candidatez !\nEn lien avec sa démarche de \"bien vivre ensemble au travail\", la Macif est un employeur inclusif et respectueux de toutes les singularités. L'ensemble de nos offres d'emploi sont accessibles aux personnes en situation de handicap.\nReconnue Top Employer 2024 pour ses pratiques RH, la Macif s'engage à promouvoir la diversité et à garantir l'égalité de traitement pour tous."
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2842644",
+    "title": "Architecte Data (H/F)",
+    "company": null,
+    "location": "HAUTS DE SEINE 92",
+    "remote": null,
+    "publication_date": "2024-08-24",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": null,
+        "Experience": "Expérience exigée de 3 An(s)",
+        "Level": null
+    },
+    "company_data": {
+        "sector": null,
+        "company_size": null,
+        "turnover_in_millions": null
+    },
+    "description": "Description du poste :\nEn tant que cabinet de recrutement spécialisé dans l'emploi et le handicap, Talents Handicap accompagne de très nombreuses entreprises & organisations en France dans leurs recrutements de collaborateurs en situation de handicap. Dans ce cadre, nous recherchons pour le poste ci-dessous des candidats, en situation de handicap et vous invitons à postuler si vous correspondez au profil.\nL'entreprise Sopra Steria recherche activement des profils pour le poste suivant :\nDescription de l'entreprise\nSopra Steria, acteur majeur de la Tech en Europe avec 56 000 collaborateurs dans près de 30 pays, est reconnu pour ses activités de conseil, de services numériques et d'édition de logiciels. Il aide ses clients à mener leur transformation digitale et à obtenir des bénéfices concrets et durables. Le Groupe apporte une réponse globale aux enjeux de compétitivité des grandes entreprises et organisations, combinant une connaissance approfondie des secteurs d'activité et des technologies innovantes à une approche résolument collaborative.\nSopra Steria place l'humain au centre de son action et s'engage auprès de ses clients à tirer le meilleur parti du digital pour construire un avenir positif. En 2023, le Groupe a réalisé un chiffre d'affaires de 5,8 milliards d'euros.\nDescription du poste\nVotre futur environnement de travail :\nAu sein du vertical Services financiers, vous participez à des grands projets de transformations des systèmes d'informations de nos clients bancaires. \nActeur incontournable de l'avant-vente jusqu'à la mise en production, vous intervenez sur un périmètre large, au sein d'un environnement technique innovant. \nSopra Steria investit dans votre parcours professionnel en vous proposant des formations spécialisées (e-learning, présentiel), des parcours de certification et un accès des communautés internes. \nAu travers du collectif TechMe Up, Sopra Steria porte une attention toute particulière au bien-être et à l'épanouissement professionnel des population tech en proposant entre autres : ***Des journées de conférences tech biannuelles internes ***Des accès à des conférences externes ***Des pc « boostés » pour les développements ***Parcours de formation dédié pour nos experts techniques\nVos principales missions sont :***Vous communiquez avec de nombreuses parties prenantes de l'entreprise pour évaluer les besoins et les objectifs de la plateforme Data ***Vous évaluez l'architecture des données et les bases de données actuelles ***Vous recommandez les meilleures pratiques ETL pour l'ingestion des données***Vous faites des recommandations pour la plateforme cible en prenant en compte les usages existants et à venir***Vous mettez en place des architectures data en environnement multicloud/ cloud Hybride ***Vous veillez à l'exploitabilité continue du SI et l'ensemble des aspects de sécurité***Reconnu(e) pour votre expertise, vous participez activement à la montée en compétence des équipes***Enfin, vous assurez une veille technologique DATA et partagez cette connaissance au sein de la DSI et autres Directions\nEnvironnement technologique :\nBases de données Relationnelles et NoSQL,\nCloud (Azure, ou AWS notamment) en particulier leur capacité Data et IA, FinOps,\nTechnologies Big Data (Hadoop, Spark, Kafka, etc.),\nOutils de modélisation : Visio.\nLangages de programmation, Python et Java.\nDevOps & CI/CD : Maven, GitLab, Sonar, Checkmark, .\nQualifications\nVotre profil :\nVous possédez une forte expérience sur les technologies citées ci-dessus, ainsi qu'une réelle force de proposition en portant les sujets techniques ardus, et un comportement proactif pour embarquer l'équipe et le client dans le succès des projets.\nLe travail en équipe sera clé en interaction avec le client et aussi en interne avec une forte qualité pédagogique et d'intégration au sein des multiples équipes projets.\nVous êtes un vrai couteau suisse, permettant de descendre dans la technique sur les sujets ardus (exemplarité vis-à-vis des équipes techniques), tout en gardant du recul, et sachant aussi remonter plus haut au niveau DAT / Roadmap / Stratégie.\nVous êtes issu(e) d'un Master 2 ou équivalent (Ecole d'Ingénieurs ou Universitaire) et possédez au moins 5 ans d'expérience en tant qu'Architecte DATA, dans des environnements complexes et exigeants.\nInformations supplémentaires\nCe que nous proposons :***Un accord télétravail pour télétravailler jusqu'à 2 jours par semaine selon vos missions.\n* Un package avantages intéressants : une mutuelle, un CSE, des titres restaurants, un accord d'intéressement, des primes vacances et cooptation.\n* Un accompagnement individualisé avec un mentor que vous choisissez.\n* Des opportunités de carrières multiples : plus de 50 m"
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2841986",
+    "title": "Data manager (H/F)",
+    "company": null,
+    "location": "PARIS (DEPT.) 75",
+    "remote": null,
+    "publication_date": "2024-08-24",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": null,
+        "Experience": "Expérience exigée de 3 An(s)",
+        "Level": null
+    },
+    "company_data": {
+        "sector": null,
+        "company_size": null,
+        "turnover_in_millions": null
+    },
+    "description": "Description du poste :\nEn tant que cabinet de recrutement spécialisé dans l'emploi et le handicap, Talents Handicap accompagne de très nombreuses entreprises & organisations en France dans leurs recrutements de collaborateurs en situation de handicap. Dans ce cadre, nous recherchons pour le poste ci-dessous des candidats, en situation de handicap et vous invitons à postuler si vous correspondez au profil.\nL'entreprise Sopra Steria recherche activement des profils pour le poste suivant :\nCompany Description\nSopra Steria, acteur majeur de la Tech en Europe, reconnu pour ses activités de conseil, de services numériques et d'édition de logiciels, aide ses clients à mener leur transformation digitale et à obtenir des bénéfices concrets et durables. Il apporte une réponse globale aux enjeux de compétitivité des grandes entreprises et organisations, combinant une connaissance approfondie des secteurs d'activité et des technologies innovantes à une approche résolument collaborative.\nSopra Steria place l'humain au centre de son action et s'engage auprès de ses clients à tirer le meilleur parti du digital pour construire un avenir positif.\nFort de 56 000 collaborateurs dans près de 30 pays, le Groupe a réalisé un chiffre d'affaires de 5,8 milliards d'euros en 2023.\nThe world is how we shape it\nJob Description\nVotre futur environnement de travail :\nChez notre client, grande banque commerciale française, vous intégrez nos squads pour intervenir sur des projets de grande envergure, des projets transformants et structurants de la banque de demain. Vous interviendrez sur la gestion d'applications sur des domaines tels que : la conformité, la fraude, la lutte anti-blanchiment, les risques de crédit, la trésorerie, les paiements, les financements structurés ou encore le réglementaire bancaire.\nAu sein de notre Data Factory, vous êtes pleinement impliqué(e) dans toutes les phases de nos projets pour le compte de grands clients, contribuant ainsi à leur succès. Vous avez l'occasion de développer vos compétences techniques et fonctionnelles de manière approfondie, tout en travaillant sur des projets exigeants et passionnants pour le compte de grands clients du secteur bancaire.\nVotre rôle et vos missions :\nVous avez pour rôle la mise en place de pipelines de données fiables, sécurisés et à l'échelle pour soutenir la mise à disposition des données aux cas d'usage métier qui en ont besoin.\nVos activités principales sont les suivantes :***Vous travaillez avec le client pour évaluer, concevoir, déployer, améliorer et maintenir les pipelines de données;\n* Vous vous assurez que les pipelines de données créés sont résilients, sécurisés et accessibles;\n* Vous définissez le modèle opérationnel pour monitorer et supporter les pipelines de données\n* Vous fournissez une expertise à nos clients sur leurs données pour assurer leur optimisation et leur sécurité par rapport à leurs besoins;\n* Vous apportez un savoir en gestion de la qualité et la gouvernance de la donnée pour assurer le suivi de la conformité à la gouvernance de la donnée\n* Vous faites de la veille technologique dans le domaine afin d'enrichir les roadmaps technologiques et fournir des solutions modernes à nos clients.\n#LI-HYBRID #PF\nQualifications\nVotre profil :\nDe formation Master 2 Ecole d'Ingénieurs ou Informatique, ou équivalent, vous justifiez d'une expérience technique de 3 ans minimum et souhaitez évoluer rapidement dans un contexte motivant. Vous avez ces compétences requises :***Maîtrise des technologies de bases de données Relationnelles et NoSQL\n* Maîtrise d'au moins un outil d'ETL/ELT (Informatica, datastage, etc.)\n* Maîtrise des technologies de traitement distribué de données (spark, scala, Hadoop)\n* Maîtrise d'au moins un framework de streaming de données (Kafka, RabbitMQ, etc.)\n* Maîtrise de chaines CI/CD et de des bonnes pratiques de DataOps\n* Maîtrise de solution de Vitrtualisation de données (Denodo, Dremio, etc.)\n* Méthodologie Agile Scrum\n* Anglais professionnel\nVous êtes attiré(e) par le monde du numérique, le Cloud (maitrise d'un environnement public ou privé est un plus) et des technologies innovantes.\nVous avez un bon esprit d'analyse, êtes curieux(se) et passionné(e) et vous avez le sens du travail en équipe.\nAdditional Information\nCe que nous vous proposons :***Un accord télétravail pour télétravailler jusqu'à 2 jours par semaine selon vos missions.\n* Un package avantages intéressants : une mutuelle, un CSE, des titres restaurants, un accord d'intéressement, des primes vacances et cooptation.\n* Un accompagnement individualisé avec un mentor.\n* Des opportunités de carrières multiples : plus de 50 métiers, autant de passerelles à imaginer ensemble.\n* Plusieu"
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2822913",
+    "title": "Lead Tech DATA (H/F) (IT) / Freelance",
+    "company": null,
+    "location": null,
+    "remote": null,
+    "publication_date": "2024-08-24",
+    "details": {
+        "TypeContract": "Profession",
+        "Salary": null,
+        "Experience": "Débutant accepté",
+        "Level": null
+    },
+    "company_data": {
+        "sector": null,
+        "company_size": null,
+        "turnover_in_millions": null
+    },
+    "description": "Tu es freelance dans le domaine du Cloud et des solutions digitales ? FINDING t?aide à te positionner et te propose des opportunités de missions dans les domaines du Big Data, Cyber, Web, Cloud, et IT?\nNous recherchons un(e) Lead Tech DATA pour un de nos clients situé à Lyon (69).\nUne équipe multi-produits découpée en deux  feature-teams  multi-compétences  data/ dev .\nVous rejoindrez une équipe de 35 personnes, pour le développement d?applications et de traitements orientées data en Python, le maintien de la qualité logicielle, l?appui aux projets et le cadrage technique des sujets.\nProfil candidat:\nExpériences professionnelles :\nPython et ses librairies\nDéveloppement d?API et dashboards avec FastPI et Dash\nGestion d?équipe et leadership technique\nStacks techniques demandées :\nPython : FastAPI, Dash, Pandas, parallélisation, packaging, PyTest\nSQL : PostSQL, Teradata\nSpark : PySpark et/ou Scala\nGit, Gitlab CI/CD\n Impératifs :\nPython\nSpark\nPédagogie"
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2822882",
+    "title": "architecte informatique Data / Databricks / PowerBI / Dataiku (IT) / Freelance (H/F)",
+    "company": null,
+    "location": "NANTERRE 92",
+    "remote": null,
+    "publication_date": "2024-08-24",
+    "details": {
+        "TypeContract": "Profession",
+        "Salary": null,
+        "Experience": "Débutant accepté",
+        "Level": null
+    },
+    "company_data": {
+        "sector": null,
+        "company_size": null,
+        "turnover_in_millions": null
+    },
+    "description": "VISIAN est une société de conseil spécialisée autour de l'innovation, la conception produit, le développement et la data.\n Dans le cadre de nos projets clients, nous recherchons un Architecte Data avec une bonne connaissance de Databricks.\nDans le cadre du développement de leur Data Platform, le client souhaite renforcer son équipe data, challenger son architecture et les aider dans le développement de la plateforme.\nIl doit également avoir connaissance de tous les aspects de l'architecture type modern data plateform : ingestion, chargement, exposition, visualisation \nLe profil doit être en mesure d'interagir avec l'architecture d'entreprise du client, cadrer les enablers globaux, définir les scénarios de mise en oeuvre pour les différentes équipes\nProfil candidat:\nArchitecture d'entreprise de data plateforme \nPérimètres : databricks, data catalogue, IHM spécifiques, dataiku, Denodo, datavisualisation et intégration avec le collaboratif Microsoft"
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2821794",
+    "title": "Chef de Projet Data Gouvernance H/F",
+    "company": null,
+    "location": "LE BAR SUR LOUP 06",
+    "remote": null,
+    "publication_date": "2024-08-24",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": null,
+        "Experience": "Débutant accepté",
+        "Level": null
+    },
+    "company_data": {
+        "sector": null,
+        "company_size": null,
+        "turnover_in_millions": null
+    },
+    "description": "Au quotidien, vos missions :\n- Élaborer et mettre en oeuvre des politiques de gouvernance des données.\n- Coordonner avec les équipes techniques et les parties prenantes métier.\n- Assurer la conformité aux réglementations en matière de protection des données.\n- Développer des normes de qualité des données et des processus de gestion.\n- Développer une culture data et collaborer avec les différentes parties prenantes.\n- Gérer certains projets liés à la gouvernance des données de bout en bout, contribuez à d'autres.\n- Participer activement à la réorganisation de l'équipe data au sein de l'IT, en étant force de proposition sur la structure organisationnelle, les processus opérationnels et les normes de travail.\n- Proposer des solutions innovantes pour la transformation de l'entreprise autour de la donnée, y compris la définition des rôles et des responsabilités, la sélection d'outils appropriés et la création de processus conformes aux objectifs de gouvernance des données.\n- Jouer un rôle opérationnel en apportant une vision data aux projets de transformation de l'entreprise sur l'identification des impacts et sur les bonnes pratiques d'usage des données.\nProfil :\n- De formation supérieure Bac +5 avec une spécialisation Data, vous avez une première expérience réussie sur la Data et idéalement sur des sujets de data gouvernance.\nUne certification DAMA (Data Management Associates Int) serait un plus.\n- Vous avez de solides connaissances des bonnes pratiques en matière de gouvernance et de qualités des données, ou de mise en oeuvre de référentiels\n- Vous disposez de bonnes connaissances des solutions technologiques autour du data management et de la gouvernance des données (Data catalog, MDM, DQM)\n- Vos qualités de leadership, de coopération, votre aisance relationnelle permettent d'assurer l'adhésion des métiers aux activités de data gouvernance.\nVous êtes à l'écoute, force de proposition.\nVotre capacité à travailler en équipe transverse est avérée.\n- Vous savez gérer des projets data transverses y compris en mode agile.\nCompétences linguistiques :\nAnglais niveau B2\nType de contrat :\nContrat à durée indéterminée.\nLocalisation du poste :\nFrance 06 - Le Bar sur Loup (siège social)\nCompétence linguistique :\nAnglais Intermédiaire"
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2874684",
+    "title": "Manager Qualité des Données (F/H) (H/F)",
+    "company": "MACIF ",
+    "location": "79",
+    "remote": null,
+    "publication_date": "2024-08-25",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": "Salaire brut : Annuel de 55000,00 Euros à 70000,00 Euros",
+        "Experience": "Expérience exigée de 5 An(s)",
+        "Level": null
+    },
+    "company_data": {
+        "sector": "Autres assurances",
+        "company_size": null,
+        "turnover_in_millions": null
+    },
+    "description": "La Direction Activité et Résultat Technique recrute un Manager (F/H), en CDI à temps plein, sur le domaine Qualité des Données Solvabilité II à Niort ou à Paris. \n\nVous aurez en charge une équipe de deux collaborateurs. \n\nVotre rôle est de : \n- Connaître et décliner les obligations réglementaires liées à Solvabilité II ; \n- Coordonner la politique Qualité des données liée à Solvabilité II en assurance IARD ; \n- Construire et partager avec les parties prenantes, la feuille de route et les objectifs fixés, ainsi que les résultats obtenus ;\n- Coordonner et suivre les plans d'action liés à cette feuille de route ; \n- Participer aux différentes instances et comités sur le sujet et animer le comité opérationnel de la QDD SII IARD regroupant les propriétaires de données ;\n- Coordonner et organiser les activités de votre équipe en initiant et pilotant les actions ;\n- Dynamiser, mobiliser, accompagner et faire progresser vos collaborateurs de manière individuelle et collective.\n  \n \nVenez nous rejoindre si vous avez le profil suivant : \n- une formation BAC+5 en statistique, DATA ou actuariat, ou un niveau équivalent justifié par l'expérience acquise ;\n- une expérience professionnelle de 5 ans minimum dans un domaine similaire et, idéalement, une première expérience managériale ; \n- la maîtrise de la réglementation Solvabilité II ; \n- la connaissance de l'environnement DATA et maîtrise des outils bureautiques ;\n- la connaissance des outils de qualités des données serait un plus. \n\nVous avez une appétence pour les nouveaux outils et nouvelles technologies. \nVous êtes reconnu pour votre esprit d'initiative et avez de fortes qualités relationnelles. \n\nDes déplacements ponctuels sont à prévoir. Le poste peut être localisé à Niort ou à Paris.\n\nVous vous reconnaissez dans ce poste ? N'hésitez plus, candidatez !\n\n\nEn lien avec sa démarche de \"bien vivre ensemble au travail\", la Macif est un employeur inclusif et respectueux de toutes les singularités. L'ensemble de nos offres d'emploi sont accessibles aux personnes en situation de handicap.\n\nReconnue Top Employer 2024 pour ses pratiques RH, la Macif s'engage à promouvoir la diversité et à garantir l'égalité de traitement pour tous."
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2874382",
+    "title": "Responsable Qualité des Données (F/H) (H/F)",
+    "company": "MACIF ",
+    "location": "75",
+    "remote": null,
+    "publication_date": "2024-08-25",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": "Salaire brut : Annuel de 55000,00 Euros à 70000,00 Euros",
+        "Experience": "Expérience exigée de 5 An(s)",
+        "Level": null
+    },
+    "company_data": {
+        "sector": "Autres assurances",
+        "company_size": null,
+        "turnover_in_millions": null
+    },
+    "description": "La Direction Activité et Résultat Technique recrute un Responsable Qualité des Données / Data Quality Manager (F/H), en CDI à temps plein, sur le domaine Qualité des Données Solvabilité II à Paris. \n\nVotre rôle est de : \n- Connaître et décliner les obligations réglementaires liées à Solvabilité II ; \n- Coordonner la politique Qualité des données liée à Solvabilité II en assurance IARD ; \n- Construire et partager avec les parties prenantes, la feuille de route et les objectifs fixés, ainsi que les résultats obtenus ;\n- Coordonner et suivre les plans d'action liés à cette feuille de route ; \n- Participer aux différentes instances et comités sur le sujet et animer le comité opérationnel de la QDD SII IARD regroupant les propriétaires de données ;\n- Coordonner et organiser les activités de façon transverse en initiant et pilotant les actions du domaine QDD.\n  \n \nVenez nous rejoindre si vous avez le profil suivant : \n- une formation BAC+5 en statistique, DATA ou Actuariat, ou un niveau équivalent justifié par l'expérience acquise ;\n- une expérience professionnelle de 5 ans minimum dans un domaine similaire, et idéalement, une expérience en management transverse ou fonctionnel ; \n- la maîtrise de la réglementation Solvabilité II ; \n- la connaissance de l'environnement DATA et maîtrise des outils bureautiques ;\n- la connaissance des outils de qualités des données serait un plus. \n\nVous avez une appétence pour les nouveaux outils et nouvelles technologies. \nVous êtes reconnu pour votre esprit d'initiative et avez de fortes qualités relationnelles. \n\nDes déplacements ponctuels sont à prévoir. \n\nPoste actuellement sur Paris 15ème Arr. Déménagement à ISSY les MOULINEAUX courant 2025.\n\nVous vous reconnaissez dans ce poste ? N'hésitez plus, candidatez !\n\n\nEn lien avec sa démarche de \"bien vivre ensemble au travail\", la Macif est un employeur inclusif et respectueux de toutes les singularités. L'ensemble de nos offres d'emploi sont accessibles aux personnes en situation de handicap.\n\nReconnue Top Employer 2024 pour ses pratiques RH, la Macif s'engage à promouvoir la diversité et à garantir l'égalité de traitement pour tous."
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2834472",
+    "title": "Manager opérationnel (H/F)",
+    "company": "UCANSS ",
+    "location": "76",
+    "remote": null,
+    "publication_date": "2024-08-24",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": "Salaire brut : Annuel de 41400,00 Euros à 46000,00 Euros",
+        "Experience": "Expérience souhaitée de 4 An(s)",
+        "Level": "Bac+5 et plus ou équivalents informatique et systèmes d'information"
+    },
+    "company_data": {
+        "sector": "Autres activités informatiques",
+        "company_size": "Le CTI Rouen est un organisme appartenant au réseau de l'Assurance Maladie.\nIl a évolué dans ses métiers et s'est spécialisé dans la mise à disposition d'outils et de données de Gestion Électronique de Documents (GED) ainsi que la mise à disposition de bases de données décisionnelles. Il a également la responsabilité d'un centre éditique basé à Caen.\nLe CTI est composé de 62 salariés physiquement présents à l'effectif.",
+        "turnover_in_millions": null
+    },
+    "description": "Le CTI Rouen est un organisme appartenant au réseau de l'Assurance Maladie. Il a évolué dans ses métiers et s'est spécialisé dans la mise à disposition d'outils et de données de Gestion Electronique de Documents (GED) ainsi que la mise à disposition de bases de données décisionnelles. Il a également la responsabilité d'un centre éditique basé à Caen.\n\nLe CTI est composé de 62 salariés physiquement présents à l'effectif.\n\nAnime, coordonne, est force de proposition. Pilote les activités de son service, assure les relations avec les équipes nationales + autres services + coordination des partenaires. Accède aux informations pour réaliser les missions avec respect code déontologie + secret professionnel. Fait partie du CODIREL. Supervise la gestion des changements. Concourt à la qualité et sécurité. S'assure et effectue la veille technique pour se conformer aux pratiques nationales.\n\nExpérience managériale démontrée en particulier management à distance sur des équipes multi-profils dans un environnement où collaborent des ressources internes et externes.\n\nManagement fonctionnel et hiérarchique.\n\nCapacité d'adaptation, d'analyse et de résolution de problématiques diverses et complexes.\n\nCapacité à faire preuve d'innovation.\n\nConnaissance des métiers, processus, activités liés à la production.\n\nFaire preuve de persévérance dans la conduite du changement.\n\nFaire preuve d'anticipation sur l'analyse et la maîtrise des risques.\n\nForte Disponibilité.\n\nFormation initiale Bac +4/5 diplôme d'ingénieur ou cursus universitaire de type Master informatique\n\nDémarrage du contrat : au plus tôt\n\nQualification : VB ou VI de la grille informatique selon profil du candidat(e)\n\nDurée hebdomadaire : 35 heures hebdomadaire - Cadre au forfait - du lundi au vendredi\n\nDéplacements occasionnels"
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2861767",
+    "title": "#et14a architecte ewis core super puma (h/f)",
+    "company": null,
+    "location": null,
+    "remote": null,
+    "publication_date": "2024-08-24",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": null,
+        "Experience": "Expérience exigée",
+        "Level": null
+    },
+    "company_data": {
+        "sector": null,
+        "company_size": null,
+        "turnover_in_millions": null
+    },
+    "description": "Job Description:Le futur est électrique !Rejoignez-nous pour construire ensemble l'avenir passionnant de l'ingénierie des systèmes électriques au sein d'Airbus Helicopters.Vous travaillerez dans une équipe multidisciplinaire et autonome avec pour mission de créer des solutions innovantes pour satisfaire nos clients, dans un environnement de confiance.Cette aventure basée sur l'écoute et l'entraide te permettra de développer ton savoir-faire technique autour des systèmes embarqués au service de l'industrie.Dans un environnement novateur digital à la pointe de la technologie, tu rejoindras un département dynamique en charge de l'intégration des ensembles électriques sur les nouvelles plateformes (Super Puma).Votre environnement de travail :Pôle économique majeur avec l'aéroport Marseille-Provence, Marignane est une ville dynamique du sud-est de la France. Elle est située à proximité des villes d'Aix-en-Provence et de Marseille, qui accueillent une offre culturelle et touristique riche. Proche des plages de la Côte Bleue, elle offre de nombreuses possibilités d'activités nautiques.Parce que nous prenons soin de vous :Avantages financiers: Salaire attractif, accords d'intéressement et de participation, plan d'épargne salariale abondé par Airbus et plan d'actionnariat salarié avec attribution d'actions gratuites sur la base du volontariat.Équilibre vie privée / professionnelle: Des jours de congés supplémentaires pour occasions spéciales et des options de transfert de congés, un comité d'entreprise proposant de nombreuses activités socio-culturelles et sportives et d'autres services.Bien-être / santé: couverture complémentaire des frais de santé et de prévoyance (incapacité, invalidité, décès). Selon le site : centre de services de santé, services de conciergerie, salle de sport, application de covoiturage.Développement individuel: des opportunités d'évolution et des possibilités de formations nombreuses (catalogue de plus de 10.000 e-formations disponibles en libre accès pour développer votre employabilité, certifications, programmes de développement accéléré, parcours expert, mobilité nationale et internationale).Chez Airbus, nous vous aidons à travailler, à vous connecter et à collaborer plus facilement et de manière plus flexible. Partout où cela est possible, nous favorisons la flexibilité dans nos modes de travail afin de stimuler l'esprit d'innovation.Vos challengesTa mission consistera à étudier l'architecture Electrique du Système d'interconnexion (EWIS) pour un Customization dans un environnement DMU (Digital Mock Up) afin que la sécurité et la fiabilité de nos hélicoptères soient assurées.Tâches et responsabilités :Vous serez responsable des activités principales suivantes :·       Elaborer et valider les exigences de l'EWIS en tenant compte du cycle de vie complet de l'EWIS d'un Contrat.·       Concevoir et définir l'architecture de l'EWIS en tenant compte des fonctions à remplir et des exigences (contraintes)d'un Contrat.·       Piloter la modélisation du système en utilisant les méthodes et outils de modélisation appropriés.·       Diriger l'analyse (analyse des caractéristiques et des performances).·       Effectuer une analyse de compromis afin de sélectionner la meilleure architecture EWIS répondant aux exigences du Contrat.·       Valider l'architecture (en utilisant par exemple des techniques d'intégration virtuelle si nécessaire).·       Définir et gérer les exigences en matière d'interfaces.·       Diriger la vérification de l'implémentation EWIS et de ses interfaces, sur le système réel ou virtuel.·       Gérer l'analyse d'impact de toute demande de changement de conception pendant tout le cycle de vie du produit."
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2850421",
+    "title": "Architecte de bases de données (H/F)",
+    "company": "OTTEO ",
+    "location": "FRANCE",
+    "remote": null,
+    "publication_date": "2024-08-24",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": "Salaire brut : Annuel de 35000,00 Euros à 45000,00 Euros",
+        "Experience": "Expérience exigée de 2 An(s)",
+        "Level": null
+    },
+    "company_data": {
+        "sector": null,
+        "company_size": null,
+        "turnover_in_millions": null
+    },
+    "description": "ET SI VOUS DEVENIEZ CONSULTANT CHEZ NOUS ?\n \nMais d?abord, c?est quoi un consultant ? Evidemment, c?est un collaborateur qui accompagnera nos clients dans la réalisation de leurs projets innovants. Mais être consultant chez OTTEO, c?est aussi être un ambassadeur, qui participera à l?évolution et à la croissance de la société !\n \nVotre 1er projet\n \nVous accompagnerez notre client spécialisé dans le développement et de la conception de chauffe-eau électriques et thermodynamiques, situé en Vendée (85).\nRattaché(e) au responsable du bureau d?études, vous assurez la conception sur CREO de produits de moyenne et de grande série.\n \nVos missions :\nConception et mise en plan, chaîne de cote sur types de pièces variées en Tôlerie fine, plasturgie (plastiques, PSE), filerie, carton,\nAssemblage 3D\nHomologation des pièces par rapport d?homologation\nSuivi de présérie des produits en développement\nLa cerise sur le gâteau\n \nDes chèques vacances et chèques cadeaux : notre CSE pense à vos petites folies et à vos week-ends prolongés !\nUne carte tickets restaurant (8,5?/jour dont 60% pris en charge par OTTEO) pour vos pauses déj? !\nLa participation aux bénéfices à débloquer immédiatement ou à faire fructifier sur votre PEE\nUne prime liée à votre projet et des primes d?ambassadeurs (cooptation, apport d?affaires?) pour participer au développement de la société\nUne mutuelle prise en charge à 100% pour veiller à votre santé\nUne prévoyance améliorée pour les coups durs\nLa prise en charge à 100% de votre titre de transport. Prenons soin de la planète ! #ISO14001\nDes évènements festifs pour passer de bons moments entre collègues"
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2848887",
+    "title": "Architecte de bases de données (H/F)",
+    "company": "PREREQUIS ",
+    "location": "92",
+    "remote": null,
+    "publication_date": "2024-08-24",
+    "details": {
+        "TypeContract": "Profession",
+        "Salary": null,
+        "Experience": "Expérience exigée de 5 An(s)",
+        "Level": null
+    },
+    "company_data": {
+        "sector": null,
+        "company_size": null,
+        "turnover_in_millions": null
+    },
+    "description": "Nous sommes à la recherche pour l'un de nos client un responsable des données (H/F).\nContexte de la mission : \nL'objectif de cette mission est de créer un référentiel commun pour notre domaine Service ainsi que pour les initiatives de Tarification et Hors Domicile.\nVous nous aiderez à mettre en ?uvre la stratégie de gestion des données maîtres du groupe, en développant et en mettant en ?uvre des solutions de gestion des données maîtres dans le paysage Business & IT pour le domaine Service ainsi que pour les initiatives de Tarification et Hors Domicile.\nVous nous soutiendrez dans la standardisation des processus de gestion des données à l'échelle de l'entreprise tout au long du cycle de vie des données : de la capture des données au traitement et à l'utilisation à travers les processus commerciaux et le paysage des applications IT.\nVous soutiendrez et guiderez le Responsable des données métier pour mettre en ?uvre les processus de gouvernance des données maîtres et les implémentations de données dans notre solution MDM (Master Data Management). Pour atteindre cet objectif, vous travaillerez en étroite collaboration avec le groupe et les unités commerciales, en particulier avec le département marketing ainsi qu'avec les parties prenantes de l'IT commercial.\nMissions : \nFournir des conseils stratégiques et les meilleures pratiques en MDM pour soutenir les ambitions du domaine de données.\nGuider la définition et le déploiement de stratégies de gouvernance des données, politiques, rôles, responsabilités, processus, contrôles et règles.\nFaciliter les discussions avec les principales parties prenantes pour identifier les principaux processus métiers et les besoins en données maîtres et de référence associés. Animer des groupes de travail pour identifier les données clés et comprendre les dépendances fonctionnelles.\nConcevoir les différentes vues du modèle de données, de la définition des dépendances fonctionnelles à la création du modèle de relation entre les entités.\nDiriger la conception et la mise en ?uvre de workflows de gouvernance des données, des règles métiers, de la modélisation des données, de l'intégration des données.\nProduire et mettre à jour toute la documentation nécessaire pour créer un référentiel et gérer ses données \nInteragir avec les parties prenantes du métier, les propriétaires de produits, les architectes IT pour prioriser et sélectionner les améliorations à apporter à la solution MDM.\nFournir un leadership technique à l'équipe projet, soutenir le mappage des données, définir les politiques et les règles métier pour la création et la maintenance des données maîtres.\nEffectuer des tâches de nettoyage des données pour nettoyer les données du domaine Service\nPréparer les documents de conception pour la migration des données MDM et les activités d'import/export.\nSoutenir l'intégration, les tests système et d'acceptation utilisateur, gérer la stratégie de migration et de basculement, les chargements de données."
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2848527",
+    "title": "Architecte de bases de données (H/F)",
+    "company": "PROPULSE IT ",
+    "location": "77",
+    "remote": null,
+    "publication_date": "2024-08-24",
+    "details": {
+        "TypeContract": "Profession",
+        "Salary": null,
+        "Experience": "Expérience exigée de 10 An(s)",
+        "Level": null
+    },
+    "company_data": {
+        "sector": null,
+        "company_size": null,
+        "turnover_in_millions": null
+    },
+    "description": "Pour l'un de nos client situé dans le département 77, nous recherchons un consultant Team leader SGBD habillable et capable de mener des projets d'envergure côté Run.\nNous sommes à la recherche d'un consultant sénior pour nous accompagner à la reprise du service RUN Base de Données (Oracle & SQLServer majoritaires, Postgre & Mongo DB minoritaire)\n- Organisation et mise en oeuvre du nouveau service RUN (ressources, processus, gestion activité, ?)\n- Gestion des incidents N3 et des changements\n- KPI, coordination et supervision\nProfil : Team Leader ou Manager avec une expérience confirmée en management de service DBA\nContrainte : demande d'habilitation"
+}]

@@ -1,3 +1,633 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:fcf0442d6546293f73c18b0e43545a3a1ecae2f0d881f07dca9d9173f3ed118e
-size 58247
+[
+    {
+        "source": "France Travail",
+        "company_data": {
+            "sector": "Édition de logiciels applicatifs",
+            "company_size": "20 à 49 salariés",
+            "adress": "75",
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/175SZQX",
+        "company": "LUCKY CART ",
+        "location": "Paris",
+        "remote": null,
+        "publication_date": "2024-06-04",
+        "description": "Descriptif du poste\n\nLa forte croissance que nous enregistrons et les projets de développement à l'international nous amènent à renforcer notre équipe data en recrutant un Machine Learning Engineer (H/F). \nRattaché(e) au Lead Engineering, vos travaux d'innovation et de recherche en Machine Learning Engineering permettront de faire évoluer les produits de Lucky Cart, d'évaluer au mieux leur performance et d'élargir la palette de services connexes.\nVos recherches pourront faire l'objet de publications, de présentation dans des séminaires ou des meetups et de dépôts de brevet.\nVotre leadership, votre ambition et votre engagement feront de vous une partie intégrante de la forte expansion de Lucky Cart en France et en Europe.\nAu cœur de la société, vous collaborerez au quotidien avec toutes les équipes impliquées (marketing, R&D, data et juridique) pour mener à bien vos missions.\n\nMISSIONS\n\nSous la responsabilité du Lead Engineering, vous aurez pour missions :\nDéfinir, développer et mettre en place et maintenir les outils et infrastructures adéquats à la conception d'algorithmes de data science et de recherche opérationnelle, intégrant les contraintes liées à des volumes de données très importants, à des modèles de grande dimension, au temps réel, ainsi qu'à la sécurité, la disponibilité et la performance,\nDéployer des pipelines de données et les modèles ci-dessus en production notamment  en concevant et en développant une architecture en micro-services,\nAssurer la fiabilité des pipelines de données, des processus ETL et de la transformation des données en réalisant et en mettant en œuvre des tests manuels et automatisés,\nÊtre force de proposition sur tous les sujets d'architecture et de modélisation,\nParticiper à l'amélioration des étapes du workflow scientifique de Lucky Cart: phase de recherche sur des environnements de calculs distribués, développement d'outils, mise en production, et tests, data lineage,\nÊtre force de proposition et prendre le lead sur des dispositifs innovants,\nTravailler en parfaite collaboration avec les autres fonctions au sein de la société (marketing, R&D, Sales, Produit),\nAssurer un reporting régulier de l'activité.\nProfil recherché\nCOMPÉTENCES\n\nMaîtriser un ou plusieurs langages structurés (Python, Javascript, Java, C/C++, Scala.),\nMaîtriser différents systèmes de base de données (SQL et NoSQL)\nAvoir une appétence pour les technologies utilisées dans le Big Data (Hadoop, Map Reduce, Spark, Kafka.),\nAvoir une expérience sur une plateforme Cloud (GCP, Azure, AWS,..)\nÊtre familier avec les concepts et algorithmes de statistiques, de data science, de deep learning et d'optimisation en général (recherche opérationnelle notamment),\nAvoir une bonne connaissance/expérience de méthodologies d'ingénierie informatique: contrôle des sources, tests unitaires, revue de code,\nÊtre curieux et avoir une forte capacité d'adaptation dans un environnement en mutation constante,\nChercher constamment à élargir et approfondir ses connaissances notamment dans des domaines connexes à la data science, le e-commerce et la distribution,\nPartager les connaissances et compétences acquises avec les membres de l'équipe par des canaux officiels et informels,\nDémontrer la capacité à collaborer avec des personnes d'autres disciplines.\nAutonomie, organisation, bonne communication.\n\nCOMPÉTENCES SOUHAITABLES\nAvoir des connaissances solides en architecture réseau et en administration de systèmes (Linux/Ubuntu/Apache/Nginx) ainsi qu'en outils du cloud (GCP ou AWS par exemple),\nÊtre familier avec les langages couramment utilisés dans la communauté data scientist (Python, R)\nMaîtrise des outils ETL/ELT (DBT),\nAvoir une ou plusieurs expériences pratiques de mise en œuvre de technologie Big Data et de leur optimisation.\n\nPROFILS\n\nBac +5,\nÉcole d'ingénieur ou grande école d'informatique, Phd (CIFRE) ou Master Recherche,\nAnglais courant",
+        "title": "machine learning engineer",
+        "details": {
+            "TypeContract": "CDI",
+            "Salary": "Salaire brut : Mensuel de 40000.0 Euros sur 12.0 mois",
+            "Level": null,
+            "Experience": "3 an(s)"
+        },
+        "skills": {
+            "ProgLanguage": [
+                "R",
+                "Java",
+                "Scala",
+                "Python"
+            ],
+            "DataBase": [
+                "SQL",
+                "NoSQL"
+            ],
+            "DataAnalytics": [
+                "R"
+            ],
+            "BigData": [
+                "Hadoop",
+                "Spark"
+            ],
+            "CloudComputing": [
+                "GCP",
+                "AWS",
+                "Azure"
+            ],
+            "OS": [
+                "Linux"
+            ],
+            "Other": [
+                "Statistiques",
+                "Machine Learning",
+                "Cloud",
+                "Big Data"
+            ],
+            "EnSoftSkils": [
+                "Leadership",
+                "Communication",
+                "Collaboration"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "company_data": {
+            "sector": null,
+            "company_size": null,
+            "adress": null,
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/9816937",
+        "company": null,
+        "location": null,
+        "remote": null,
+        "publication_date": "2024-06-30",
+        "description": "Cette startup française est à la recherche d'un profil en data science expert en IA pour venir moderniser l'application existante !\n\n\nUn peu de contexte\n\n * Application 100% mobile (Android/IOS) crée en 2014\n * Environ 100 collaborateurs\n * 80M de téléchargements dans le monde\n * Présence dans 15 pays (majoritairement en France, Brésil et Inde)\n\n\nToi\n\n * Tu disposes d'au moins 3 ans d'expérience en tant que Data Scientist ou Machine Learning Engineer\n * Tu as déjà travaillé sur plusieurs projets en utilisant du Machine Learning et Deep learning\n * Tu maîtrises Python et les principaux frameworks de Machine & Deep learning à la perfection\n * Tu es également à l'aise sur SQL\n * Tu es autonome et tu sais être force de proposition\n\n\nLes missions\n\n * Tu seras en charge d'ajouter une brique d'Intelligence Artificielle dans les différents use case de cette startup : systèmes de recommandation, analyse de photos et d'émotions, clustering, chatboat etc\n * Travailler de bout en bout sur les projets : de la partie étude de l'état de l'art jusqu'à la mise en production et l'industrialisation\n * Construire la roadmap côté IA de l'entreprise\n * Travailler avec les différentes équipes (produit, business) afin de cadrer les projets\n\n\nPourquoi les rejoindre\n\n * Travailler pour une app mobile grand public avec de grandes volumétries de données\n * Intégrer une équipe soudée\n * Remote friendly\n * Arriver en tant que responsable et expert IA de l'entreprise\n\n\nHâte de vous en dire plus!\n#J-18808-Ljbffr",
+        "title": "machine learning engineer",
+        "details": {
+            "TypeContract": "CDI",
+            "Salary": null,
+            "Level": null,
+            "Experience": "3 an(s)"
+        },
+        "skills": {
+            "ProgLanguage": [
+                "Python"
+            ],
+            "DataBase": [
+                "SQL"
+            ],
+            "Other": [
+                "Machine Learning"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "company_data": {
+            "sector": null,
+            "company_size": null,
+            "adress": "NORD 59",
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/9815348",
+        "company": null,
+        "location": "Nord",
+        "remote": null,
+        "publication_date": "2024-06-30",
+        "description": "Cadrage initiative IA\nPOC\nModèle MLCompétences techniques\nVertexAI - Confirmé - Impératif\nGCP - Confirmé - Impératif\nZenML - Confirmé - Important\nDevOps - Expert - Important\nConnaissances linguistiques\nFrançais Courant (Impératif)\nAnglais Professionnel (Impératif)\nDescription détaillée\nVous travaillerez au sein de notre enjeu Digital Data et sur la plateforme digitale PDP.\nLa Product Digital Platform (PDP), fournit des solutions numériques efficaces basées sur les données pour construire des offres d'amélioration de l'habitat, permettant de combiner produits et services, pour la meilleure solution centrée sur le client.\nAvec un référencement de haut niveau des articles dans des délais courts, une offre construite centrée sur les données et un catalogue complet, la Product Digital Platform permet aux équipes d'avoir une vision claire et en temps réel des produits disponibles sur le catalogue. La Product Digital Platform est également chargée de garantir aux vendeurs un processus de référencement des produits performant et agile, augmentant ainsi le nombre d'articles vendus en 1P-3P.\nVous serez rattaché à l'équipe Data de la Plateforme pour travailler sur des initiatives IA associées au périmètre de la plateforme.\nVotre mission consistera à :\n- Industrialiser les solutions IA développés en R& D \n- BUILD & RUN de la plateforme ML\n- RUN des solutions ML\n- Synchro avec les Data Scientist et équipe Digital sur le BUILD & RUN des solution d'IA.\nProfil candidat:\nPROFIL MAITRISANT\nUn Machine Learning (ML) Engineer est une personne dans le domaine de l'informatique qui se concentre sur la recherche, la construction et la conception de systèmes d'intelligence artificielle (IA) autogérés pour automatiser les modèles prédictifs. Les ingénieurs en apprentissage automatique conçoivent et créent les algorithmes d'IA capables d'apprendre et de faire des prédictions qui définissent l'apprentissage automatique.\nSES MISSIONS\nL'ingénieur ML aura en charge de :\n- Collaborer étroitement avec les data scientists pour identifier les opportunités d'impact business, exploiter les données pour quantifier les résultats et participer à la planification de la stratégie et de la feuille de route de ML pour l'équipe\n- Contribuer à la production et l'industrialisation des systèmes innovants d'apprentissage automatique de bout en bout\n- Créer des systèmes intelligents de surveillance et d'observabilité en temps réel de la ML et des données\n- Contribuer au partage des bonnes pratiques sur les outils ML afin d'améliorer la productivité et la qualité des résultats pour les ingénieurs et les scientifiques de données ML dans toute l'entreprise\n- Coacher, faire du mentorat et recruter d'autres membres pour aider à accroître l'efficacité et la croissance de l'équipe",
+        "title": "machine learning engineer",
+        "details": {
+            "TypeContract": "Profession",
+            "Salary": null,
+            "Level": null,
+            "Experience": "débutant accepté"
+        },
+        "skills": {
+            "ProgLanguage": [
+                "R"
+            ],
+            "DataAnalytics": [
+                "R"
+            ],
+            "CloudComputing": [
+                "GCP"
+            ],
+            "Other": [
+                "ML",
+                "Machine Learning",
+                "DevOps"
+            ],
+            "EnSoftSkils": [
+                "Initiative"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "company_data": {
+            "sector": null,
+            "company_size": null,
+            "adress": "LEZENNES 59",
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/9815084",
+        "company": null,
+        "location": "Lezennes",
+        "remote": null,
+        "publication_date": "2024-06-30",
+        "description": "Vous intégrerez notre département Digital Data et travaillerez sur notre plateforme digitale, la Product Digital Platform (PDP). Cette plateforme offre des solutions numériques basées sur les données pour créer des offres d'amélioration de l'habitat, combinant produits et services pour fournir la meilleure solution centrée sur le client.\nAvec un référencement rapide et de haute qualité des articles, une offre axée sur les données et un catalogue exhaustif, la Product Digital Platform permet aux équipes de disposer d'une vue claire et en temps réel des produits disponibles. Elle assure également un processus de référencement des produits performant et agile pour les vendeurs, augmentant ainsi le nombre d'articles vendus en direct et par des tiers.\nEn tant que membre de l'équipe Data de la plateforme, vous serez impliqué dans des initiatives liées à l'intelligence artificielle (IA) en rapport avec la plateforme. Vos principales responsabilités incluront :\nIndustrialiser les solutions IA développées en R& D \nConstruire et maintenir la plateforme de machine learning (ML)\nAssurer le fonctionnement des solutions ML\nCollaborer avec les Data Scientists et l'équipe Digital pour la construction et la maintenance des solutions IA.\nProfil candidat:\nUn Machine Learning (ML) Engineer est un spécialiste en informatique axé sur la recherche, la conception et la construction de systèmes d'intelligence artificielle (IA) autonomes destinés à automatiser les modèles prédictifs. Les ingénieurs en apprentissage automatique élaborent et créent des algorithmes d'IA capables d'apprendre et de faire des prédictions, définissant ainsi le domaine du machine learning.\nL'ingénieur en apprentissage automatique sera responsable de :\nCollaborer étroitement avec les data scientists pour identifier les opportunités d'impact business, exploiter les données pour quantifier les résultats et participer à la planification de la stratégie et de la feuille de route de ML pour l'équipe.\nContribuer à la production et à l'industrialisation de systèmes d'apprentissage automatique innovants de bout en bout.\nCréer des systèmes intelligents pour la surveillance et l'observabilité en temps réel des modèles de ML et des données.\nPartager les bonnes pratiques sur les outils de ML afin d'améliorer la productivité et la qualité des résultats pour les ingénieurs et les data scientists dans toute l'entreprise.\nCoacher, mentorer et recruter de nouveaux membres pour aider à augmenter l'efficacité et la croissance de l'équipe.\nSolides compétences en ingénierie logicielle.\nCapacité à écrire un code de qualité pour la production.\nAptitude avérée à choisir les méthodes de ML appropriées pour résoudre des problèmes dans les contraintes existantes, tout en gardant une vision claire des prochaines itérations et en équilibrant l'exploration et l'exploitation de différentes techniques.\nExpérience dans la mise en production de solutions de ML ayant un impact significatif sur les utilisateurs finaux.\nCompréhension du cycle de vie de l'ingénierie du ML.\nStack demandée : Python, SQL, Spark, Docker / Kubernetes, GIT\nVertexAI - Confirmé - Impératif\nGCP - Confirmé - Impératif\nZenML - Confirmé - Important\nDevOps - Expert - Important\nLivrables attendus : Cadrage initiative IA / POC / Modèle ML",
+        "title": "machine learning engineer",
+        "details": {
+            "TypeContract": "Profession",
+            "Salary": null,
+            "Level": null,
+            "Experience": "débutant accepté"
+        },
+        "skills": {
+            "ProgLanguage": [
+                "R",
+                "Python"
+            ],
+            "DataBase": [
+                "SQL"
+            ],
+            "DataAnalytics": [
+                "R"
+            ],
+            "BigData": [
+                "Spark"
+            ],
+            "CloudComputing": [
+                "GCP"
+            ],
+            "DevTools": [
+                "Git",
+                "Docker"
+            ],
+            "Automation": [
+                "Kubernetes"
+            ],
+            "Containers": [
+                "Docker",
+                "Kubernetes"
+            ],
+            "Other": [
+                "ML",
+                "Machine Learning",
+                "DevOps"
+            ],
+            "EnSoftSkils": [
+                "Initiative"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "company_data": {
+            "sector": null,
+            "company_size": null,
+            "adress": "VILLENEUVE D ASCQ 59",
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/9814425",
+        "company": null,
+        "location": "Villeneuve-d'Ascq",
+        "remote": null,
+        "publication_date": "2024-06-30",
+        "description": "Espace-Freelance, réseau de consultants indépendants, recherche pour l?un de ses clients directs : un Machine Learning Engineer (H/F)\nVotre mission :\nLes principales missions sont les suivantes :\n- Accompagner les Data Scientists sur toutes les parties techniquement complexes de leur projet (mise en production, entraînement avec gros volumes de data, ...)\n- Mettre à disposition des Data Scientists tous les outils technique permettant d'entraîner / réentraîner, de mettre en production des modèles de ML\nProfil candidat:\nVous avez des compétences en Data Science ainsi qu'une bonne maîtrise sur le build de pipeline ML.\nVous justifierez d'une expérience de mise en production / run de modèles de ML.\nEnvironnement technique :\n- Python (avec tensorflow) et SQL\n- Big Query, GCS, Data Flow, Vertex AI\n- Docker, Github, Github Actions\n- Datadog\n- DataScience \n- Cloud",
+        "title": "machine learning engineer",
+        "details": {
+            "TypeContract": "Profession",
+            "Salary": null,
+            "Level": null,
+            "Experience": "débutant accepté"
+        },
+        "skills": {
+            "ProgLanguage": [
+                "Python"
+            ],
+            "DataBase": [
+                "SQL"
+            ],
+            "MachineLearning": [
+                "TensorFlow"
+            ],
+            "DevTools": [
+                "Docker"
+            ],
+            "DBMS": [
+                "Big Query"
+            ],
+            "Containers": [
+                "Docker"
+            ],
+            "Other": [
+                "Machine Learning",
+                "Cloud",
+                "ML"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "company_data": {
+            "sector": null,
+            "company_size": null,
+            "adress": "LILLE 59",
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/9814340",
+        "company": null,
+        "location": "Lille",
+        "remote": null,
+        "publication_date": "2024-06-30",
+        "description": "Nous recherchons un(e) ML Engineer pour rejoindre une équipe dédiée aux MLOps au sein d'une entreprise renommée. Les missions de cette équipe sont :\nAccompagner les Data Scientists dans les aspects techniques complexes de leurs projets (mise en production, entraînement sur de gros volumes de données, etc.).\nFournir aux Data Scientists tous les outils techniques nécessaires pour entraîner, réentraîner et mettre en production des modèles de Machine Learning.\nL'ingénieur ML aura en charge de :\nCollaborer étroitement avec les data scientists pour identifier les opportunités d'impact business, exploiter les données pour quantifier les résultats et participer à la planification de la stratégie et de la feuille de route de ML pour l'équipe\nContribuer à la production et l'industrialisation des systèmes innovants d'apprentissage automatique de bout en bout\nCréer des systèmes intelligents de surveillance et d'observabilité en temps réel de la ML et des données\nContribuer au partage des bonnes pratiques sur les outils ML afin d'améliorer la productivité et la qualité des résultats pour les ingénieurs et les scientifiques de données ML dans toute l'entreprise\nCoacher, faire du mentorat et recruter d'autres membres pour aider à accroître l'efficacité et la croissance de l'équipe\nProfil candidat:\nLe(a) ML Engineer devra posséder des compétences en Data Science (compréhension des algorithmes de ML courants) et une bonne maîtrise de la construction de pipelines ML. Une expérience avérée dans la mise en production et l'exploitation de modèles de ML est indispensable.\nL'écosystème technologique comprend :\nPython (avec TensorFlow) et SQL\nBigQuery, GCS, Data Flow, Vertex AI\nDocker, GitHub, GitHub Actions\nDatadog",
+        "title": "machine learning engineer",
+        "details": {
+            "TypeContract": "Profession",
+            "Salary": null,
+            "Level": null,
+            "Experience": "débutant accepté"
+        },
+        "skills": {
+            "ProgLanguage": [
+                "Python"
+            ],
+            "DataBase": [
+                "SQL"
+            ],
+            "MachineLearning": [
+                "TensorFlow"
+            ],
+            "DevTools": [
+                "Docker"
+            ],
+            "DBMS": [
+                "BigQuery"
+            ],
+            "Containers": [
+                "Docker"
+            ],
+            "Other": [
+                "Machine Learning",
+                "ML"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "company_data": {
+            "sector": null,
+            "company_size": "Twenty One Talents",
+            "adress": "13",
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/9808585",
+        "company": "TWENTY ONE TALENTS ",
+        "location": "Bouches-du-Rhône",
+        "remote": null,
+        "publication_date": "2024-06-30",
+        "description": "L'entreprise est une start-up innovante qui occupe la 21ème place sur la prestigieuse liste des 1000 entreprises européennes à la croissance la plus rapide. Elle se positionne également comme la première entreprise française dans ce classement. Rejoindre l'entreprise signifie participer à plusieurs aspects :\nUn challenge collectif : Vous accompagnerez la croissance d'une start-up 100% digitale, ultra-dynamique, qui confirme ses positions chaque année. Elle opère sur un marché à fort potentiel : l'intérim, un secteur représentant 25 milliards d'euros en France. Avec plus de 5 ans d'expérience, 17 millions d'euros de fonds levés depuis sa création en 2015 et un chiffre d'affaires qui double chaque année (estimé à 100 millions d'euros en 2021), l'entreprise est en pleine expansion. \nUne aventure humaine : Au sein d'une équipe audacieuse, enthousiaste et positive, vous pourrez révéler votre personnalité. L'entreprise compte déjà plus de 110 personnes passionnées, réparties entre Aix-en-Provence, Paris, Bordeaux, Lyon et même en remote ! \nUne dynamique commerciale : l'entreprise travaille avec plus de 750 entreprises clientes, dont des grands groupes.\nUne mission résolument utile : En nous rejoignant , vous contribuerez au retour à l'emploi et donnerez une chance à ceux qui sont motivés ! Plus de 320 000 intérimaires bénéficient des services chez nous\nVos missions:\n- Vous travaillez en collaboration avec le Produit dans l'identification de sujets sur lesquels la data science peut avoir de l'impact au service du business et de la stratégie.\n- Vous modélisez les problèmes métiers puis construisez avec pragmatisme, déployez et maintenez les produits data science de bout en bout : scoring, matching, recommandation, sequence modelling, NLP, LLM.\n- Vous améliorez continuellement les produits data science existants comme notre algorithme de matching au service des recruteurs et des intérimaires ainsi que notre intelligence conversationnelle.\n- Vous mesurez l'impact de vos travaux et vous assurez la pérennité de la performance des modèles mis en production.\n- Vous améliorez continuellement l'efficacité et l'excellence de l'équipe de datascience. Vous êtes un élément moteur dans la vie de l'équipe : daily, upskilling, pair coding, partage de connaissance. Vous êtes un mentor et réalisez le coaching technique de 3 data scientists et les aider à monter en compétence techniquement et à gagner en ownership sur les projets data que vous avez initiés.\n- Vous avez une expérience professionnelle d'au moins 5 ans en tant que ML Engineer-Data Scientist. Vous avez un cursus BAC+5 ou ingénieur dans un de ces domaines: informatique, stats, mathématiques et/ou data science.\n- Vous avez une excellente maîtrise de Python et SQL et une expérience professionnelle sur des projets NLP.\n- Vous êtes familier avec le déploiement de solutions Data Science dans des infrastructures Cloud (type GCP, AWS, Azure ou autre). Vous savez travailler avec Gitlab, et une maîtrise de la CI/CD est un plus.\n- Vous êtes de nature entreprenante, vous savez porter des initiatives et être un réel moteur de la stratégie data.\n- Vous êtes capable de vulgariser des concepts complexes à des utilisateurs et de les expliquer avec humilité.\nCompétences techniques\nQuelle est notre stack technique DS ?\n- Language: Python (pandas, pytest, fast-api, pandera ...)\n- Infra / Cloud: Google Cloud Platform\n- Models: classification / regression with sklearn xgboost, transformers avec tensorflow / pytorch / sentence-transformers\n- Storage: PostgreSQL, BigQuery, Cloud Storage, InfluxDB, PubSub\n- ETL pipelines: DBT\n- Deploy: Docker, Kubernetes, Vertex Pipelines (Kubeflow), Cloud Run\n- CICD: Gitlab, ArgoCD\n- Libraries: Poetry (ex: custom feature store)\n- Monitoring: Grafana, APM\nNote importante aux candidats : Veuillez ne postuler que si vous remplissez toutes les qualifications essentielles et les compétences requises mentionnées dans cette annonce. Cela nous permettra de traiter les candidatures plus efficacement et de garantir que nous consacrons notre temps et notre attention aux candidats qui correspondent au profil recherché.\nVous aurez l'opportunité unique de travailler avec un groupe de passionnés pour une innovation continue qui révolutionne le marché de l'emploi avec un impact social concret et réel.\nCe que nous vous offrons :\n- Une rémunération attractive selon votre profil\n- Une politique de télétravail flexible (2 jours/semaine et plus de flexibilité ponctuellement)\n- La carte Swile (équivalent ticket resto) d'une valeur de 9€/jour pris en charge à 55% par l'entreprise\n- 6 semaines de Congés Payés\n- Une excellente mutuelle/prévoyance\n- Un forfait sport/culture/bien-être à 150€/an\n- Une prime vaca",
+        "title": "data engineer",
+        "details": {
+            "TypeContract": "CDI",
+            "Salary": "Salaire brut : Annuel de 70000,00 Euros à 80000,00 Euros",
+            "Level": null,
+            "Experience": "expérience exigée"
+        },
+        "skills": {
+            "ProgLanguage": [
+                "Python"
+            ],
+            "DataBase": [
+                "SQL"
+            ],
+            "DataAnalytics": [
+                "Pandas"
+            ],
+            "MachineLearning": [
+                "PyTorch",
+                "TensorFlow",
+                "XGBoost"
+            ],
+            "CloudComputing": [
+                "GCP",
+                "AWS",
+                "Google Cloud Platform",
+                "Azure"
+            ],
+            "DevTools": [
+                "Docker"
+            ],
+            "DBMS": [
+                "PostgreSQL",
+                "BigQuery"
+            ],
+            "Automation": [
+                "Kubernetes"
+            ],
+            "Containers": [
+                "Docker",
+                "Kubernetes"
+            ],
+            "Other": [
+                "Cloud",
+                "ML",
+                "CI/CD"
+            ],
+            "EnSoftSkils": [
+                "Collaboration"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "company_data": {
+            "sector": "Conseil en systèmes et logiciels informatiques",
+            "company_size": "Bienvenue chez Eviden, acteur clé du numérique de prochaine génération et leader mondial du cloud, du calcul avancé et de la sécurité !",
+            "adress": "78",
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/9709599",
+        "company": "EVIDEN ",
+        "location": "Yvelines",
+        "remote": null,
+        "publication_date": "2024-06-28",
+        "description": "POSTE : Machine Learning Engineer Hpc H/F\nDESCRIPTION : Eviden opère dans tous les secteurs d'activité, et fait rayonner son expertise sur l'ensemble du continuum numérique.\n\nNous rejoindre, c'est à la fois une opportunité exaltante de contribuer au futur de la tech et d'agir pour le bien commun, tout en bénéficiant d'un environnement équitable et inclusif, entouré d'experts de haut niveau !\n\nAujourd'hui, et pour les générations à venir, ouvrons le champ des possibles.\n\nVous êtes curieux, inventif et audacieux ? Rejoignez la #TeamEviden !\n\nAu sein d'Atos BDS, la Business Line Advanced Computing est responsable des lignes de produits HPC/AI/Quantum et Business computing.\n\nL'organisation Portfolio & Solutions est responsable des gammes de produits HPC/AI/Quantum, avec des groupes de chefs de produits matériels et logiciels, d'ingénierie produits et performances et de responsables du cycle de vie des produits.\n\nPour soutenir notre croissance dans le domaine de l'IA et du LLM, nous recherchons un ingénieur en apprentissage automatique - Model Serving (MLEMS) pour concevoir notre pile matérielle + logicielle AI Serving, le MLEMS sera responsable de :\n\n-  Participer à la sélection de partenaires logiciels et d'outils open source pour le service IA, avec un accent initial sur le service LLM sur GPU. Puis extension à d'autres domaines d'IA et au matériel de service d'IA (CPU, autres).\n\n-  Intégrer de manière optimale des produits internes, des partenaires logiciels ou des outils open source d'inférence IA, et notamment d'inférence LLM sur nos serveurs matériels. Cela peut inclure, sans s'y limiter, l'écosystème de bibliothèques Huggingface, KServe, Triton, DeepSpeed, OpenLLM, RayServe, vLLM, TGI, ainsi que des solutions axées sur les cas d'utilisation (par exemple, résumé de texte, chatbots de connaissances).\n\n-  Concevoir et configurer des logiciels d'inférence optimisés + des piles matérielles pour les LLM pour GPU et CPU, en tenant compte des performances, du prix et de la consommation d'énergie en étroite relation avec l'équipe de benchmark.\n\nPour cela vous aurez accès à notre portefeuille matériel comprenant des technologies Nvidia, AMD et Intel et autres ainsi que des technologies internes innovantes (refroidissement, interconnexions, etc).\n\n-  Lire et appliquer les idées discutées dans les documents de recherche dans ce domaine, en sélectionnant et en testant des partenaires logiciels et matériels appropriés en exploitant ces idées dans leur pile.\n\nQualifications requises :\n\n-  Anglais courant et volonté d'évoluer dans un contexte international.\n\n-  Expérience pratique dans le déploiement et la surveillance de l'apprentissage automatique (MLOPS) avec preuve de réussite de projets dans l'industrie ou le milieu universitaire à l'aide de frameworks tels que PyTorch ou TensorFlow.\n\n-  Compréhension des transformateurs, LLM ou autres types de modèles de fondation, notamment les modèles open source comme Llama2, Mixtral ou Zephyr.\n\nQualifications souhaitable :\n\n-     MS. ou un doctorat. en informatique ou dans un domaine connexe ou une vaste expérience professionnelle pertinente.\n\n-  Expérience dans le déploiement de LLM avec des techniques telles que le parallélisme de modèles, les mécanismes de mise en cache de l'attention, la quantification, le traitement par lots continu, le décodage spéculatif ou la compression.\n\n-  Expérience dans les frameworks traitant de l'inférence LLM (par exemple, Triton, DeepSpeed, OpenLLM, RayServe, vLLM, TGI, etc.).\n\n-  Intérêt démontré pour le suivi et la gouvernance des LLM.\n\n-  Compétences en matière d'analyse des performances des systèmes et d'analyse comparative.\n\nLe MLEMS relèvera directement du vice-président de l'organisation Portfolio & Solutions et en relation étroite avec les chefs de produits et les parties prenantes R&D.\n\nLieu de travail : France (les Clayes) de préférence ou France.\n\n#LI-OM1\n\nFaire partie des pionniers d'Eviden, ça vous dit?\n\nC'est justement cette audace et cette curiosité qu'on recherche chez nos talents pour grandir ensemble, transformer des possibilités en réalité pour nos clients et façonner le futur de la Tech et de la société.\n\nChez Eviden, diversité, équité et inclusion sont au coeur de notre politique RH. Nos métiers sont tous ouverts aux personnes en situation de handicap et ce, quelle que soit la nature de celui-ci. Grâce à nos programmes qui soutiennent toutes les diversités, nos collaborateurs et collaboratrices sont pleinement impliqués pour faire vivre cette culture de l'inclusion.\n\nRejoignez notre communauté !\nPROFIL :",
+        "title": "machine learning engineer",
+        "details": {
+            "TypeContract": "CDI",
+            "Salary": null,
+            "Level": null,
+            "Experience": "expérience exigée"
+        },
+        "skills": {
+            "ProgLanguage": [
+                "R"
+            ],
+            "DataAnalytics": [
+                "R"
+            ],
+            "MachineLearning": [
+                "PyTorch",
+                "TensorFlow"
+            ],
+            "Other": [
+                "Machine Learning"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "company_data": {
+            "sector": "Gestion de fonds",
+            "company_size": "Le groupe mutualiste Covéa est un leader européen de l'assurance et de la réassurance. Covéa est un acteur financier solide et dynamique, premier assureur de biens et responsabilité en France à travers ses trois marques MAAF, MMA, GMF et 10ème réassureur mondial avec la marque PartnerRe.",
+            "adress": "75",
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/8679282",
+        "company": "GROUPE COVÉA ",
+        "location": "Paris",
+        "remote": null,
+        "publication_date": "2024-06-10",
+        "description": "POSTE : Data Scientist - Machine Learning Engineer H/F\nDESCRIPTION : Data Scientist / Machine Learning Engineer F/H\n\n« La DSI Covéa est riche de 1800 collaborateurs (sur les sites de Niort, Le Mans, Chartres, Saran, Paris Montparnasse, Saint Lazare et Levallois) que je souhaite voir grandir dans un esprit de proximité, de modernité et de plaisir. Rejoignez nos équipes pour répondre à l'ambition de Covéa, de ses métiers (assurance IARD, Vie, Santé, Prévoyance, Protection Juridique, Assistance) et de ses marques (MAAF, MMA et GMF). La DSI reste au coeur des opérations et de la transformation au travers d'un SI doté de capacités digitales, data et d'intelligence artificielle et d'une ambition d'excellence opérationnelle et industrielle (cloud native) » (Philippe CUVELIER - DSI COVEA)\nRejoignez la DSIN COVEA et plus précisément son entité « TSI Solutions Smart IA » en tant que Data Scientist / Machine learning engineer F/H en charge de la modélisation et/ou la mise au point des algorithmes d'IA, au sein de l'équipe Produit IA Le Mans / Paris.\nLe poste est basé au Mans ou Paris, déplacements ponctuels à prévoir sur Le Mans/Niort.\nVotre mission ?\nVous travaillez en proximité du Product Owner de l'équipe produit « Document Intelligent », vous mettez au point des modèles de reconnaissance et lecture de document (LAD/RAD), soit en utilisant des services cognitifs Azure Vision (déjà pré-entrainés), ou à partir de modèles custom que vous entrainez vous-même.\nVous participez également à la mise en oeuvre de solutions de RAG (Retrieval-Augmented Generation) : composants de recherche de documents et de contenu, couplé avec l'IA générative permettant d'augmenter nos métiers du conseil juridique, de la souscription, de l'indemnisation ou du contrôle par exemple.\nVous vous appuyez sur votre polyvalence et votre capacité d'adaptation pour composer et proposer la meilleure réponse pour répondre aux cas d'usages en cherchant à maximiser la valeur générée par le produit.\n\nVous êtes capable d'animer une campagne d'annotation en collaboration avec les experts métier.\nEncore une hésitation sur les atouts de ce poste ?\n2 bonnes raisons de nous rejoindre :\nRaison #1 : Vous évoluerez au sein d'une direction ambitieuse dont l'enjeu principal est de mettre à disposition des accélérateurs à base d'Intelligence Artificielle pour tout le groupe COVEA France, pour générer de valeur.\nRaison #2 : Vous pourrez participer à la construction de produits IA variés, opérationnels, développés par une équipe constituée de Product Owner, Scrum Master, Data Engineer, Dataops Engineer et Machine Learning Engineer, et à destination de toutes les directions métiers et marque du Groupe COVEA.\nPackage salarial :\n-  Salaire fixe + primes intéressement et participation attractives\n-  PEE et PERE Collectif avec abondement\n-  Forfait jours 200 jours travaillés (environ 10, 5 semaines de congés + possibilité de les placer sur CET/CETR et d'en monétiser une partie)\n-  Télétravail possible (jusqu'à 90 jours/an) + indemnités de télétravail + carte Titres-restaurant\n-  Mutuelle avantageuse + régime sur complémentaire santé (prise en charge employeur 60%) + avantages CE\n-  Bénéfice du forfait « mobilité durable » permettant la prise en charge d'une partie des frais de déplacements réalisés en covoiturage, vélo, trottinette ou auto-partage. Prise en charge à hauteur de 75% d'un titre d'abonnement aux transports publics\n-  Tarifs préférentiels sur les contrats d'assurance\nEnvironnement de travail :\n-  Nos sites situés dans la région parisienne sont facilement accessibles en transport en commun et ceux situés en région bénéficient de parkings sécurisés + bornes de recharge électrique\n-  Installations mobilités « douces » (vélo, trottinette)\n-  Espaces de détente, de convivialité (terrasse ou extérieur) et de co-working\n-  Restaurant d'entreprise\n\nEt si c'était vous ?\n-  De formation supérieure Bac +5 dans un domaine quantitatif : mathématiques, statistiques, ingénieur, etc.\n-   Vous avez acquis au moins 4/5 ans d'expériences en Data Science et avez travaillé sur des projets typés \"vision\"\n-   Vous maîtrisez les méthodes statistiques et leurs applications opérationnelles, ainsi que l'un des principaux outils statistiques du marché Python, R, SAS ou Spark.\n-   Une bonne maîtrise des bibliothèques du Machine Learning et du Deep Learning.\n-   Une connaissance de la gestion des bases de données relationnelles et no SQL.\n-   Vous avez déjà travaillé sur une plateforme Cloud comme Microsoft Azure.\n-   Vous avez déjà évolué et développer au sein d'un cadre industriel (CI/CD).\n-   Qualités indispensables d'analyse, de synthèse, de rigueur et de ténacité",
+        "title": "data engineer",
+        "details": {
+            "TypeContract": "CDI",
+            "Salary": null,
+            "Level": null,
+            "Experience": "expérience exigée"
+        },
+        "skills": {
+            "ProgLanguage": [
+                "R",
+                "Python"
+            ],
+            "DataBase": [
+                "SQL"
+            ],
+            "DataAnalytics": [
+                "R"
+            ],
+            "BigData": [
+                "Spark"
+            ],
+            "CloudComputing": [
+                "Azure"
+            ],
+            "Other": [
+                "Statistiques",
+                "Machine Learning",
+                "Cloud",
+                "CI/CD"
+            ],
+            "EnSoftSkils": [
+                "Collaboration"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "company_data": {
+            "sector": "Formation continue d'adultes",
+            "company_size": "DSTI - School of Engineering s'est donnée pour mission première de former des spécialistes en Informatique, Cloud et Intelligence Artificielle.\n\nDepuis 2015, DSTI a formé + de 1000 étudiants sur les métiers de la donnée (Data Analyst/Data Engineer/Data Scientist), en offrant les programmes les plus intensifs du marché et les plus reconnus sur le marché de l'emploi.\n\nPres de 2/3 des candidats ont trouvé une alternance grâce au réseau de l'école et de nos parte...",
+            "adress": "33",
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/4968778",
+        "company": "DATA SCIENCETECH INSTITUTE ",
+        "location": "Gironde",
+        "remote": null,
+        "publication_date": "2024-06-01",
+        "description": "POSTE : Machine Learning Engineer en Alternance H/F\nDESCRIPTION : L'alternance à DSTI est une passerelle vers l'excellence, offrant une formation de haut niveau sans coût pour l'étudiant, et mariant habilement pratique et théorie pour une immersion réussie dans le monde professionnel.\n\n-  Description du poste :\n\nNous sommes à la recherche d'ALTERNANT.ES (H/F) qui souhaitent intégrer nos Applied MSc pour rejoindre l'une de nos 300 entreprises partenaires dans le secteur industriel et tertiaire, pour la rentrée de Mars 2024 et Septembre 2024.\n\nVoici quelques exemples de missions proposées en entreprise :\n\n-  Alimentation de systèmes de Data Warehouse.\n-  Développement de bases de données multidimensionnelles.\n-  Industrialisation d'algorithmes d'IA\n-  Pipelines de données : développement de scripts ETL (Extract-transform-load) dans des environnements Big Data.\n-  Identifier les problématiques business et proposer des pistes de modélisation.\n-  Proposer des solutions d'extraction et d'exploitation des données.\n-  Créer des tableaux de bords (Data Visualisation)\n-  Exploiter des modèles de données (Data model), gérer et alimenter des bases de données.\n\nLa formation est entièrement prise en charge par l'entreprise d'accueil dans le cadre d'un contrat d'apprentissage ou contrat de professionnalisation. Vous serez rémunéré à un pourcentage du barème légal en fonction de votre âge.\n\nAprès une expérience d'un an en entreprise, vous obtiendrez le titre « Expert en Science des Données », titre enregistré au RNCP de niveau 7 (niveau Master).\nPROFIL : Vous êtes titulaire d'un Bac +4/Bac +5  Bac +3 possible pour le programme en Data Analytics) ou de plusieurs années d'expériences professionnelles dans le domaine visé ? Vous recherchez une spécialisation reconnue avant d'entrer sur le marché du travail ?\n\nLa sélection s'appuie sur plusieurs éléments : Analyse du dossier, vérification des prérequis, examen en ligne, entretien et commission de sélection.",
+        "title": "machine learning engineer",
+        "details": {
+            "TypeContract": "CDD",
+            "Salary": null,
+            "Level": null,
+            "Experience": "expérience exigée"
+        },
+        "skills": {
+            "Other": [
+                "Machine Learning",
+                "Big Data"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "company_data": {
+            "sector": "Formation continue d'adultes",
+            "company_size": null,
+            "adress": "69",
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/4968225",
+        "company": "DATA SCIENCETECH INSTITUTE ",
+        "location": "Rhône",
+        "remote": null,
+        "publication_date": "2024-06-01",
+        "description": "POSTE : Machine Learning Engineer en Alternance H/F\nDESCRIPTION : Data ScienceTech Institute (DSTI), 1ère école supérieure d'application à la Data Science, l'IA et du Big Data en France, lance le parcours en alternance à partir de la prochaine rentrée prévue en Septembre 2023 pour intégrer les formations Applied MSc in Data Analytics, Applied MSc in Data Science and Artificial Intelligence ou Applied MSc in Data Engineering for Artificial Intelligence, enregistrées au RNCP de niveau 7 (équivalent Bac +5). Deux modes d'études possibles : en présentiel sur nos campus de Sophia-Antipolis et Paris, ou en ligne sur tout le territoire national.\n-  Description du poste :\n\nNous sommes à la recherche d'ALTERNANT.ES (H/F) qui souhaitent intégrer nos formation pour rejoindre l'une de nos 300 entreprises partenaires dans le secteur industriel et tertiaire, pour la rentrée de Septembre 2023.\n\nNous vous proposons un programme d'intégration et d'apprentissage sur un métier d'avenir qui connaît déjà une une demande croissante. Vous alternerez entre périodes en entreprise et périodes en formation avec un suivi pédagogique et un accompagnement personnalisé.\n\nVoici quelques exemples de missions proposées en entreprise :\n-  Alimentation de systèmes de Data Warehouse.\n-  Développement de bases de données multidimensionnelles.\n-  Industrialisation d'algorithmes d'IA\n-  Pipelines de données : développement de scripts ETL (Extract-transform-load) dans des environnements Big Data.\n-  Identifier les problématiques business et proposer des pistes de modélisation.\n-  Proposer des solutions d'extraction et d'exploitation des données.\n-  Créer des tableaux de bords (Data Visualisation)\n-  Exploiter des modèles de données (Data model), gérer et alimenter des bases de données.\n\nLa formation est entièrement prise en charge par l'entreprise d'accueil dans le cadre d'un contrat d'apprentissage ou contrat de professionnalisation. Vous serez rémunéré à un pourcentage du barème légal en fonction de votre âge.\n\nAprès une expérience d'un an en entreprise, vous obtiendrez le titre « Expert en Science des Données », titre enregistré au RNCP de niveau 7 (niveau Master).\n\nVous êtes titulaire d'un Bac +4/Bac +5 (Bac +3 possible pour le programme en Data Analytics) ou de plusieurs années d'expériences professionnelles dans le domaine visé ? Vous recherchez une spécialisation reconnue avant d'entrer sur le marché du travail ?\n\nLa sélection s'appuie sur plusieurs éléments : Analyse du dossier, vérification des prérequis, examen en ligne, entretien et commission de sélection.\nPROFIL :",
+        "title": "machine learning engineer",
+        "details": {
+            "TypeContract": "CDD",
+            "Salary": null,
+            "Level": null,
+            "Experience": "débutant accepté"
+        },
+        "skills": {
+            "Other": [
+                "Machine Learning",
+                "Big Data"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "company_data": {
+            "sector": null,
+            "company_size": null,
+            "adress": null,
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/2920625",
+        "company": null,
+        "location": null,
+        "remote": null,
+        "publication_date": "2024-06-01",
+        "description": "QUI SOMMES-NOUS ?Thales Digital Factory s'inscrit dans le programme de transformation de Thales qui a pour ambition de devenir un acteur incontournable et exemplaire du digital, et ce dans l'ensemble de ses marchés.  Notre mission consiste à accélérer la transition numérique du Groupe Thales en s'aventurant dans de nouveaux modes de travail et de décision. Notre stratégie s'articule autour de 6 valeurs : Responsabilisation, Orientée sur la donnée, Centrée sur l'utilisateur, Collaboration, Amélioration continue et Culture de l'échec. Nos bureaux se répartissent de Paris à Singapour en passant par Montréal au coeur d'écosystèmes innovants. Thales Digital Factory se distingue également grâce à son incubateur qui accompagne des start-ups internes et externes, ses plateformes digitales, son centre d'excellence Cloud et le développement de MVP, porteurs d'innovation pour l'offre digitale du Groupe et de nos clients.Le Data Studio : L'équipe du Data Studio contribue projet après projet à la transformation Data & IA de tout Thales.En relation avec toutes les entités business et fonctions de Thales, cette équipe développe et industrialise des solutions embarquant du machine learning, pour tout type de cas d'usage, d'utilisateurs et d'environnements technologiques. L'équipe intervient pendant tout le cycle de vie du projet, incluant également la qualification des opportunités à travers l'axe technique et le potentiel de valeur associé.",
+        "title": "machine learning engineer",
+        "details": {
+            "TypeContract": "CDI",
+            "Salary": null,
+            "Level": null,
+            "Experience": "débutant accepté"
+        },
+        "skills": {
+            "Other": [
+                "Machine Learning",
+                "Cloud"
+            ],
+            "EnSoftSkils": [
+                "Collaboration"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "company_data": {
+            "sector": "Conseil pour les affaires et autres conseils de gestion",
+            "company_size": "Twenty One Talents",
+            "adress": "13",
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/2539598",
+        "company": "TWENTY ONE TALENTS ",
+        "location": "Bouches-du-Rhône",
+        "remote": null,
+        "publication_date": "2024-06-01",
+        "description": "POSTE : Lead Machine Learning Engineer Datascientist d'Exp Mini H/F\nDESCRIPTION : L'entreprise est une start-up innovante qui occupe la 21ème place sur la prestigieuse liste des 1000 entreprises européennes à la croissance la plus rapide. Elle se positionne également comme la première entreprise française dans ce classement. Rejoindre l'entreprise signifie participer à plusieurs aspects :\n\nUn challenge collectif : Vous accompagnerez la croissance d'une start-up 100% digitale, ultra-dynamique, qui confirme ses positions chaque année. Elle opère sur un marché à fort potentiel : l'intérim, un secteur représentant 25 milliards d'Euros en France. Avec plus de 5 ans d'expérience, 17 millions d'Euros de fonds levés depuis sa création en 2015 et un chiffre d'affaires qui double chaque année (estimé à 100 millions d'Euros en 2021), l'entreprise est en pleine expansion.\n\nUne aventure humaine : Au sein d'une équipe audacieuse, enthousiaste et positive, vous pourrez révéler votre personnalité. L'entreprise compte déjà plus de 110 personnes passionnées, réparties entre Aix-en-Provence, Paris, Bordeaux, Lyon et même en remote !\n\nUne dynamique commerciale : l'entreprise travaille avec plus de 750 entreprises clientes, dont des grands groupes.\n\nUne mission résolument utile : En nous rejoignant, vous contribuerez au retour à l'emploi et donnerez une chance à ceux qui sont motivés ! Plus de 320 000 intérimaires bénéficient des services chez nous\n\nVos missions :\n-  Vous travaillez en collaboration avec le Produit dans l'identification de sujets sur lesquels la data science peut avoir de l'impact au service du business et de la stratégie.\n-  Vous modélisez les problèmes métiers puis construisez avec pragmatisme, déployez et maintenez les produits data science de bout en bout : scoring, matching, recommandation, sequence modelling, NLP, LLM.\n-  Vous améliorez continuellement les produits data science existants comme notre algorithme de matching au service des recruteurs et des intérimaires ainsi que notre intelligence conversationnelle.\n-  Vous mesurez l'impact de vos travaux et vous assurez la pérennité de la performance des modèles mis en production.\n-  Vous améliorez continuellement l'efficacité et l'excellence de l'équipe de datascience. Vous êtes un élément moteur dans la vie de l'équipe : daily, upskilling, pair coding, partage de connaissance. Vous êtes un mentor et réalisez le coaching technique de 3 data scientists et les aider à monter en compétence techniquement et à gagner en ownership sur les projets data que vous avez initiés.\nPROFIL : -   Vous avez une expérience professionnelle d'au moins 5 ans en tant que ML Engineer-Data Scientist. Vous avez un cursus Bac +5 ou ingénieur dans un de ces domaines : informatique, stats, mathématiques et/ou data science.\n-   Vous avez une excellente maîtrise de Python et SQL et une expérience professionnelle sur des projets NLP.\n-   Vous êtes familier avec le déploiement de solutions Data Science dans des infrastructures Cloud (type GCP, AWS, Azure ou autre). Vous savez travailler avec Gitlab, et une maîtrise de la CI/CD est un plus.\n-   Vous êtes de nature entreprenante, vous savez porter des initiatives et être un réel moteur de la stratégie data.\n-   Vous êtes capable de vulgariser des concepts complexes à des utilisateurs et de les expliquer avec humilité.\n\nCompétences techniques\n\nQuelle est notre stack technique DS ?\n-   Language : Python (pandas, pytest, fast-api, pandera)\n-   Infra / Cloud : Google Cloud Platform\n-   Models : classification / regression with sklearn xgboost, transformers avec tensorflow / pytorch / sentence-transformers\n-   Storage : PostgreSQL, BigQuery, Cloud Storage, InfluxDB, PubSub\n-   ETL pipelines : DBT\n-   Deploy : Docker, Kubernetes, Vertex Pipelines (Kubeflow), Cloud Run\n-   CICD : Gitlab, ArgoCD\n-   Libraries : Poetry (ex : custom feature store)\n-   Monitoring : Grafana, APM\n\nNote importante aux candidats : Veuillez ne postuler que si vous remplissez toutes les qualifications essentielles et les compétences requises mentionnées dans cette annonce. Cela nous permettra de traiter les candidatures plus efficacement et de garantir que nous consacrons notre temps et notre attention aux candidats qui correspondent au profil recherché.",
+        "title": "data engineer",
+        "details": {
+            "TypeContract": "CDI",
+            "Salary": "Salaire brut : Annuel de 70000,00 Euros à 80000,00 Euros",
+            "Level": null,
+            "Experience": "expérience exigée"
+        },
+        "skills": {
+            "ProgLanguage": [
+                "Python"
+            ],
+            "DataBase": [
+                "SQL"
+            ],
+            "DataAnalytics": [
+                "Pandas"
+            ],
+            "MachineLearning": [
+                "PyTorch",
+                "TensorFlow",
+                "XGBoost"
+            ],
+            "CloudComputing": [
+                "GCP",
+                "AWS",
+                "Google Cloud Platform",
+                "Azure"
+            ],
+            "DevTools": [
+                "Docker"
+            ],
+            "DBMS": [
+                "PostgreSQL",
+                "BigQuery"
+            ],
+            "Automation": [
+                "Kubernetes"
+            ],
+            "Containers": [
+                "Docker",
+                "Kubernetes"
+            ],
+            "Other": [
+                "Machine Learning",
+                "Cloud",
+                "ML",
+                "CI/CD"
+            ],
+            "EnSoftSkils": [
+                "Collaboration"
+            ]
+        }
+    }
+]

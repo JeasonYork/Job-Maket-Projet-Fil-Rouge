@@ -1,3 +1,63 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7bc7d6deec828605e2a9b448bd7130a6b804460a76c3305712990a33af52da4d
-size 7441
+[
+    {
+        "source": "France Travail",
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/2873349",
+        "title": "Architecte Solution H/F",
+        "company": null,
+        "location": "LOIRE ATLANTIQUE 44",
+        "remote": null,
+        "publication_date": "2024-08-25",
+        "details": {
+            "TypeContract": "CDI",
+            "Salary": null,
+            "Experience": "Débutant accepté",
+            "Level": null
+        },
+        "company_data": {
+            "sector": null,
+            "company_size": "Cabinet de recrutement spécialisé sur les secteurs électronique, informatique, web et mobile",
+            "turnover_in_millions": null
+        },
+        "description": "Je suis Thomas, consultant en recrutement chez Externatic. Je vous propose aujourd'hui de découvrir l'offre ci-dessous et d'échanger ensemble : plutôt en visio ? Ou autour d'un verre ? Je serai ravi de vous accompagner et de vous présenter ce job plus en détail !L'entreprise :Cette ETI de 800 personnes du secteur de la Fintech développe une solution de paiement utilisée par plus de 3,5 millions de personnes, offrant la possibilité d'ouvrir un compte courant, rapidement, sans découvert. Elle vous permet de participer au renouveau des Fintech en intégrant un acteur responsable et tourné vers l'inclusion des personnesVous participez à la croissance d'une Fintech en plein développement en France et à l'international.Le PosteAu sein de la cellule d'architecture, vous avez pour objectif de :Créer, présenter et mettre en œuvre ces solutions techniques innovantes de remplacement ou d'amélioration des systèmes existants en cohérences avec la trajectoire du SI ;Accompagner les projets métiers et/ou IT pour définir des architectures pertinentes ;Définir, améliorer et déployer le cadre d'architecture : processus, gouvernance, standards, exigences en cohérence avec le cadre de l'entreprise ;Diffuser les informations sur les détails des solutions choisies ;Fiabiliser et maintenir le référentiel d'architecture et sa documentation.Environnement :Technologies / Solutions : API Microservices, Event-driven, Cloud Computing, Data, ETL, APIM/CIAM/IDPArchiMate / UMLAbacus, Mega, etcTOGAFOutils de facilitation : Jira, Confluence"
+    }
+, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2834654",
+    "title": "Architecte Applicatif Solution Circulation (H/F)",
+    "company": "SNCF ",
+    "location": "93",
+    "remote": null,
+    "publication_date": "2024-08-24",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": null,
+        "Experience": "Expérience exigée de 5 An(s)",
+        "Level": null
+    },
+    "company_data": {
+        "sector": null,
+        "company_size": null,
+        "turnover_in_millions": null
+    },
+    "description": "En tant qu'architecte Applicatif Solution Circulation vous Maîtriser l'architecture applicative du projet informatique, et accompagner le chef de projet sur la partie technique , vous devez aussi : Comprendre les concepts métier et les principes techniques de l'applicationParticiper aux ateliers technico-fonctionnelsDéfinir les exigences techniques (de type architecture, performance, qualité du code, ...) d'une versionRelire et challenger les estimations de charge et le planning de réalisation du CDS développementChallenger les solutions proposées par le CDS en réponse aux exigences non fonctionnellesAvoir une relecture critique des livrables des prestataires (Etude préalable, Spécifications techniques, Stratégie de recette technique, mode opératoire, fiche d'astreinte, chronologie...).Réaliser la recette technique d'une version et valider le respect des exigences techniques (notamment sur l'aspect performance)Effectuer si besoin les installations de la version sur les différents environnements (de la recette à la production), notamment en utilisant les outils de l'usine logicielle via des déploiements automatisésTravailler avec l'architecte technique pour définir les besoins d'évolution de l'architecture existanteVeiller à l'intégration des nouveaux composants dans eUL et monter en compétence sur la phase déploiementTravailler avec les équipes système sur les problématiques d'exploitation de l'applicationValider la mise en exploitation de l'applicationPiloter le suivi de ProductionCoordonner les acteurs impliqués sur le projet (Prestataires, équipes SI transverses, équipes SNCF connexes).Analyser les anomalies constatées sur les différents environnements (TEST, PPROD, PROD) et être force de proposition concernant leur résolution.Réaliser un reporting fluide et de bon niveau aux RDA BREHAT et BREHAT2 et au responsable du pôle technique."
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2822976",
+    "title": "architecte informatique solution .NET Front end - Finance (Asset Management/CIB) (IT) / Freelance (H/F)",
+    "company": null,
+    "location": null,
+    "remote": null,
+    "publication_date": "2024-08-24",
+    "details": {
+        "TypeContract": "Profession",
+        "Salary": null,
+        "Experience": "Débutant accepté",
+        "Level": null
+    },
+    "company_data": {
+        "sector": null,
+        "company_size": null,
+        "turnover_in_millions": null
+    },
+    "description": "Nous recherchons pour notre client du secteur bancaire un Architecte solution. Vous interviendrez dans une équipe projet dédiées aux métiers des contrôles permanents (conformité, contrôle interne, sécurité des SI) et des risques (marché, crédit, opérationnels, etc...)\nVos missions:\ndéfinir et piloter l'architecture des application\nmaintenir et faire évoluer la cartographie applicative, flux de données échangées au sein du SI\nSuivre les indicateurs de qualité et performance pour optimiser les solutions architecturales\ndéfinir les standards (optimisation du code)\nveille technologique et étude d'impact pour l'intégration de nouvelles technologies ou solutions;\nPré-requis :\nBac+5 école d'ingénieur\nVous avez plus de 9 ans d'expérience en tant qu'Architecte solution sur un poste similaire chez un Asset manager (gestion d'actifs) ou une banque d'investissement (CIB)\nVous avez des connaissance approfondies sur les métiers risques (marchés, crédit, opérationnels, etc...)\nVous êtes AGILE\nAnglais courant obligatoire (équipes basée à l'étranger)\nStack technique:\nNiveau Expert : Algorithmique/ Optimisation du code; Développement C#, WEB(, MVC, Angular, NodeJS), webservices (API/SOAP), Base de données, requêtes SQL) SVN, GIT\nNiveau confirmé: ETL SSIS, TDD, BDD\nNiveau Notion : VBA et Control M\nProfil candidat:\nBac+5 école d'ingénieur\nVous avez plus de 9 ans d'expérience en tant qu'Architecte solution sur un poste similaire chez un Asset manager (gestion d'actifs) ou une banque d'investissement (CIB)\nVous avez des connaissance approfondies sur les métiers risques (marchés, crédit, opérationnels, etc...)\nVous êtes AGILE\nAnglais courant obligatoire (équipes basée à l'étranger)\nStack technique:\nNiveau Expert : Algorithmique/ Optimisation du code; Développement C#, WEB(, MVC, Angular, NodeJS), webservices (API/SOAP), Base de données, requêtes SQL) SVN, GIT\nNiveau confirmé: ETL SSIS, TDD, BDD\nNiveau Notion : VBA et Control M"
+}]

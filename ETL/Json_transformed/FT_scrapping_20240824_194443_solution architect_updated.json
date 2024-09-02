@@ -1,3 +1,176 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1dc99e81332ec0f24acb5a046331741de7abe9c85e2defb5f439b1682660b212
-size 20212
+[
+    {
+        "source": "France Travail",
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/2834654",
+        "company": "SNCF ",
+        "location": "Seine-Saint-Denis",
+        "remote": null,
+        "publication_date": "2024-08-24",
+        "details": {
+            "TypeContract": "CDI",
+            "Salary": null,
+            "Experience": "5 an(s)",
+            "Level": null
+        },
+        "company_data": {
+            "sector": null,
+            "company_size": null,
+            "turnover_in_millions": null
+        },
+        "description": "En tant qu'architecte Applicatif Solution Circulation vous Maîtriser l'architecture applicative du projet informatique, et accompagner le chef de projet sur la partie technique , vous devez aussi : Comprendre les concepts métier et les principes techniques de l'applicationParticiper aux ateliers technico-fonctionnelsDéfinir les exigences techniques (de type architecture, performance, qualité du code, ...) d'une versionRelire et challenger les estimations de charge et le planning de réalisation du CDS développementChallenger les solutions proposées par le CDS en réponse aux exigences non fonctionnellesAvoir une relecture critique des livrables des prestataires (Etude préalable, Spécifications techniques, Stratégie de recette technique, mode opératoire, fiche d'astreinte, chronologie...).Réaliser la recette technique d'une version et valider le respect des exigences techniques (notamment sur l'aspect performance)Effectuer si besoin les installations de la version sur les différents environnements (de la recette à la production), notamment en utilisant les outils de l'usine logicielle via des déploiements automatisésTravailler avec l'architecte technique pour définir les besoins d'évolution de l'architecture existanteVeiller à l'intégration des nouveaux composants dans eUL et monter en compétence sur la phase déploiementTravailler avec les équipes système sur les problématiques d'exploitation de l'applicationValider la mise en exploitation de l'applicationPiloter le suivi de ProductionCoordonner les acteurs impliqués sur le projet (Prestataires, équipes SI transverses, équipes SNCF connexes).Analyser les anomalies constatées sur les différents environnements (TEST, PPROD, PROD) et être force de proposition concernant leur résolution.Réaliser un reporting fluide et de bon niveau aux RDA BREHAT et BREHAT2 et au responsable du pôle technique.",
+        "title": "data architect",
+        "skills": {
+            "Automation": [
+                "Chef"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/2822976",
+        "company": null,
+        "location": null,
+        "remote": null,
+        "publication_date": "2024-08-24",
+        "details": {
+            "TypeContract": "Profession",
+            "Salary": null,
+            "Experience": "débutant accepté",
+            "Level": null
+        },
+        "company_data": {
+            "sector": null,
+            "company_size": null,
+            "turnover_in_millions": null
+        },
+        "description": "Nous recherchons pour notre client du secteur bancaire un Architecte solution. Vous interviendrez dans une équipe projet dédiées aux métiers des contrôles permanents (conformité, contrôle interne, sécurité des SI) et des risques (marché, crédit, opérationnels, etc...)\nVos missions:\ndéfinir et piloter l'architecture des application\nmaintenir et faire évoluer la cartographie applicative, flux de données échangées au sein du SI\nSuivre les indicateurs de qualité et performance pour optimiser les solutions architecturales\ndéfinir les standards (optimisation du code)\nveille technologique et étude d'impact pour l'intégration de nouvelles technologies ou solutions;\nPré-requis :\nBac+5 école d'ingénieur\nVous avez plus de 9 ans d'expérience en tant qu'Architecte solution sur un poste similaire chez un Asset manager (gestion d'actifs) ou une banque d'investissement (CIB)\nVous avez des connaissance approfondies sur les métiers risques (marchés, crédit, opérationnels, etc...)\nVous êtes AGILE\nAnglais courant obligatoire (équipes basée à l'étranger)\nStack technique:\nNiveau Expert : Algorithmique/ Optimisation du code; Développement C#, WEB(, MVC, Angular, NodeJS), webservices (API/SOAP), Base de données, requêtes SQL) SVN, GIT\nNiveau confirmé: ETL SSIS, TDD, BDD\nNiveau Notion : VBA et Control M\nProfil candidat:\nBac+5 école d'ingénieur\nVous avez plus de 9 ans d'expérience en tant qu'Architecte solution sur un poste similaire chez un Asset manager (gestion d'actifs) ou une banque d'investissement (CIB)\nVous avez des connaissance approfondies sur les métiers risques (marchés, crédit, opérationnels, etc...)\nVous êtes AGILE\nAnglais courant obligatoire (équipes basée à l'étranger)\nStack technique:\nNiveau Expert : Algorithmique/ Optimisation du code; Développement C#, WEB(, MVC, Angular, NodeJS), webservices (API/SOAP), Base de données, requêtes SQL) SVN, GIT\nNiveau confirmé: ETL SSIS, TDD, BDD\nNiveau Notion : VBA et Control M",
+        "title": "data architect",
+        "skills": {
+            "DataBase": [
+                "SQL"
+            ],
+            "DevTools": [
+                "Git"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/2781906",
+        "company": "CAPGEMINI ",
+        "location": "Nord",
+        "remote": null,
+        "publication_date": "2024-08-23",
+        "details": {
+            "TypeContract": "CDI",
+            "Salary": null,
+            "Experience": "expérience exigée",
+            "Level": null
+        },
+        "company_data": {
+            "sector": "Activités des sièges sociaux",
+            "company_size": "Choisir Capgemini, c'est choisir une entreprise où vous serez en mesure de façonner votre carrière selon vos aspirations. Avec le soutien et l'inspiration d'une communauté d'experts dans le monde entier, vous pourrez réécrire votre futur. Rejoignez-nous pour redéfinir les limites de ce qui est possible, contribuer à libérer la valeur de la technologie pour les plus grandes organisations et participer à la construction d'un monde plus durable et inclusif.",
+            "turnover_in_millions": null
+        },
+        "description": "POSTE : Architecte Solution - Lille H/F\nDESCRIPTION : Dans le cadre de votre fonction d'Architecte Solution au sein de notre équipe Lilloise, vous prendrez en charge les principales responsabilités ci-dessous :\n\n* Architecture, Design & Build : Réaliser des audits, définir l'architecture physique & logique, s'assurer que la solution réponde aux besoins fonctionnels et non fonctionnels.\n* Cadrage des projets : Concevoir des « best practices » technique permettant d'assurer la qualité de projet et, une aide à déterminer les projets, planning et budget\n* Technical Leader : Apporter des solutions d'industrialisation, d'intégration continue et de contrôle de la qualité\n* Innovation & évangélisation : Diffuser les points de vue d'architecte sur les pratiques et technologies d'aujourd'hui et de demain auprès des collaborateurs Capgemini et auprès de nos clients, partenaires\nPROFIL : * Expérience dans le domaine du e-commerce, du digital, ou en ESN depuis plus de 10 ans.\n* Maîtrise de technologies telles que Java, Springboot, Angular, React JS, etc.\n* Maîtrise de l'anglais.",
+        "title": "data architect",
+        "skills": {
+            "ProgLanguage": [
+                "Java"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/2781190",
+        "company": "HARDIS GROUP ",
+        "location": "Loire-Atlantique",
+        "remote": null,
+        "publication_date": "2024-08-23",
+        "details": {
+            "TypeContract": "CDI",
+            "Salary": null,
+            "Experience": "expérience exigée",
+            "Level": null
+        },
+        "company_data": {
+            "sector": "Programmation informatique",
+            "company_size": "Chez Hardis Group, nous accélérons la transformation durable du commerce et de la Supply Chain notamment grâce aux technologies du cloud et nos multiples expertises : Conseil, Services IT, intégrateur Salesforce et éditeur de logiciel dans la logistique. En Europe et à l'international.",
+            "turnover_in_millions": null
+        },
+        "description": "POSTE : Architecte Solution H/F\nDESCRIPTION : Résumé du poste\n\nPourquoi nous rejoindre ?\n\nVous êtes architecte solution et passionné par les technologies et l'innovation ?\nVous avez envie de :\n-  Participer à des missions d'expertises au sein de nos centres d'expertises clients ou de notre centre de services\n-  Poursuivre votre veille technique et monter en compétences sur de nouvelles plateformes ou environnements (Cloud Computing, Edge Computing, Google Cloud Platform)\n-  Partager entre pairs, organiser ou participer à des Lab techniques, Workshops, Meetups\n-  Travailler sur des projets innovants\n\nNous vous attendons !\n\nCe que l'on vous propose\n\nVous intervenez sur des missions d'expertise technique auprès de nos clients à Nantes et sa métropole ou au sein de notre centre de services à l'agence. Votre rôle sera de :\n-  Assurer une activité de conseils auprès de nos clients grands comptes, et réaliser des missions d'expertise ponctuelles.\n-  Réaliser des études d'architectures (recueil de besoin, définition d'architecture cible / roadmap technique, études d'impact et différents chiffrages associés)\n-  Définir les best practices et les normes de programmation, de DevSecOps et s'assurer du respect des normes qualité et de sécurité\n-  Contribuer à la conception technique des développements\n-  Contribuer aux chantiers transverses d'amélioration de la performance\n-  Accompagner et coacher des collaborateurs plus juniors\n-  Contribuer à la montée en compétences des collaborateurs\nPROFIL : Profil\n\nQui êtes-vous ?\nDe formation supérieure en Informatique, vous avez au moins 3 ans d'expérience sur des problématiques d'architecture applicative.\nNous recherchons plus un état d'esprit, une soif d'apprendre, une envie de partage avec ses pairs ou avec tout public !\n« Make the way, the way you are ! » - Soyez acteur de votre mission et de votre carrière, nous vous accompagnerons !\n\nDéroulement du process :\nOcéane vous fera un retour sous 2 semaines et sera votre interlocutrice tout au long du process.\nC'est quoi notre process ?\n-  Vous aurez un premier échange avec Océane pour comprendre votre parcours et votre projet professionnel\n-  Ensuite, Anthony et/ou Romain valideront votre niveau technique\n-  Enfin, une proposition d'embauche vous sera faite si nous sommes tous sur la même longueur d'ondes !",
+        "title": "data architect",
+        "skills": {
+            "CloudComputing": [
+                "Google Cloud Platform"
+            ],
+            "Other": [
+                "Cloud"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/2768076",
+        "company": "LA POSTE ",
+        "location": "Loire-Atlantique",
+        "remote": null,
+        "publication_date": "2024-08-23",
+        "details": {
+            "TypeContract": "CDI",
+            "Salary": "Salaire brut : A négocier",
+            "Experience": "débutant accepté",
+            "Level": null
+        },
+        "company_data": {
+            "sector": "Autres activités de poste et de courrier",
+            "company_size": "La Poste Groupe change, nos métiers évoluent.\nEtre toujours au plus près des Français, développer la confiance dans le numérique et être acteur de la transformation écologique, c'est aussi le sens de notre métier.\nRejoindre La Poste Groupe, c'est rejoindre une entreprise responsable, riche de ses 232 000 collaborateurs !\nPour l'égalité des chances, La Poste fait vivre la diversité. Nos postes sont ouverts à toutes et à tous.\nVous aussi, engagez-vous à nos côtés pour ...",
+            "turnover_in_millions": null
+        },
+        "description": "Descriptif du poste:\n\n\nEn rejoignant I-team en tant que architecte solution, vous intégrerez la direction des services IT du Groupe La Poste à la Direction des Architectures Solutions et Solutions Applicatives de I-Team, c'est 1000 collaborateurs au service des systèmes d'information du Groupe et de ses filiales. Vous rejoindrez le pôle Architecture Projet dont la mission principale est de définir les solutions d'architectures des applications des métiers supports et transverses du Groupe La Poste (Finance, RH, .). Vos missions si vous les acceptez : Être garant de la définition des solutions d'architectures applicatives en adéquation avec les équipes projet en vous appuyant sur le cadre de référence architecture de la direction. Être garant de la réalisation des dossiers d'architectures en lien avec les besoins métiers et les exigences de services de l'application. Accompagner les équipes projets dans la validation de l'architecture applicative lors des instances de gouvernance architecture. Garantir la conformité de l'architecture proposée avec la stratégie SI de l'entreprise. Réaliser les études permettant de définir et mettre à jour les principes directeurs et règles d'architecture dans le cadre de référence des architectures applicatives. Anticiper la pertinence de nouvelles solutions en terme d'architecture, de rester en veille vis-à-vis des nouvelles pratiques du marché afin de faire évoluer les standards d'architecture de la direction.\n\nProfil recherché:\n\n\nDiplômé d'un bac +5, vous avez une expérience de 5 ans à minima sur des missions similaires. Compétences requises : · Compétences architecture : Architectures applicatives orientée Cloud (PaaS, IaaS, DevOps, containers .) Solutions d'architecture des échanges et de transformation de données (API Management, Kafka, ETL, ELT, Nifi .) Solutions d'architectures de gestion des identités et des accès (IAM) Architectures décisionnelles et BigData (Azure Databricks, Cloudera, Spark, Dataviz.) Solutions d'architectures de sécurité et réseaux (VIP, Certificats, WAF, Sonar.) Concepts Low Code et IA Générative · Pilotage et conduite de projet · Capacité d'adaptation, prise de parole, force de proposition et capacité en négociation  Vous vous sentez l'âme d'un architecte solution au sein du Groupe La Poste, vous vous reconnaissez dans ces quelques lignes, alors n'hésitez plus et rejoignez-nous!.\nVotre environnement de travail :I-Team, c'est une famille bienveillante qui saura vous chouchouter : Possibilité de télétravail : 2 jours 9 semaines de congés-RTT Avantages sociaux : Famille, transport, vacances, quotidien, logement Une entreprise à mission + des valeurs = 1ère entreprise mondiale en termes de RSE, la classe non?  Une rémunération attractive, basée sur votre expérience et une étude de marché De nouveaux locaux dès 2025: La Maison de l'Innovation",
+        "title": "data architect",
+        "skills": {
+            "BigData": [
+                "Databricks",
+                "Spark"
+            ],
+            "CloudComputing": [
+                "Azure"
+            ],
+            "Other": [
+                "Cloud",
+                "DevOps"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/2763153",
+        "company": "FINANCIERE DES PAIEMENTS ELECTRONIQUES ",
+        "location": "Loire-Atlantique",
+        "remote": null,
+        "publication_date": "2024-08-23",
+        "details": {
+            "TypeContract": "CDI",
+            "Salary": "Salaire brut : Annuel de 50000,00 Euros à 60000,00 Euros",
+            "Experience": "7 an(s)",
+            "Level": null
+        },
+        "company_data": {
+            "sector": "Autres activités des services financiers, hors assurance et caisses de retraite, n.c.a.",
+            "company_size": "Lancée en 2014, Nickel est LA solution de paiement qui offre la possibilité d'ouvrir un compte courant sans découvert, en 5 minutes chez un buraliste. Ouvert à tous et sans conditions de revenus, Nickel a déjà permis à plus de 3,7 millions de clients de payer et d'être payés autrement de façon utile, simple et bienveillante.\n\nAvec plus de 800 collaborateurs basés entre Paris, Nantes, Madrid, Bruxelles, Lisbonne et Berlin, vous rejoindrez des équipes dynamiques et multic...",
+            "turnover_in_millions": null
+        },
+        "description": "Au sein de l'IT de Nickel, l'équipe d'architecture souhaite se renforcer pour accompagner le développement business de Nickel tout en maîtrisant l'architecture globale du SI. Au sein de la cellule d'architecture, vous êtes susceptible d'intervenir sur les activités suivantes :\n\n * Accompagner les projets business / IT pour définir des architectures pertinentes et cohérentes avec la trajectoire du SI.\n * Définir, améliorer et déployer le cadre d'architecture : processus, gouvernance, standards, exigences en cohérence avec le cadre du groupe BNP\n * Fiabiliser et maintenir le référentiel d'architecture et sa documentation\n* Vous avez une expérience significative (minimum 5 ans) en tant qu'architecte solution sur la mise en oeuvre de projets stratégiques business / IT avec de forts enjeux de maîtrise des risques notamment sécurité\n * Vous faites preuve de rigueur et d'organisation tout en restant pragmatique\n * Vous êtes reconnu pour votre sens de l'analyse et êtes force de proposition\n * Vous êtes doté d'un bon relationnel vous permettant de collaborer efficacement avec des équipes métiers et IT\n\nTechnicité attendue\n\nVous avez des expériences significatives et/ou des connaissances sur les sujets suivants :\n\n * Les composants structurants d'un SI à l'état de l'art\n * Plusieurs domaines d'architecture (architecture métier, architecture applicative, architecture data, architecture technique)\n * Cadre d'architecture : Gouvernance, Processus, Règles, Standards, Référentiel\n\nVous avez un niveau d'anglais opérationnel suffisant pour comprendre, rédiger et communiquer oralement avec vos interlocuteurs.\n\nMéthodes & Outils\n\n * Solution d'architecture (Ex : Abacus, Mega, etc.)\n * Frameworks : TOGAF\n * Modélisation : Archimate / UML\n * Technologies / Solutions : API, Microservices, API Manager, CIAM, IDP, Event-driven, Cloud Computing, Data, ETL, Observabilité\n * Outils de facilitation : Jira, Confluence\n\nDate de démarrage : selon vos disponibilités\n\n Avantages\n\n * Accord de télétravail \n * Parcours de carrière dynamique\n * 25 jours de congés payés + 5 Nickel days \n * Avantages collaborateurs BNP Paribas : taux et tarifs préférentiels\n * Forfait Mobilité (vélo, trottinettes .) \n * Mutuelle avantageuse Henner et prévoyance\n * CSE (Chèques vacances, activités extra-professionnelles, etc)\n * Partenariat Gymlib pour les activités sportives et de bien-être\n * Salle de sport\n * Localisation Gare Sud - Nantes\n\nBasiques : Une carte ticket restaurant  et prise en charge à 50% des transports en commun\n\nNotre package de rémunération est constitué d'une rémunération fixe, d'une prime variable sur objectif ainsi que d'une prime de participation / intéressement.\n\nLe succès de Nickel, c'est la diversité des profils et la richesse des parcours de chacun de nos collaborateurs. Plus qu'un diplôme, c'est votre personnalité et votre envie de nous rejoindre qui fera la différence !",
+        "title": "data architect",
+        "skills": {
+            "Collaboration": [
+                "JIRA",
+                "Confluence"
+            ],
+            "Other": [
+                "Cloud"
+            ]
+        }
+    }
+]

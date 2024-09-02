@@ -1,3 +1,64 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2de5e6a1d37c3c8c265eb230ea0b98ca2c47063a4004b421da01f80730c6c4f1
-size 4210
+[
+    {
+        "source": "France Travail",
+        "company_data": {
+            "sector": "Conseil pour les affaires et autres conseils de gestion",
+            "company_size": "1 ou 2 salariés",
+            "adress": "94",
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/176RDRT",
+        "company": "TECHNOLOGIE CONCEPTION OPEN ",
+        "location": "Val-de-Marne",
+        "remote": null,
+        "publication_date": "2024-06-21",
+        "description": "Mon client, l'équipe en charge des Infrastructures Bases de données d'un important Centre de services d'un Groupe Banque/Assurance recherche un:\n\nIngénieur expert infrastructure de développement de services pour SGBD ayant une ou plusieurs expériences significatives dans ce domaine\n\nPoste en Val de Marne, démarrage asap\n\nIndépendants bienvenus",
+        "title": "Other",
+        "details": {
+            "TypeContract": "CDI",
+            "Salary": "Salaire brut : Mensuel de 3500.0 Euros à 4000.0 Euros sur 12.0 mois",
+            "Level": null,
+            "Experience": "5 an(s)"
+        },
+        "skills": {}
+    },
+    {
+        "source": "France Travail",
+        "company_data": {
+            "sector": null,
+            "company_size": null,
+            "adress": null,
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/9463134",
+        "company": null,
+        "location": null,
+        "remote": null,
+        "publication_date": "2024-06-26",
+        "description": "Région lyonnaise CDI IT / Systèmes d'Information Pourvu Nous recherchons pour notre client, acteur majeur de la ventilation présent sur tous les continents (215 M€ de CA, 1400 p.), un Responsable des Infrastructures Groupe.Rattaché au DSI, vous devez couvrir avec votre équipe de cinq personnes ainsi qu'en collaboration avec des prestataires, les infrastructures et l'exploitation 24h/24, 7j/7 des serveurs Windows, Unix, la plateforme SAP, les réseaux LAN & WAN du groupe, la téléphonie mobile et fixe, les applications bureautiques et l'ensemble des 700 PC du groupe. Vous êtes capable de gérer les aspects quotidiens, et, en véritable chef de projet, vous êtes à même de : Rationaliser et simplifier les fonctionnements actuels par la mise en place de normes et procédures ;Proposer une réelle offre de service aux utilisateurs en intervenant avec votre équipe dans le processus de support niveau 2 et 3 ;Communiquer aisément en anglais auprès des filiales étrangères afin d'accompagner le déploiement des SI dans le monde entier ;Piloter la MOA de plusieurs projets en parallèle, en internalisant ou sous-traitant la MOE ;Appréhender les problématiques du groupe et d'aligner la stratégie technique de la DSI aux éxigences opérationnelles ;Garantir une haute disponibilité des systèmes dans un environnement qui tend vers le 24h/24, 7j/7 ;Communiquer et échanger avec les autres rsponsables de département (Etudes, Support, Métiers). Ce poste, basé à Lyon, nécessitera des déplacements occasionnels dans nos filiales à l'étranger. Un bon niveau d'anglais oral et écrit est donc éxigé. Doté de bonnes connaissances techniques sur environnement Unix/Windows et SAP, vous avez su, au fil des années, développer vos compétences et êtes capable aujourd'hui de gérer intégralement des projets, d'en maîtriser les aspects impondérables et de gérer une équipe.",
+        "title": "Other",
+        "details": {
+            "TypeContract": "CDI",
+            "Salary": null,
+            "Level": null,
+            "Experience": "expérience exigée"
+        },
+        "skills": {
+            "OS": [
+                "Windows"
+            ],
+            "Automation": [
+                "Chef"
+            ],
+            "EnSoftSkils": [
+                "Collaboration"
+            ]
+        }
+    }
+]

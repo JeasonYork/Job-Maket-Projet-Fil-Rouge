@@ -1,3 +1,63 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c4e61dda91134208bceeac5d3ac62607aff0a004e9d59bbc7f7f1115f3dd8d7a
-size 12203
+[
+    {
+        "source": "France Travail",
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/2713423",
+        "title": "Architecte Solution Senior - Brest F/H - Informatique de gestion (H/F)",
+        "company": "CAPGEMINI SERVICE ",
+        "location": "29",
+        "remote": null,
+        "publication_date": "2024-08-22",
+        "details": {
+            "TypeContract": "CDI",
+            "Salary": "Salaire brut : A négocier",
+            "Experience": "Expérience exigée de 10 An(s)",
+            "Level": null
+        },
+        "company_data": {
+            "sector": "Conseil en systèmes et logiciels informatiques",
+            "company_size": "Choisir Capgemini, c'est choisir une entreprise où vous serez en mesure de façonner votre carrière selon vos aspirations.Avec le soutien et l'inspiration d'une communauté d'experts dans le monde entier, vous pourrez réécrire votre futur.Rejoignez-nous pour redéfinir les limites de ce qui est possible, contribuer à libérer la valeur de la technologie pour les plus grandes organisations et participer à la construction d'un monde plus durable et inclusif.",
+            "turnover_in_millions": null
+        },
+        "description": "Descriptif du poste:\n\nEn tant qu'Architecte de solution, vos responsabilités principales seront les suivantes :  \n* Être un membre actif de la phase d'avant-vente en collaboration avec notre équipe commerciale, AVV et le Directeur du projet.\n* Être responsable de l'architecture de bout en bout d'une solution, y compris son assemblage et sa conformité aux principes architecturaux SI établis avec les clients.\n* Participer aux travaux réalisation technique, de prototypages, etc et à l'encadrement technique de votre dream team.\n* Être force de la force de frappe de Communauté des Architectes et en serez un membre actif.\n* Encadrer de jeunes architectes afin de permettre aussi bien leur progression technique que leur évolution dans le Groupe.\n        Qualité de vie au travail : accord de télétravail en France et à l'international, accord sur l'égalité professionnelle, la parentalité, l'équilibre des temps et la mobilité durable. Apprentissage en continu : certifications et formations en libre accès, accompagnement sur mesure avec votre career manager, parcours d'intégration sur 9 mois. Avantages groupe & CSE : plan actionnariat, activités à tarifs préférentiels, remboursement partiel vacances, remboursement de votre abonnement sportif ou culturel.\n\nProfil recherché:\n\nTechnophile passionné et diplômé d'un Bac +5 :\n* Vous comptez au moins 10 ans d'expérience et avez une 1ère expérience en tant qu'architecte solution \n* Vous avez une forte expertise des environnements Java et des architectures microservices\n* Vous avez une bonne culture générale du fonctionnement des systèmes (infrastructures, OS, réseaux, sécurité, maintenance, etc.)\n* Vous avez une culture et une bonne connaissance des outils d'automatisation « standards »\n* Vous connaissez des patterns d'architecture \n* Vous possédez de fortes capacités à communiquer et êtes force de proposition.\n* Autonomie, Leadership, créativité et rigueur technique sont des qualités qui vous caractérisent\n* La maitrise de l'anglais professionnel est indispensable.\nNous vous offrons l'opportunité de progresser au sein d'une communauté d'architecte active.#Java #Angular #React #NodeJS #Python #Cloud #AWS"
+    }
+, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2711898",
+    "title": "Architecte solution F/H - Informatique de gestion (H/F)",
+    "company": "DIGIT ",
+    "location": "75",
+    "remote": null,
+    "publication_date": "2024-08-22",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": "Salaire brut : A négocier",
+        "Experience": "Expérience exigée de 6 An(s)",
+        "Level": null
+    },
+    "company_data": {
+        "sector": "Conseil en systèmes et logiciels informatiques",
+        "company_size": "Hello, nous c est DIGIT ! Nous sommes une entreprise de services du numérique basée à Rouen et à Paris.\nNotre rôle est d accompagner nos clients dans leurs projets informatiques en proposant des prestations intellectuelles de Développement Logiciel et de Business Intelligence. Nous déployons nos expertises en assistance technique, au sein des équipes clientes ou en forfait dans notre centre de production.",
+        "turnover_in_millions": null
+    },
+    "description": "Descriptif du poste:\n\nLe poste :\nActuellement, nous sommes à la recherche d'un Architecte Solution applicatif en Ile-de-France.  \nDescription du poste :\nNous recherchons un(e) Architecte d'entreprise expérimenté(e) et motivé(e). À ce titre, vous serez responsable de la définition, de la planification et de l'optimisation de l'architecture globale du système d'information de l'entreprise. Vous veillerez à l'alignement des technologies de l'information avec les objectifs stratégiques de l'entreprise.\nResponsabilités :\n* Développement et Maintenance de l'Architecture :\n* Concevoir, documenter et maintenir l'architecture d'entreprise, incluant les applications, les données, l'infrastructure et la sécurité.\n* Alignement Stratégique :\n* Assurer que l'architecture des systèmes d'information soutient les objectifs stratégiques de l'entreprise.\n* Innovation Technologique :\n* Évaluer et recommander des technologies émergentes et des solutions innovantes pour améliorer l'efficacité et la compétitivité de l'entreprise.\n* Gouvernance :\n* Établir des standards, des principes et des meilleures pratiques en matière d'architecture d'entreprise.\n* Collaboration :\n* Travailler étroitement avec les équipes de développement, les chefs de projet et les parties prenantes pour garantir une cohérence et une intégration optimales des systèmes.\n* Gestion de Projets :\n* Participer à la gestion de projets stratégiques, assurant une architecture robuste et évolutive.\n* Analyse et Optimisation :\n* Analyser les systèmes existants, identifier les inefficacités et proposer des améliorations pour l'optimisation des ressources et des processus.\n \n \n\nProfil recherché:\n\nCompétences Techniques :\n* Expertise en architecture des systèmes d'information, y compris les applications, les données, l'infrastructure et la sécurité.\n* Connaissance approfondie des frameworks d'architecture d'entreprise (TOGAF, Zachman, etc.).\n* Maîtrise des technologies cloud, des microservices et des architectures orientées services (SOA).\n* Connaissances en cybersécurité et en gestion des risques.\nCompétences Personnelles :\n* Capacités analytiques et de résolution de problèmes.\n* Compétences en communication écrite et orale, capacité à vulgariser des concepts techniques complexes.\n* Leadership et capacité à influencer et guider les équipes.\n* Orientation stratégique et capacité à aligner les technologies avec les objectifs de l'entreprise.\nExpérience Requise :\n* Diplôme en informatique, en ingénierie ou dans un domaine connexe de niveau Bac +5.\n* Expérience avérée (minimum 6 ans) en architecture d'entreprise ou dans un rôle similaire.\n* Expérience en gestion de projets et en collaboration avec des équipes multifonctionnelles.\nCandidature :\nSi ce poste vous intéresse, merci d'envoyer votre CV et une lettre de motivation à xxxxxxxxxxxxxxxxxxxxxxxxxxx\nNotre entreprise s'engage à créer un environnement de travail inclusif et accessible à tous. Nous encourageons vivement les personnes en situation de handicap à postuler. Si vous avez besoin d'accommodements spécifiques pour participer au processus de recrutement, veuillez nous en informer afin que nous puissions faire le nécessaire. \nAu plaisir de vous rencontrer bientôt !"
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2655750",
+    "title": "Architecte Solution F/H - Informatique de gestion (H/F)",
+    "company": "FINANCIERE DES PAIEMENTS ELECTRONIQUES ",
+    "location": "44",
+    "remote": null,
+    "publication_date": "2024-08-21",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": "Salaire brut : 50 - 60 k€ brut annuel",
+        "Experience": "Expérience exigée de 5 An(s)",
+        "Level": null
+    },
+    "company_data": {
+        "sector": "Autres intermédiations monétaires",
+        "company_size": " \n\nLancée en 2014, Nickel est LA solution de paiement qui offre la possibilité d'ouvrir un compte courant sans découvert, en 5 minutes chez un buraliste. Ouvert à tous et sans conditions de revenus, Nickel a déjà permis à plus de 3,7 millions de clients de payer et d'être payés autrement de façon utile, simple et bienveillante.\n\nAvec plus de 800 collaborateurs basés entre Paris, Nantes, Madrid, Bruxelles, Lisbonne et Berlin, vous rejoindrez des équipes dynamiques, multicul...",
+        "turnover_in_millions": null
+    },
+    "description": "Descriptif du poste:\n\n \n\nAu sein de l'IT de Nickel, l'équipe d'architecture souhaite se renforcer pour accompagner le développement business de Nickel tout en maîtrisant l'architecture globale du SI. Au sein de la cellule d'architecture, vous êtes susceptible d'intervenir sur les activités suivantes :\n \n* Accompagner les projets business / IT pour définir des architectures pertinentes et cohérentes avec la trajectoire du SI.\n* Définir, améliorer et déployer le cadre d'architecture : processus, gouvernance, standards, exigences en cohérence avec le cadre du groupe BNP\n* Fiabiliser et maintenir le référentiel d'architecture et sa documentation\n\nProfil recherché:\n\n* Vous avez une expérience significative (minimum 5 ans) en tant qu'architecte solution sur la mise en oeuvre de projets stratégiques business / IT avec de forts enjeux de maîtrise des risques notamment sécurité\n* Vous faites preuve de rigueur et d'organisation tout en restant pragmatique\n* Vous êtes reconnu pour votre sens de l'analyse et êtes force de proposition\n* Vous êtes doté d'un bon relationnel vous permettant de collaborer efficacement avec des équipes métiers et IT\n \n\nTechnicité attendue\n\nVous avez des expériences significatives et/ou des connaissances sur les sujets suivants :\n \n* Les composants structurants d'un SI à l'état de l'art\n* Plusieurs domaines d'architecture (architecture métier, architecture applicative, architecture data, architecture technique)\n* Cadre d'architecture : Gouvernance, Processus, Règles, Standards, Référentiel\n \n\nVous avez un niveau d'anglais opérationnel suffisant pour comprendre, rédiger et communiquer oralement avec vos interlocuteurs.\n\nMéthodes & Outils\n \n* Solution d'architecture (Ex : Abacus, Mega, etc.)\n* Frameworks : TOGAF\n* Modélisation : Archimate / UML\n* Technologies / Solutions : API, Microservices, API Manager, CIAM, IDP, Event-driven, Cloud Computing, Data, ETL, Observabilité\n* Outils de facilitation : Jira, Confluence\n \n\nDate de démarrage : selon vos disponibilités\n\nAvantages\n \n* Accord de télétravail\n* Parcours de carrière dynamique\n* 25 jours de congés payés + 5 Nickel days\n* Avantages collaborateurs BNP Paribas : taux et tarifs préférentiels\n* Forfait Mobilité (vélo, trottinettes .)\n* Mutuelle avantageuse Henner et prévoyance\n* CSE (Chèques vacances, activités extra-professionnelles, etc)\n* Partenariat Gymlib pour les activités sportives et de bien-être\n* Salle de sport\n* Localisation Gare Sud - Nantes\n \n\nBasiques : Une carte ticket restaurant et prise en charge à 50% des transports en commun\n\nNotre package de rémunération est constitué d'une rémunération fixe, d'une prime variable sur objectif ainsi que d'une prime de participation / intéressement.\n\nLe succès de Nickel, c'est la diversité des profils et la richesse des parcours de chacun de nos collaborateurs. Plus qu'un diplôme, c'est votre personnalité et votre envie de nous rejoindre qui fera la différence !\n "
+}]

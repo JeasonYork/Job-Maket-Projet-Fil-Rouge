@@ -1,0 +1,38 @@
+0 verbose cli /home/ubuntu/.nvm/versions/node/v16.20.2/bin/node /home/ubuntu/.nvm/versions/node/v16.20.2/lib/node_modules/npm/bin/npm-cli.js
+1 info using npm@8.19.4
+2 info using node@v16.20.2
+3 timing npm:load:whichnode Completed in 0ms
+4 timing config:load:defaults Completed in 2ms
+5 timing config:load:file:/home/ubuntu/.nvm/versions/node/v16.20.2/lib/node_modules/npm/npmrc Completed in 1ms
+6 timing config:load:builtin Completed in 3ms
+7 timing config:load:cli Completed in 5ms
+8 timing config:load:env Completed in 1ms
+9 timing config:load:file:/home/ubuntu/test_mohamed/.npmrc Completed in 0ms
+10 timing config:load:project Completed in 16ms
+11 timing config:load:file:/home/ubuntu/.npmrc Completed in 0ms
+12 timing config:load:user Completed in 1ms
+13 timing config:load:file:/home/ubuntu/.nvm/versions/node/v16.20.2/etc/npmrc Completed in 0ms
+14 timing config:load:global Completed in 0ms
+15 timing config:load:validate Completed in 1ms
+16 timing config:load:credentials Completed in 1ms
+17 timing config:load:setEnvs Completed in 1ms
+18 timing config:load Completed in 31ms
+19 timing npm:load:configload Completed in 31ms
+20 timing npm:load:mkdirpcache Completed in 1ms
+21 timing npm:load:mkdirplogs Completed in 0ms
+22 verbose title npm exec playwright install
+23 verbose argv "exec" "--" "playwright" "install"
+24 timing npm:load:setTitle Completed in 1ms
+25 timing config:load:flatten Completed in 4ms
+26 timing npm:load:display Completed in 5ms
+27 verbose logfile logs-max:10 dir:/home/ubuntu/.npm/_logs
+28 verbose logfile /home/ubuntu/.npm/_logs/2024-05-12T08_44_14_879Z-debug-0.log
+29 timing npm:load:logFile Completed in 6ms
+30 timing npm:load:timers Completed in 0ms
+31 timing npm:load:configScope Completed in 0ms
+32 timing npm:load Completed in 45ms
+33 silly logfile done cleaning log files
+34 timing command:exec Completed in 21444ms
+35 verbose exit 0
+36 timing npm Completed in 21593ms
+37 info ok

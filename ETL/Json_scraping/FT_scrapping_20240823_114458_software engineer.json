@@ -1,3 +1,103 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5e44a3857cfa1749d07a20b640e74c79b4a0ea64e73bf5baf4bcbc0358333f1a
-size 15927
+[
+    {
+        "source": "France Travail",
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/2767148",
+        "title": "SENIOR SOFTWARE ENGINEER - NETWORKING F/H - Informatique industrielle (H/F)",
+        "company": "ABK CONSULTING RH ",
+        "location": "91",
+        "remote": null,
+        "publication_date": "2024-08-23",
+        "details": {
+            "TypeContract": "CDI",
+            "Salary": "Salaire brut : 50 - 70 k€ brut annuel",
+            "Experience": "Expérience exigée de 7 An(s)",
+            "Level": null
+        },
+        "company_data": {
+            "sector": "Conseil pour les affaires et autres conseils de gestion",
+            "company_size": "Ils sont les artisans du son dans toute sa beauté, révélateur d'expression et d'émotion. Grâce à leur engagement pour l'innovation et l'excellence de la conception de produits, notre Client façonne le futur du son avec des technologies de pointe qui permettent aux professionnels de l'audio et aux artistes d'améliorer l'expérience de l'auditeur. Présent à l'international, il est le leader mondial dans la conception, la fabrication et la distribution de technologies de sonorisatio...",
+            "turnover_in_millions": null
+        },
+        "description": "Descriptif du poste:\n\nL'équipe que vous rejoindrez\nVous ferez partie d'une équipe d'experts dont la mission est de fournir des logiciels et des micrologiciels avec la meilleure expérience utilisateur et une fiabilité inégalée pour toute la gamme d'appareils, y compris les contrôleurs amplifiés, les processeurs audio, les équipements réseau et d'autres produits multimédias à venir.\nLes technologies que notre client développe :\n·        Transport audio/vidéo déterministe en temps réel sur Ethernet filaire et sans fil (IEEE 802.1 AVB/TSN, 802.3, 802.11).\n·        Protocoles de contrôle basés sur Ethernet brut et TCP/IP.\n·        Logiciel de bas niveau pour plateformes embarquées (mise en route des appareils, surveillance du matériel, développement de pilotes, intégration RTOS).\n·        Temps réel et applications exécutées sur MCU(s), DSP(s) et FPGA(s).\nVous découvrirez l'état d'esprit d'une start-up avec la structure, les outils et l'impact d'une entreprise mondiale et d'un leader du marché.\n \nÀ quoi vous contribuerez\n·        Maintenir la pile réseau à un très haut niveau de fiabilité et de performance.\n·        Concevoir, mettre en œuvre et tester de nouveaux modules AVB/TSN.\n·        Concevoir, mettre en œuvre et tester de nouveaux protocoles basés sur TCP/IP.\n·        Analyser et améliorer les performances du système.\n·        Enquêter et résoudre les problèmes signalés.\n·        Construire une documentation détaillée.\n·        Participer à des groupes de travail techniques et à des comités de normalisation (IEEE, Avnu).\n\nProfil recherché:\n\nCe dont vous aurez besoin pour réussir\n* Maîtrise en informatique ou dans un domaine connexe.\n* Maîtrise en développement de logiciels.\n* Maîtrise des protocoles et piles de communication basés sur Ethernet.\n* Maîtrise du langage de programmation C.\n* Excellentes capacités d'analyse, persévérance et souci du détail.\n*  Curieux, désireux d'apprendre et de s'adapter rapidement aux nouvelles exigences et technologies.\n* Autonome avec un sens aigu des responsabilités.\n* Anglais courant\n \nCompétences recherchées\n* Connaissance approfondie des opérations internes TCP/IP.\n*  Bonne connaissance des normes/technologies AVB/TSN .\n*  Expérience avec la méthodologie de tests unitaires.\n* Expérience des contraintes des systèmes embarqués.\n* A l'aise avec la lecture de schémas et l'utilisation d'un oscilloscope.\n*  Bonne connaissance d'un langage de script de haut niveau comme Python.\n "
+    }
+, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2758458",
+    "title": "Devops / Software Engineer (H/F)",
+    "company": "IPEPPER ",
+    "location": "06",
+    "remote": null,
+    "publication_date": "2024-08-22",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": null,
+        "Experience": "Expérience exigée de 5 An(s)",
+        "Level": null
+    },
+    "company_data": {
+        "sector": null,
+        "company_size": "iPepper",
+        "turnover_in_millions": null
+    },
+    "description": "Nous sommes le partenaire technologique préféré de ceux qui changent le monde !\niPepper c'est avant tout une façon de travailler ensemble : se faire du bien, faire du bien et prendre soin de ses clients, salariés et partenaires !\nConsulting, Recrutement et Projets : une palette de services autour de la protection et la valorisation de la data.\nLe poste : \n\nNous recherchons pour l'un de nos clients un ingénieur DevOps / Software Engineer (H/F) expérimenté(e) et à l'aise en anglais pour rejoindre notre équipe dynamique et anglophone à Sophia Antipolis.\n- .\n- Télétravail : 2 à 3 jours par semaine.\n- Mission longue.\nProjet :\nLa mission combine à la fois des aspects de DevOps et de développement logiciel.\nLe défi de l'année à venir consiste à migrer les outils internes de l'hébergement hérité vers le Cloud Azure tout en adoptant les meilleures pratiques. En parallèle, faire évoluer un portail Django/React.\nLes autres outils utilisés par l'équipe sont en Java / Springboot / Angular. \nComme l'équipe est relativement petite, le travail est organisé selon une méthodologie similaire à Scrum avec un backlog Jira.\nLa mission principale est de construire une plateforme de bout en bout avec un environnement de premier ordre pour :\n- Améliorer la productivité des développeurs grâce à des capacités d'intégration et de déploiement automatisées.\n- Développer, innover et maintenir des plateformes technologiques qui atteignent une agilité, une stabilité et des performances élevées.\n- Envisager, accélérer les nouvelles versions et fournir des conseils sur la manière d'améliorer les performances opérationnelles.\n\nProfil recherché : \n\nQualifications requises :\n- Expérience significative en tant qu'Ingénieur DevOps ou Développeur Logiciel. (minimum 5 ans)\n- Solides compétences en intégration et déploiement continu.\n- Maîtrise des technologies de développement web, y compris Django, React, Java, Springboot et Angular.\n- Capacité à travailler dans un environnement agile et à s'adapter rapidement aux changements.\n- Bonnes compétences en communication et capacité à travailler efficacement en équipe.\n- Anglais courant obligatoire (conversation quotidienne en anglais / équipe anglophone)\nSi vous êtes passionné(e) par l'innovation technologique, que vous recherchez un environnement stimulant et que vous souhaitez contribuer au succès d'une équipe dynamique, alors ce poste est fait pour vous !"
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2714109",
+    "title": "FPGA Software Engineer F/M F/H - Informatique industrielle (H/F)",
+    "company": "MÉDIANE BENELUX ",
+    "location": "59",
+    "remote": null,
+    "publication_date": "2024-08-22",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": "Salaire brut : A partir de 45 k€ brut annuel",
+        "Experience": "Débutant accepté",
+        "Level": null
+    },
+    "company_data": {
+        "sector": "Ingénierie, études techniques",
+        "company_size": "Et si vous embarquiez vers les nouvelles technologies ?\n\n\n\nFiliale du groupe industriel ICE, Médiane Système, est une société d'ingénierie innovante spécialisée en électronique, systèmes embarqués et informatique industrielle. Médiane Système a construit son identité sur une expertise technique de haut niveau en proposant à ses clients, des prestations d'accompagnement au travers de ses Départements R&D (DRD) et ConSulting (DCS).\n\n\n\nPrésente en France (région Paris...",
+        "turnover_in_millions": null
+    },
+    "description": "Descriptif du poste:\n\nPour l'un de nos clients, équipementier électronique, situé dans les Hauts-de-France (frontière Belge), nous recherchons un ingénieur système contrôle commande spécialisé en électronique et plus particulièrement en FPGA.\n\n\n\nMissions et objectifs :\n\n\n\nSous la supervision du responsable étude du pôle contrôle commande, les missions seront :\n\n\n\n- Conception, programmation, intégration et validation de FPGA pour les systèmes de contrôle-commande,\n\n- Réalisation des tests unitaires et des tests d'intégration,\n\n- Rédaction de la documentation technique (spécifications, documents de conception et de justification, plan de validation, rapports techniques, .),\n\n- Participation aux réunions techniques et aux revues techniques (de code et de conception),\n\n- Collaboration avec les équipes (électronique, logiciel embarqué, mécanique, .) pour garantir l'intégration efficace des FPGA dans le système,\n\n- Gestion de la configuration logicielle au travers d'un serveur GIT,\n\n- Réaliser une veille technique et technologique pour apporter des solutions innovantes et maintenir un haut niveau de technicité des produits.\n\nProfil recherché:\n\nDiplômé de l'enseignement supérieur ou d'un école d'ingénieur, vous disposez d'une expérience réussie dans le développement en VHDL sur FPGA de type Intel /Altera (Quartus) Cyclone ou Arria.\n\nCompétences et connaissances requises :\n\n- Compétences en systèmes embarqués et une expérience dans le domaine de la défense ou des systèmes de contrôle-commande des machines électriques tournantes serait un plus\n\n- Connaissance des outils tels que Matlab Simulink ou HDL Coder et de la communication SFP serait un plus.\n\n- Connaissance du fonctionnement et du système de contrôle-commande des machines électriques tournante\n\n- Connaissance du développement FPGA sous Matlab HDL coder\n\n- Connaissance du fonctionnement d'un serveur Git\n\n- Bon esprit de synthèse, capacité de prendre des décisions en autonomie."
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2713928",
+    "title": "HMI Software Engineer F/M F/H - Informatique industrielle (H/F)",
+    "company": "MÉDIANE BENELUX ",
+    "location": "59",
+    "remote": null,
+    "publication_date": "2024-08-22",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": "Salaire brut : A partir de 45 k€ brut annuel",
+        "Experience": "Débutant accepté",
+        "Level": null
+    },
+    "company_data": {
+        "sector": "Ingénierie, études techniques",
+        "company_size": "Et si vous embarquiez vers les nouvelles technologies ?\n\n\n\nFiliale du groupe industriel ICE, Médiane Système, est une société d'ingénierie innovante spécialisée en électronique, systèmes embarqués et informatique industrielle. Médiane Système a construit son identité sur une expertise technique de haut niveau en proposant à ses clients, des prestations d'accompagnement au travers de ses Départements R&D (DRD) et ConSulting (DCS).\n\n\n\nPrésente en France (région Paris...",
+        "turnover_in_millions": null
+    },
+    "description": "Descriptif du poste:\n\nPour l'un de nos clients, situé dans les Hauts-de-France, nous recherchons un développeur dans le but de renforcer les équipes travaillant sur des projets d'automatisation industrielle, de la phase de conception à la mise en service.\n\n\n\nSur le poste, il vous sera demandé de :\n\n- Travailler avec l'équipe de projet, de la phase de conception à la mise en service, sur des projets d'automatisation industrielle.\n\n- Programmation de commandes PLC, SCADA et HMI pour divers systèmes dans le domaine de l'automatisation.\n\n- Développer des logiciels, des visualisations et des algorithmes pour différents types de contrôleurs.\n\n- Contrôler l'avancement du projet et adapter la planification en conséquence.\n\n- Convertir les souhaits et les exigences du client en documentation fonctionnelle et en conception technique concrète.\n\n- Simuler, tester, adapter et perfectionner le logiciel conçu.\n\nProfil recherché:\n\nDiplômé de l'enseignement supérieur ou d'une école d'ingénieur spécialisée dans l'électrotechnique, de l'automatisation industrielle, de la mécatronique, de l'informatique technique ou d'un domaine similaire, vous possédez une expérience significative en tant qu'ingénieur logiciel chez un constructeur de machines ou un intégrateur de systèmes dans le domaine de l'automatisation industrielle.\n\n\n\nConnaissances requises :\n\n- Techniques de contrôle PLC, HMI et/ou DCS, TiaPortal et WinCC, de préférence vous avez travaillé avec Siemens."
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2699969",
+    "title": "Software engineer rust - h/f",
+    "company": null,
+    "location": "PARIS 15 75",
+    "remote": null,
+    "publication_date": "2024-08-22",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": null,
+        "Experience": "Débutant accepté",
+        "Level": null
+    },
+    "company_data": {
+        "sector": null,
+        "company_size": "Chez Iliad-Free, nous sommes persuadés que la Diversité est une richesse ! Fondé en 1991, le groupe Iliad est également connu sous la marque commerciale Free. Depuis plus de 15 ans, ce groupe technologique basé à Paris, s'attèle à offrir les plus grandes innovations télécom du marché.",
+        "turnover_in_millions": null
+    },
+    "description": "Description\nRattaché(e) au Responsable Data Engineering, vous œuvrez à la construction et à la maintenance de la plateforme data dIliad, en partenariat avec la composante data-science de léquipe Data. En cours de construction, cette plateforme assemblera des composants open-source et des développements internes avec une haute exigence sur la solidité, la performance, lergonomie et la sécurité.\nEn tant que Software Engineer RUST, vous serez en charge du développement de modules critiques pour la plateforme data, en vous assurant qu'ils respectent les standards de performance et de sécurité. Vous travaillerez en étroite collaboration avec les autres membres de léquipe, y compris les data scientists, pour développer des solutions innovantes et robustes.\nParmi les sujets que vous pourriez prendre en charge :\n Développement de modules backend en Rust\n Optimisation de la performance des services critiques\n Sécurisation des échanges de données\n Intégration avec dautres composants open-source\n Participation à la conception darchitectures scalables et résilientes\nProfil recherché\nHard-skills :\n 3+ ans dexpérience en développement logiciel, avec une spécialisation en Rust\n Connaissances solides en programmation système et concurrentielle\n Expérience avec les bases de données et les systèmes distribués\n Compétences en optimisation de performance et gestion de la mémoire\n Familiarité avec les outils et les méthodologies DevOps (CI/CD, conteneurisation, orchestration)\n Connaissance de Python est un plus\n Expérience avec les systèmes de gestion des identités et des accès (IAM) est un plus\n Compréhension des principes de sécurité des systèmes d'information\n Capacité à écrire du code avec une maîtrise du niveau d'abstraction (YAGNI, KISS) et des compromis entre lisibilité, performance, et vitesse de développement\nSoft-skills :\n Esprit déquipe et excellente communication\n Capacité à travailler dans un environnement agile et à respecter des deadlines serrées\n Proactif et autonome avec une forte capacité à résoudre des problèmes complexes\n Capacité à donner et recevoir des feedbacks constructifs"
+}]

@@ -1,3 +1,843 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3c15a47f77bf3bcea9de4cdaf97391947fd7459595275a5d6fd01fb0d77ef78e
-size 162760
+[
+    {
+        "source": "France Travail",
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/2861328",
+        "title": "Architecte cloud (h/f)",
+        "company": null,
+        "location": "TOULOUSE 31",
+        "remote": null,
+        "publication_date": "2024-08-24",
+        "details": {
+            "TypeContract": "CDI",
+            "Salary": null,
+            "Experience": "Débutant accepté",
+            "Level": null
+        },
+        "company_data": {
+            "sector": null,
+            "company_size": null,
+            "turnover_in_millions": null
+        },
+        "description": "QUI SOMMES-NOUS ?Thales propose des systèmes d'information et de communication sécurisés et interopérables pour les forces armées, les forces de sécurité et les opérateurs d'importance vitale. Ces activités, qui regroupent radiocommunications, réseaux, systèmes de protection, systèmes d'information critiques et cybersécurité, répondent aux besoins de marchés où l'utilisation des nouvelles technologies numériques est déterminante. Thales intervient tout au long de la chaîne de valeur, des équipements aux systèmes en passant par le soutien logistique et les services associés.Nos équipes de l'activité Systèmes d'information critiques et cybersécurité fournissent des services et des solutions globales optimisant la performance, la résilience et la sécurité des systèmes d'information afin de faire face aux ruptures technologiques et aux cybermenaces.QUI ETES-VOUS ? Vous avez une expérience très significative dans le déploiement de Systèmes d'information critiques et complexes.Vous avez réalisé l'implémentation techniques de solutions.Vous savez expliquer vos réalisations.Vous couvrez une palette technologique importante et savez embrasser un système d'information sécurisé dans son ensemble.Vous maitrisez les infrastructures cloud et leurs principales technologies :Cloud, Virtualisation / Iaas, PaaS, Conteneurisation / CaaS,Chaine CI/CD et leurs principaux outilsChaine CD et infra as code : Ansible (Tower), Terraform, solutions GitOpsLes solutions de haute disponibilité et de redondance globale (PRA / PCA)Vous avez une certification dans l'un de ces domaines : GCP, AWS, AzureVous avez une bonne compréhension, idéalement une bonne expérience, des exigences d'un système en production, des problématiques d'exploitation dans un contexte de transformation IT.Votre solide expérience vous permet d'évaluer les conséquences des choix architecturaux Enfin, vous avez déjà assumé dans votre parcours ce rôle d'architecte solution cloud, dans différents environnements.Soft skills :LeadershipCulture de la collaborationPédagogie & écouteProactivitéBonne communication & capacité de synthèsePragmatisme Vous possédez une bonne capacité à travailler en équipe, tout en intégrant l'écosystème des clients et des services Thales.Vous souhaitez évoluer dans un environnement de collaboration et de partage, et appréciez transmettre vos compétences, accompagner les projets.Vous avez une capacité d'analyse et de synthèse.La maîtrise de l'anglais en contexte professionnel est indispensable.CE QUE NOUS POUVONS ACCOMPLIR ENSEMBLE : Vous intègrerez la Direction Technique (DT) de la Business Line CIS (Critical Information Systems) qui est un service d'experts Thales, organisé en thématiques et articulé autour d'une Politique Technique forte.Les missions régaliennes de la DT sont :Définir la stratégie technique et les roadmaps technologiques de nos building blocks pour lesquels nous élaborons le designDéfinir et faire appliquer la politique technique nécessaire pour répondre aux enjeux de nos métiersCoordonner et animer nos activités d'innovationAssurer le rôle de « Design Authority » qui valide l'engagement technique de Thales sur les projets et les réponses à appel d'offreD'autre part, les experts de la DT sont régulièrement sollicités pour faire valoir leur expertise technique sur différents projets de réalisation à destination de nos entités industrielles, de défense et étatique. Ces projets couvrent tous les domaines de Thales, de l'architecture système et logicielle (Big Data, IA, DevSecOps et cyber sécurité) à l'infogérance (infrastructure, hybridation réseau et technologies Cloud).Notre savoir-faire nous permet de proposer à nos clients une offre de valeur pour les accompagner dans leur transformation numérique.Innovation, passion, ambition : rejoignez Thales et créez le monde de demain, dès aujourd'hui."
+    }
+, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2856224",
+    "title": "Architecte expert cloud F/H (Basé à Orly) (H/F)",
+    "company": "GROUPE ADP ",
+    "location": "94",
+    "remote": null,
+    "publication_date": "2024-08-24",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": null,
+        "Experience": "Expérience exigée",
+        "Level": null
+    },
+    "company_data": {
+        "sector": null,
+        "company_size": null,
+        "turnover_in_millions": null
+    },
+    "description": "Localisation du poste à pourvoir : OrlyDescription de l'entrepriseLe Groupe ADP conçoit, aménage et gère des aéroports à Paris et dans le monde entier. Présent dans 50 pays et dans près de 150 aéroports, il emploie plus de 24 000 collaborateurs dans des métiers aussi divers que ses activités : maintenance, data analyse, immobilier, informatique et cybersécurité, ingénierie, finances, exploitation, environnement RSE, etc. Rejoindre le Groupe ADP, c'est prendre part à l'histoire des pionniers de l'aviation et l'opportunité unique de bâtir avec nous l'aéroport de demain. C'est aussi porter les valeurs d'hospitalité et proposer à nos clients une expérience sur mesure. Le Groupe ADP s'engage également pour plus d'équité en entreprise : parité, mixité, diversité, emploi de personnes en situation de handicap, encouragement à l'engagement citoyen, etc. \nContexte de la missonDescription de la missionAu sein de l'équipe cloud / CCOE des Opérations de la Direction des Systèmes d'Information, vous prenez en charge la conception technique des architectures cloud (externes et l'architecture Kubernetes interne). En tant qu'expert, vous assurez le design des solutions déployées sur les différents environnements clouds internes, notamment la mise en place d'un environnement Kubernetes, mais également sur les clouds externes, avec des environnements AZURE (en place) et Trusted cloud (à définir dans les prochains mois). \n\nA ce titre vous : - Étudiez et proposez un catalogue des services Cloud AAS (As A Service) afin d'accompagner au mieux les besoins des projets/applications en place ou arrivant sur le cloud, - Contribuez à l'adaptation de la stratégie DevOps pour l'automatisation des modèles réseau, sécurité, policies. et des Landing zones et rendre les équipes de développement autonomes. - Participez, conseillez, guidez les projets dans le choix de leur architecture et solution cloud (exemple : MarketPlace, retail, outils métiers aéroportuaires). - Animez le comité de validation d'architecture Cloud (DAC : Design Authority Cloud). Avec le responsable du CCOE, vous participez à la définition des stratégies et politiques Cloud et vous contribuez tous deux avec le Finops à optimiser/maîtriser la dimension financière et RSE des services consommés. Vous accompagnez les équipes Opérations dans la mise en œuvre, le maintien en conditions opérationnelles, de sécurité et le monitoring des différentes architectures. Vous participez aux astreintes du pôle (des vacations de nuit occasionnelles sont à prévoir).Profil recherchéDe formation Bac+5 Ingénieur Informatique ou expérience équivalente, vous justifiez d'au moins 5 ans d'expérience acquise en conception et exploitation d'architectures Cloud Public/Privé.\nCompétences attendues :\n· Expérience reconnue dans la mise en œuvre des solutions IAAS/PAAS, dans des environnements hybrides et fortement sécurisés.\n· Forte expertise sur AZURE et/ou autre Hyperscaler Cloud.\n· Très bonnes connaissances des services d'infrastructures, sécurité et réseau des grands opérateurs Cloud publics.\n· Bonne connaissance de Kubernetes.\n \nLe poste à pourvoir est à temps plein et basé à Paris-Orly avec des déplacements à prévoir sur Paris-Charles de Gaulle.\n \nTélétravail possible à 50 %.\nPackage de rémunération et avantages (fixe, variable, participation, intéressement, CET, plan-épargne entreprise, mutuelle, CSE).\n \nLe Groupe ADP mène une politique engagée depuis plus de 30 ans en faveur de l'égalité des chances, de l'insertion professionnelle et de l'emploi des personnes en situation de handicap. L'inclusion des différences fait la force du Groupe ADP, signataire de la Charte de la Diversité. Convaincus que le talent n'a pas d'âge, ni genre, ni origine, ni orientation sexuelle, ni croyance, nous veillons à créer un environnement de travail inclusif pour nos collaborateurs, tenant compte des spécificités de chacun. Alors place à l'action ! Postulez dès maintenant pour rejoindre le groupe ADP. Pour en savoir plus sur notre politique en matière de diversité équité et inclusion, n'hésitez pas à consulter notre site Groupe ; #LI-GADP"
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2856212",
+    "title": "Architecte expert cloud F/H (Basé à Orly) (H/F)",
+    "company": "GROUPE ADP ",
+    "location": "93",
+    "remote": null,
+    "publication_date": "2024-08-24",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": null,
+        "Experience": "Expérience exigée",
+        "Level": null
+    },
+    "company_data": {
+        "sector": null,
+        "company_size": null,
+        "turnover_in_millions": null
+    },
+    "description": "Localisation du poste à pourvoir : OrlyDescription de l'entrepriseLe Groupe ADP conçoit, aménage et gère des aéroports à Paris et dans le monde entier. Présent dans 50 pays et dans près de 150 aéroports, il emploie plus de 24 000 collaborateurs dans des métiers aussi divers que ses activités : maintenance, data analyse, immobilier, informatique et cybersécurité, ingénierie, finances, exploitation, environnement RSE, etc. Rejoindre le Groupe ADP, c'est prendre part à l'histoire des pionniers de l'aviation et l'opportunité unique de bâtir avec nous l'aéroport de demain. C'est aussi porter les valeurs d'hospitalité et proposer à nos clients une expérience sur mesure. Le Groupe ADP s'engage également pour plus d'équité en entreprise : parité, mixité, diversité, emploi de personnes en situation de handicap, encouragement à l'engagement citoyen, etc. \nContexte de la missonDescription de la missionAu sein de l'équipe cloud / CCOE des Opérations de la Direction des Systèmes d'Information, vous prenez en charge la conception technique des architectures cloud (externes et l'architecture Kubernetes interne). En tant qu'expert, vous assurez le design des solutions déployées sur les différents environnements clouds internes, notamment la mise en place d'un environnement Kubernetes, mais également sur les clouds externes, avec des environnements AZURE (en place) et Trusted cloud (à définir dans les prochains mois). \n\nA ce titre vous : - Étudiez et proposez un catalogue des services Cloud AAS (As A Service) afin d'accompagner au mieux les besoins des projets/applications en place ou arrivant sur le cloud, - Contribuez à l'adaptation de la stratégie DevOps pour l'automatisation des modèles réseau, sécurité, policies. et des Landing zones et rendre les équipes de développement autonomes. - Participez, conseillez, guidez les projets dans le choix de leur architecture et solution cloud (exemple : MarketPlace, retail, outils métiers aéroportuaires). - Animez le comité de validation d'architecture Cloud (DAC : Design Authority Cloud). Avec le responsable du CCOE, vous participez à la définition des stratégies et politiques Cloud et vous contribuez tous deux avec le Finops à optimiser/maîtriser la dimension financière et RSE des services consommés. Vous accompagnez les équipes Opérations dans la mise en œuvre, le maintien en conditions opérationnelles, de sécurité et le monitoring des différentes architectures. Vous participez aux astreintes du pôle (des vacations de nuit occasionnelles sont à prévoir).Profil recherchéDe formation Bac+5 Ingénieur Informatique ou expérience équivalente, vous justifiez d'au moins 5 ans d'expérience acquise en conception et exploitation d'architectures Cloud Public/Privé.\nCompétences attendues :\n· Expérience reconnue dans la mise en œuvre des solutions IAAS/PAAS, dans des environnements hybrides et fortement sécurisés.\n· Forte expertise sur AZURE et/ou autre Hyperscaler Cloud.\n· Très bonnes connaissances des services d'infrastructures, sécurité et réseau des grands opérateurs Cloud publics.\n· Bonne connaissance de Kubernetes.\n \nLe poste à pourvoir est à temps plein et basé à Paris-Orly avec des déplacements à prévoir sur Paris-Charles de Gaulle.\n \nTélétravail possible à 50 %.\nPackage de rémunération et avantages (fixe, variable, participation, intéressement, CET, plan-épargne entreprise, mutuelle, CSE).\n \nLe Groupe ADP mène une politique engagée depuis plus de 30 ans en faveur de l'égalité des chances, de l'insertion professionnelle et de l'emploi des personnes en situation de handicap. L'inclusion des différences fait la force du Groupe ADP, signataire de la Charte de la Diversité. Convaincus que le talent n'a pas d'âge, ni genre, ni origine, ni orientation sexuelle, ni croyance, nous veillons à créer un environnement de travail inclusif pour nos collaborateurs, tenant compte des spécificités de chacun. Alors place à l'action ! Postulez dès maintenant pour rejoindre le groupe ADP. Pour en savoir plus sur notre politique en matière de diversité équité et inclusion, n'hésitez pas à consulter notre site Groupe ; #LI-GADP"
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2856193",
+    "title": "Architecte expert cloud F/H (Basé à Orly) (H/F)",
+    "company": "GROUPE ADP ",
+    "location": "94",
+    "remote": null,
+    "publication_date": "2024-08-24",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": null,
+        "Experience": "Expérience exigée",
+        "Level": null
+    },
+    "company_data": {
+        "sector": null,
+        "company_size": null,
+        "turnover_in_millions": null
+    },
+    "description": "Localisation du poste à pourvoir : OrlyDescription de l'entrepriseLe Groupe ADP conçoit, aménage et gère des aéroports à Paris et dans le monde entier. Présent dans 50 pays et dans près de 150 aéroports, il emploie plus de 24 000 collaborateurs dans des métiers aussi divers que ses activités : maintenance, data analyse, immobilier, informatique et cybersécurité, ingénierie, finances, exploitation, environnement RSE, etc. Rejoindre le Groupe ADP, c'est prendre part à l'histoire des pionniers de l'aviation et l'opportunité unique de bâtir avec nous l'aéroport de demain. C'est aussi porter les valeurs d'hospitalité et proposer à nos clients une expérience sur mesure. Le Groupe ADP s'engage également pour plus d'équité en entreprise : parité, mixité, diversité, emploi de personnes en situation de handicap, encouragement à l'engagement citoyen, etc. \nContexte de la missonDescription de la missionAu sein de l'équipe cloud / CCOE des Opérations de la Direction des Systèmes d'Information, vous prenez en charge la conception technique des architectures cloud (externes et l'architecture Kubernetes interne). En tant qu'expert, vous assurez le design des solutions déployées sur les différents environnements clouds internes, notamment la mise en place d'un environnement Kubernetes, mais également sur les clouds externes, avec des environnements AZURE (en place) et Trusted cloud (à définir dans les prochains mois). \n\nA ce titre vous : - Étudiez et proposez un catalogue des services Cloud AAS (As A Service) afin d'accompagner au mieux les besoins des projets/applications en place ou arrivant sur le cloud, - Contribuez à l'adaptation de la stratégie DevOps pour l'automatisation des modèles réseau, sécurité, policies. et des Landing zones et rendre les équipes de développement autonomes. - Participez, conseillez, guidez les projets dans le choix de leur architecture et solution cloud (exemple : MarketPlace, retail, outils métiers aéroportuaires). - Animez le comité de validation d'architecture Cloud (DAC : Design Authority Cloud). Avec le responsable du CCOE, vous participez à la définition des stratégies et politiques Cloud et vous contribuez tous deux avec le Finops à optimiser/maîtriser la dimension financière et RSE des services consommés. Vous accompagnez les équipes Opérations dans la mise en œuvre, le maintien en conditions opérationnelles, de sécurité et le monitoring des différentes architectures. Vous participez aux astreintes du pôle (des vacations de nuit occasionnelles sont à prévoir).Profil recherchéDe formation Bac+5 Ingénieur Informatique ou expérience équivalente, vous justifiez d'au moins 5 ans d'expérience acquise en conception et exploitation d'architectures Cloud Public/Privé.\nCompétences attendues :\n· Expérience reconnue dans la mise en œuvre des solutions IAAS/PAAS, dans des environnements hybrides et fortement sécurisés.\n· Forte expertise sur AZURE et/ou autre Hyperscaler Cloud.\n· Très bonnes connaissances des services d'infrastructures, sécurité et réseau des grands opérateurs Cloud publics.\n· Bonne connaissance de Kubernetes.\n \nLe poste à pourvoir est à temps plein et basé à Paris-Orly avec des déplacements à prévoir sur Paris-Charles de Gaulle.\n \nTélétravail possible à 50 %.\nPackage de rémunération et avantages (fixe, variable, participation, intéressement, CET, plan-épargne entreprise, mutuelle, CSE).\n \nLe Groupe ADP mène une politique engagée depuis plus de 30 ans en faveur de l'égalité des chances, de l'insertion professionnelle et de l'emploi des personnes en situation de handicap. L'inclusion des différences fait la force du Groupe ADP, signataire de la Charte de la Diversité. Convaincus que le talent n'a pas d'âge, ni genre, ni origine, ni orientation sexuelle, ni croyance, nous veillons à créer un environnement de travail inclusif pour nos collaborateurs, tenant compte des spécificités de chacun. Alors place à l'action ! Postulez dès maintenant pour rejoindre le groupe ADP. Pour en savoir plus sur notre politique en matière de diversité équité et inclusion, n'hésitez pas à consulter notre site Groupe ; #LI-GADP"
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2856178",
+    "title": "Architecte expert cloud F/H (Basé à Orly) (H/F)",
+    "company": "GROUPE ADP ",
+    "location": "94",
+    "remote": null,
+    "publication_date": "2024-08-24",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": null,
+        "Experience": "Expérience exigée",
+        "Level": null
+    },
+    "company_data": {
+        "sector": null,
+        "company_size": null,
+        "turnover_in_millions": null
+    },
+    "description": "Localisation du poste à pourvoir : OrlyDescription de l'entrepriseLe Groupe ADP conçoit, aménage et gère des aéroports à Paris et dans le monde entier. Présent dans 50 pays et dans près de 150 aéroports, il emploie plus de 24 000 collaborateurs dans des métiers aussi divers que ses activités : maintenance, data analyse, immobilier, informatique et cybersécurité, ingénierie, finances, exploitation, environnement RSE, etc. Rejoindre le Groupe ADP, c'est prendre part à l'histoire des pionniers de l'aviation et l'opportunité unique de bâtir avec nous l'aéroport de demain. C'est aussi porter les valeurs d'hospitalité et proposer à nos clients une expérience sur mesure. Le Groupe ADP s'engage également pour plus d'équité en entreprise : parité, mixité, diversité, emploi de personnes en situation de handicap, encouragement à l'engagement citoyen, etc. \nContexte de la missonDescription de la missionAu sein de l'équipe cloud / CCOE des Opérations de la Direction des Systèmes d'Information, vous prenez en charge la conception technique des architectures cloud (externes et l'architecture Kubernetes interne). En tant qu'expert, vous assurez le design des solutions déployées sur les différents environnements clouds internes, notamment la mise en place d'un environnement Kubernetes, mais également sur les clouds externes, avec des environnements AZURE (en place) et Trusted cloud (à définir dans les prochains mois). \n\nA ce titre vous : - Étudiez et proposez un catalogue des services Cloud AAS (As A Service) afin d'accompagner au mieux les besoins des projets/applications en place ou arrivant sur le cloud, - Contribuez à l'adaptation de la stratégie DevOps pour l'automatisation des modèles réseau, sécurité, policies. et des Landing zones et rendre les équipes de développement autonomes. - Participez, conseillez, guidez les projets dans le choix de leur architecture et solution cloud (exemple : MarketPlace, retail, outils métiers aéroportuaires). - Animez le comité de validation d'architecture Cloud (DAC : Design Authority Cloud). Avec le responsable du CCOE, vous participez à la définition des stratégies et politiques Cloud et vous contribuez tous deux avec le Finops à optimiser/maîtriser la dimension financière et RSE des services consommés. Vous accompagnez les équipes Opérations dans la mise en œuvre, le maintien en conditions opérationnelles, de sécurité et le monitoring des différentes architectures. Vous participez aux astreintes du pôle (des vacations de nuit occasionnelles sont à prévoir).Profil recherchéDe formation Bac+5 Ingénieur Informatique ou expérience équivalente, vous justifiez d'au moins 5 ans d'expérience acquise en conception et exploitation d'architectures Cloud Public/Privé.\nCompétences attendues :\n· Expérience reconnue dans la mise en œuvre des solutions IAAS/PAAS, dans des environnements hybrides et fortement sécurisés.\n· Forte expertise sur AZURE et/ou autre Hyperscaler Cloud.\n· Très bonnes connaissances des services d'infrastructures, sécurité et réseau des grands opérateurs Cloud publics.\n· Bonne connaissance de Kubernetes.\n \nLe poste à pourvoir est à temps plein et basé à Paris-Orly avec des déplacements à prévoir sur Paris-Charles de Gaulle.\n \nTélétravail possible à 50 %.\nPackage de rémunération et avantages (fixe, variable, participation, intéressement, CET, plan-épargne entreprise, mutuelle, CSE).\n \nLe Groupe ADP mène une politique engagée depuis plus de 30 ans en faveur de l'égalité des chances, de l'insertion professionnelle et de l'emploi des personnes en situation de handicap. L'inclusion des différences fait la force du Groupe ADP, signataire de la Charte de la Diversité. Convaincus que le talent n'a pas d'âge, ni genre, ni origine, ni orientation sexuelle, ni croyance, nous veillons à créer un environnement de travail inclusif pour nos collaborateurs, tenant compte des spécificités de chacun. Alors place à l'action ! Postulez dès maintenant pour rejoindre le groupe ADP. Pour en savoir plus sur notre politique en matière de diversité équité et inclusion, n'hésitez pas à consulter notre site Groupe ; #LI-GADP"
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2856162",
+    "title": "Architecte Infrastructure Cloud F/H (H/F)",
+    "company": "LA POSTE GROUPE ",
+    "location": "87",
+    "remote": null,
+    "publication_date": "2024-08-24",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": null,
+        "Experience": "Expérience exigée",
+        "Level": null
+    },
+    "company_data": {
+        "sector": null,
+        "company_size": null,
+        "turnover_in_millions": null
+    },
+    "description": "La Poste Groupe change, nos métiers évoluent.\n Etre toujours au plus près des Français, développer la confiance dans le numérique et être acteur de la transformation écologique, c'est aussi le sens de notre métier.\n Rejoindre La Poste Groupe, c'est rejoindre une entreprise responsable, riche de ses  collaborateurs !\n Pour l'égalité des chances, La Poste fait vivre la diversité. Nos postes sont ouverts à toutes et à tous.\n Vous aussi, engagez-vous à nos côtés pour donner du sens à votre métier. \n\nfilière Métier\n\nNumérique / IT / SI \n\nmission\n\nAu sein d'i-TEAM, DSI du groupe La Poste, la Direction Infrastructure Datacenter et Cloud a comme missions :\n\n- Construire, piloter, mettre en œuvre et faire évoluer le programme Infrastructure du Groupe selon le cadre d'Architecture\n\n- Définir et accompagner les transformations d'infrastructure nécessaires au développement des projets et solutions métiers du Groupe et de ses partenaires\n\n- Entretenir et faire fonctionner les infrastructures du SI du groupe La Poste.\n\nAu sein de la direction, le Département Architecture a pour mission principale de définir, concevoir et de piloter la construction du programme d'infrastructures, en phase avec les besoins métiers de ses partenaires et selon la stratégie d'architecture SI du groupe.\n\nDans ce contexte, vous serez :\n\n- Un acteur majeur dans la construction de nos solutions Cloud\n\n- L'interlocuteur privilégié des équipes projets de nos partenaires pour les accompagner dans la définition, la construction de solutions techniques et pour faciliter leur transition vers les technologies Cloud.\n\n- Il peut être amené à prendre la responsabilité d'une offre de services techniques qui consiste à :\n\no Définir, maintenir sa roadmap et sa trajectoire d'évolution,\n\no Planifier les évolutions et animer l'équipe en charge de sa construction,\n\no Être le référent et communiquer autour de son offre de services.\n\n Télétravail :oui \n\nprofil\n\nDe formation niveau BAC +5 et spécialisé en définition d'architecture SI, vous maitrisez l'ensemble des technologies d'infrastructures et en particulier celles du Cloud (Openshift, VmWare, Nutanix, cloud public).\n\nVous avez démontré votre capacité à travailler dans des contextes projets exigeants et agiles (DevOPS, SafE).\n\nVous possédez le sens du service et un très bon relationnel pour pouvoir accompagner nos partenaires dans leur transformation digitale.\n\nL'animation d'équipes techniques est un plus.\n\nVous avez au minimum 3 d'expérience sur un poste similaire.\n\nLa maîtrise de l'anglais technique est indispensable.\n\nVous serez amené à vous déplacer ponctuellement sur de courtes durées sur d'autres sites du groupe en France.\n\nFormation et expérience\n\nVotre environnement de travail :\n\nI-Team, c'est une famille bienveillante qui saura vous chouchouter :\n\n- Possibilité de télétravail : 2 jours\n\n- 9 semaines de congés-RTT \n\n- Avantages sociaux : Famille, transport, vacances, quotidien, \n\n- Une entreprise à mission + des valeurs = 1ère entreprise mondiale en termes de RSE : la classe non ?\n\n- Une rémunération attractive, basée sur votre expérience et une étude de marché"
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2856076",
+    "title": "Architecte expert cloud F/H (Basé à Orly) (H/F)",
+    "company": "GROUPE ADP ",
+    "location": "92",
+    "remote": null,
+    "publication_date": "2024-08-24",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": null,
+        "Experience": "Expérience exigée",
+        "Level": null
+    },
+    "company_data": {
+        "sector": null,
+        "company_size": null,
+        "turnover_in_millions": null
+    },
+    "description": "Localisation du poste à pourvoir : OrlyDescription de l'entrepriseLe Groupe ADP conçoit, aménage et gère des aéroports à Paris et dans le monde entier. Présent dans 50 pays et dans près de 150 aéroports, il emploie plus de 24 000 collaborateurs dans des métiers aussi divers que ses activités : maintenance, data analyse, immobilier, informatique et cybersécurité, ingénierie, finances, exploitation, environnement RSE, etc. Rejoindre le Groupe ADP, c'est prendre part à l'histoire des pionniers de l'aviation et l'opportunité unique de bâtir avec nous l'aéroport de demain. C'est aussi porter les valeurs d'hospitalité et proposer à nos clients une expérience sur mesure. Le Groupe ADP s'engage également pour plus d'équité en entreprise : parité, mixité, diversité, emploi de personnes en situation de handicap, encouragement à l'engagement citoyen, etc. \nContexte de la missonDescription de la missionAu sein de l'équipe cloud / CCOE des Opérations de la Direction des Systèmes d'Information, vous prenez en charge la conception technique des architectures cloud (externes et l'architecture Kubernetes interne). En tant qu'expert, vous assurez le design des solutions déployées sur les différents environnements clouds internes, notamment la mise en place d'un environnement Kubernetes, mais également sur les clouds externes, avec des environnements AZURE (en place) et Trusted cloud (à définir dans les prochains mois). \n\nA ce titre vous : - Étudiez et proposez un catalogue des services Cloud AAS (As A Service) afin d'accompagner au mieux les besoins des projets/applications en place ou arrivant sur le cloud, - Contribuez à l'adaptation de la stratégie DevOps pour l'automatisation des modèles réseau, sécurité, policies. et des Landing zones et rendre les équipes de développement autonomes. - Participez, conseillez, guidez les projets dans le choix de leur architecture et solution cloud (exemple : MarketPlace, retail, outils métiers aéroportuaires). - Animez le comité de validation d'architecture Cloud (DAC : Design Authority Cloud). Avec le responsable du CCOE, vous participez à la définition des stratégies et politiques Cloud et vous contribuez tous deux avec le Finops à optimiser/maîtriser la dimension financière et RSE des services consommés. Vous accompagnez les équipes Opérations dans la mise en œuvre, le maintien en conditions opérationnelles, de sécurité et le monitoring des différentes architectures. Vous participez aux astreintes du pôle (des vacations de nuit occasionnelles sont à prévoir).Profil recherchéDe formation Bac+5 Ingénieur Informatique ou expérience équivalente, vous justifiez d'au moins 5 ans d'expérience acquise en conception et exploitation d'architectures Cloud Public/Privé.\nCompétences attendues :\n· Expérience reconnue dans la mise en œuvre des solutions IAAS/PAAS, dans des environnements hybrides et fortement sécurisés.\n· Forte expertise sur AZURE et/ou autre Hyperscaler Cloud.\n· Très bonnes connaissances des services d'infrastructures, sécurité et réseau des grands opérateurs Cloud publics.\n· Bonne connaissance de Kubernetes.\n \nLe poste à pourvoir est à temps plein et basé à Paris-Orly avec des déplacements à prévoir sur Paris-Charles de Gaulle.\n \nTélétravail possible à 50 %.\nPackage de rémunération et avantages (fixe, variable, participation, intéressement, CET, plan-épargne entreprise, mutuelle, CSE).\n \nLe Groupe ADP mène une politique engagée depuis plus de 30 ans en faveur de l'égalité des chances, de l'insertion professionnelle et de l'emploi des personnes en situation de handicap. L'inclusion des différences fait la force du Groupe ADP, signataire de la Charte de la Diversité. Convaincus que le talent n'a pas d'âge, ni genre, ni origine, ni orientation sexuelle, ni croyance, nous veillons à créer un environnement de travail inclusif pour nos collaborateurs, tenant compte des spécificités de chacun. Alors place à l'action ! Postulez dès maintenant pour rejoindre le groupe ADP. Pour en savoir plus sur notre politique en matière de diversité équité et inclusion, n'hésitez pas à consulter notre site Groupe ; #LI-GADP"
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2856041",
+    "title": "Architecte expert cloud F/H (Basé à Orly) (H/F)",
+    "company": "GROUPE ADP ",
+    "location": "93",
+    "remote": null,
+    "publication_date": "2024-08-24",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": null,
+        "Experience": "Expérience exigée",
+        "Level": null
+    },
+    "company_data": {
+        "sector": null,
+        "company_size": null,
+        "turnover_in_millions": null
+    },
+    "description": "Localisation du poste à pourvoir : OrlyDescription de l'entrepriseLe Groupe ADP conçoit, aménage et gère des aéroports à Paris et dans le monde entier. Présent dans 50 pays et dans près de 150 aéroports, il emploie plus de 24 000 collaborateurs dans des métiers aussi divers que ses activités : maintenance, data analyse, immobilier, informatique et cybersécurité, ingénierie, finances, exploitation, environnement RSE, etc. Rejoindre le Groupe ADP, c'est prendre part à l'histoire des pionniers de l'aviation et l'opportunité unique de bâtir avec nous l'aéroport de demain. C'est aussi porter les valeurs d'hospitalité et proposer à nos clients une expérience sur mesure. Le Groupe ADP s'engage également pour plus d'équité en entreprise : parité, mixité, diversité, emploi de personnes en situation de handicap, encouragement à l'engagement citoyen, etc. \nContexte de la missonDescription de la missionAu sein de l'équipe cloud / CCOE des Opérations de la Direction des Systèmes d'Information, vous prenez en charge la conception technique des architectures cloud (externes et l'architecture Kubernetes interne). En tant qu'expert, vous assurez le design des solutions déployées sur les différents environnements clouds internes, notamment la mise en place d'un environnement Kubernetes, mais également sur les clouds externes, avec des environnements AZURE (en place) et Trusted cloud (à définir dans les prochains mois). \n\nA ce titre vous : - Étudiez et proposez un catalogue des services Cloud AAS (As A Service) afin d'accompagner au mieux les besoins des projets/applications en place ou arrivant sur le cloud, - Contribuez à l'adaptation de la stratégie DevOps pour l'automatisation des modèles réseau, sécurité, policies. et des Landing zones et rendre les équipes de développement autonomes. - Participez, conseillez, guidez les projets dans le choix de leur architecture et solution cloud (exemple : MarketPlace, retail, outils métiers aéroportuaires). - Animez le comité de validation d'architecture Cloud (DAC : Design Authority Cloud). Avec le responsable du CCOE, vous participez à la définition des stratégies et politiques Cloud et vous contribuez tous deux avec le Finops à optimiser/maîtriser la dimension financière et RSE des services consommés. Vous accompagnez les équipes Opérations dans la mise en œuvre, le maintien en conditions opérationnelles, de sécurité et le monitoring des différentes architectures. Vous participez aux astreintes du pôle (des vacations de nuit occasionnelles sont à prévoir).Profil recherchéDe formation Bac+5 Ingénieur Informatique ou expérience équivalente, vous justifiez d'au moins 5 ans d'expérience acquise en conception et exploitation d'architectures Cloud Public/Privé.\nCompétences attendues :\n· Expérience reconnue dans la mise en œuvre des solutions IAAS/PAAS, dans des environnements hybrides et fortement sécurisés.\n· Forte expertise sur AZURE et/ou autre Hyperscaler Cloud.\n· Très bonnes connaissances des services d'infrastructures, sécurité et réseau des grands opérateurs Cloud publics.\n· Bonne connaissance de Kubernetes.\n \nLe poste à pourvoir est à temps plein et basé à Paris-Orly avec des déplacements à prévoir sur Paris-Charles de Gaulle.\n \nTélétravail possible à 50 %.\nPackage de rémunération et avantages (fixe, variable, participation, intéressement, CET, plan-épargne entreprise, mutuelle, CSE).\n \nLe Groupe ADP mène une politique engagée depuis plus de 30 ans en faveur de l'égalité des chances, de l'insertion professionnelle et de l'emploi des personnes en situation de handicap. L'inclusion des différences fait la force du Groupe ADP, signataire de la Charte de la Diversité. Convaincus que le talent n'a pas d'âge, ni genre, ni origine, ni orientation sexuelle, ni croyance, nous veillons à créer un environnement de travail inclusif pour nos collaborateurs, tenant compte des spécificités de chacun. Alors place à l'action ! Postulez dès maintenant pour rejoindre le groupe ADP. Pour en savoir plus sur notre politique en matière de diversité équité et inclusion, n'hésitez pas à consulter notre site Groupe ; #LI-GADP"
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2856027",
+    "title": "Architecte expert cloud F/H (Basé à Orly) (H/F)",
+    "company": "GROUPE ADP ",
+    "location": "92",
+    "remote": null,
+    "publication_date": "2024-08-24",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": null,
+        "Experience": "Expérience exigée",
+        "Level": null
+    },
+    "company_data": {
+        "sector": null,
+        "company_size": null,
+        "turnover_in_millions": null
+    },
+    "description": "Localisation du poste à pourvoir : OrlyDescription de l'entrepriseLe Groupe ADP conçoit, aménage et gère des aéroports à Paris et dans le monde entier. Présent dans 50 pays et dans près de 150 aéroports, il emploie plus de 24 000 collaborateurs dans des métiers aussi divers que ses activités : maintenance, data analyse, immobilier, informatique et cybersécurité, ingénierie, finances, exploitation, environnement RSE, etc. Rejoindre le Groupe ADP, c'est prendre part à l'histoire des pionniers de l'aviation et l'opportunité unique de bâtir avec nous l'aéroport de demain. C'est aussi porter les valeurs d'hospitalité et proposer à nos clients une expérience sur mesure. Le Groupe ADP s'engage également pour plus d'équité en entreprise : parité, mixité, diversité, emploi de personnes en situation de handicap, encouragement à l'engagement citoyen, etc. \nContexte de la missonDescription de la missionAu sein de l'équipe cloud / CCOE des Opérations de la Direction des Systèmes d'Information, vous prenez en charge la conception technique des architectures cloud (externes et l'architecture Kubernetes interne). En tant qu'expert, vous assurez le design des solutions déployées sur les différents environnements clouds internes, notamment la mise en place d'un environnement Kubernetes, mais également sur les clouds externes, avec des environnements AZURE (en place) et Trusted cloud (à définir dans les prochains mois). \n\nA ce titre vous : - Étudiez et proposez un catalogue des services Cloud AAS (As A Service) afin d'accompagner au mieux les besoins des projets/applications en place ou arrivant sur le cloud, - Contribuez à l'adaptation de la stratégie DevOps pour l'automatisation des modèles réseau, sécurité, policies. et des Landing zones et rendre les équipes de développement autonomes. - Participez, conseillez, guidez les projets dans le choix de leur architecture et solution cloud (exemple : MarketPlace, retail, outils métiers aéroportuaires). - Animez le comité de validation d'architecture Cloud (DAC : Design Authority Cloud). Avec le responsable du CCOE, vous participez à la définition des stratégies et politiques Cloud et vous contribuez tous deux avec le Finops à optimiser/maîtriser la dimension financière et RSE des services consommés. Vous accompagnez les équipes Opérations dans la mise en œuvre, le maintien en conditions opérationnelles, de sécurité et le monitoring des différentes architectures. Vous participez aux astreintes du pôle (des vacations de nuit occasionnelles sont à prévoir).Profil recherchéDe formation Bac+5 Ingénieur Informatique ou expérience équivalente, vous justifiez d'au moins 5 ans d'expérience acquise en conception et exploitation d'architectures Cloud Public/Privé.\nCompétences attendues :\n· Expérience reconnue dans la mise en œuvre des solutions IAAS/PAAS, dans des environnements hybrides et fortement sécurisés.\n· Forte expertise sur AZURE et/ou autre Hyperscaler Cloud.\n· Très bonnes connaissances des services d'infrastructures, sécurité et réseau des grands opérateurs Cloud publics.\n· Bonne connaissance de Kubernetes.\n \nLe poste à pourvoir est à temps plein et basé à Paris-Orly avec des déplacements à prévoir sur Paris-Charles de Gaulle.\n \nTélétravail possible à 50 %.\nPackage de rémunération et avantages (fixe, variable, participation, intéressement, CET, plan-épargne entreprise, mutuelle, CSE).\n \nLe Groupe ADP mène une politique engagée depuis plus de 30 ans en faveur de l'égalité des chances, de l'insertion professionnelle et de l'emploi des personnes en situation de handicap. L'inclusion des différences fait la force du Groupe ADP, signataire de la Charte de la Diversité. Convaincus que le talent n'a pas d'âge, ni genre, ni origine, ni orientation sexuelle, ni croyance, nous veillons à créer un environnement de travail inclusif pour nos collaborateurs, tenant compte des spécificités de chacun. Alors place à l'action ! Postulez dès maintenant pour rejoindre le groupe ADP. Pour en savoir plus sur notre politique en matière de diversité équité et inclusion, n'hésitez pas à consulter notre site Groupe ; #LI-GADP"
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2854033",
+    "title": "Architecte expert cloud F/H (Basé à Orly) (H/F)",
+    "company": "GROUPE ADP ",
+    "location": "75",
+    "remote": null,
+    "publication_date": "2024-08-24",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": null,
+        "Experience": "Expérience exigée",
+        "Level": null
+    },
+    "company_data": {
+        "sector": null,
+        "company_size": null,
+        "turnover_in_millions": null
+    },
+    "description": "Localisation du poste à pourvoir : OrlyDescription de l'entrepriseLe Groupe ADP conçoit, aménage et gère des aéroports à Paris et dans le monde entier. Présent dans 50 pays et dans près de 150 aéroports, il emploie plus de 24 000 collaborateurs dans des métiers aussi divers que ses activités : maintenance, data analyse, immobilier, informatique et cybersécurité, ingénierie, finances, exploitation, environnement RSE, etc. Rejoindre le Groupe ADP, c'est prendre part à l'histoire des pionniers de l'aviation et l'opportunité unique de bâtir avec nous l'aéroport de demain. C'est aussi porter les valeurs d'hospitalité et proposer à nos clients une expérience sur mesure. Le Groupe ADP s'engage également pour plus d'équité en entreprise : parité, mixité, diversité, emploi de personnes en situation de handicap, encouragement à l'engagement citoyen, etc. \nContexte de la missonDescription de la missionAu sein de l'équipe cloud / CCOE des Opérations de la Direction des Systèmes d'Information, vous prenez en charge la conception technique des architectures cloud (externes et l'architecture Kubernetes interne). En tant qu'expert, vous assurez le design des solutions déployées sur les différents environnements clouds internes, notamment la mise en place d'un environnement Kubernetes, mais également sur les clouds externes, avec des environnements AZURE (en place) et Trusted cloud (à définir dans les prochains mois). \n\nA ce titre vous : - Étudiez et proposez un catalogue des services Cloud AAS (As A Service) afin d'accompagner au mieux les besoins des projets/applications en place ou arrivant sur le cloud, - Contribuez à l'adaptation de la stratégie DevOps pour l'automatisation des modèles réseau, sécurité, policies. et des Landing zones et rendre les équipes de développement autonomes. - Participez, conseillez, guidez les projets dans le choix de leur architecture et solution cloud (exemple : MarketPlace, retail, outils métiers aéroportuaires). - Animez le comité de validation d'architecture Cloud (DAC : Design Authority Cloud). Avec le responsable du CCOE, vous participez à la définition des stratégies et politiques Cloud et vous contribuez tous deux avec le Finops à optimiser/maîtriser la dimension financière et RSE des services consommés. Vous accompagnez les équipes Opérations dans la mise en œuvre, le maintien en conditions opérationnelles, de sécurité et le monitoring des différentes architectures. Vous participez aux astreintes du pôle (des vacations de nuit occasionnelles sont à prévoir).Profil recherchéDe formation Bac+5 Ingénieur Informatique ou expérience équivalente, vous justifiez d'au moins 5 ans d'expérience acquise en conception et exploitation d'architectures Cloud Public/Privé.\nCompétences attendues :\n· Expérience reconnue dans la mise en œuvre des solutions IAAS/PAAS, dans des environnements hybrides et fortement sécurisés.\n· Forte expertise sur AZURE et/ou autre Hyperscaler Cloud.\n· Très bonnes connaissances des services d'infrastructures, sécurité et réseau des grands opérateurs Cloud publics.\n· Bonne connaissance de Kubernetes.\n \nLe poste à pourvoir est à temps plein et basé à Paris-Orly avec des déplacements à prévoir sur Paris-Charles de Gaulle.\n \nTélétravail possible à 50 %.\nPackage de rémunération et avantages (fixe, variable, participation, intéressement, CET, plan-épargne entreprise, mutuelle, CSE).\n \nLe Groupe ADP mène une politique engagée depuis plus de 30 ans en faveur de l'égalité des chances, de l'insertion professionnelle et de l'emploi des personnes en situation de handicap. L'inclusion des différences fait la force du Groupe ADP, signataire de la Charte de la Diversité. Convaincus que le talent n'a pas d'âge, ni genre, ni origine, ni orientation sexuelle, ni croyance, nous veillons à créer un environnement de travail inclusif pour nos collaborateurs, tenant compte des spécificités de chacun. Alors place à l'action ! Postulez dès maintenant pour rejoindre le groupe ADP. Pour en savoir plus sur notre politique en matière de diversité équité et inclusion, n'hésitez pas à consulter notre site Groupe ; #LI-GADP"
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2853793",
+    "title": "Architecte expert cloud F/H (Basé à Orly) (H/F)",
+    "company": "GROUPE ADP ",
+    "location": "78",
+    "remote": null,
+    "publication_date": "2024-08-24",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": null,
+        "Experience": "Expérience exigée",
+        "Level": null
+    },
+    "company_data": {
+        "sector": null,
+        "company_size": null,
+        "turnover_in_millions": null
+    },
+    "description": "Localisation du poste à pourvoir : OrlyDescription de l'entrepriseLe Groupe ADP conçoit, aménage et gère des aéroports à Paris et dans le monde entier. Présent dans 50 pays et dans près de 150 aéroports, il emploie plus de 24 000 collaborateurs dans des métiers aussi divers que ses activités : maintenance, data analyse, immobilier, informatique et cybersécurité, ingénierie, finances, exploitation, environnement RSE, etc. Rejoindre le Groupe ADP, c'est prendre part à l'histoire des pionniers de l'aviation et l'opportunité unique de bâtir avec nous l'aéroport de demain. C'est aussi porter les valeurs d'hospitalité et proposer à nos clients une expérience sur mesure. Le Groupe ADP s'engage également pour plus d'équité en entreprise : parité, mixité, diversité, emploi de personnes en situation de handicap, encouragement à l'engagement citoyen, etc. \nContexte de la missonDescription de la missionAu sein de l'équipe cloud / CCOE des Opérations de la Direction des Systèmes d'Information, vous prenez en charge la conception technique des architectures cloud (externes et l'architecture Kubernetes interne). En tant qu'expert, vous assurez le design des solutions déployées sur les différents environnements clouds internes, notamment la mise en place d'un environnement Kubernetes, mais également sur les clouds externes, avec des environnements AZURE (en place) et Trusted cloud (à définir dans les prochains mois). \n\nA ce titre vous : - Étudiez et proposez un catalogue des services Cloud AAS (As A Service) afin d'accompagner au mieux les besoins des projets/applications en place ou arrivant sur le cloud, - Contribuez à l'adaptation de la stratégie DevOps pour l'automatisation des modèles réseau, sécurité, policies. et des Landing zones et rendre les équipes de développement autonomes. - Participez, conseillez, guidez les projets dans le choix de leur architecture et solution cloud (exemple : MarketPlace, retail, outils métiers aéroportuaires). - Animez le comité de validation d'architecture Cloud (DAC : Design Authority Cloud). Avec le responsable du CCOE, vous participez à la définition des stratégies et politiques Cloud et vous contribuez tous deux avec le Finops à optimiser/maîtriser la dimension financière et RSE des services consommés. Vous accompagnez les équipes Opérations dans la mise en œuvre, le maintien en conditions opérationnelles, de sécurité et le monitoring des différentes architectures. Vous participez aux astreintes du pôle (des vacations de nuit occasionnelles sont à prévoir).Profil recherchéDe formation Bac+5 Ingénieur Informatique ou expérience équivalente, vous justifiez d'au moins 5 ans d'expérience acquise en conception et exploitation d'architectures Cloud Public/Privé.\nCompétences attendues :\n· Expérience reconnue dans la mise en œuvre des solutions IAAS/PAAS, dans des environnements hybrides et fortement sécurisés.\n· Forte expertise sur AZURE et/ou autre Hyperscaler Cloud.\n· Très bonnes connaissances des services d'infrastructures, sécurité et réseau des grands opérateurs Cloud publics.\n· Bonne connaissance de Kubernetes.\n \nLe poste à pourvoir est à temps plein et basé à Paris-Orly avec des déplacements à prévoir sur Paris-Charles de Gaulle.\n \nTélétravail possible à 50 %.\nPackage de rémunération et avantages (fixe, variable, participation, intéressement, CET, plan-épargne entreprise, mutuelle, CSE).\n \nLe Groupe ADP mène une politique engagée depuis plus de 30 ans en faveur de l'égalité des chances, de l'insertion professionnelle et de l'emploi des personnes en situation de handicap. L'inclusion des différences fait la force du Groupe ADP, signataire de la Charte de la Diversité. Convaincus que le talent n'a pas d'âge, ni genre, ni origine, ni orientation sexuelle, ni croyance, nous veillons à créer un environnement de travail inclusif pour nos collaborateurs, tenant compte des spécificités de chacun. Alors place à l'action ! Postulez dès maintenant pour rejoindre le groupe ADP. Pour en savoir plus sur notre politique en matière de diversité équité et inclusion, n'hésitez pas à consulter notre site Groupe ; #LI-GADP"
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2853169",
+    "title": "Architecte expert cloud F/H (H/F)",
+    "company": "GROUPE ADP ",
+    "location": "94",
+    "remote": null,
+    "publication_date": "2024-08-24",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": null,
+        "Experience": "Expérience exigée",
+        "Level": null
+    },
+    "company_data": {
+        "sector": null,
+        "company_size": null,
+        "turnover_in_millions": null
+    },
+    "description": "Localisation du poste à pourvoir : OrlyDescription de l'entrepriseLe Groupe ADP conçoit, aménage et gère des aéroports à Paris et dans le monde entier. Présent dans 50 pays et dans près de 150 aéroports, il emploie plus de 24 000 collaborateurs dans des métiers aussi divers que ses activités : maintenance, data analyse, immobilier, informatique et cybersécurité, ingénierie, finances, exploitation, environnement RSE, etc. Rejoindre le Groupe ADP, c'est prendre part à l'histoire des pionniers de l'aviation et l'opportunité unique de bâtir avec nous l'aéroport de demain. C'est aussi porter les valeurs d'hospitalité et proposer à nos clients une expérience sur mesure. Le Groupe ADP s'engage également pour plus d'équité en entreprise : parité, mixité, diversité, emploi de personnes en situation de handicap, encouragement à l'engagement citoyen, etc. \nContexte de la missonDescription de la missionAu sein de l'équipe cloud / CCOE des Opérations de la Direction des Systèmes d'Information, vous prenez en charge la conception technique des architectures cloud (externes et l'architecture Kubernetes interne). En tant qu'expert, vous assurez le design des solutions déployées sur les différents environnements clouds internes, notamment la mise en place d'un environnement Kubernetes, mais également sur les clouds externes, avec des environnements AZURE (en place) et Trusted cloud (à définir dans les prochains mois). \n\nA ce titre vous : - Étudiez et proposez un catalogue des services Cloud AAS (As A Service) afin d'accompagner au mieux les besoins des projets/applications en place ou arrivant sur le cloud, - Contribuez à l'adaptation de la stratégie DevOps pour l'automatisation des modèles réseau, sécurité, policies. et des Landing zones et rendre les équipes de développement autonomes. - Participez, conseillez, guidez les projets dans le choix de leur architecture et solution cloud (exemple : MarketPlace, retail, outils métiers aéroportuaires). - Animez le comité de validation d'architecture Cloud (DAC : Design Authority Cloud). Avec le responsable du CCOE, vous participez à la définition des stratégies et politiques Cloud et vous contribuez tous deux avec le Finops à optimiser/maîtriser la dimension financière et RSE des services consommés. Vous accompagnez les équipes Opérations dans la mise en œuvre, le maintien en conditions opérationnelles, de sécurité et le monitoring des différentes architectures. Vous participez aux astreintes du pôle (des vacations de nuit occasionnelles sont à prévoir).Profil recherchéDe formation Bac+5 Ingénieur Informatique ou expérience équivalente, vous justifiez d'au moins 5 ans d'expérience acquise en conception et exploitation d'architectures Cloud Public/Privé.\nCompétences attendues :\n· Expérience reconnue dans la mise en œuvre des solutions IAAS/PAAS, dans des environnements hybrides et fortement sécurisés.\n· Forte expertise sur AZURE et/ou autre Hyperscaler Cloud.\n· Très bonnes connaissances des services d'infrastructures, sécurité et réseau des grands opérateurs Cloud publics.\n· Bonne connaissance de Kubernetes.\n \nLe poste à pourvoir est à temps plein et basé à Paris-Orly avec des déplacements à prévoir sur Paris-Charles de Gaulle.\n \nTélétravail possible à 50 %.\nPackage de rémunération et avantages (fixe, variable, participation, intéressement, CET, plan-épargne entreprise, mutuelle, CSE).\n \nLe Groupe ADP mène une politique engagée depuis plus de 30 ans en faveur de l'égalité des chances, de l'insertion professionnelle et de l'emploi des personnes en situation de handicap. L'inclusion des différences fait la force du Groupe ADP, signataire de la Charte de la Diversité. Convaincus que le talent n'a pas d'âge, ni genre, ni origine, ni orientation sexuelle, ni croyance, nous veillons à créer un environnement de travail inclusif pour nos collaborateurs, tenant compte des spécificités de chacun. Alors place à l'action ! Postulez dès maintenant pour rejoindre le groupe ADP. Pour en savoir plus sur notre politique en matière de diversité équité et inclusion, n'hésitez pas à consulter notre site Groupe ; #LI-GADP"
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2853152",
+    "title": "Architecte expert cloud F/H (Basé à Orly) (H/F)",
+    "company": "GROUPE ADP ",
+    "location": "94",
+    "remote": null,
+    "publication_date": "2024-08-24",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": null,
+        "Experience": "Expérience exigée",
+        "Level": null
+    },
+    "company_data": {
+        "sector": null,
+        "company_size": null,
+        "turnover_in_millions": null
+    },
+    "description": "Localisation du poste à pourvoir : OrlyDescription de l'entrepriseLe Groupe ADP conçoit, aménage et gère des aéroports à Paris et dans le monde entier. Présent dans 50 pays et dans près de 150 aéroports, il emploie plus de 24 000 collaborateurs dans des métiers aussi divers que ses activités : maintenance, data analyse, immobilier, informatique et cybersécurité, ingénierie, finances, exploitation, environnement RSE, etc. Rejoindre le Groupe ADP, c'est prendre part à l'histoire des pionniers de l'aviation et l'opportunité unique de bâtir avec nous l'aéroport de demain. C'est aussi porter les valeurs d'hospitalité et proposer à nos clients une expérience sur mesure. Le Groupe ADP s'engage également pour plus d'équité en entreprise : parité, mixité, diversité, emploi de personnes en situation de handicap, encouragement à l'engagement citoyen, etc. \nContexte de la missonDescription de la missionAu sein de l'équipe cloud / CCOE des Opérations de la Direction des Systèmes d'Information, vous prenez en charge la conception technique des architectures cloud (externes et l'architecture Kubernetes interne). En tant qu'expert, vous assurez le design des solutions déployées sur les différents environnements clouds internes, notamment la mise en place d'un environnement Kubernetes, mais également sur les clouds externes, avec des environnements AZURE (en place) et Trusted cloud (à définir dans les prochains mois). \n\nA ce titre vous : - Étudiez et proposez un catalogue des services Cloud AAS (As A Service) afin d'accompagner au mieux les besoins des projets/applications en place ou arrivant sur le cloud, - Contribuez à l'adaptation de la stratégie DevOps pour l'automatisation des modèles réseau, sécurité, policies. et des Landing zones et rendre les équipes de développement autonomes. - Participez, conseillez, guidez les projets dans le choix de leur architecture et solution cloud (exemple : MarketPlace, retail, outils métiers aéroportuaires). - Animez le comité de validation d'architecture Cloud (DAC : Design Authority Cloud). Avec le responsable du CCOE, vous participez à la définition des stratégies et politiques Cloud et vous contribuez tous deux avec le Finops à optimiser/maîtriser la dimension financière et RSE des services consommés. Vous accompagnez les équipes Opérations dans la mise en œuvre, le maintien en conditions opérationnelles, de sécurité et le monitoring des différentes architectures. Vous participez aux astreintes du pôle (des vacations de nuit occasionnelles sont à prévoir).Profil recherchéDe formation Bac+5 Ingénieur Informatique ou expérience équivalente, vous justifiez d'au moins 5 ans d'expérience acquise en conception et exploitation d'architectures Cloud Public/Privé.\nCompétences attendues :\n· Expérience reconnue dans la mise en œuvre des solutions IAAS/PAAS, dans des environnements hybrides et fortement sécurisés.\n· Forte expertise sur AZURE et/ou autre Hyperscaler Cloud.\n· Très bonnes connaissances des services d'infrastructures, sécurité et réseau des grands opérateurs Cloud publics.\n· Bonne connaissance de Kubernetes.\n \nLe poste à pourvoir est à temps plein et basé à Paris-Orly avec des déplacements à prévoir sur Paris-Charles de Gaulle.\n \nTélétravail possible à 50 %.\nPackage de rémunération et avantages (fixe, variable, participation, intéressement, CET, plan-épargne entreprise, mutuelle, CSE).\n \nLe Groupe ADP mène une politique engagée depuis plus de 30 ans en faveur de l'égalité des chances, de l'insertion professionnelle et de l'emploi des personnes en situation de handicap. L'inclusion des différences fait la force du Groupe ADP, signataire de la Charte de la Diversité. Convaincus que le talent n'a pas d'âge, ni genre, ni origine, ni orientation sexuelle, ni croyance, nous veillons à créer un environnement de travail inclusif pour nos collaborateurs, tenant compte des spécificités de chacun. Alors place à l'action ! Postulez dès maintenant pour rejoindre le groupe ADP. Pour en savoir plus sur notre politique en matière de diversité équité et inclusion, n'hésitez pas à consulter notre site Groupe ; #LI-GADP"
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2833701",
+    "title": "Architecte Infrastructures and Cloud H/F",
+    "company": "MICHAEL PAGE ",
+    "location": "FRANCE",
+    "remote": null,
+    "publication_date": "2024-08-24",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": "Salaire brut : Annuel de 75000,00 Euros à 85000,00 Euros",
+        "Experience": "Expérience exigée de 1 An(s)",
+        "Level": null
+    },
+    "company_data": {
+        "sector": "Activités des agences de publicité",
+        "company_size": null,
+        "turnover_in_millions": null
+    },
+    "description": "Pour ce rôle d'Architecte Transverse Infrastructure & Cloud, nous ne recherchons pas un expert technique sur un sujet en particulier, mais plutôt quelqu'un avec une polyvalence sur les sujets d'infrastructures et d'architecture IT. Vos missions seront donc assez diverses : \n * Cadrer et accompagner les projets de transformation des infrastructures et du Cloud,\n * Élaborer et enrichir les architectures de référence,\n * Permettre à la DSI d'être à la pointe des nouveaux outils et technologies dans votre domaine,\n * Collaborer avec les métiers et les différentes filiales pour que ces architectures servent avant tout le business,\n * Accompagner la DSI dans la conception des architectures applicatives cloud et dans l'évaluation des services managés SaaS et PaaS.\nLe futur Architecte Transverse des Infrastructures & du Cloud devra posséder les compétences suivantes : \n * Une expérience significative dans des environnements d'architectures complexes,\n * Une bonne connaissance des environnements Linux complexes,\n * Une expertise des services Cloud, en particulier sur AWS,\n * Une maîtrise des infrastructures systèmes et réseaux,\n * Une expérience dans l'interaction directe avec les métiers pour concevoir des architectures répondant à leurs besoins,\n * Un niveau d'anglais avancé,\n * Des compétences en autonomie, rigueur et communication."
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2821673",
+    "title": "ARCHITECTE CLOUD - AIX EN PROVENCE (H/F)",
+    "company": null,
+    "location": "AIX EN PROVENCE 13",
+    "remote": null,
+    "publication_date": "2024-08-24",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": null,
+        "Experience": "Débutant accepté",
+        "Level": null
+    },
+    "company_data": {
+        "sector": null,
+        "company_size": "Capgemini Choisir Capgemini, c'est choisir une entreprise où vous serez en mesure de façonner votre carrière selon vos aspirations. Avec le soutien et l'inspiration d'une communauté d'experts dans le monde entier, vous pourrez réécrire votre futur. Rejoignez-nous pour redéfinir les limites de ce qui est possible, contribuer à libérer la valeur de la technologie pour les plus grandes organisations et participer à la construction d'un monde plus durable et inclusif.",
+        "turnover_in_millions": null
+    },
+    "description": "Capgemini\n \nChoisir Capgemini, c'est choisir une entreprise où vous serez en mesure de façonner votre carrière selon vos aspirations. Avec le soutien et l'inspiration d'une communauté dexperts dans le monde entier, vous pourrez réécrire votre futur. Rejoignez-nous pour redéfinir les limites de ce qui est possible, contribuer à libérer la valeur de la technologie pour les plus grandes organisations et participer à la construction dun monde plus durable et inclusif.\nVOTRE ROLE\nVous contribuerez au développement de systèmes et programmes critiques dans le cadre des transformations Numériques, Agiles, Cloud et Data de nos clients.\nEn fonction de ses appétences, être Architecte cloud chez Capgemini c'est :\n Aider à construire la trajectoire Cloud des SI de nos clients (SaaS, PaaS, IaaS, FaaS)\n Concevoir des applications Cloud Native utilisant les bénéfices du Cloud (Scalabilité, Elasticité, Résilience)\n Identifier et concevoir les trajectoires de modernisation des applications (du lift and shift à la containerisation sous K8s - Kubernetes)\n Utiliser efficacement les services managés proposés par les différents Cloud Provider (AWS et Azure)\n Avoir des connaissances en DevSecOps pour contribuer à la diminution du time to market et au monitoring\n Sappuyer sur ses connaissances pour concevoir des solutions visant à réduire limpact écologique notamment par le vecteur financier (FinOps).VOTRE PROFIL\n Vous avez une expérience en conception et mise en œuvre de solutions dans le CLOUD\n Vous avez construit une compétence autour des services managés AWS ou AZURE\n Vous avez une connaissance de certains frameworks darchitecture comme TOGAF, IAF, \n Vous êtes orienté service client, avec une très bonne communication et une envie de progresser\n Vous êtes quelquun dagile et assurez naturellement une cohésion et un travail collaboratif dans votre équipe"
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2820293",
+    "title": "Architecte SI/Cloud- H/F - CDI",
+    "company": null,
+    "location": "TARN 81",
+    "remote": null,
+    "publication_date": "2024-08-24",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": null,
+        "Experience": "Débutant accepté",
+        "Level": null
+    },
+    "company_data": {
+        "sector": null,
+        "company_size": null,
+        "turnover_in_millions": null
+    },
+    "description": "Qui sommes-nous ?\nPierre Fabre est le 2ème laboratoire dermo-cosmétique mondial, le 2ème groupe pharmaceutique privé français et le leader des produits vendus hors prescription dans les pharmacies en France.\nSon portefeuille compte plusieurs franchises médicales et marques internationales dont Pierre Fabre Oncologie, Pierre Fabre Dermatologie, Eau Thermale Avène, Klorane, Ducray, René Furterer, A-Derma, Naturactive et Pierre Fabre Oral Care.\nImplanté depuis toujours en région Occitanie, fabricant plus de 95% de ses produits en France, le groupe emploie près de 10 000 collaborateurs dans le monde et distribue ses produits dans quelque 130 pays. Pierre Fabre est détenu à 86% par la Fondation Pierre Fabre, une fondation reconnue dutilité publique, et secondairement par ses collaborateurs à travers un plan dactionnariat salarié.\nEn 2021, Ecocert Environnement a évalué la démarche de responsabilité sociétale et environnementale du Groupe selon la norme ISO 26000 du développement durable et lui a attribué le niveau  Excellence .\nPierre Fabre est reconnu comme lun des  Meilleurs Employeurs du Monde 2021  par Forbes. Notre groupe est classé dans le Top 6 de lindustrie cosmétique et dans le Top 7 de lindustrie pharmaceutique dans le monde. Nous sommes convaincus que notre engagement et notre passion font préserver notre indépendance et vivre notre raison d'être.\nVotre mission\nAu sein de la Direction Systèmes dInformation & Acc élération Digitale (DAIS) et rattaché(e) au Directeur Département SI (Pôle Architecture dEntreprise et Digital), nous recrutons un(e) Architecte SI / Cloud en CDI à Lavaur (81, site Pastel).\nVous concevez et formalisez larchitecture des applications et services digitaux qui composent le système dinformation du Groupe, dans le respect de la politique de sécurité, des principes durbanisation (alignement référentiels, interopérabilité SI, non recouvrement fonctionnel, mutualisation des services existants) et de la stratégie Cloud.\nVous veillez à la cohérence globale du système dinformation et maintenez la cartographie du SI.\nVous contribuez activement à la planification de lévolution du SI (schéma directeur, roadmap technologique), à la définition et la mise en œuvre dun catalogue de services managés dans le Cloud et à lhybridation du SI selon 4 landing zones (Internal zone, External zone, Secured SaaS zone, Open Cloud zone).\nPlus précisément :\n- Analyse et formalise larchitecture générale de chaque nouvelle application/service, ou limpact dun changement majeur (upgrade, replatforming/refactoring, nouvelle interface SI) sur une application/service existant :- modélisation en couches (client, présentation, application, données, middleware, ) afin didentifier les différents prérequis matériels et logiciels par alignement avec les standards technologiques du Groupe, les règles Sécurité, le catalogue de services Cloud et létat de lart\n- gestion de linteropérabilité SI (couplage lâche entre les applications, identification des flux de données et mécanismes dintégration associés : API, Data streaming)\n- approche  Cloud First  en privilégiant les services managés (SaaS/PaaS) afin dassurer résilience, performance et scalabilité de lapplication/service\n- conception des modèles darchitecture dans le Cloud hybride\n- Participe aux appels doffre (RFI/RFP) pour lévaluation technique des solutions logicielles\n- Favorise lutilisation des services transverses (ESB, MDM, APIM, Data Platform), une approche plateforme et la mutualisation des moyens/solutions dans le respect des principes durbanisation\n- Identifie les leviers et opportunités technologiques au service des enjeux IT et métier,\n- Travaille en relation étroite avec les BRMs, pôles SI et acteurs métier,\n- Collabore étroitement avec la Direction des services techniques, le Centre dexpertises Cloud et la Direction Sécurité Stratégique pour faire évoluer larchitecture de référence du SI,\n- Gère la relation client : met en place de bonnes relations de travail au sein dun environnement mettant en jeu diverses parties prenantes, en facilitant la collaboration déquipes pluridisciplinaires.\nLArchitecte SI/Cloud a un rôle transverse qui nécessite :\n- Dappréhender différents contextes métier (marketing, commerce, finance, supply chain, R& D ) et technologiques\n- Connaitre les différents patterns darchitecture (C/S, Web n-tiers, micro-services) et différents types de services (On Premise, IaaS, PaaS, Hybrid PaaS, SaaS)\n- Travailler en parallèle sur plusieurs projets (environ 70 dossiers darchitecture livrés sur lannée par le pôle comportant aujourdhui 2 architectes SI)\nLArchitecte SI doit par ailleurs réussir à concilier les enjeux/contraintes SI et les exigences métier.\nIl doit avoir une approche systémique et pragmatique s"
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2781704",
+    "title": "Architecte Cloud - Pau H/F",
+    "company": "CAPGEMINI ",
+    "location": "64",
+    "remote": null,
+    "publication_date": "2024-08-23",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": null,
+        "Experience": "Expérience exigée",
+        "Level": null
+    },
+    "company_data": {
+        "sector": "Activités des sièges sociaux",
+        "company_size": "Choisir Capgemini, c'est choisir une entreprise où vous serez en mesure de façonner votre carrière selon vos aspirations. Avec le soutien et l'inspiration d'une communauté d'experts dans le monde entier, vous pourrez réécrire votre futur. Rejoignez-nous pour redéfinir les limites de ce qui est possible, contribuer à libérer la valeur de la technologie pour les plus grandes organisations et participer à la construction d'un monde plus durable et inclusif.",
+        "turnover_in_millions": null
+    },
+    "description": "POSTE : Architecte Cloud - Pau H/F\nDESCRIPTION : Vos missions :\nAu sein d'une équipe pluridisciplinaire vos missions seront de :\n* Gérer des projets de transformation Cloud de bout en bout :  se positionner comme expert dans votre domaine, et participer à la construction de la réponse aux appels d'offre.\n* Concevoir et développer des solutions Cloud opérationnelles : en participant à création de l'architecture projet, en proposant des solutions innovantes et compétitives pour nos clients et en accompagnant les équipes techniques du développement au déploiement.\n* Garantir le respect des standards d'architecture : participer à la rédaction de la documentation, et à la définition des standards.\n* Participer à la stratégie de l'agence paloise : en capitalisant vos expériences et en développant l'offre proposée par les équipes.\n* Animer ou co-animer une communauté d'expert : en participant à des ateliers de partages d'expérience ou d'innovation, et en accompagnant de jeunes architectes dans leur montée en compétence.\nPROFIL : Votre profil :\n* Diplôme en informatique, génie logiciel, Data ou équivalent.\n* Minimum 1 année d'expérience sur un poste similaire en ESN, client final ou cabinet.\n* Anglais courant.\n* Expertise dans le domaine du Cloud (AWS, Azure) et dans l'architecture multi-niveaux.\n* Maîtrise du processus d'avant-vente et de rédaction d'une réponse à appel d'offre.\n* Capacité à s'adapter rapidement aux demandes du client.\n* Capacité à animer une équipe et à fédérer.\n* Appétence pour la satisfaction client, le challenge et l'innovation."
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2780898",
+    "title": "Architecte Cloud Azure - Robotique Médical H/F",
+    "company": "VIVERIS. ",
+    "location": "34",
+    "remote": null,
+    "publication_date": "2024-08-23",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": "Salaire brut : Annuel de 45000,00 Euros à 55000,00 Euros",
+        "Experience": "Expérience exigée",
+        "Level": null
+    },
+    "company_data": {
+        "sector": "Activités des sociétés holding",
+        "company_size": "Viveris est un groupe de conseil et d'ingénierie spécialisé dans la conduite et la réalisation de projets dans les domaines de l'informatique et de l'électronique.\n\nS'engager avec Viveris, c'est l'assurance de relever des défis techniques et humains tout en travaillant sur des projets innovants dans un environnement collaboratif et solidaire.",
+        "turnover_in_millions": null
+    },
+    "description": "POSTE : Architecte Cloud Azure - Robotique Médical H/F\nDESCRIPTION : Contexte de la mission :\n\nViveris accompagne ses clients dans la migration et le développement de nouvelles applications dans le cloud.\n\nDans ce cadre, nous recherchons un Architecte Cloud afin d'accompagner notre client dans le domaine de la robotique médical à la refonte d'une application comprenant une migration vers le cloud Azure.\n\nAu sein d'un pôle R&D, vous êtes intégré à une équipe logiciel d'une vingtaine de personnes fonctionnant en mode Agile. \n\nResponsabilités :\n- Analyser le besoin et concevoir la solution cloud adaptée ;\n - Mettre en oeuvre les mécanismes de sécurité cloud ;\n - Migrer les applications vers le cloud ;\n - En parallèle de la mission, participer aux activités cloud de Viveris.\nCartes tickets restaurant\nPROFIL : Profil recherché :\n- Diplômé d'une formation supérieure en informatique, vous avez au moins 5 ans d'expérience en ingénierie cloud, de préférence Azure.\n- Vous avez un niveau d'anglais professionnel.\n- Idéalement, vous connaissez déjà le domaine du médical et les normes associées.\n\nCompétences techniques :\n- Microsoft Azure ;\n - L'environnement Windows ;\n - Le langage C++.\n\nNos avantages :\n- Rémunération attractive et évolutive ;\n- Mutuelle familiale à garantie haute ;\n - Tickets restaurant pris en charge à 60% ;\n- 100% titre de transport urbain remboursé ;\n - Primes d'intéressement, de participation et de cooptation ;\n - 2 jours de télétravail par semaine ;\n - Formation continue avec LinkedIn Learning et nos communautés techniques."
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2779674",
+    "title": "Architecte Cloud - Dsi - Ile de France H/F",
+    "company": "SOPRA STERIA ",
+    "location": "75",
+    "remote": null,
+    "publication_date": "2024-08-23",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": null,
+        "Experience": "Expérience exigée",
+        "Level": null
+    },
+    "company_data": {
+        "sector": "Conseil en systèmes et logiciels informatiques",
+        "company_size": "Sopra Steria, acteur majeur de la Tech en Europe avec 56 000 collaborateurs dans près de 30 pays, est reconnu pour ses activités de conseil, de services numériques et d'édition de logiciels. Il aide ses clients à mener leur transformation digitale et à obtenir des bénéfices concrets et durables. Le Groupe apporte une réponse globale aux enjeux de compétitivité des grandes entreprises et organisations, combinant une connaissance approfondie des secteurs d'activité et des technolog...",
+        "turnover_in_millions": null
+    },
+    "description": "POSTE : Architecte Cloud - Dsi - Ile de France H/F\nDESCRIPTION : Votre futur environnement de travail\n\nVous intégrez la Direction du Système d'Information interne de Sopra Steria qui a pour rôle de garantir le bon fonctionnement du SI interne pour l'ensemble des processus de gestion des domaines tels que la RH, la Finance, le Commerce, les Achats, la RSE, et ce sur l'ensemble des entités du Groupe.\n\nGérant un portefolio de plus de 130 applications, la DSI est notamment responsable de l'urbanisation du Système d'Information interne et de son maintien en condition opérationnelle et de sécurité. A cet effet, elle assure la conception, la mise en oeuvre, le déploiement et l'intégration de solutions informatiques fiables et adaptées aux enjeux et à la stratégie du Groupe.\n\nA travers notre programme de mise en place d'une plateforme cloud Data d'entreprise que vous intégrez, vous contribuez à valoriser le patrimoine data issu de ce portfolio afin de servir les enjeux de stratégie Data Driven de l'entreprise. \n \nVotre rôle et vos missions\n\nEn tant qu'Architecte Cloud, vous concevez et participez à la mise en oeuvre des solutions cloud permettant de soutenir la transformation du SI du groupe Sopra Steria. Vous êtes leader de cette modernisation et travaillez en premier lieu au déploiement de l'architecture Data dans le cloud.\n\nVos principales missions sont :\n-  Analyser les besoins\n-  Concevoir les architectures cloud adaptées au contexte du SI Sopra Steria, en respectant les politiques du Groupe\n-  Contribuer à leur mise en oeuvre\n-  Concevoir et mettre en oeuvre des services de Data Governance et des systèmes et des fonctionnalités pour classer les données\n-  Suivre les flux, sécuriser leur accès et auditer leur utilisation\n-  Optimiser les architectures définies et s'assurer de leur niveau de sécurité\n-  Contribuer à la mise en oeuvre du modèle d'exploitation de ces architectures\n-  Participer à la résolution des problèmes en lien avec les équipes exploitation\n-  Anticiper les évolutions, évaluer et recommander de nouveaux services\n\nVous travaillez en étroite collaboration avec les équipes infrastructures de la DSI : équipes cloud, réseau et sécurité.\n\nCe que nous vous offrons :\n-  Être au coeur de la transformation et la modernisation du SI d'un Groupe de près de 55 000 personnes,\n-  Participer à des projets innovants dans un contexte international et dans un environnement technologique riche et varié,\n-  Intégrer une équipe dynamique, en forte proximité avec les autres équipes de la DSI et les directions fonctionnelles et opérationnelles du Groupe\n-  Un accord télétravail pour télétravailler jusqu'à 2 jours par semaine selon vos missions.\n-  Un package avantages intéressant : une mutuelle, un CSE, des titres restaurants, un accord\n-  D'intéressement, des primes vacances et cooptation.\n-  Un accompagnement individualisé avec un mentor.\n-  Des opportunités de carrières multiples : plus de 30 familles de métiers, autant de passerelles à imaginer ensemble.\n-  Plusieurs centaines de formations accessibles en toute autonomie depuis l'app mobile avec Sopra Steria Academy.\n-  La possibilité de s'engager auprès de notre fondation ou de notre partenaire « Vendredi ».\n-  L'opportunité de rejoindre le collectif Tech'Me UP (formations, conférences, veille, et bien plus encore).\n\nEmployeur inclusif et engagé, notre société oeuvre chaque jour pour lutter contre toute forme de discrimination et favoriser un environnement de travail respectueux. C'est pourquoi, attachés à la mixité et à la diversité, nous encourageons toutes les candidatures et tous les profils.\n\nhttps://www.soprasteria.fr/nous-connaitre/nos-engagements\nPROFIL : Vous avez une expérience d'au moins 3 ans sur des projets de transition d'infrastructure vers le cloud et de modernisation d'applications dans le Cloud. Une expérience en Data Warehousing et Business Intelligence est indispensable pour ce poste. Vous êtes issu(e) d'une école d'Ingénieur ou d'une formation universitaire équivalente.\n\nCurieux(se) et doté(e) d'un bon relationnel, vous maîtrisez la compréhension des besoins fonctionnels pour réaliser la conception technique et la mise en oeuvre d'architectures cloud.\n\nVous disposez d'un bon niveau d'anglais (oral comme écrit)."
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2778347",
+    "title": "Architecte Infrastructure Cloud H/F",
+    "company": "ANDERSON RH ",
+    "location": "33",
+    "remote": null,
+    "publication_date": "2024-08-23",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": null,
+        "Experience": "Expérience exigée",
+        "Level": null
+    },
+    "company_data": {
+        "sector": null,
+        "company_size": "Cabinet de recrutement de Cadres et Dirigeants",
+        "turnover_in_millions": null
+    },
+    "description": "Issu(e) d'une formation supérieure en informatique de niveau Bac+5 ou équivalent\nVous disposez d'une expérience significative d'au moins 7 ans dans le domaine des technologies Microsoft. \nVous avez déjà participé à des projets de mise en place de plateforme IAAS avec Azure \nVous maitrisez aussi bien techniquement que fonctionnellement la solution. \nA l'aise avec la relation client, en capacité à répondre à des cahiers des charges et défendre votre proposition, vous participerez aux phases d'avant-vente. \nVous maitrisez :\nMicrosoft Cloud Adoption Framework\nAzure Compute, Storage & Network Services\nWindows Server\nHyper-V/VMWare\nPowerShell, Azure CLI\nUne connaissance des technologies suivantes serait un plus :\nAnsible\nTerraform VEEAM\nRedHat\nAWS\nMicrosoft Cloud Adoption Framework Azure Compute, Storage & Network Services Windows Server Hyper-V/VMWare PowerShell, Azure CLI\nVotre mission :\nVous aurez à mettre en place d'infrastructure Cloud Azure. Vous conseillerez également nos clients dans leurs démarchent DevOps, SecOps, FinOps\nConseiller nos clients dans leur « Journey to the cloud » en collaboration avec des consultants Métier\nDéfinir et mettre en place les Landing Zone de nos clients\nAssurer des projets de migration Lift and Shift, de refonte d'infrastructure ou d'extension vers le cloud\nFormer nos clients à s'approprier les infrastructures Cloud Azure\nParticipation aux phases d'avant-vente\nRédaction de document d'architecture\nAudit, sécurisation de plate-forme\nMicrosoft Cloud Adoption Framework Azure Compute, Storage & Network Services Windows Server Hyper-V/VMWare PowerShell, Azure CLI\nVotre mission :\nVous aurez à mettre en place d'infrastructure Cloud Azure. Vous conseillerez également nos clients dans leurs démarchent DevOps, SecOps, FinOps\nConseiller nos clients dans leur « Journey to the cloud » en collaboration avec des consultants Métier\nDéfinir et mettre en place les Landing Zone de nos clients\nAssurer des projets de migration Lift and Shift, de refonte d'infrastructure ou d'extension vers le cloud\nFormer nos clients à s'approprier les infrastructures Cloud Azure\nParticipation aux phases d'avant-vente\nRédaction de document d'architecture\nAudit, sécurisation de plate-forme\nIssu(e) d'une formation supérieure en informatique de niveau Bac+5\nVous disposez d'une expérience significative d'au moins 7 ans dans le domaine des technologies Microsoft. \nVous avez déjà participé à des projets de mise en place de plateforme IAAS avec Azure \nVous maitrisez aussi bien techniquement que fonctionnellement la solution. \nA l'aise avec la relation client, en capacité à répondre à des cahiers des charges et défendre votre proposition, vous participerez aux phases d'avant-vente. \nVous maitrisez :\nMicrosoft Cloud Adoption Framework\nAzure Compute, Storage & Network Services\nWindows Server\nHyper-V/VMWare\nPowerShell, Azure CLI\nUne connaissance des technologies suivantes serait appréciée\nAnsible\nTerraform VEEAM\nRedHat\nAWS\nCongés additionnels \nIntéressement et participation \nTélétravail \nMutuelle d'entreprise \nTickets restaurant"
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2777477",
+    "title": "Architecte Cloud & DevOps H/F",
+    "company": "ANDERSON RH ",
+    "location": "FRANCE",
+    "remote": null,
+    "publication_date": "2024-08-23",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": null,
+        "Experience": "Expérience exigée",
+        "Level": null
+    },
+    "company_data": {
+        "sector": null,
+        "company_size": "Cabinet de recrutement de Cadres et Dirigeants",
+        "turnover_in_millions": null
+    },
+    "description": "- De formation supérieure Bac+5\n- 5 ans d'expérience sur des sujets Cloud\n- Expérience sur au moins un langage de programmation (Python, Java or Go)\n- Expérience sur des outils de déploiement automatisé (Terraform, Cloudformation, Chef, Ansible, Puppet)\n- Certification et expérience sur un fournisseur cloud public (AWS, Azure, GCP)\n- Anglais professionnel indispensable\n- Les profils actuellement freelance ne sont pas acceptés\n- Formation BAC+5 indispensable\n- Concevoir des applications Cloud Native\n- Mettre en place des pipelines d'intégration/déploiement continus (CI/CD)\n- Accompagner et participer aux choix technologiques de solutions\n- Mettre en place des solutions de monitoring/supervision/logs management\n- Définir et mettre en place la stratégie de migration et gouvernance des applications dans le Cloud\nLes compétences techniques recherchées :\n- Expérience sur au moins un langage de programmation (Python, Java or Go)\n- Expérience sur des outils de déploiement automatisé (Terraform, Cloudformation, Chef, Ansible, Puppet)\n- Mise en place d'une chaine CI/CD (Gitlab CI/CD, Jenkin)\n- Expérience sur un fournisseur cloud public (AWS, Azure, GCP)\n- Conception d'Architecture Cloud Native (Docker, K8s, micro-service, API, bus de message, Event-driven, NoSQL)\n- Solutions transverses (ELK, Grafana, Prometheus, Dynatrace, New Relic Datadog)\n- Participer aux avant-ventes et répondre aux appels d'offres en équipe\n- Prendre part au recrutement, au coaching et à la montée en compétences des collaborateurs\n- Encadrer et piloter des équipes techniques sur des projets Cloud & DevOps\n- Discuter et challenger les équipes internes sur des sujets de veille technologique\n- Rédiger des publications en cohérence avec le positionnement de notre Groupe Aujourd'hui, nous cherchons des personnalités qui enrichiront le Groupe.\nProfil recherché :\nDiplômé d'Ecole d'ingénieurs ou Master Bac+5 en informatique\nAu moins 5 ans d'expérience sur des sujets Cloud\nCapacité à fédérer les experts autour d'une demande client\nDéfinition de solutions techniques avec le client\nBonne connaissance des pratiques agiles et des architectures techniques et organisationnelles associées (Safe, Scrum, Lean, Kanbanscrum, Leanstartup)\nPolyvalence, réactivité, curiosité et sens du collectif\nLes compétences techniques recherchées :\n- Expérience sur au moins un langage de programmation (Python, Java or Go)\n- Expérience sur des outils de déploiement automatisé (Terraform, Cloudformation, Chef, Ansible, Puppet)\n- Mise en place d'une chaine CI/CD (Gitlab CI/CD, Jenkin)\n- Expérience sur un fournisseur cloud public (AWS, Azure, GCP)\n- Conception d'Architecture Cloud Native (Docker, K8s, micro-service, API, bus de message, Event-driven, NoSQL)\n- Solutions transverses (ELK, Grafana, Prometheus, Dynatrace, New Relic Datadog)\nCongés additionnels \nTélétravail \nMutuelle d'entreprise \n Statut Cadre"
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2769191",
+    "title": "ARCHITECTE CLOUD HYBRID AZURE F/H - Système, réseaux, données (H/F)",
+    "company": "DELECTUS RH ",
+    "location": "92",
+    "remote": null,
+    "publication_date": "2024-08-23",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": "Salaire brut : A partir de 75 k€ brut annuel",
+        "Experience": "Expérience exigée de 5 An(s)",
+        "Level": null
+    },
+    "company_data": {
+        "sector": "Conseil pour les affaires et autres conseils de gestion",
+        "company_size": "Bienvenue chez DELECTUS RH !\nDELECTUS RH est une entreprise dédiée à la gestion des ressources humaines. Notre mission est de relier les talents aux entreprises en proposant des solutions personnalisées et une performance assurée. Nous mettons un point d'honneur à promouvoir la diversité et l'inclusion, plaçant l'humain au centre de notre action.\nNous accompagnons les TPE et les PME qui n'ont pas de service RH dédié, en leur offrant des solutions sur mesure pour répondre à le...",
+        "turnover_in_millions": null
+    },
+    "description": "Descriptif du poste:\n\nVotre mission, si vous l'acceptez :\nEn tant qu'Architecte Cloud Hybride, vous jouerez un rôle clé dans la transformation numérique de nos clients. Votre mission principale consistera à concevoir des architectures Cloud innovantes, en particulier dans les environnements Microsoft (OnPremise et Public - IaaS/PaaS/SaaS). Vous accompagnerez les clients dans la modernisation de leurs systèmes d'information, en mettant en œuvre des solutions robustes et pérennes.\n\nProfil recherché:\n\nCe que nous recherchons chez vous :\nDotée d'une solide formation d'ingénieur, vous avez au moins 5 ans d'expérience dans le cloud hybrid notamment Azure.\n* Une expertise solide sur Azure Infrastructure Service (IaaS) et Platform as a Service (PaaS), avec une maîtrise des aspects réseau, identité et sécurité.\n* Une bonne connaissance des environnements on-premise Microsoft, incluant Active Directory, Exchange, et SQL Server.\n* Une expérience avérée dans l'architecture de solutions modernes de type \"Modern Workplace\" (Intune, Azure AD).\n* La connaissance des outils de virtualisation, tels que VMware, ainsi que d'autres solutions comme Xen ou Hyper-V.\n* La maîtrise des outils d'infrastructure as code, notamment Terraform et Ansible, ainsi que la gestion des pipelines CI/CD.\n* Une compréhension approfondie des concepts CI/CD, bien que le développement ne soit pas au cœur de vos responsabilités."
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2768711",
+    "title": "Architecte Cloud AWS & GenIA F/H (H/F)",
+    "company": "CAPGEMINI SERVICE ",
+    "location": "31",
+    "remote": null,
+    "publication_date": "2024-08-23",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": null,
+        "Experience": "Expérience exigée de 4 An(s)",
+        "Level": null
+    },
+    "company_data": {
+        "sector": "Conseil en systèmes et logiciels informatiques",
+        "company_size": null,
+        "turnover_in_millions": null
+    },
+    "description": "Capgemini\nChoisir Capgemini, c'est choisir une entreprise où vous serez en mesure de façonner votre carrière selon vos aspirations. Avec le soutien et l'inspiration d'une communauté d'experts dans le monde entier, vous pourrez réécrire votre futur. Rejoignez-nous pour redéfinir les limites de ce qui est possible, contribuer à libérer la valeur de la technologie pour les plus grandes organisations et participer à la construction d'un monde plus durable et inclusif.\nVos missions\nÊtre Architecte Solution, c'est être à la pointe de la plateforme AWS pour concevoir et déployer les trajectoires de replatforming et d'architecture SI en utilisant efficacement les solutions AWS dans un environnement IA. C'est aussi travailler dans et avec une communauté d'architectes et d'ingénieurs multi Cloud permettant de développer une expérience reconnue sur l'application modernisation, la data intégration, l'industrialisation DevSecOps\n  *  Accompagner et conseiller les clients dans l'adoption et le déploiement des services AWS (Stratégie IT, Etude d'opportunités, Audit, Cadrage et Roadmap)\n  *  Concevoir des plateformes solution intégrant les services de référence AWS (Architecture Serverless, Analytics, IoT, EKS, .) dans des contextes CLOUD Natif et CLOUD Hybrid\n  *  Construire avec les référents DevSecOps l'industrialisation du développement et déploiement d'applications avec TerraForm\n  *  Prendre en main et défendre l'approche solution des dossiers d'avant-vente\nVotre carrière\n  *  Bénéficier pendant les premiers mois d'un accompagnement individualisé : complément de certifications AWS, rencontre avec des pairs, exécution progressive de mission de plus en plus engageante pour vous et Capgemini\n  *  Rejoindre des communautés d'Architectes, de Software Engineers, Devops et Agile reconnues et favorisant l'émulation collective et le partage.\n  *  Favoriser l'épanouissement professionnel et personnel : Formations, Télétravail, Congés d'anciennetés, Congés enfant, Avantages CE, Activités loisirs.\nVous avez une expérience en conception et mise en œuvre de plateformes applicatives dans le CLOUD\n  *  Vous avez construit une compétence autour des services managés AWS et GCP\n  *  Vous êtes certifié AWS ou GCP\n  *  Vous avez de solides compétences en communication en anglais (min.B2)\n  *  Expérience dans le domaine technique de l'IA/ML/GenAI (par exemple, ML multimodal, évaluation de modèles, MLOps, MLSecOps, formation ML, inférence, ingénierie des données, science des données, réglage fin pour l'ingénierie rapide, IA responsable)"
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2768531",
+    "title": "Architecte Cloud et Réseau - Client final F/H - Système, réseaux, données (H/F)",
+    "company": "SILKHOM ",
+    "location": "75",
+    "remote": null,
+    "publication_date": "2024-08-23",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": "Salaire brut : 70 - 80 k€ brut annuel",
+        "Experience": "Expérience exigée de 5 An(s)",
+        "Level": null
+    },
+    "company_data": {
+        "sector": "Conseil pour les affaires et autres conseils de gestion",
+        "company_size": "Silkhom est un cabinet de recrutement spécialisé sur les métiers de l'informatique, du digital et des objets connectés (pas de SSII, placements directs chez nos clients en CDI). Nous travaillons exclusivement avec des clients finaux.\nNotre client : \nNous accompagnons une organisation autonome chargée de la gestion, de l'entretien et de la préservation de 26 cimetières militaires américains permanents et de 32 structures commémoratives dispersées dans 15 pays à travers le mond...",
+        "turnover_in_millions": null
+    },
+    "description": "Descriptif du poste:\n\nLiée à la direction des opérations à Washington, vous aurez la responsabilité de proposer des solutions de centralisation et de mise en place de la gouvernance dans le cloud.\n \n·Diagnostiquer les problèmes d'accès, de connectivité et de performance du réseau et coordonner les résolutions avec les fournisseurs.\n·Mettre à niveau l'infrastructure réseau pour garantir des niveaux de service définis\n·Maintenir les composants PaaS et IaaS dans les environnements cloud \n·Participer au développement stratégique des services cloud et réseau \n \nPourquoi rejoindre cette entreprise ? \n·Vous serez référent cloud au sein de l'organisme \n·Vous aurez l'opportunité de pouvoir voyager dans le monde afin de mettre en œuvre votre travail\n·L'organisme a un rôle crucial dans la préservation de la mémoire des soldats qui ont sacrifié leur vie lors des différentes guerres. \n\nProfil recherché:\n\n·Vous justifiez d'au moins 5 ans d'expérience sur un poste d'Ingénieur Cloud et Réseau\n·Au quotidien vous utilisé les protocoles réseaux, Lan, Wan ainsi que les environnements Devops\n·Vous êtes à l'aise en anglais à l'oral et à l'écrit \n \n "
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2768525",
+    "title": "Architecte technique Cloud F/H - Système, réseaux, données (H/F)",
+    "company": "ORANGE SA ",
+    "location": "92",
+    "remote": null,
+    "publication_date": "2024-08-23",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": "Salaire brut : 40 - 55 k€ brut annuel",
+        "Experience": "Expérience exigée de 5 An(s)",
+        "Level": null
+    },
+    "company_data": {
+        "sector": "Télécommunications filaires",
+        "company_size": "Spécialiste du développement et de la transformation des opérateurs Télécoms et acteurs institutionnels, de la réflexion stratégique à la mise en oeuvre opérationnelle, le groupe Sofrecom est un puissant réseau d'expertises au service de ses clients (Groupe Orange et opérateurs non concurrents, régulateurs et gouvernements en Europe, Afrique, Asie et Moyen Orient).\n\nRiche de plus de 1 800 consultant-e-s issus de plus de 30 nationalités, le Groupe Sofrecom est implanté dans 10...",
+        "turnover_in_millions": null
+    },
+    "description": "Descriptif du poste:\nMissions\n\"Vous travaillez pour le compte d'Orange et ses filiales ainsi que pour des clients externes, sur des projets variés (Totem, Orange Money : DTSI/5G : DevOps) en France et à l'international.\" [Frédéric, manager Cloud & Virtualisation]\n- Vous contribuez à adresser leurs enjeux stratégiques : création et croissance des TowerCo, évolution des services de mobile finance tels que Orange Money ou encore digitalisation des services aux citoyens en Afrique \n- Vous représentez le savoir-faire Sofrecom \n- Vous intervenez dans le cadre du lancement d'un projet (audit, définition des exigences pour le Move to Cloud, préconisation de solutions Cloud ...) ou pour la mise en oeuvre des recommandations (suivi de/participation à l'implémentation, mise en place d'une démarche \" FinOps \", rédaction d'appel d'offres...) \n- Vous concevez l'architecture technique cible des infrastructures en respectant les préconisations (contextes technique et business, standards en place, prescriptions...) et les exigences des clients \n- Vous communiquez et coopérez avec les équipes de Build, de Run, les experts chez le client, les collègues Sofrecom ou Groupe Orange et avec la hiérarchie du projet\n- Vous participez au développement des activités de Sofrecom dans votre domaine (réponses aux appels d'offre, présentations clients, rédaction de références et articles...)\n\"Dans le cadre de l'explosion des services très haut débit, de la digitalisation et de la migration vers le cloud des services dédiés au grand public et aux entreprises, nous constituons un pôle qui regroupe les activités d'architecture technique, d'expertise système et de sécurité. Ce pôle a pour vocation de conseiller et d'accompagner nos clients dans leurs transformations. \" [Frédéric, manager Cloud & Virtualisation ]\nCompétences\n\"Nous ne recherchons pas la perfection. Si certaines compétences vous manquent, nous soutenons votre développement continu en tant que consultant et vous accompagnons tout au long de votre parcours.\" [Frédéric, Manager Cloud & Virtualisation ]\nLes incontournables\n- Vous avez une expertise sur une ou plusieurs technologies système, virtualisation et Cloud \n- Vous connaissez les fonctionnalités des infrastructures IT et/ou Cloud \n- Vous avez une connaissance approfondie des technologies de Cloud Computing \n- Vous savez construire des architectures techniques de solutions complexes \n- Vous avez des compétences rédactionnelles en anglais et en français\n\n\nProfil recherché:\nRejoignez Sofrecom, notre cabinet de conseil interne\nProfil\n\"Vous occupez un rôle de consultant, vous permettant d'accompagner nos clients dans leurs transformations numériques, notamment sur les solutions système, cloud et de virtualisation.\" [Frédéric, manager Cloud & Virtualisation]\n- Doté.e d'un excellent relationnel, vous êtes avant tout à l'écoute du client\n- Vous aimez évoluer dans des environnements multiculturels. Travailler en équipe est naturel pour vous, et vous appréciez l'échange et le partage.\n- Vous avez un intérêt marqué pour la formation et les nouvelles technologies, avec une veille régulière et des connaissances constamment actualisées\n- Votre curiosité, votre autonomie et votre enthousiasme comptent parmi vos principaux atouts\n- Vos capacités d'analyse et de synthèse sont hautement appréciées\n- Pédagogue, vous savez adapter votre discours en fonction de votre audience\n- You're great at writing in English, and you really enjoy it !"
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2768427",
+    "title": "Architecte Cloud AWS F/H - Système, réseaux, données (H/F)",
+    "company": "EVIDEN ",
+    "location": "95",
+    "remote": null,
+    "publication_date": "2024-08-23",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": "Salaire brut : A négocier",
+        "Experience": "Expérience exigée de 5 An(s)",
+        "Level": null
+    },
+    "company_data": {
+        "sector": "Tierce maintenance de systèmes et d'applications informatiques",
+        "company_size": "Eviden regroupe les activités Digital, Cloud, Big Data et Sécurité d'Atos et sera un leader international d'une transformation numérique fiable, durable et basée sur les données. Acteur clé du numérique de prochaine génération et leader mondial du cloud, du calcul avancé et de la sécurité, Eviden fera bénéficier de son expertise l'ensemble des secteurs d'activités, dans plus de 53 pays. L'orchestration de technologies de pointe sur l'ensemble du continuum numérique, combin...",
+        "turnover_in_millions": null
+    },
+    "description": "Descriptif du poste:\n\nCe que vous allez faire :Vous allez rejoindre une équipe travaillant en mode DevSecOps. Cela signifie que notre rôle est à la fois de créer l'application (Dev), en intégrant les problématiques de sécurité (Sec) mais aussi d'assurer sa stabilité, ses performances et son bon fonctionnement (Ops). En tant qu'Architecte votre rôle sera de comprendre quels avantages un Système d'Information peut tirer de l'utilisation des services AWS et de proposer une démarche pratique pour y arriver. Voici les principales tâches :- Participer aux avant-ventes et rédiger le volet technique des propositions ;- Etudier un scope applicatif et proposer une stratégie de migration ;- Faire des POC pour vérifier la faisabilité et lever les incertitudes ;- Analyser des applications et proposer des évolutions pour qu'elles fassent le meilleur usage d'AWS ;- Faire des missions de conseil pour aider nos clients à définir leur stratégie ;- Participer à la mise à jour des bonnes pratiques et à leur diffusion ;- Débloquer les ressources juniors et les aider à progresser.  Vous monterez en compétences sur les technologies / pratiques suivantes :- Services Cloud AWS ;- Well Architected Framework ;- Méthodologie de migration AWS ;- Analyse de performance : test de charges, analyse de transactions distribuées,...;- Optimisation et urbanisation d'un SI ;- DevOps, SecOps, FinOps, GitOps,... ;- Infrastructure As Code\n\nProfil recherché:\n\nVos points forts :Vous êtes curieux, vous aimez découvrir de nouveaux sujets. Vous aimez mettre les mains dans le camboui. Dire ce qu'il faut faire c'est bien, mais le plus important c'est de faire ! Vous aimez que les discussions soient concrètes et aboutissent à des décisions claires. Confronté à un problème, vous l'analysez de manière logique. Quand vous expliquez quelque chose, vous vous adaptez à votre interlocuteur pour être sûr qu'il puisse vous comprendre. Vous aimez concevoir des solutions sur mesure pour nos clients. Compétences requises :- Analyser et comprendre un SI ;- Sécurité informatique ;- Réseaux informatique ;- Système d'exploitation ;- Bases de données ;- API / Webservices ;- Capacité à avoir une conversation en anglais (même si ce n'est pas fluide)"
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2764224",
+    "title": "Architecte Cloud H/F",
+    "company": "MICHAEL PAGE ",
+    "location": "75",
+    "remote": null,
+    "publication_date": "2024-08-23",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": "Salaire brut : Annuel de 80000,00 Euros à 90000,00 Euros",
+        "Experience": "Expérience exigée de 1 An(s)",
+        "Level": null
+    },
+    "company_data": {
+        "sector": "Défense",
+        "company_size": null,
+        "turnover_in_millions": null
+    },
+    "description": "Vos missions en tant qu'Architecte Cloud au sein de cette équipe de haut niveau seront de : \n * Coordonner la démarche d'architecture en collaboration avec les différentes parties prenantes, telles que les départements métiers, les architectes, les experts techniques et les spécialistes de la sécurité,\n * Produire les documents d'architecture et de sécurité nécessaires pour les projets, tels que les hautes conceptions (HLD) et les Dossiers d'Architecture Technique (DAT),\n * Concevoir les architectures des infrastructures et des applications du système d'information, qu'elles soient locales (« On Premise ») ou sur des plateformes de Cloud public, dans le cadre des projets de transformation et d'évolution du SI,\n * Assurer l'alignement des stratégies et des solutions avec les exigences de tous les autres projets,\n * Collaborer avec les Experts Techniques, les Chefs de Projet, les utilisateurs internes, la Direction des Systèmes d'Information ainsi que les fournisseurs de solutions informatiques,\n * Soutenir l'équipe projet tout au long du cycle de vie, de la phase de démarrage jusqu'à la mise en production.\nDe formation supérieure de type Bac +5 minimum, vous avez : \n * Travaillé dans des environnements complexes avec des architectures Cloud et multi-cloud,\n * Une connaissance approfondie des normes du marché et des bonnes pratiques relatives aux solutions Cloud et à la sécurisation de l'environnement Cloud,\n * Une solide compréhension des environnements hybrides multi-cloud,\n * Travaillé au sein d'équipes multidisciplinaires et internationales.\nAnglais courant exigé.\nPerspectives de carrière/formation/Environnement innovant et stimulant."
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2815768",
+    "title": "Consultant - Chef de Projets Cloud H/F",
+    "company": "ONEPOINT ",
+    "location": "75",
+    "remote": null,
+    "publication_date": "2024-08-24",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": null,
+        "Experience": "Expérience exigée",
+        "Level": null
+    },
+    "company_data": {
+        "sector": "Conseil en systèmes et logiciels informatiques",
+        "company_size": "Onepoint c'est quoi ?\n\n3300 collaborateurs, 500 millions d'Euros de chiffre d'affaires, 17 localisations en France et à l'international et un modèle hiérarchique unique avec seulement 3 niveaux.\n\nCréé il y a 20 ans, onepoint est un cabinet de conseil et tech qui accompagne les entreprises privées et les acteurs publics dans leurs grands projets de transformation digitale.\n\nPour en savoir plus :  https://youtu.BE/9hjgc1-NAmA",
+        "turnover_in_millions": null
+    },
+    "description": "POSTE : Consultant - Chef de Projets Cloud H/F\nDESCRIPTION : Vos missions sur ce poste\nVotre mission sera d'accompagner les clients dans le pilotage et le déploiement de leurs projets de transformation, dont l'intégration du Cloud dans leur stratégie d'entreprise.\nEn tant que chef.fe de Projet Cloud, vous serez responsable de :\n- Travailler auprès de clients d'envergure nationale et internationale ;\n- Définir et maintenir une stratégie de migration vers le cloud cohérente avec les objectifs stratégiques du client ;\n- Assurer le suivi et le reporting du projet, en garantissant la qualité des livrables dans les délais impartis et la conformité aux exigences budgétaires, techniques et réglementaires ;\n- Adresser une diversité de secteurs (secteur public, transport, industrie, services financiers, média, autres) ;\n- Développer notre expertise Cloud, en interaction avec des passionnés de l'innovation, du digital et de la tech ;\n- Accompagner nos clients et leurs équipes (C-level, équipes techniques, métiers) pour apporter toujours plus de valeur, d'impact, et d'efficacité sur leurs projets.\nEn tant qu'intrapreneur au sein de Onepoint, vous contribuerez aux chantiers internes autour du développement et du renforcement de nos offres Cloud pour nos clients, du recrutement des nouveaux talents, du développement commercial en participant à des réponses à appels d'offres ou encore à la publication d'articles.\nLe champ des possibles est illimité, vous pourrez apporter votre touche personnelle et participer au développement du collectif grâce à votre créativité !\nCe que nous allons faire ensemble :\nAu bout de 3 mois :\n· Être reconnu.e par votre client et vos pairs pour la qualité de votre delivery\n· Nouer de la transversalité avec les autres communautés de onepoint\n· Participer au modèle intrapreunarial de onepoint, s'impliquer dans les chantiers internes\n- Manager des collaborateurs ou des équipes dans le cadre de vos missions\n- Contribuer à la gestion des propositions commerciales\nAu bout d'1 an :\n· Transmettre des connaissances à vos pairs\n· Développer davantage de synergie avec les autres communautés du groupe\n· S'investir dans le projet onepoint, animer des chantiers internes et proposer des idées\n· En fonction de votre séniorité :\n- Manager des collaborateurs ou des équipes, dans le cadre de vos missions et des chantiers internes\n- Devenir le référent d'un ou plusieurs collaborateurs,\n- Développer de nouvelles offres, en lien avec votre expertise ou transverses\n- Identifier des opportunités commerciales et développer vos comptes clients\nCe poste est fait pour vous, si :\n· Vous êtes diplômé.e d'une grande école de commerce et/ou d'une école d'ingénieur\n· Vous avez entre 2 et 8 ans d'expérience, dont une significative dans le conseil\n· Vous connaissez les enjeux cloud et les services proposés par les différents fournisseurs (AWS, Azure, Google Cloud, Cloud de confiance). Une certification est un plus.\n· Vous pratiquez l'anglais professionnel\n· Vous démontrez une appétence entrepreneuriale, notion ancrée dans l'ADN de onepoint\n· Vous avez un esprit d'analyse et une capacité d'adaptation\n· Vous aimez le travail collectif et transmettre votre savoir-faire\nVotre futur cadre de travail chez onepoint :\n· Une organisation horizontale avec seulement 3 niveaux (Associate, Leader, Partner) qui permet de révéler les talents, développer les synergies et favoriser la transversalité\n· Des locaux spacieux et propices aux échanges au pied de la Tour Eiffel\n· Possibilité d'investir dans le capital\n· Notre école de formation dédiée aux collaborateurs : plus d'une centaine de formations dont certaines diplômantes\n· Des temps forts (RDV récurrents, Live mensuel avec le fondateur David Layani, et autres événements informels) qui réunissent nos collaborateurs et rythment la vie des communautés\n· Notre engagement en faveur de l'environnement et de la transition écologique : partenaire de Time for The Planet\nNotre process de recrutement :\nEnvie d'en savoir plus ? N'hésitez pas à envoyer un message à Alexandre LIEVIN\n· Premier échange avec Vanessa LOKOSSOU : découverte de votre parcours et de votre projet professionnel (durée : 30 min)\n· Deuxième entretien avec un.e Associate ou Leader* : focus sur l'état d'esprit et évaluation du savoir-être (durée : 1 heure)\n· Troisième entretien avec un.e Leader ou Leader + Associate* : test sur les compétences avec potentiellement une étude de cas (durée : 1 heure)\n· Quatrième entretien avec un.e Leader ou Partner* : validation de votre intégration et fit avec la cuture du groupe + partage des missions en cours. (durée : 1 heure)\n* Nous priv"
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2815758",
+    "title": "Ingénieur Cloud H/F",
+    "company": "ATOS ",
+    "location": "69",
+    "remote": null,
+    "publication_date": "2024-08-24",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": null,
+        "Experience": "Expérience exigée",
+        "Level": null
+    },
+    "company_data": {
+        "sector": "Conseil en systèmes et logiciels informatiques",
+        "company_size": "En travaillant chez Atos, vous rejoindrez une équipe de collaborateurs talentueux et passionnés, d'horizons et de cultures diverses, travaillant ensemble pour faire bouger les lignes.\nTous partagent les mêmes valeurs qui les guident au quotidien : la fiabilité, la solidarité et l'ingéniosité.",
+        "turnover_in_millions": null
+    },
+    "description": "POSTE : Ingénieur Cloud H/F\nDESCRIPTION : Qui nous sommes.\n\nNous sommes une équipe d'experts passionnés avec une ambition claire : utiliser le numérique pour faire avancer ce qui compte pour nos clients et la société.\n\nChaque jour, nous travaillons ensemble pour créer des fondations numériques fiables et évolutives pour les entreprises, les institutions et les communautés du monde entier.\n\nPlus d'informations sur : Advancing what matters\n\nLe poste en quelques mots :\n\nÊtes-vous prêt à relever les défis d'une entreprise dédié à la transformation digitale, à apporter votre expertise et votre motivation au sein d'une équipe dynamique et ambitieuse qui ne lâche rien malgré les défis actuels ?\n\nCe que vous allez faire si vous nous rejoignez :\n\nAu sein d'un centre de compétences dédié aux activités de build des socles techniques IT, dans un contexte de migration vers le cloud, en appliquant les principes de l'IaC. Vous serez en charge des tâches  suivantes :\n\nDéployer les nouvelles infrastructures ;\n\nAssurer les migrations techniques des infrastructures ;\n\nSécuriser les déploiements et optimiser le fonctionnement ;\n\nAssurer la veille technologique et la relation avec les éditeurs ;\n\nAccompagner les équipes projets et apporter expertise lors des crises ou incidents majeurs.\n\nVous possédez des compétences techniques clés :\n\nCloud public : Azure et/ou AWS\n\nCloud Privé : VmWare, vRealize, Suite\n\nIaC : Terraform, ansible, powershell\n\nVotre profil :\n\nVous êtes issu(e) d'une formation supérieure Bac +4/5 Ecole d'ingénieur ou d'une Université dans le domaine de l'informatique, ou des systèmes d'information. Vous justifiez d'une expérience de 5 ans sur un poste similaire et vous être certifié « Administrateur cloud » AZURE et/ou AWS et avez une appétence pour le travail en mode Agile.\n\nCurieux par nature, vous souhaitez continuer de vous perfectionner afin de contribuer à l'accomplissement de votre mission. Pour arriver à vos objectifs, vous savez prendre du recul, questionner l'existant, mais aussi proposer de nouvelles solutions.\n\nEn vrai partenaire, vous gardez à l'esprit la réussite collective et savez communiquer efficacement avec l'ensemble des parties prenantes des projets qui vous sont confiés.\n\nFourchette de salaire : entre 45€ et 55 K€\n\nNos conditions et programmes internes :\n-  Possibilité de travailler de façon hybride (télétravail jusqu'à 3 jours par semaine)\n-  Tickets restaurant (valeur faciale de 10€, 60% pris en charge par l'employeur)\n-  Evénements d'intégration et autres événements internes\n-  Disponibilité de tous vos congés et RTT dès votre arrivée\n-  Programme de cooptation jusqu'à 2750 € de prime\n-  Accès aux activités sociales et culturelles\n-  Aide à la mobilité durable (vélo et covoiturage)\n\nVotre futur professionnel chez Atos :\n\nOpportunités de développement professionnelle et d'évolution de carrière\n\nProgrammes de formation continue, certifiante et cours en ligne\n- \n\nAccompagnement par votre team leader\n\nPrêt à vous lancer dans cette aventure passionnante avec nous ? Saisissez votre chance et postulez !\n\nEn savoir plus\n\nLa diversité est un moteur au service de la créativité de nos clients, et nous nous efforçons chaque jour de créer un environnement où chacun se sent soutenu et encouragé.\n\nLa « Tech for Good » s'inscrit au coeur de notre mission, que ce soit en matière de lutte contre le changement climatique, pour promouvoir l'inclusion numérique ou garantir la confiance dans la gestion des données.\n\nNous sommes fiers des nombreuses reconnaissances mondiales pour nos pratiques environnementales, sociales et de gouvernance, et nous nous engageons à construire un avenir meilleur pour tous en exploitant le pouvoir de la technologie.\nPROFIL :"
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2781833",
+    "title": "Administrateur Cloud H/F",
+    "company": "GROUPE TRSB ",
+    "location": "69",
+    "remote": null,
+    "publication_date": "2024-08-23",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": null,
+        "Experience": "Expérience exigée",
+        "Level": null
+    },
+    "company_data": {
+        "sector": "Gestion d'installations informatiques",
+        "company_size": "Qui sommes-nous ?\n\nLe Groupe TRSb est le partenaire multi-spécialiste de la transformation digitale de ses clients.\n\nFort de 5 marques complémentaires avec 11 agences en France et 1 à l'international, nous conseillons et accompagnons nos clients avec une approche 360  afin de répondre à leurs nouveaux enjeux business, technologiques et marketing.\n\nRejoindre TRSb, c'est embarquer dans une aventure humaine pour répondre ensemble à ce défi, et où le champ ...",
+        "turnover_in_millions": null
+    },
+    "description": "POSTE : Administrateur Cloud H/F\nDESCRIPTION : Dans le cadre du développement des équipes de l'un de nos clients, nous recherchons un(e) administrateur(trice) cloud qui aura les responsabilités suivantes :\n-  Automatisation et réalisation de modules, type Terraform pour le provisionnement et Ansible pour l'utilisation\n-  Expertise et accompagnement projet (DSM ou DSI) sur un périmètre de PaaS comme : aide à l'utilisation, paramétrage spécifique, optimisation, etc.\n-  Proposer une vision bout-en-bout et end-user sur un périmètre de PaaS\n-  Définir et mettre en oeuvre des meilleures pratiques associées à l'optimisation de la consommation des services PaaS - FinOps et GreenIT.\n-  Assurer une veille technologique constante : étude d'opportunité, analyse des nouveaux modèles d'utilisation pour faire évoluer les services existants, proposer de nouveaux produits et fonctionnalités.\n-  Assurer le BUILD et le RUN d'un périmètre PaaS.\nPROFIL : Vous interviendrez sur l'environnement technique suivant :\n\nPôle technologique : Cloud\n-  Automatisation : Terraform - IaC\n-  Connaissance des services PaaS :\n-  Azure Storage Account\n-  Azure App Service & WebApps\n\nPôle technologique : Développement\n-  Scripting :\n-  AZURE CLI\n-  Python\n-  PowerShell\n\nPôle technologique : Web\n-  Serveurs Web :\n-  Apache\n-  Nginx\n\nPôle technologique : Méthodes\n-  Méthodologies :\n-  ITIL\n-  Gestion de Projet AGILE\n-  Outils CI/CD :\n-  Gitlab\n-  Jenkins\n\nPôle technologique : Outils\n-  Administration ITSM : Service Now\n-  Supervision et Métrologie : Datadog\n\nUn bon niveau en anglais est souhaité."
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2781784",
+    "title": "Ingénieur Infrastructure Cloud DevOps - Sre H/F",
+    "company": "SEYOS ",
+    "location": "44",
+    "remote": null,
+    "publication_date": "2024-08-23",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": "Salaire brut : Annuel de 45000,00 Euros à 55000,00 Euros",
+        "Experience": "Expérience exigée",
+        "Level": null
+    },
+    "company_data": {
+        "sector": "Conseil pour les affaires et autres conseils de gestion",
+        "company_size": "Seyos est un cabinet de recrutement spécialisé dans les métiers de l'IT. Nous intervenons au niveau national et proposons aux candidats des opportunités professionnelles au sein d'éditeurs de logiciels, DSI d'entreprises (clients finaux), startups, acteurs E-commerce. En 9 années d'existence, plus de 1 300 professionnels de l'IT et du Digital ont déjà été recrutés par l'intermédiaire de Seyos au sein de 400 entreprises.",
+        "turnover_in_millions": null
+    },
+    "description": "POSTE : Ingénieur Infrastructure Cloud DevOps - Sre H/F\nDESCRIPTION : Notre client, une organisation en pleine croissance, propose une solution logicielle innovante pour les établissements publics de l'enseignement supérieur et de la recherche. Constituée d'universités et de grandes écoles, cette organisation co-construit une suite logicielle intégrant la gestion RH, la finance/comptabilité, et la formation, répondant aux exigences de qualité et de compétitivité.\n\nL'organisation pilote notamment le projet PC-SCOL, visant à créer une solution commune pour la gestion de la formation, de la scolarité et de la vie des étudiants, en partenariat avec d'autres établissements de l'enseignement supérieur, en France et Outre-mer.\n\nChiffres clés :\n100 collaborateurs\n70 établissements adhérents\n7 domaines d'expertise\n\nSous la responsabilité du directeur technique du projet PC-Scol, vous rejoindrez une équipe de 7 personnes dédiée à la gestion de l'infrastructure permettant l'hébergement de l'application Pégase en mode SaaS pour l'ensemble des établissements utilisateurs de la solution, vous évoluerez sur les 3 volets suivants :\n\nAutomatisation des Déploiements : Développer et maintenir les outils d'intégration et de déploiement continus pour des déploiements rapides et fiables.Performance et Sécurité : Assurer la performance optimale du système et la mise en oeuvre des normes de sécurité, tout en fournissant un support technique avancé.Évolution et Documentation : Contribuer à l'évolution technologique de la plateforme et rédiger des documents techniques pour garantir la qualité et les bonnes pratiques.\n\nEnvironnement technique : Kubernetes, Terraform, Docker, Vault, Kafka, Java, Angular\n\nLocalisation : Nantes (Petit-Port)\nRémunération : 45 000 à 55 000 Euros\nAvantages : 10 jours de TT/mois, Ticket-restaurant, Prévoyance à 100%, Avantages CSE\n-\nPROFIL : Ce poste est fait pour vous si :\n-  Vous êtes issus d'une formation supérieure en informatique\n-  Vous justifiez d'au moins 5 ans d'expérience sur un poste de DEVOPS ou d'Administrateur systèmes et réseaux\n-  Vous maitrisiez Kubernetes et les technologies associés (Docker, Terraform)"
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2781760",
+    "title": "Expert Cloud Ibm H/F",
+    "company": "PIXIE SERVICES FRANCE ",
+    "location": "75",
+    "remote": null,
+    "publication_date": "2024-08-23",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": null,
+        "Experience": "Expérience exigée",
+        "Level": null
+    },
+    "company_data": {
+        "sector": "Conseil pour les affaires et autres conseils de gestion",
+        "company_size": "Bonjour à tous les talents !\n\nPixie services est un cabinet de conseil IT.\n\nNous avons créé au fil des années un fort réseau de clients dans le domaine du retail, de l'industrie, du luxe, bancaire\n\nCette confiance et cette diversité d'interlocuteurs nous permet d'offrir à nos collaborateurs les meilleures missions du marché.\n\nDans le cadre de notre développement nous sommes en quête de nouveaux talents !\n\nEn plus de votre savoir-fai...",
+        "turnover_in_millions": null
+    },
+    "description": "POSTE : Expert Cloud Ibm H/F\nDESCRIPTION : Vos missions :\n-  Accompagner et faire évoluer les compétences des équipes\n-  Formation\n-  Administration sur IBM\n-  Conseil technique\nPROFIL : Compétences requises :\n\nTu possèdes une bonne connaissance sur IBM CLOUD et linux.\n\nTu es en capacité de transmettre tes compétences techniques aux équipes et tu souhaites toi-même monté en compétences sur Data STAGE.\n\nTu possèdes un bon niveau d'Anglais.\n\nSi tu habites la région Lilloise c'est parfait pour notre client.\n\nTu es le candidat rêvé\n\nVous pensez être le Talent que nous recherchons, n'hésitez plus : envoyez-nous votre\n\nCV !"
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2781684",
+    "title": "Ingénieure - Ingénieur Cloud Confirmé - Lyon H/F",
+    "company": "CAPGEMINI ",
+    "location": "69",
+    "remote": null,
+    "publication_date": "2024-08-23",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": null,
+        "Experience": "Expérience exigée",
+        "Level": null
+    },
+    "company_data": {
+        "sector": "Activités des sièges sociaux",
+        "company_size": "Capgemini\n\nChoisir Capgemini, c'est choisir une entreprise où vous serez en mesure de façonner votre carrière selon vos aspirations. Avec le soutien et l'inspiration d'une communauté d'experts dans le monde entier, vous pourrez réécrire votre futur. Rejoignez-nous pour redéfinir les limites de ce qui est possible, contribuer à libérer la valeur de la technologie pour les plus grandes organisations et participer à la construction d'un monde plus durable et inclusif.",
+        "turnover_in_millions": null
+    },
+    "description": "POSTE : Ingénieure - Ingénieur Cloud Confirmé - Lyon H/F\nDESCRIPTION : Choisir Capgemini, c'est choisir une entreprise où vous serez en mesure de façonner votre carrière selon vos aspirations. Vous serez soutenu et accompagné au sein d'une communauté collaborative composée de collègues du monde entier, où vous pourrez réécrire votre futur. Rejoignez-nous pour redéfinir les limites de ce qui est possible, contribuez à libérer la valeur de la technologie pour les plus grandes organisations et participez à la construction d'un monde plus durable et inclusif.Vos missions :\n\n* Analyser les infrastructures clients déployées dans le Cloud chez AWS ou Azure\n* Construire et déployer des infrastructures et des solutions applicatives dans des environnements AWS ou Azure et en assurer le bon fonctionnement\n* Automatiser et industrialiser le provisionning de nouveaux environnements via des outils de déploiement continu (CI/CD)\n* Développer des plateformes Cloud en suivant les bonnes pratiques d'Infrastructure as Code\n* Vous mettez en place des outils de monitoring et métrologie adaptés à l'environnement\nPROFIL : Votre profil :\n\n* Vous êtes titulaire d'un diplôme d'ingénieur ou d'un équivalent Bac +4/5\n* Vous avez au moins 5 ans d'expérience sur un poste similaire.\n* Vous maitrisez les environnements Cloud AWS ou Azure.\n* Vous avez des connaissances en DevSecOps et outils associés (Terraform, Ansible)\n* Être titulaire d'une certification AWS ou Azure est un vrai plus.\n* Esprit d'équipe et d'initiative"
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2781402",
+    "title": "Ingénieur Cloud Aws - Toulouse H/F",
+    "company": "FORTIL ",
+    "location": "31",
+    "remote": null,
+    "publication_date": "2024-08-23",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": null,
+        "Experience": "Expérience exigée",
+        "Level": null
+    },
+    "company_data": {
+        "sector": "Ingénierie, études techniques",
+        "company_size": "Présentation Fortil Groupe\n\nFortil vous accompagne dans l'accomplissement de vos objectifs professionnels et développe vos compétences au travers de projets complexes, innovants et enrichissants.\n\nPrésent en France et à l'International, nous accompagnons nos partenaires dans la réussite de leurs projets techniques dans différents domaines tels que L'Industrie, l'IT ou la Santé",
+        "turnover_in_millions": null
+    },
+    "description": "POSTE : Ingénieur Cloud Aws - Toulouse H/F\nDESCRIPTION : Envie d'intégrer les équipes Fortil ?\n\nVous souhaitez être un véritable acteur de votre carrière en bénéficiant de la proximité et de la réactivité des équipes Fortil ? Rejoignez-nous !\n\nDescription du projet\n\nEn tant que consultant(e) Cloud expérimenté(e), vous serez en lien direct avec l'ensemble des acteurs techniques pour concevoir l'architecture des projets tout en garantissant une solution technique en adéquation avec les orientations stratégiques de nos clients.\n\nDans ce cadre, votre mission principale consistera :\n\n· A définir, à concevoir et à gérer la solution et l'évolution de l'architecture du système informatique,\n\n· A garantir la définition globale de la solution technique,\n\n· A élaborer des cibles d'évolution du système informatique,\n\n· A définir et à maintenir le référentiel d'architecture technique de l'entreprise\n\nVous serez ainsi amené(e) à réaliser les tâches suivantes :\n\n· Participer à la définition de l'architecture technique des solutions,\n\n· Réaliser l'étude détaillée dans le respect des normes standards,\n\n· Mettre en oeuvre les déploiements des solutions et assurer les disponibilités,\n\n· Elaborer les jeux d'essais pour les tests unitaires d'intégration,\n\n· Identifier et traiter les dysfonctionnements,\n\n· Assurer le support de niveau 3,\n\n· Rédiger et maintenir les guides d'utilisation, les dossiers de mise en production\n\nDescription du profil\n\nVous maîtrisez les services d'Amazon Web Service (AWS) suivants :\n- EC 2 / S3 Glue / Lambda / Kinesis / Dynamo / API Gateway / SageMaker / Fargate / Cloudwatch\n-  Outils CI : Github, Jenkins\n\nVous maîtrisez parfaitement le langage Python et la connaissance d'un langage JavaScript serait un vrai plus : angular, vue, react, node\n\nVous avez idéalement une expérience au sein d'un projet Data voire ML pour prendre part à des missions tournées vers l'IA et le ML.\n\nVotre passion et votre personnalité sont les atouts clefs de votre évolution au sein d'une équipe restreinte et enthousiaste !\n\nVous êtes attiré par le métier du conseil et vous faites preuve de qualités comme la force de proposition, l'agilité, l'autonomie qui seront indispensables dans votre réussite !\nPROFIL :"
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2780736",
+    "title": "Ingénieur Infrastructure Cloud DevOps - Sre H/F",
+    "company": "SEYOS ",
+    "location": "31",
+    "remote": null,
+    "publication_date": "2024-08-23",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": "Salaire brut : Annuel de 40000,00 Euros à 55000,00 Euros",
+        "Experience": "Expérience exigée",
+        "Level": null
+    },
+    "company_data": {
+        "sector": "Conseil pour les affaires et autres conseils de gestion",
+        "company_size": "Seyos est un cabinet de recrutement spécialisé dans les métiers de l'IT. Nous intervenons au niveau national et proposons aux candidats des opportunités professionnelles au sein d'éditeurs de logiciels, DSI d'entreprises (clients finaux), startups, acteurs E-commerce. En 9 années d'existence, plus de 1 300 professionnels de l'IT et du Digital ont déjà été recrutés par l'intermédiaire de Seyos au sein de 400 entreprises.",
+        "turnover_in_millions": null
+    },
+    "description": "POSTE : Ingénieur Infrastructure Cloud DevOps - Sre H/F\nDESCRIPTION : Notre client, une organisation en pleine croissance, propose une solution logicielle innovante pour les établissements publics de l'enseignement supérieur et de la recherche. Constituée d'universités et de grandes écoles, cette organisation co-construit une suite logicielle intégrant la gestion RH, la finance/comptabilité, et la formation, répondant aux exigences de qualité et de compétitivité.\n\nL'organisation pilote notamment le projet PC-SCOL, visant à créer une solution commune pour la gestion de la formation, de la scolarité et de la vie des étudiants, en partenariat avec d'autres établissements de l'enseignement supérieur, en France et Outre-mer.\n\nChiffres clés :\n100 collaborateurs\n70 établissements adhérents\n7 domaines d'expertise\n\nSous la responsabilité du directeur technique du projet PC-Scol, vous rejoindrez une équipe de 7 personnes dédiée à la gestion de l'infrastructure permettant l'hébergement de l'application Pégase en mode SaaS pour l'ensemble des établissements utilisateurs de la solution, vous évoluerez sur les 3 volets suivants :\n\nAutomatisation des Déploiements : Développer et maintenir les outils d'intégration et de déploiement continus pour des déploiements rapides et fiables.\nPerformance et Sécurité : Assurer la performance optimale du système et la mise en oeuvre des normes de sécurité, tout en fournissant un support technique avancé.\nÉvolution et Documentation : Contribuer à l'évolution technologique de la plateforme et rédiger des documents techniques pour garantir la qualité et les bonnes pratiques.\n\nEnvironnement technique : Kubernetes, Terraform, Docker, Vault, Kafka, Java, Angular\n\nLocalisation : Toulouse (Ramonville-Saint-Agne)\nRémunération : 45 000 à 55 000 Euros\nAvantages : 10 jours de TT/mois, Ticket-restaurant, Prévoyance à 100%, Avantages CSE\n-\nPROFIL : Ce poste est fait pour vous si :\n-  Vous êtes issus d'une formation supérieure en informatique\n-  Vous justifiez d'au moins 5 ans d'expérience sur un poste de DEVOPS ou d'Administrateur systèmes et réseaux\n-  Vous maitrisiez Kubernetes et les technologies associées (Docker, Terraform)"
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2779823",
+    "title": "Consultant Expert Outils Birst et M3 Cloud H/F",
+    "company": "LUTESSA ",
+    "location": "78",
+    "remote": null,
+    "publication_date": "2024-08-23",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": null,
+        "Experience": "Expérience exigée",
+        "Level": null
+    },
+    "company_data": {
+        "sector": null,
+        "company_size": "Qui sommes nous ?\nNous c'est Lutessa, ESN hyper-spécialisée dans 3 domaines d'activité : la Connectivité, le Cloud et la Cybersécurité.\nGrâce à une centaine de spécialistes technophiles, Lutessa accompagne ses clients, à savoir, constructeurs, opérateurs, intégrateurs et grands donneurs d'ordres dans l'étude, l'intégration et la gestion de leurs infrastructures critiques.\nA ce jour, Lutessa couvre aujourd'hui 2 territoires : la France & Monaco, et a l'ambition d'...",
+        "turnover_in_millions": null
+    },
+    "description": "POSTE : Consultant Expert Outils Birst et M3 Cloud H/F\nDESCRIPTION : Description du Poste :\nNous recherchons un consultant expert des outils Birst et M3 Cloud pour rejoindre notre équipe. Le candidat idéal sera responsable de la gestion, de la configuration et de l'optimisation des systèmes Birst et M3 Cloud afin de fournir des solutions efficaces et adaptées aux besoins de l'entreprise.\nResponsabilités :\n1. Gestion et Optimisation de Birst :\no Maîtriser toutes les tâches liées à Birst, y compris la création et la gestion de tableaux de bord.\no Visualiser et analyser des données complexes pour en tirer des insights pertinents.\no Concevoir des rapports et des visualisations de données adaptées aux besoins de l'entreprise.\n2. Expertise en M3 Cloud :\no Gérer et paramétrer tous les modules de M3 Cloud.\no Créer des rapports ad hoc et personnaliser les modules selon les exigences spécifiques.\no Assurer une intégration fluide entre M3 Cloud et d'autres systèmes utilisés par l'entreprise.\n3. Support et Formation :\no Fournir un support technique et fonctionnel aux utilisateurs des systèmes Birst et M3 Cloud.\no Former les utilisateurs finaux et les aider à optimiser l'utilisation des outils.\n4. Collaboration et Communication :\no Travailler en étroite collaboration avec les équipes internes et externes pour assurer la continuité des projets.\no Communiquer efficacement les résultats et les recommandations aux parties prenantes de l'entreprise.\n\nProfil Recherché :\no Diplôme en informatique, en systèmes d'information, ou domaine équivalent.\no Certifications appréciées :\n-  Birst Certification (Birst Professional Certification)\n-  Infor M3 Certification (Infor Certified Consultant for M3)\n-  Certifications en Business Intelligence et Analyse de Données (e.g., CBIP, CAP)\n-  ITIL Certification\n\n-  Expérience :\no Expérience significative dans l'utilisation des outils Birst et M3 Cloud.\no Maîtrise approfondie des modules de M3 Cloud et de la création de rapports ad hoc.\n-  Compétences Techniques :\no Expertise dans la création de tableaux de bord, de visualisations et de rapports avec Birst.\no Compétence avancée en paramétrage et gestion des modules M3 Cloud.\no Connaissance des meilleures pratiques en matière de gestion des données et d'analyse.\n-  Compétences Personnelles :\no Excellentes capacités analytiques et de résolution de problèmes.\no Bonne communication et capacité à travailler en équipe.\no Autonomie et proactivité dans la gestion des projets.\nSelon profil\nPROFIL :"
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2778969",
+    "title": "Chef de projets Cloud H/F",
+    "company": "ANDERSON RH ",
+    "location": "ILE-DE-FRANCE",
+    "remote": null,
+    "publication_date": "2024-08-23",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": null,
+        "Experience": "Expérience exigée",
+        "Level": null
+    },
+    "company_data": {
+        "sector": null,
+        "company_size": "Cabinet de recrutement de Cadres et Dirigeants",
+        "turnover_in_millions": null
+    },
+    "description": "De formation supérieure Bac+5 en informatique ou école d'ingénieur\nVous disposez d'une expérience de 7 ans minimum sur de la chefferie de projets Infra ou Cloud\nAnglais courant : parlé et écrit\nVous êtes le garant de la réussite des projets en collaboration avec nos équipes techniques et nos clients. \nVous assurez le suivi de l'avancement du projet en cadençant les intervenants internes et externes afin de respecter le planning annoncé.\n Vous suivez également la rentabilité du projet et travaillez en collaboration avec la direction commerciale dans un processus d'amélioration continue.\nVos missions principales sont :\n- Piloter les projets en collaboration étroite avec le SDM\n- Respecter les jalons du processus de Build mis en place dans le cadre de notre certification iso 27001\n- Garantir le respect du périmètre du projet\n- Mesurer la satisfaction client\n- Préparer et animer les comités de suivi (comités projet, comités de pilotage)\n- Faciliter les échanges entre les clients et les équipes techniques\n- Piloter la rédaction de la documentation technique\n- Réaliser les retours d'expérience de chaque projet\nVotre terrain de jeu :\n- Des offres de Cloud Computing privé (Ring XCLOUD) et Public (AZURE, AWS)\nintégrant les liens opérateurs et service managés (MCO)\n- Un Agile Service Center organisé en mode agile\n- Des environnements technologiques larges en haute disponibilité (Poweri,\nPowerLinux, X86, des baies de stockages virtualisées sous SVC)\n- Des liens réseaux opérés par nos soins\n- Des clients de toute taille avec lesquels nous établissons une relation de\npartenariat\nProfil recherché :\nDe formation supérieure Bac+5 en informatique ou école d'ingénieur\nVous disposez d'une expérience de 7 ans minimum sur de la chefferie de projets Infra ou Cloud\nVous possédez une appétence pour le pilotage de projets de toute taille et le management de prestations d'infogérance sur plusieurs comptes clients ne vous fait pas peur. \nVous possédez une bonne connaissance technique et maîtrisez les fondamentaux ITIL, les indicateurs de productivité et de qualité de type SLA, KPI. \nVous disposez d'une bonne culture générale de l'informatique et une excellente expression écrite.\nVous êtes force de proposition et avez la capacité à proposer des solutions qui feront la réussite de sa mission. \nVous êtes à l'écoute, avez l'esprit d'équipe, le sens du service.\nVous êtes organisé.e, rigoureux.se et fiable. La pratique de l'anglais constitue un plus.\nAnglais courant : parlé et écrit\n- Congés additionnels \n- Télétravail \n- Ticket restaurant\n- Mutuelle\n- Statut Cadre"
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2778629",
+    "title": "Cloud Engineer H/F",
+    "company": "ANDERSON RH ",
+    "location": "ILE-DE-FRANCE",
+    "remote": null,
+    "publication_date": "2024-08-23",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": null,
+        "Experience": "Expérience exigée",
+        "Level": null
+    },
+    "company_data": {
+        "sector": null,
+        "company_size": "Cabinet de recrutement de Cadres et Dirigeants",
+        "turnover_in_millions": null
+    },
+    "description": "- De formation supérieure Bac+5 en informatique ou école d'ingénieur\n- Vous justifiez de 7 ans minimum d'expérience de services Cloud AWS : IAM, API Gateway, Lambda, S3, SQS/SNS, CloudWatch, DynamoDB, Kinesis/Firehose, .\n- Maitrise de Python 3\n- Anglais technique (lu et écrit)\nAu sein du Datalab de la DSI, à l'aide des technologies BigData de Databricks, Snowflake et Cloud AWS\nVous avez pour responsabilité l'implémentation ainsi que le maintien des architectures et solutions prenant en compte une masse importante de données de différentes natures.\nVous travaillez en étroite collaboration avec l'équipe de la DSI ainsi que des équipes techniques externes. \nVous participez à la conception, la construction, les documentations des applications et le traitements de données. Vos développements et l'infrastructure liée doivent être testables et déployables en CI/CD.\nProfil recherché\n- De formation supérieure Bac+5 en informatique ou école d'ingénieur\n- Vous justifiez de 7 ans minimum d'expérience de services Cloud AWS : IAM, API Gateway, Lambda, S3, SQS/SNS, CloudWatch, DynamoDB, Kinesis/Firehose, .\n- Maitrise de Python 3\n- Anglais technique (lu et écrit)\nCompétences obligatoires :\nExpérience significative de services Cloud AWS : IAM, API Gateway, Lambda, S3, SQS/SNS, CloudWatch, DynamoDB, Kinesis/Firehose, .\nBonnes connaissances de GIT (MR, Rebase, CherryPick, .)\nSavoir rédiger une documentation technique (Confluence)\nMaitrise de Python 3\nTests Unitaires\nAnglais technique (lu et écrit)\nCompétences considérées comme un plus :\nSnowflake\nDatabricks, Spark et traitements types BigData\nEsprit de synthèse et capacité à prioriser facilement les problèmes\nIndustrialisation avec Terraform et Gitlab/CI\nScala et le paradigme fonctionnel\nJavaScript\nCompétences attendues\nPython (langage de programmation)\nServices cloud\nCongés additionnels \nStatut Cadre \nTélétravail \nMutuelle \nTicket restaurant"
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2778083",
+    "title": "Ingenieur cloud Microsoft Azure - CDI (H/F)",
+    "company": "IRP AUTO ",
+    "location": "16",
+    "remote": null,
+    "publication_date": "2024-08-23",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": "Salaire brut : Annuel de 45000,00 Euros à 55000,00 Euros",
+        "Experience": "Expérience exigée",
+        "Level": null
+    },
+    "company_data": {
+        "sector": null,
+        "company_size": "Présentation de l'entreprise\nDepuis plus de 70 ans, le groupe IRP AUTO contribue au mieux-être des professionnels de l'automobile et de leur famille au travers d'un ensemble de garanties et de services couvrant aujourd'hui tous les domaines de la protection sociale : prévention, santé, prévoyance, épargne, retraite et action sociale.\n(Pour en savoir plus : www.irp-auto.com)\nPourquoi nous rejoindre ?\nRejoignez un organisme paritaire et dynamique qui bénéficie d'un ...",
+        "turnover_in_millions": null
+    },
+    "description": "Missions :\nAu sein du service « Infrastructure et sécurité », vous serez responsable de l'architecture, de la mise en œuvre et de la maintenance des infrastructures cloud pour les besoins de l'entreprise.\nLe service gère le BUILD infrastructure et sécurité, une partie du MCO et le N3 de l'entreprise. Il est composé d'une quinzaine de personnes dont 2 chefs de projets et des spécialistes dans différents domaines de compétences (réseaux, systèmes, bases de données, sécurité).\nPrincipales activités :\n- Vous concevez, déployez et administrez des solutions cloud sur Microsoft Azure.\n- Vous assurez la migration des infrastructures locales vers le cloud Azure.\n- Vous gérez et optimisez les ressources cloud pour assurer performance, sécurité et coûts maîtrisés.\n- Vous collaborez avec les équipes de développement pour intégrer les applications dans l'environnement cloud.\n- Vous surveillez et gérez les performances des systèmes cloud, y compris la mise en place de solutions de monitoring et d'alerting, en association avec vos collègues en charge de la supervision.\n- Vous assurez la conformité avec les politiques de sécurité et les meilleures pratiques en matière de sécurité cloud.\n- Vous fournissez un support technique et résolvez les problèmes liés aux infrastructures cloud.\n- Vous participez à l'automatisation des processus et des tâches récurrentes.\n- Vous restez informé des dernières tendances et évolutions technologiques dans le domaine du cloud computing.\n- Vous participez à la conception, la mise en place et le maintien des solutions de continuité d'activité utilisant Microsoft Azure.\n- Bac +4/5 en informatique et 3 ans d'expérience minimum en tant qu'ingénieur cloud, avec une expertise spécifique sur Microsoft Azure\n- Une solide expérience en conception, déploiement et gestion de solutions cloud sur la plateforme Azure\n- Solide compréhension des concepts de cloud computing et des architectures distribuées\n- Connaissance de Bicep et/ou d'autres outils de gestion Azure\n- Une capacité à travailler de manière autonome et en équipe, à résoudre les problèmes rapidement et efficacement\n- Savoir communiquer, avec la capacité à travailler avec des collègues non techniques\n- Des certifications Azure sont un plus\nLes plus !\n- Rémunération annuelle brute sur 13 mois + prime de vacances\n- Du lundi au vendredi en horaires aménageables + télétravail 2 jours/semaine\n- Tickets restaurants\n- Remboursement transports en commun à 70%\n- Plan d'épargne entreprise\n- Contrat de santé/prévoyance\n- CSE attractif\n- Différents accords collectifs contribuant à une bonne qualité de vie au travail et un bon équilibre vie pro/vie perso"
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2777992",
+    "title": "Ingénieur Logiciel Expert Cloud H/F",
+    "company": "KAIZEN SOLUTIONS ",
+    "location": "38",
+    "remote": null,
+    "publication_date": "2024-08-23",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": "Salaire brut : Annuel de 45000,00 Euros à 65000,00 Euros",
+        "Experience": "Expérience exigée",
+        "Level": null
+    },
+    "company_data": {
+        "sector": null,
+        "company_size": "Kaizen Solutions ?\nKaizen est une société de conseil (une ESN) spécialisée dans les systèmes d'information complexes. Nos clients vont de la start-up aux grands groupes industriels, et nous concevons avec eux des solutions logicielles haut de gamme, sur toutes les couches, du capteur jusqu'au cloud.\nCe qui nous caractérise, c'est la fierté du service.\nOubliez tout ce que vous connaissez ou pensez connaître sur les ESN, et découvrez qui nous sommes (on est vraiment dif...",
+        "turnover_in_millions": null
+    },
+    "description": "Kaizen est une société de conseil (une ESN) spécialisée dans les systèmes d'information complexes. Nos clients vont de la start-up aux grands groupes industriels, et nous concevons avec eux des solutions logicielles haut de gamme, sur toutes les couches, du capteur jusqu'au cloud avec un haut niveau d'expertise.\nCe niveau d'expertise est également assuré par la mise en place d'une coordination technique en interne chez Kaizen Solutions qui a plusieurs objectifs :\n- Définitions des solutions clients en support de l'équipe Delivery\n- Capitalisation des besoins et définitions des offres commerciales\n- Présentation de notre expertise\n- Définition de la stratégie de formation des collaborateurs\n- Proposition de contenu pour les événements techniques\n- Animation des Pôles de Compétences\nC'est au sein de ce contexte que nous cherchons un profil expert en Cloud.\nMissions du poste :\n- Participer à la conception d'applications complexes techniquement en assurant la faisabilité technique, les choix technologiques, et savoir définir les architectures des services cloud ainsi que les solutions et infrastructures nécessaires à la mise en place des projets de nos clients.\n- Mener l'évaluation des besoins clients afin de définir et rédiger les spécifications techniques en fonction du cahier des charges. Dans ce cadre, vous serez amené à analyser et à challenger leurs cahiers des charges. De plus, vous favoriserez la maturation de ces partenaires dans leur parcours d'engagement avec Kaizen Solutions.\n- Possibilité de devenir le responsable du Pole de Compétences Cloud & IT. C'est par votre maîtrise et votre expertise sur l'ensemble de l'environnement CLOUD (ETC) que vous aurez la possibilité de prendre si vous le souhaitez le leadership du Pole cloud And IT de Kaizen solutions\n- Favoriser la collaboration, entre les équipes dédiées dans les projets et les clients, autour d'une vision commune de l'architecture des solutions proposées\nCompétences attendues :\n- Cloud Provider\n- AWS\n- GCP\n- Azure\n- OVH\n- Containerisation et orchestration de conteneur :\n- Docker\n- Kubernetes\n- Outils d'infrastructure as Code\n- Terraform\n- Pulumi\n- Ansible\n- Concepts :\n- Architecture Cloud\n- Micro services\n- Automatisation\n- CI/CD\n- Principe de déploiement : Canary, AB...\nVous aurez aussi l'opportunité de travailler conjointement avec les équipes du KZS Lab, notre centre de R&D !\nIl mène deux types de missions.\nEn externe, il apporte à nos clients des compétences avancées pour accélérer leurs projets d'innovation en matière de systèmes d'information critiques et industriels.\nEn interne, le KZS Lab assure une veille, ainsi qu'un support technologique et méthodologique à l'ensemble des ingénieurs Kaizen Solutions.\nIl garantit ainsi le niveau d'expertise de nos prestations et notre capacité à toujours apporter des solutions sur les enjeux les plus complexes à nos différents partenaires.\nL'aventure vous tente alors ?!\n- Bac +5 avec une formation Ingénieur ou filière universitaire avec une spécialité en Système d'Informations, vous avez idéalement 10 ans d'expériences significatives professionnelles\n- Vous avez une expérience réussie de développement et de déploiement en production d'un ou plusieurs services\n- Vous faites preuve d'une capacité d'abstraction avérée et de très bonnes qualités de reformulation et de rédaction\n- Vous êtes force de proposition et vous avez su vous démarquer grâce à votre sens de l'analyse, de l'écoute, ainsi que pour votre rigueur dans la gestion des projets qui vous sont confiés\n- Vous êtes réputé pour votre excellence dans la gestion des relations client et de votre engagement envers leur satisfaction\n- Votre niveau d'anglais est opérationnel.\nCette description vous ressemble? Envoyez nous votre candidature !\nProcessus de recrutement\n- Etape 1 :\nUn entretien téléphonique pour présenter votre parcours et vos aspirations. Nous vous présenterons également rapidement ce que Kaizen pourrait vous offrir\n- Etape 2 :\nUn entretien en visio ou en présentiel avec une de nos chargées de recrutement et un de nos commerciaux pour entrer plus dans les détails d'un ou plusieurs projets\n- Etape 3 :\nUn entretien avec un pair pour savoir aujourd'hui ou es ce que vous vous situez techniquement. Ce sera aussi l'occasion pour vous de poser des questions sur c'est quoi la vie chez Kaizen tout les jours !\nMais aussi :\nDes conditions de travail attractives :\n- Smartphone et abonnement professionnel\n- Mutuelle haut de gamme sans surcout pour votre famille\n- Forfait mobilité durable jusqu'à 600€ / an\n- CSE avec cagnotte individuelle, collective et tarifs préférentiel"
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2775838",
+    "title": "Ingénieur Aws H/F",
+    "company": "DUALIS PARTNER ",
+    "location": "75",
+    "remote": null,
+    "publication_date": "2024-08-23",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": "Salaire brut : Annuel de 60000,00 Euros à 70000,00 Euros",
+        "Experience": "Expérience exigée",
+        "Level": null
+    },
+    "company_data": {
+        "sector": "Formation continue d'adultes",
+        "company_size": "Accompagner la carrière de nos candidats est le fondement de DUALIS Partner. \nPour prolonger cette ambition au-delà du recrutement, DUALIS partner a créé son entité 'Conseil & Coaching'.",
+        "turnover_in_millions": null
+    },
+    "description": "POSTE : Ingénieur Aws H/F\nDESCRIPTION : Nous sommes en recherche d'un Ingénieur AWS pour une entreprise dynamique en pleine mutation, à taille humaine et évoluant dans un environnement technologique en constante évolution.\n\nPassionnés par l'innovation et les nouvelles technologies, nous recherchons un(e) Ingénieur(e) Cloud et DEVOPS pour rejoindre une équipe et contribuer à leur transformation vers le cloud AWS et la méthodologie DEVOPS.\n\nResponsabilités :\n\nEn tant qu'Ingénieur(e) Cloud et DEVOPS, vous serez responsable de :\n-  Diriger notre transition vers le cloud AWS, le monde open source et la méthodologie DEVOPS.\n-  Gérer et administrer notre infrastructure cloud AWS pour assurer son bon fonctionnement.\n-  Effectuer une veille technologique constante sur les services et les meilleures pratiques du cloud AWS.\n-  Collaborer avec les développeurs pour concevoir des architectures applicatives, mettre en place des processus CI/CD, et optimiser les performances des applications.\n-  Fournir un support expert sur tous les aspects du cloud AWS et DEVOPS.\n\nCompétences requises :\n-  Excellente maîtrise du Cloud AWS, y compris EC2, RDS, ECS, ECR, AMI, VPC, Security Group, EBS, CloudWatch, et WAF. Une expérience avec d'autres clouds serait un plus.\n-  Solide expérience de l'infrastructure as code avec Terraform.\n-  Maîtrise des outils de containerisation tels que Docker et Kubernetes.\n-  Connaissance approfondie de la méthodologie DEVOPS et des outils associés tels que Git, GitLab et GitHub.\n-  Connaissance des outils de virtualisation VMWare, des réseaux (Aruba, Cisco, firewall ForcePoint ou Checkpoint), des systèmes Linux et Windows, ainsi que des middlewares tels qu'Apache, Nginx, Maven et Tomcat.\nPROFIL : Profil recherché :\n-  Diplômé(e) d'une école d'ingénieur ou d'une université en informatique.\n-  Minimum 2 ans d'expérience dans un poste d'architecte ou d'ingénieur AWS.\n-  Passionné(e) par l'innovation et les nouvelles technologies.\n-  Orienté(e) solutions, rigoureux(se) et capable de gérer le stress.\n-  Ouvert(e) à la variété des sujets techniques et désireux(se) de participer à de nombreux projets.\n-  Autonome, mais également doté(e) d'un bon esprit d'équipe et de partage."
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2764654",
+    "title": "Ingénieur Cloud DevOps - POEI (H/F)",
+    "company": null,
+    "location": "NIORT 79",
+    "remote": null,
+    "publication_date": "2024-08-23",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": null,
+        "Experience": "Expérience exigée",
+        "Level": null
+    },
+    "company_data": {
+        "sector": null,
+        "company_size": null,
+        "turnover_in_millions": null
+    },
+    "description": "Notre entreprise partenaire vous propose un CDI précédé d'une formation professionnalisante accélérée de 400h, dans le cadre d'une POEI (Préparation Opérationnelle à l'Emploi Individuel), afin de consolider vos compétences et pour que vous soyez pleinement opérationnel dans la mission qui vous sera confiée par la suite.\nPour bénéficier du dispositif de la POEI, vous devez être obligatoirement inscrit(e) à France Travail en tant que demandeur(se) d'emploi.\nAssurée par des professionnels reconnus, cette formation se déroule sur une période de 12 semaines. A l'issue de la formation et au sein de nos équipes projets, vous évoluerez sur un poste d'Ingénieur DevOps.\nEn tant qu'Ingénieur DevOps, vous serez un véritable expert pour nos plus grandes entreprises partenaires !\nMISSIONS \nChargé(e) de concevoir des solutions d'automatisation pour les équipes business, projets et techniques, en tant qu'Ingénieur DevOps, vous proposerez les meilleures solutions aux entreprises en leur permettant d'optimiser leur activité, à travers quelques missions principales :\n* Intégration des fonctions et ressources du projet tout au long du cycle de vie du produit,\n* Déploiement et mise en service du produit,\n* Mise à jour du code et ajout de nouvelles fonctionnalités,\n* Préparation d'un environnement de tests,\n* Contrôle des performances du produit,\n* Automatisation de la création de serveurs à l'aide de scripts,\n* Intégration de l'infrastructure en production dans le Cloud,\n* Sécurisation de l'infrastructure,\n* Gestion des containers.\nCette description tient compte des principales tâches, mais n'est pas limitative. \nLES + DE CETTE EXPÉRIENCE :\nCe parcours s'inscrit dans le dispositif de POEI (Préparation Opérationnelle à l'Emploi Individuelle), qui vous offre plusieurs avantages :\n* Une promesse d'embauche de la part d'un cabinet de conseil de renom\n* Une formation de 3 mois chez DataScientest, 100% financée par pôle emploi avant d'intégrer l'entreprise\n* Un diplôme ou titre RNCP de niveau Bac +4\n* Une préparation optimale au passage de la certification éditeur : AWS SA\nPROFIL :\n* Vous êtes inscrit(e) à France Travail\n* Issu(e) d'une filière scientifique BAC+3/4/5 ou d'un diplôme d'ingénieur,\n* Vous disposez idéalement d'une expérience significative en développement informatique, en architecture réseaux ou dans la Data : avec la maîtrise d'un langage objet type Java, Linux, Nodejs, Python, C/C++, HTML,...\n* Vous justifiez d'au minimum 2 ans d'expérience professionnelle avec l'usage de Java / React\nRémunération selon l'expérience professionnelle de 30 à 50k€.\nPoste ouvert aux personnes en situation de handicap.\nType d'emploi : Temps plein, CDI\nStatut : Cadre\nRémunération : 30 000,00€ à 50 000,00€ par an\nAvantages :\n* Prise en charge du transport quotidien\nHoraires :\n* Période de travail de 8 Heures\n* Travail en journée\nLieu du poste : Déplacements fréquents"
+}]

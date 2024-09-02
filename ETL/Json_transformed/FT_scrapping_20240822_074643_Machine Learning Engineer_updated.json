@@ -1,3 +1,110 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d45fce10ef979e31da658616298d4e6e99ba172bc76a13d8688516ff323fed40
-size 10919
+[
+    {
+        "source": "France Travail",
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/2684373",
+        "company": "DECATHLON ",
+        "location": "Paris",
+        "remote": null,
+        "publication_date": "2024-08-21",
+        "details": {
+            "TypeContract": "CDI",
+            "Salary": null,
+            "Experience": "débutant accepté",
+            "Level": null
+        },
+        "company_data": {
+            "sector": null,
+            "company_size": "LE CONTEXTE\n\nDepuis plus de 40 ans, grâce à ses produits innovants et fort de sa culture reposant sur l'accessibilité, Decathlon ne cesse de réinventer le marché du sport.\n\nNotre mission : rendre durablement les plaisirs et les bienfaits du sport accessibles au plus grand nombre.\n\nAujourd'hui, nous tirons parti de cette culture de l'innovation et de notre expertise digitale pour qu'un public plus large puisse bénéficier des plaisirs du sport et ce, à l'a...",
+            "turnover_in_millions": null
+        },
+        "description": "POSTE : Machine Learning Engineer - Offer - Sport Products F - M - D H/F\nDESCRIPTION : Au sein de cette Business Unit, le domaine Sport & Products est au coeur de la transformation et de l'innovation de Décathlon car il sert les équipes Décathlon en charge de la construction de notre offre globale de produits, de la conception des produits et de leur commercialisation. Saviez-vous que 80% des produits vendus en magasins sont conçus et développés par Decathlon ? Une belle responsabilité !\n\nTu rejoindras l'équipe Wonder Offer Data team qui est composée de Data Scientists, Data Analyst, BI engineers, ML engineer, Analytics Engineer et Data PM.\n\nL'équipe travaille sur l'initiative stratégique'Efficient Offer' qui est l'une des 6 priorités digitales de Décathlon cette année. Notre objectif est d'améliorer la performances et le monitoring de notre offre grâce à l'analytics & l'IA.\n\nTES RESPONSABILITÉS\n\nEn tant que ML Engineer au sein de l'équipe Wonder Offer, tu auras l'occasion de :\n-  Collaborer étroitement avec les PM et data scientists pour identifier les opportunités d'impact business, exploiter les données pour quantifier les résultats et participer à la planification de la stratégie et de la feuille de route de ML pour l'équipe.\n-  Comprendre & s'approprier les enjeux offre et retail de Décathlon\n-  Construire et produire des systèmes d'apprentissage automatique de bout en bout innovants.\n-  Créer des systèmes intelligents de surveillance et d'observabilité en temps réel de la solution ML et des données.\n-  Créer des web apps impactantes pour nos partenaires business\n-  Contribuer au partage des bonnes pratiques sur les outils ML afin d'en améliorer la productivité et la qualité des résultats pour les ingénieurs et scientifiques de l'ensemble des équipes (Prévisions, Prix, Offre, Personnalisation Client, et bien d'autres)\n-  Contribuer au partage des bonnes pratiques sur les outils MLOPS afin d'améliorer la productivité et la qualité des résultats pour les ingénieurs et les scientifiques de données ML dans toute l'entreprise.\n-  Résoudre des problèmes avec un accent sur le développement de produits.\n-  Participer à la revue de code et au mentorat des membres juniors de l'équipe pour favoriser un environnement de développement collaboratif.\n-  Effectuer des recherches et des expérimentations pour évaluer et implémenter de nouvelles techniques et technologies ML.\n-  Assurer la qualité et la performance des modèles en utilisant des techniques de validation rigoureuses et en surveillant les modèles en production.\n-  Travailler avec les équipes DataOps pour automatiser le déploiement et la gestion des modèles ML.\n-  Rédiger et maintenir la documentation technique pour les systèmes et les modèles développés.\n-  Coacher, mentorer et recruter d'autres membres pour aider à accroître l'efficacité et la croissance de l'équipe\n\nLe Périmètre Technique\n-  Python\n-  Databricks\n-  AWS Redshift\n-  AWS S3\n-  AWS Glue\n-  AWS SageMaker\n-  Spark/PySpark\n-  Docker\n-  Kubernetes\n-  Airflow\n-  MLflow\n-  GitHub actions\n-  Streamlit\n-  Connaissance Tableau Software\n\nCE DONT TU AURAS BESOIN POUR RÉUSSIR\n-  Tu as au moins 3 ans d'expérience en Machine Learning / MLOPS incluant la mise en production de solutions de ML ayant un impact à grande échelle sur les clients/users ;\n-  Tu maîtrises Python avec une solide compétence à produire un code de qualité de production performant ;\n-  Tu es solide dans tes\nPROFIL :",
+        "title": "machine learning engineer",
+        "skills": {
+            "ProgLanguage": [
+                "Python"
+            ],
+            "BigData": [
+                "Spark",
+                "Databricks"
+            ],
+            "DataVisualisation": [
+                "Tableau"
+            ],
+            "CloudComputing": [
+                "AWS"
+            ],
+            "DevTools": [
+                "Docker"
+            ],
+            "Automation": [
+                "Kubernetes",
+                "Airflow"
+            ],
+            "Containers": [
+                "Docker",
+                "Kubernetes"
+            ],
+            "Other": [
+                "ML",
+                "Machine Learning"
+            ],
+            "EnSoftSkils": [
+                "Initiative"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/2684073",
+        "company": "DECATHLON ",
+        "location": "Nord",
+        "remote": null,
+        "publication_date": "2024-08-21",
+        "details": {
+            "TypeContract": "CDI",
+            "Salary": null,
+            "Experience": "débutant accepté",
+            "Level": null
+        },
+        "company_data": {
+            "sector": null,
+            "company_size": "LE CONTEXTE\n\nDepuis plus de 40 ans, grâce à ses produits innovants et fort de sa culture reposant sur l'accessibilité, Decathlon ne cesse de réinventer le marché du sport.\n\nNotre mission : rendre durablement les plaisirs et les bienfaits du sport accessibles au plus grand nombre.\n\nAujourd'hui, nous tirons parti de cette culture de l'innovation et de notre expertise digitale pour qu'un public plus large puisse bénéficier des plaisirs du sport et ce, à l'a...",
+            "turnover_in_millions": null
+        },
+        "description": "POSTE : Machine Learning Engineer - Offer - Sport Products F - M - D H/F\nDESCRIPTION : Au sein de cette Business Unit, le domaine Sport & Products est au coeur de la transformation et de l'innovation de Décathlon car il sert les équipes Décathlon en charge de la construction de notre offre globale de produits, de la conception des produits et de leur commercialisation. Saviez-vous que 80% des produits vendus en magasins sont conçus et développés par Decathlon ? Une belle responsabilité !\n\nTu rejoindras l'équipe Wonder Offer Data team qui est composée de Data Scientists, Data Analyst, BI engineers, ML engineer, Analytics Engineer et Data PM.\n\nL'équipe travaille sur l'initiative stratégique'Efficient Offer' qui est l'une des 6 priorités digitales de Décathlon cette année. Notre objectif est d'améliorer la performances et le monitoring de notre offre grâce à l'analytics & l'IA.\n\nTES RESPONSABILITÉS\n\nEn tant que ML Engineer au sein de l'équipe Wonder Offer, tu auras l'occasion de :\n-  Collaborer étroitement avec les PM et data scientists pour identifier les opportunités d'impact business, exploiter les données pour quantifier les résultats et participer à la planification de la stratégie et de la feuille de route de ML pour l'équipe.\n-  Comprendre & s'approprier les enjeux offre et retail de Décathlon\n-  Construire et produire des systèmes d'apprentissage automatique de bout en bout innovants.\n-  Créer des systèmes intelligents de surveillance et d'observabilité en temps réel de la solution ML et des données.\n-  Créer des web apps impactantes pour nos partenaires business\n-  Contribuer au partage des bonnes pratiques sur les outils ML afin d'en améliorer la productivité et la qualité des résultats pour les ingénieurs et scientifiques de l'ensemble des équipes (Prévisions, Prix, Offre, Personnalisation Client, et bien d'autres)\n-  Contribuer au partage des bonnes pratiques sur les outils MLOPS afin d'améliorer la productivité et la qualité des résultats pour les ingénieurs et les scientifiques de données ML dans toute l'entreprise.\n-  Résoudre des problèmes avec un accent sur le développement de produits.\n-  Participer à la revue de code et au mentorat des membres juniors de l'équipe pour favoriser un environnement de développement collaboratif.\n-  Effectuer des recherches et des expérimentations pour évaluer et implémenter de nouvelles techniques et technologies ML.\n-  Assurer la qualité et la performance des modèles en utilisant des techniques de validation rigoureuses et en surveillant les modèles en production.\n-  Travailler avec les équipes DataOps pour automatiser le déploiement et la gestion des modèles ML.\n-  Rédiger et maintenir la documentation technique pour les systèmes et les modèles développés.\n-  Coacher, mentorer et recruter d'autres membres pour aider à accroître l'efficacité et la croissance de l'équipe\n\nLe Périmètre Technique\n-  Python\n-  Databricks\n-  AWS Redshift\n-  AWS S3\n-  AWS Glue\n-  AWS SageMaker\n-  Spark/PySpark\n-  Docker\n-  Kubernetes\n-  Airflow\n-  MLflow\n-  GitHub actions\n-  Streamlit\n-  Connaissance Tableau Software\n\nCE DONT TU AURAS BESOIN POUR RÉUSSIR\n-  Tu as au moins 3 ans d'expérience en Machine Learning / MLOPS incluant la mise en production de solutions de ML ayant un impact à grande échelle sur les clients/users ;\n-  Tu maîtrises Python avec une solide compétence à produire un code de qualité de production performant ;\n-  Tu es solide dans tes\nPROFIL :",
+        "title": "machine learning engineer",
+        "skills": {
+            "ProgLanguage": [
+                "Python"
+            ],
+            "BigData": [
+                "Spark",
+                "Databricks"
+            ],
+            "DataVisualisation": [
+                "Tableau"
+            ],
+            "CloudComputing": [
+                "AWS"
+            ],
+            "DevTools": [
+                "Docker"
+            ],
+            "Automation": [
+                "Kubernetes",
+                "Airflow"
+            ],
+            "Containers": [
+                "Docker",
+                "Kubernetes"
+            ],
+            "Other": [
+                "ML",
+                "Machine Learning"
+            ],
+            "EnSoftSkils": [
+                "Initiative"
+            ]
+        }
+    }
+]

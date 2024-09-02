@@ -1,3 +1,123 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b7b19aae5797504f0484b355cb81fa0ffb4245aaddafb2e67201466e2c79ba37
-size 25557
+[
+    {
+        "source": "France Travail",
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/2714109",
+        "title": "FPGA Software Engineer F/M F/H - Informatique industrielle (H/F)",
+        "company": "MÉDIANE BENELUX ",
+        "location": "59",
+        "remote": null,
+        "publication_date": "2024-08-22",
+        "details": {
+            "TypeContract": "CDI",
+            "Salary": "Salaire brut : A partir de 45 k€ brut annuel",
+            "Experience": "Débutant accepté",
+            "Level": null
+        },
+        "company_data": {
+            "sector": "Ingénierie, études techniques",
+            "company_size": "Et si vous embarquiez vers les nouvelles technologies ?\n\n\n\nFiliale du groupe industriel ICE, Médiane Système, est une société d'ingénierie innovante spécialisée en électronique, systèmes embarqués et informatique industrielle. Médiane Système a construit son identité sur une expertise technique de haut niveau en proposant à ses clients, des prestations d'accompagnement au travers de ses Départements R&D (DRD) et ConSulting (DCS).\n\n\n\nPrésente en France (région Paris...",
+            "turnover_in_millions": null
+        },
+        "description": "Descriptif du poste:\n\nPour l'un de nos clients, équipementier électronique, situé dans les Hauts-de-France (frontière Belge), nous recherchons un ingénieur système contrôle commande spécialisé en électronique et plus particulièrement en FPGA.\n\n\n\nMissions et objectifs :\n\n\n\nSous la supervision du responsable étude du pôle contrôle commande, les missions seront :\n\n\n\n- Conception, programmation, intégration et validation de FPGA pour les systèmes de contrôle-commande,\n\n- Réalisation des tests unitaires et des tests d'intégration,\n\n- Rédaction de la documentation technique (spécifications, documents de conception et de justification, plan de validation, rapports techniques, .),\n\n- Participation aux réunions techniques et aux revues techniques (de code et de conception),\n\n- Collaboration avec les équipes (électronique, logiciel embarqué, mécanique, .) pour garantir l'intégration efficace des FPGA dans le système,\n\n- Gestion de la configuration logicielle au travers d'un serveur GIT,\n\n- Réaliser une veille technique et technologique pour apporter des solutions innovantes et maintenir un haut niveau de technicité des produits.\n\nProfil recherché:\n\nDiplômé de l'enseignement supérieur ou d'un école d'ingénieur, vous disposez d'une expérience réussie dans le développement en VHDL sur FPGA de type Intel /Altera (Quartus) Cyclone ou Arria.\n\nCompétences et connaissances requises :\n\n- Compétences en systèmes embarqués et une expérience dans le domaine de la défense ou des systèmes de contrôle-commande des machines électriques tournantes serait un plus\n\n- Connaissance des outils tels que Matlab Simulink ou HDL Coder et de la communication SFP serait un plus.\n\n- Connaissance du fonctionnement et du système de contrôle-commande des machines électriques tournante\n\n- Connaissance du développement FPGA sous Matlab HDL coder\n\n- Connaissance du fonctionnement d'un serveur Git\n\n- Bon esprit de synthèse, capacité de prendre des décisions en autonomie."
+    }
+, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2713928",
+    "title": "HMI Software Engineer F/M F/H - Informatique industrielle (H/F)",
+    "company": "MÉDIANE BENELUX ",
+    "location": "59",
+    "remote": null,
+    "publication_date": "2024-08-22",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": "Salaire brut : A partir de 45 k€ brut annuel",
+        "Experience": "Débutant accepté",
+        "Level": null
+    },
+    "company_data": {
+        "sector": "Ingénierie, études techniques",
+        "company_size": "Et si vous embarquiez vers les nouvelles technologies ?\n\n\n\nFiliale du groupe industriel ICE, Médiane Système, est une société d'ingénierie innovante spécialisée en électronique, systèmes embarqués et informatique industrielle. Médiane Système a construit son identité sur une expertise technique de haut niveau en proposant à ses clients, des prestations d'accompagnement au travers de ses Départements R&D (DRD) et ConSulting (DCS).\n\n\n\nPrésente en France (région Paris...",
+        "turnover_in_millions": null
+    },
+    "description": "Descriptif du poste:\n\nPour l'un de nos clients, situé dans les Hauts-de-France, nous recherchons un développeur dans le but de renforcer les équipes travaillant sur des projets d'automatisation industrielle, de la phase de conception à la mise en service.\n\n\n\nSur le poste, il vous sera demandé de :\n\n- Travailler avec l'équipe de projet, de la phase de conception à la mise en service, sur des projets d'automatisation industrielle.\n\n- Programmation de commandes PLC, SCADA et HMI pour divers systèmes dans le domaine de l'automatisation.\n\n- Développer des logiciels, des visualisations et des algorithmes pour différents types de contrôleurs.\n\n- Contrôler l'avancement du projet et adapter la planification en conséquence.\n\n- Convertir les souhaits et les exigences du client en documentation fonctionnelle et en conception technique concrète.\n\n- Simuler, tester, adapter et perfectionner le logiciel conçu.\n\nProfil recherché:\n\nDiplômé de l'enseignement supérieur ou d'une école d'ingénieur spécialisée dans l'électrotechnique, de l'automatisation industrielle, de la mécatronique, de l'informatique technique ou d'un domaine similaire, vous possédez une expérience significative en tant qu'ingénieur logiciel chez un constructeur de machines ou un intégrateur de systèmes dans le domaine de l'automatisation industrielle.\n\n\n\nConnaissances requises :\n\n- Techniques de contrôle PLC, HMI et/ou DCS, TiaPortal et WinCC, de préférence vous avez travaillé avec Siemens."
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2699969",
+    "title": "Software engineer rust - h/f",
+    "company": null,
+    "location": "PARIS 15 75",
+    "remote": null,
+    "publication_date": "2024-08-22",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": null,
+        "Experience": "Débutant accepté",
+        "Level": null
+    },
+    "company_data": {
+        "sector": null,
+        "company_size": "Chez Iliad-Free, nous sommes persuadés que la Diversité est une richesse ! Fondé en 1991, le groupe Iliad est également connu sous la marque commerciale Free. Depuis plus de 15 ans, ce groupe technologique basé à Paris, s'attèle à offrir les plus grandes innovations télécom du marché.",
+        "turnover_in_millions": null
+    },
+    "description": "Description\nRattaché(e) au Responsable Data Engineering, vous œuvrez à la construction et à la maintenance de la plateforme data dIliad, en partenariat avec la composante data-science de léquipe Data. En cours de construction, cette plateforme assemblera des composants open-source et des développements internes avec une haute exigence sur la solidité, la performance, lergonomie et la sécurité.\nEn tant que Software Engineer RUST, vous serez en charge du développement de modules critiques pour la plateforme data, en vous assurant qu'ils respectent les standards de performance et de sécurité. Vous travaillerez en étroite collaboration avec les autres membres de léquipe, y compris les data scientists, pour développer des solutions innovantes et robustes.\nParmi les sujets que vous pourriez prendre en charge :\n Développement de modules backend en Rust\n Optimisation de la performance des services critiques\n Sécurisation des échanges de données\n Intégration avec dautres composants open-source\n Participation à la conception darchitectures scalables et résilientes\nProfil recherché\nHard-skills :\n 3+ ans dexpérience en développement logiciel, avec une spécialisation en Rust\n Connaissances solides en programmation système et concurrentielle\n Expérience avec les bases de données et les systèmes distribués\n Compétences en optimisation de performance et gestion de la mémoire\n Familiarité avec les outils et les méthodologies DevOps (CI/CD, conteneurisation, orchestration)\n Connaissance de Python est un plus\n Expérience avec les systèmes de gestion des identités et des accès (IAM) est un plus\n Compréhension des principes de sécurité des systèmes d'information\n Capacité à écrire du code avec une maîtrise du niveau d'abstraction (YAGNI, KISS) et des compromis entre lisibilité, performance, et vitesse de développement\nSoft-skills :\n Esprit déquipe et excellente communication\n Capacité à travailler dans un environnement agile et à respecter des deadlines serrées\n Proactif et autonome avec une forte capacité à résoudre des problèmes complexes\n Capacité à donner et recevoir des feedbacks constructifs"
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2684871",
+    "title": "Software Engineer Backend F - M - D H/F",
+    "company": "DECATHLON ",
+    "location": "59",
+    "remote": null,
+    "publication_date": "2024-08-21",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": null,
+        "Experience": "Débutant accepté",
+        "Level": null
+    },
+    "company_data": {
+        "sector": null,
+        "company_size": null,
+        "turnover_in_millions": null
+    },
+    "description": "POSTE : Software Engineer Backend F - M - D H/F\nDESCRIPTION : L'équipe E-Commerce\n\nChez Décathlon, nos équipes E-Commerce mènent une transformation technologique et organisationnelle pour soutenir nos plateformes, magasins et partenaires dans le monde entier. Nous croyons aux bienfaits des applications Cloud Native, des API, de l'inner-sourcing, l'agilité, et la promotion d'une culture Produit.\n\nAu sein des équipes d'ingénierie E-Commerce, nous travaillons sur des fonctionnalités clés dans des pays majeurs, ainsi que sur des outils permettant d'agir sur les leviers commerciaux. L'équipe travaille de manière indépendante dans un environnement agile, proche de ses utilisateurs, cherchant constamment à s'améliorer et étant responsable de son produit : \"You build IT, you run IT\".\n\nEn adoptant la diversité et en favorisant un environnement inclusif, nous visons à construire une équipe qui affirme ses forces dans ses différences, créant un lieu de travail où chacun peut s'épanouir et apporter ses compétences et perspectives uniques.\n\nRejoins-nous dans cette aventure d'innovation et d'impact au sein de l'équipe CUBE Chekout qui motorise nos sites les plus performants d'un point de vue business !\n\nCette équipe gère un produit mature, drivé par les bonnes pratiques de l'ingénierie et la volonté d'offrir une qualité de service toujours meilleure, le tout dans un environnement international !\n\nTa mission\n\nTu joues un rôle crucial dans la qualité du code de l'équipe et la promotion d'une culture des meilleures pratiques de développement.\n\nTes responsabilités incluent :\n-  Collaboration et croissance :\n-  Participer activement au traitement des demandes des utilisateurs, collaborer au développement de fonctionnalités avec les Product Managers, et contribuer à l'amélioration des compétences de l'équipe\n-  Encourager et contribuer à l'amélioration continue au sein de l'équipe\n-  Code Quality Champion :\n-  Garantir la qualité du code au sein de l'équipe grâce à des pratiques rigoureuses telles que la revue de code, la programmation en binôme et le respect des principes de code propre\n-  Suivre les bonnes pratiques d'ingénierie pour atteindre les plus haut niveau de maturité\n-  Participer aux sessions de partage de connaissances pour améliorer les normes de code au sein de l'équipe.\n-  Comprendre la pyramide des tests, écrire des tests unitaires conformément à celle-ci, ainsi que des tests de niveau supérieur avec l'aide d'ingénieurs plus expérimentés\n-  Tester toujours les cas limites et les erreurs attendus\n-  Leadership technique :\n-  Fournir des revues de code détaillées pour les coéquipiers et documenter les idiomes et les meilleures pratiques\n-  Aider les nouvelles recrues et les stagiaires à se familiariser avec le style de l'équipe et la base de code existante\n-  Donner des commentaires utiles et exploitables aux pairs et aux gestionnaires\n-  Fournir un soutien et des éclaircissements sur ton domaine d'expertise pour favoriser l'efficacité de l'équipe\n-  Prendre des décisions techniques qui améliorent les performances de l'équipe et les mettre en oeuvre efficacement au quotidien.\n-  Favoriser un environnement qui encourage l'innovation, la collaboration et l'amélioration continue.\n\nTon environnement technique\n-  Backend Technologies : Java\n-  Databases : PostgreSQL / OpenSearch\n-  Data pipelines : API\n-  Version Control and CI/CD : Git (GitHub Actions), Unit and functional testing, CI/CD processes.\n-  Monitoring : Leverage tools like Datadog.\n-  Collaborative Tools and Infrastructure : Utilize collaborative tools like Confluence, Slack, Jira, and work in infrastructure environments such as GCP, Docker, Kubernetes, Flux, Helm, etc.\n\nCe dont tu auras besoin pour réussir\n-  Communication : Tu as déjà évolué dans un environnement international nécessitant de communiquer en anglais tant à l'écrit qu'à l'orale et tu es donc à l'aise.\n-  Collaboration innovante : Prêt à montrer l'exemple dans un environnement agile et rapide.\n-  Expertise : Une solide expérience dans le développement back end (Java / Database) et le déploiement continu.\n-  Mentalité Agile : Adopter une mentalité agile, mettant l'accent sur l'amélioration continue, l'intelligence collective, l'entraide et la solidarité.\n-  Passion : Partager votre passion pour la technologie et contribuer à la croissance technique de l'équipe.\n-  Valeurs Sportives :&nbs\nPROFIL :"
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2683972",
+    "title": "Software Engineer Backend F - M - D H/F",
+    "company": "DECATHLON ",
+    "location": "59",
+    "remote": null,
+    "publication_date": "2024-08-21",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": null,
+        "Experience": "Expérience exigée",
+        "Level": null
+    },
+    "company_data": {
+        "sector": null,
+        "company_size": null,
+        "turnover_in_millions": null
+    },
+    "description": "POSTE : Software Engineer Backend F - M - D H/F\nDESCRIPTION : Nos équipes Circularity recherchent un·e Software Engineer Back-end basé·e à Lille.\n\nDECATHLON accélère sa transformation digitale. Nous construisons une plateforme à l'image des Digital Giants, pour révolutionner la pratique du sport.\n\nNous voyons la circularité comme une composante clé de cette révolution : réduction de l'impact carbone, permettre l'accès à des équipements performants au plus grand nombre, réparation et réutilisation des équipements, etc.\n\nNous recherchons un.e Software Engineer Backend pour construire les fonctionnalités clés de la circularité sur la nouvelle plateforme Decathlon United. Ces services se répartissent dans plusieurs domaines. Pour la location, il s'agit de gérer les offres ou d'effectuer le suivi des contrats. Pour la seconde vie, une partie des services est dédiée à l'acquisition des équipements, de l'évaluation du prix de rachat à la reprise du matériel. L'autre partie concerne la remise en état, la logistique de transport, et l'établissement du prix de revente. Enfin pour la réparation, les services sont destinés à gérer les prises en charges, les rendez-vous, la compatibilité et la disponibilité des pièces de rechange pour adresser les besoins des ateliers comme des particuliers.\n\nLa Circularité offre un large éventail d'opportunités et de challenges et est en expansion. La part des ventes circulaires ne fait que croître et nous avons l'ambition d'adresser de nouveaux marchés pour au final couvrir tous les aspects de l'économie durable.\n\nTA FUTURE CONTRIBUTION\n\nEn tant que Software Engineer Backend, tu es intégré.e à une de nos squads constituée d'un Product Manager et de développeurs, ton rôle est de :\n-  Participer à la conception du service permettant la création des offres circulaires dans les différents pays dans lesquels nous sommes déployés ainsi que de permettre de les mettre à jour.\n-  Contribuer à l'écriture de la roadmap technique des produits\n-  Participer aux choix techniques et d'architecture qui permettent à nos services de scaler et d'être toujours performants\n-  Veiller au respect des best practices tant pour l'Engineering Excellence que l'Operational Excellence.\n-  Prendre en considération de façon systématique les enjeux de sécurité de l'application\n\nEnvironnement technique\n-  Java, Springboot\n-  Architecture hexagonale\n-  PostgreSQL\n-  GCP, Kubernetes\n-  Intégration et déploiement continu via github actions\n\nCE QUE TU APPORTES\n-  Tu as une expérience de 2 ans minimum dans le développement de services Backend. La connaissance de Java, Spring, Springboot, des API RESTful, des architectures microservices et du déploiement continu sont un plus.\n-  Tu as un fort esprit de qualité (best practices, tests, généricité et réutilisabilité, documentation).\n-  Tu sais être pragmatique et prendre du recul pour juger de la pertinence des choix techniques.\n-  Tu es à l'aise en anglais, à l'oral comme à l'écrit.\n-  Tu as un état d'esprit agile tourné vers l'amélioration continue et l'intelligence collective.\n-  Tu es passionné.e de technique et aimes partager et contribuer.\n-  Tu es particulièrement sensible à l'impact de la pratique du sport pour les valeurs qu'elle t'a permis d'acquérir dans ton savoir-être et la vie d'équipe !\n-  Tu as envie de rejoindre une entreprise à impact positif (#Tech4Good)\n\nCE QUE NOUS T'OFFRONS\n-  2 jours de télétravail par semaine ;\n-  Possibilité de travailler dans l'un des bureaux de Decathlon Digital à Lille, Paris ou Amsterdam ;\n-  Matériel fourni en accord avec tes missions et nos engagements sociétaux (Mac, Windows, ou Chromebooks) ;\n-  Une équipe de projet locale au sein d'un réseau mondial (possibilité de carrière internationale) ;\n-  Développement des compétences et accompagnement (diversité des projets, certifications techniques dès la première année, formations internes et externes, etc.) ;\n-  Package de rémunération (participation des employés aux actions de l'entreprise, bonus mensuels/trimestriels).\n\nDECATHLON DIGITAL\n\nImaginez si la technologie nous permettait de repousser les frontières et d'offrir des expériences sportives inédites. C'est précisément notre ambition chez Decathlon Digital ! Nous sommes une équipe de plus de 5 000 experts en ingénierie logicielle, gestion de produits, données, cloud et cybersécurité, répartis à Paris, Lille et Amsterdam. Ensemble, nous créons la plus vaste plateforme sportive numérique, en exploitant les innovations technologiques pour optimiser la chaîne de valeur, concevoir des expériences connectées et donner une seconde vie à nos produits.\n\nChangeon\n~@"
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2682676",
+    "title": "Software Engineer - Full-Stack Developer Ruby H/F",
+    "company": "MANDA ",
+    "location": "75",
+    "remote": null,
+    "publication_date": "2024-08-21",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": null,
+        "Experience": "Expérience exigée",
+        "Level": null
+    },
+    "company_data": {
+        "sector": "Administration d'immeubles et autres biens immobiliers",
+        "company_size": "Notre histoire\n\nFlatlooker (2016) et Hello Syndic (2017) se rejoignent pour créer Manda, le 15 acteur de l'immobilier en France dès début 2024. Avec la ferme volonté de systématiser la qualité de service par la digitalisation, on investit à la fois dans nos outils et dans nos équipes pour transformer les métiers classiques de l'immobilier et apporter un service modernisé.\n\nNotre mission\n\nChez Manda, notre rôle est d'avoir un impact positif sur vos his...",
+        "turnover_in_millions": null
+    },
+    "description": "POSTE : Software Engineer - Full-Stack Developer Ruby H/F\nDESCRIPTION : Manda c'est l'agence qui transforme les codes traditionnels de l'immobilier pour offrir à ses clients une expérience fluide et transparente.\n\nNotre leitmotiv : confiance, fiabilité et excellence du service sur toute la vie des logements.\n\nOn s'occupe de TOUT, de A à Z : syndic, gestion locative, transaction, travaux et dépannages du quotidien, rénovation énergétique nos équipes assurent une gestion transparente et sans faille des biens, offrant aux propriétaires la tranquillité d'esprit qu'ils méritent.\n\nNotre mission est d'avoir un impact positif sur les histoires de vie, nous sommes l'agence 360°, qui accompagne les clients sur l'ensemble de leurs projets immobiliers.\n\nDescriptif du poste\n\nEn tant que Software Engineer tu rejoindras la team Tech & Produit qui conçoit et améliore notre plateforme et nos outils.\n\nCette équipe stratégique est constituée d'une quinzaine de personnes : software engineers, data-scientist, designer et product-managers. Parmi eux, les software engineers collaborent au quotidien en petites équipes de 2 à 4 personnes sur des projets de 2 à 4 semaines.\n\nTES MISSIONS\n\nTu démarreras ta mission par un onboarding complet de deux semaines afin de comprendre notre stack et notre fonctionnement puis intégrer l'équipe dans les meilleures conditions.\n\nProduit\n-  Tu participeras à la conception technique de nouvelles fonctionnalités : chaque nouveau projet est conçu par le product manager en collaboration avec un développeur qui s'assure de la faisabilité et de la bonne architecture technique du projet.\n-  Tes propositions d'améliorations et tes idées de nouveaux développements seront entendues : nous fonctionnons avec un système d'OKRs trimestriels où toutes les équipes sont impliquées dans leur définition et leur réalisation.\n\nAgilité\n-  Nous fonctionnons avec une méthodologie agile et des sprints de 2 semaines\n-  Tu participeras aux cérémonies agiles (daily standup, sprint planning et rétrospectives) et à l'amélioration continue des process de développements.\n\nTechnique\n-  Tu développeras des fonctionnalités avec le framework Rails et des pages rendues côté serveur principalement, en utilisant Turbo et Stimulus (80% des projets environ);\n-  Quelques projets avec de la complexité front-end sont réalisés avec le framework vue.js (20% des projets environ) ;\n-  Tu écriras systématiquement des tests pour t'assurer de la fiabilité de tes fonctionnalités (tests unitaires front et back, tests d'intégration et tests systèmes) ;\n-  Tu reliras le code des autres développeurs ;\n-  Tu participeras aux sessions de formation d'équipe tous les mercredis après midi ;\n-  Tu travailleras sur des problématiques de performance et de scalabilité (plus de 10.000 visiteurs par jour).\n\nLA STACK TECHNIQUE\n-  Ruby on Rails comme framework back-end : c'est un framework de choix qui nous permet de développer rapidement de nouvelles fonctionnalités et d'avoir une architecture robuste.\n-  Vue.js comme framework front-end, ainsi qu'Hotwire avec Turbo et Stimulus\n-  PostgreSQL / Redis comme bases de données\n-  Minitest & Jest pour la suite de test\n-  Sidekiq pour les tâches asynchrones (workers)\n-  Github Actions & Circle CI pour l'intégration continue\n-  Jira comme outil de gestion de projet, Github comme outil de collaboration\n\nChez Manda, nous mettons l'accent sur la qualité du code. Tout notre code est testé (80% de coverage sur notre repo principal) et suit un process d'intégration continue rigoureux (analyse statique, tests, linter). Les fonctionnalités sont revues fonctionnellement par les product-manager et les développeurs relisent également le code de leurs collègues pour assurer une cohérence globale et une montée en compétence de chacun. Cette attention à la qualité nous permet de déployer tous les jours sereinement et d'avoir une excellente disponibilité de l'application.\n\nProfil recherché\n\nTu es diplômé.e d'une école d'ingénieur ou d'une formation Bac +5 en informatique, tu as une expérience professionnelle d'au moins 3 ans en développement Web.\n-  Tu es orienté.e produit et souhaites développer des fonctionnalités apportant la meilleure expérience possible aux utilisateurs ;\n-  Tu es pragmatique et sais faire les bons compromis pour apporter le plus rapidement de la valeur à l'utilisateur tout en gardant un code robuste et fiable ;\n-  Tu es autonome dans les tâches qui te sont confiées mais n'hésites pas à demander de l'aide au besoin ;\n-  Tu fais attention au détail : tu testes systématiquement ton code et t'assures de la qualité du rendu de ton code avant de l'envoyer en relectu"
+}]

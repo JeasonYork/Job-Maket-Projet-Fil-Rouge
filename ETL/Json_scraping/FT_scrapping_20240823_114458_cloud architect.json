@@ -1,3 +1,403 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:598d6325928578979d7b2d8897867e764522e4b53d3217ef8ad698b831ad6a0a
-size 74952
+[
+    {
+        "source": "France Travail",
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/2769191",
+        "title": "ARCHITECTE CLOUD HYBRID AZURE F/H - Système, réseaux, données (H/F)",
+        "company": "DELECTUS RH ",
+        "location": "92",
+        "remote": null,
+        "publication_date": "2024-08-23",
+        "details": {
+            "TypeContract": "CDI",
+            "Salary": "Salaire brut : A partir de 75 k€ brut annuel",
+            "Experience": "Expérience exigée de 5 An(s)",
+            "Level": null
+        },
+        "company_data": {
+            "sector": "Conseil pour les affaires et autres conseils de gestion",
+            "company_size": "Bienvenue chez DELECTUS RH !\nDELECTUS RH est une entreprise dédiée à la gestion des ressources humaines. Notre mission est de relier les talents aux entreprises en proposant des solutions personnalisées et une performance assurée. Nous mettons un point d'honneur à promouvoir la diversité et l'inclusion, plaçant l'humain au centre de notre action.\nNous accompagnons les TPE et les PME qui n'ont pas de service RH dédié, en leur offrant des solutions sur mesure pour répondre à le...",
+            "turnover_in_millions": null
+        },
+        "description": "Descriptif du poste:\n\nVotre mission, si vous l'acceptez :\nEn tant qu'Architecte Cloud Hybride, vous jouerez un rôle clé dans la transformation numérique de nos clients. Votre mission principale consistera à concevoir des architectures Cloud innovantes, en particulier dans les environnements Microsoft (OnPremise et Public - IaaS/PaaS/SaaS). Vous accompagnerez les clients dans la modernisation de leurs systèmes d'information, en mettant en œuvre des solutions robustes et pérennes.\n\nProfil recherché:\n\nCe que nous recherchons chez vous :\nDotée d'une solide formation d'ingénieur, vous avez au moins 5 ans d'expérience dans le cloud hybrid notamment Azure.\n* Une expertise solide sur Azure Infrastructure Service (IaaS) et Platform as a Service (PaaS), avec une maîtrise des aspects réseau, identité et sécurité.\n* Une bonne connaissance des environnements on-premise Microsoft, incluant Active Directory, Exchange, et SQL Server.\n* Une expérience avérée dans l'architecture de solutions modernes de type \"Modern Workplace\" (Intune, Azure AD).\n* La connaissance des outils de virtualisation, tels que VMware, ainsi que d'autres solutions comme Xen ou Hyper-V.\n* La maîtrise des outils d'infrastructure as code, notamment Terraform et Ansible, ainsi que la gestion des pipelines CI/CD.\n* Une compréhension approfondie des concepts CI/CD, bien que le développement ne soit pas au cœur de vos responsabilités."
+    }
+, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2768711",
+    "title": "Architecte Cloud AWS & GenIA F/H (H/F)",
+    "company": "CAPGEMINI SERVICE ",
+    "location": "31",
+    "remote": null,
+    "publication_date": "2024-08-23",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": null,
+        "Experience": "Expérience exigée de 4 An(s)",
+        "Level": null
+    },
+    "company_data": {
+        "sector": "Conseil en systèmes et logiciels informatiques",
+        "company_size": null,
+        "turnover_in_millions": null
+    },
+    "description": "Capgemini\nChoisir Capgemini, c'est choisir une entreprise où vous serez en mesure de façonner votre carrière selon vos aspirations. Avec le soutien et l'inspiration d'une communauté d'experts dans le monde entier, vous pourrez réécrire votre futur. Rejoignez-nous pour redéfinir les limites de ce qui est possible, contribuer à libérer la valeur de la technologie pour les plus grandes organisations et participer à la construction d'un monde plus durable et inclusif.\nVos missions\nÊtre Architecte Solution, c'est être à la pointe de la plateforme AWS pour concevoir et déployer les trajectoires de replatforming et d'architecture SI en utilisant efficacement les solutions AWS dans un environnement IA. C'est aussi travailler dans et avec une communauté d'architectes et d'ingénieurs multi Cloud permettant de développer une expérience reconnue sur l'application modernisation, la data intégration, l'industrialisation DevSecOps\n  *  Accompagner et conseiller les clients dans l'adoption et le déploiement des services AWS (Stratégie IT, Etude d'opportunités, Audit, Cadrage et Roadmap)\n  *  Concevoir des plateformes solution intégrant les services de référence AWS (Architecture Serverless, Analytics, IoT, EKS, .) dans des contextes CLOUD Natif et CLOUD Hybrid\n  *  Construire avec les référents DevSecOps l'industrialisation du développement et déploiement d'applications avec TerraForm\n  *  Prendre en main et défendre l'approche solution des dossiers d'avant-vente\nVotre carrière\n  *  Bénéficier pendant les premiers mois d'un accompagnement individualisé : complément de certifications AWS, rencontre avec des pairs, exécution progressive de mission de plus en plus engageante pour vous et Capgemini\n  *  Rejoindre des communautés d'Architectes, de Software Engineers, Devops et Agile reconnues et favorisant l'émulation collective et le partage.\n  *  Favoriser l'épanouissement professionnel et personnel : Formations, Télétravail, Congés d'anciennetés, Congés enfant, Avantages CE, Activités loisirs.\nVous avez une expérience en conception et mise en œuvre de plateformes applicatives dans le CLOUD\n  *  Vous avez construit une compétence autour des services managés AWS et GCP\n  *  Vous êtes certifié AWS ou GCP\n  *  Vous avez de solides compétences en communication en anglais (min.B2)\n  *  Expérience dans le domaine technique de l'IA/ML/GenAI (par exemple, ML multimodal, évaluation de modèles, MLOps, MLSecOps, formation ML, inférence, ingénierie des données, science des données, réglage fin pour l'ingénierie rapide, IA responsable)"
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2768531",
+    "title": "Architecte Cloud et Réseau - Client final F/H - Système, réseaux, données (H/F)",
+    "company": "SILKHOM ",
+    "location": "75",
+    "remote": null,
+    "publication_date": "2024-08-23",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": "Salaire brut : 70 - 80 k€ brut annuel",
+        "Experience": "Expérience exigée de 5 An(s)",
+        "Level": null
+    },
+    "company_data": {
+        "sector": "Conseil pour les affaires et autres conseils de gestion",
+        "company_size": "Silkhom est un cabinet de recrutement spécialisé sur les métiers de l'informatique, du digital et des objets connectés (pas de SSII, placements directs chez nos clients en CDI). Nous travaillons exclusivement avec des clients finaux.\nNotre client : \nNous accompagnons une organisation autonome chargée de la gestion, de l'entretien et de la préservation de 26 cimetières militaires américains permanents et de 32 structures commémoratives dispersées dans 15 pays à travers le mond...",
+        "turnover_in_millions": null
+    },
+    "description": "Descriptif du poste:\n\nLiée à la direction des opérations à Washington, vous aurez la responsabilité de proposer des solutions de centralisation et de mise en place de la gouvernance dans le cloud.\n \n·Diagnostiquer les problèmes d'accès, de connectivité et de performance du réseau et coordonner les résolutions avec les fournisseurs.\n·Mettre à niveau l'infrastructure réseau pour garantir des niveaux de service définis\n·Maintenir les composants PaaS et IaaS dans les environnements cloud \n·Participer au développement stratégique des services cloud et réseau \n \nPourquoi rejoindre cette entreprise ? \n·Vous serez référent cloud au sein de l'organisme \n·Vous aurez l'opportunité de pouvoir voyager dans le monde afin de mettre en œuvre votre travail\n·L'organisme a un rôle crucial dans la préservation de la mémoire des soldats qui ont sacrifié leur vie lors des différentes guerres. \n\nProfil recherché:\n\n·Vous justifiez d'au moins 5 ans d'expérience sur un poste d'Ingénieur Cloud et Réseau\n·Au quotidien vous utilisé les protocoles réseaux, Lan, Wan ainsi que les environnements Devops\n·Vous êtes à l'aise en anglais à l'oral et à l'écrit \n \n "
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2768525",
+    "title": "Architecte technique Cloud F/H - Système, réseaux, données (H/F)",
+    "company": "ORANGE SA ",
+    "location": "92",
+    "remote": null,
+    "publication_date": "2024-08-23",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": "Salaire brut : 40 - 55 k€ brut annuel",
+        "Experience": "Expérience exigée de 5 An(s)",
+        "Level": null
+    },
+    "company_data": {
+        "sector": "Télécommunications filaires",
+        "company_size": "Spécialiste du développement et de la transformation des opérateurs Télécoms et acteurs institutionnels, de la réflexion stratégique à la mise en oeuvre opérationnelle, le groupe Sofrecom est un puissant réseau d'expertises au service de ses clients (Groupe Orange et opérateurs non concurrents, régulateurs et gouvernements en Europe, Afrique, Asie et Moyen Orient).\n\nRiche de plus de 1 800 consultant-e-s issus de plus de 30 nationalités, le Groupe Sofrecom est implanté dans 10...",
+        "turnover_in_millions": null
+    },
+    "description": "Descriptif du poste:\nMissions\n\"Vous travaillez pour le compte d'Orange et ses filiales ainsi que pour des clients externes, sur des projets variés (Totem, Orange Money : DTSI/5G : DevOps) en France et à l'international.\" [Frédéric, manager Cloud & Virtualisation]\n- Vous contribuez à adresser leurs enjeux stratégiques : création et croissance des TowerCo, évolution des services de mobile finance tels que Orange Money ou encore digitalisation des services aux citoyens en Afrique \n- Vous représentez le savoir-faire Sofrecom \n- Vous intervenez dans le cadre du lancement d'un projet (audit, définition des exigences pour le Move to Cloud, préconisation de solutions Cloud ...) ou pour la mise en oeuvre des recommandations (suivi de/participation à l'implémentation, mise en place d'une démarche \" FinOps \", rédaction d'appel d'offres...) \n- Vous concevez l'architecture technique cible des infrastructures en respectant les préconisations (contextes technique et business, standards en place, prescriptions...) et les exigences des clients \n- Vous communiquez et coopérez avec les équipes de Build, de Run, les experts chez le client, les collègues Sofrecom ou Groupe Orange et avec la hiérarchie du projet\n- Vous participez au développement des activités de Sofrecom dans votre domaine (réponses aux appels d'offre, présentations clients, rédaction de références et articles...)\n\"Dans le cadre de l'explosion des services très haut débit, de la digitalisation et de la migration vers le cloud des services dédiés au grand public et aux entreprises, nous constituons un pôle qui regroupe les activités d'architecture technique, d'expertise système et de sécurité. Ce pôle a pour vocation de conseiller et d'accompagner nos clients dans leurs transformations. \" [Frédéric, manager Cloud & Virtualisation ]\nCompétences\n\"Nous ne recherchons pas la perfection. Si certaines compétences vous manquent, nous soutenons votre développement continu en tant que consultant et vous accompagnons tout au long de votre parcours.\" [Frédéric, Manager Cloud & Virtualisation ]\nLes incontournables\n- Vous avez une expertise sur une ou plusieurs technologies système, virtualisation et Cloud \n- Vous connaissez les fonctionnalités des infrastructures IT et/ou Cloud \n- Vous avez une connaissance approfondie des technologies de Cloud Computing \n- Vous savez construire des architectures techniques de solutions complexes \n- Vous avez des compétences rédactionnelles en anglais et en français\n\n\nProfil recherché:\nRejoignez Sofrecom, notre cabinet de conseil interne\nProfil\n\"Vous occupez un rôle de consultant, vous permettant d'accompagner nos clients dans leurs transformations numériques, notamment sur les solutions système, cloud et de virtualisation.\" [Frédéric, manager Cloud & Virtualisation]\n- Doté.e d'un excellent relationnel, vous êtes avant tout à l'écoute du client\n- Vous aimez évoluer dans des environnements multiculturels. Travailler en équipe est naturel pour vous, et vous appréciez l'échange et le partage.\n- Vous avez un intérêt marqué pour la formation et les nouvelles technologies, avec une veille régulière et des connaissances constamment actualisées\n- Votre curiosité, votre autonomie et votre enthousiasme comptent parmi vos principaux atouts\n- Vos capacités d'analyse et de synthèse sont hautement appréciées\n- Pédagogue, vous savez adapter votre discours en fonction de votre audience\n- You're great at writing in English, and you really enjoy it !"
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2768427",
+    "title": "Architecte Cloud AWS F/H - Système, réseaux, données (H/F)",
+    "company": "EVIDEN ",
+    "location": "95",
+    "remote": null,
+    "publication_date": "2024-08-23",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": "Salaire brut : A négocier",
+        "Experience": "Expérience exigée de 5 An(s)",
+        "Level": null
+    },
+    "company_data": {
+        "sector": "Tierce maintenance de systèmes et d'applications informatiques",
+        "company_size": "Eviden regroupe les activités Digital, Cloud, Big Data et Sécurité d'Atos et sera un leader international d'une transformation numérique fiable, durable et basée sur les données. Acteur clé du numérique de prochaine génération et leader mondial du cloud, du calcul avancé et de la sécurité, Eviden fera bénéficier de son expertise l'ensemble des secteurs d'activités, dans plus de 53 pays. L'orchestration de technologies de pointe sur l'ensemble du continuum numérique, combin...",
+        "turnover_in_millions": null
+    },
+    "description": "Descriptif du poste:\n\nCe que vous allez faire :Vous allez rejoindre une équipe travaillant en mode DevSecOps. Cela signifie que notre rôle est à la fois de créer l'application (Dev), en intégrant les problématiques de sécurité (Sec) mais aussi d'assurer sa stabilité, ses performances et son bon fonctionnement (Ops). En tant qu'Architecte votre rôle sera de comprendre quels avantages un Système d'Information peut tirer de l'utilisation des services AWS et de proposer une démarche pratique pour y arriver. Voici les principales tâches :- Participer aux avant-ventes et rédiger le volet technique des propositions ;- Etudier un scope applicatif et proposer une stratégie de migration ;- Faire des POC pour vérifier la faisabilité et lever les incertitudes ;- Analyser des applications et proposer des évolutions pour qu'elles fassent le meilleur usage d'AWS ;- Faire des missions de conseil pour aider nos clients à définir leur stratégie ;- Participer à la mise à jour des bonnes pratiques et à leur diffusion ;- Débloquer les ressources juniors et les aider à progresser.  Vous monterez en compétences sur les technologies / pratiques suivantes :- Services Cloud AWS ;- Well Architected Framework ;- Méthodologie de migration AWS ;- Analyse de performance : test de charges, analyse de transactions distribuées,...;- Optimisation et urbanisation d'un SI ;- DevOps, SecOps, FinOps, GitOps,... ;- Infrastructure As Code\n\nProfil recherché:\n\nVos points forts :Vous êtes curieux, vous aimez découvrir de nouveaux sujets. Vous aimez mettre les mains dans le camboui. Dire ce qu'il faut faire c'est bien, mais le plus important c'est de faire ! Vous aimez que les discussions soient concrètes et aboutissent à des décisions claires. Confronté à un problème, vous l'analysez de manière logique. Quand vous expliquez quelque chose, vous vous adaptez à votre interlocuteur pour être sûr qu'il puisse vous comprendre. Vous aimez concevoir des solutions sur mesure pour nos clients. Compétences requises :- Analyser et comprendre un SI ;- Sécurité informatique ;- Réseaux informatique ;- Système d'exploitation ;- Bases de données ;- API / Webservices ;- Capacité à avoir une conversation en anglais (même si ce n'est pas fluide)"
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2764224",
+    "title": "Architecte Cloud H/F",
+    "company": "MICHAEL PAGE ",
+    "location": "75",
+    "remote": null,
+    "publication_date": "2024-08-23",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": "Salaire brut : Annuel de 80000,00 Euros à 90000,00 Euros",
+        "Experience": "Expérience exigée de 1 An(s)",
+        "Level": null
+    },
+    "company_data": {
+        "sector": "Défense",
+        "company_size": null,
+        "turnover_in_millions": null
+    },
+    "description": "Vos missions en tant qu'Architecte Cloud au sein de cette équipe de haut niveau seront de : \n * Coordonner la démarche d'architecture en collaboration avec les différentes parties prenantes, telles que les départements métiers, les architectes, les experts techniques et les spécialistes de la sécurité,\n * Produire les documents d'architecture et de sécurité nécessaires pour les projets, tels que les hautes conceptions (HLD) et les Dossiers d'Architecture Technique (DAT),\n * Concevoir les architectures des infrastructures et des applications du système d'information, qu'elles soient locales (« On Premise ») ou sur des plateformes de Cloud public, dans le cadre des projets de transformation et d'évolution du SI,\n * Assurer l'alignement des stratégies et des solutions avec les exigences de tous les autres projets,\n * Collaborer avec les Experts Techniques, les Chefs de Projet, les utilisateurs internes, la Direction des Systèmes d'Information ainsi que les fournisseurs de solutions informatiques,\n * Soutenir l'équipe projet tout au long du cycle de vie, de la phase de démarrage jusqu'à la mise en production.\nDe formation supérieure de type Bac +5 minimum, vous avez : \n * Travaillé dans des environnements complexes avec des architectures Cloud et multi-cloud,\n * Une connaissance approfondie des normes du marché et des bonnes pratiques relatives aux solutions Cloud et à la sécurisation de l'environnement Cloud,\n * Une solide compréhension des environnements hybrides multi-cloud,\n * Travaillé au sein d'équipes multidisciplinaires et internationales.\nAnglais courant exigé.\nPerspectives de carrière/formation/Environnement innovant et stimulant."
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2759526",
+    "title": "Architecte Cloud Azure (H/F)",
+    "company": "FOKUS ",
+    "location": "42",
+    "remote": null,
+    "publication_date": "2024-08-22",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": null,
+        "Experience": "Expérience exigée de 5 An(s)",
+        "Level": null
+    },
+    "company_data": {
+        "sector": null,
+        "company_size": "FOKUS",
+        "turnover_in_millions": null
+    },
+    "description": "FOKUS est une Entreprise de Services du Numérique (ESN) qui appartient à ses collaborateurs.\nNous rejoindre c'est participer au développement du modèle unique d'une entreprise qui nous ressemble !\nUne ESN qui associe Humain et Technologies.\nUne entreprise qui valorise les réussites de ses collaborateurs et qui érige leur bien être en priorité absolue.\nDes équipes passionnées qui participent aux évolutions technologiques futures.\nSi vous souhaitez changer le paysage des ESN, rejoignez-nous !\nBe FOKUS[ed].\nLe poste : \n\n\nDans le cadre d'un recrutement en CDI, nous recherchons un Architecte Cloud Azure (H/F) pour renforcer notre pôle d'excellence « Transformation des Systèmes d'Informations ».\nRattaché(e) au Responsable du Pôle Infrastructure et Sécurité, vous assurez la conformité des architectures Azure en place, vous les faites évoluer et vous prenez part aux projets transverses afin d'assurer la continuité de la transformation du SI.\nAinsi, vous réalisez les missions suivantes : \n- Réaliser les schémas des architectures en place et proposer les évolutions qui vous semblent pertinentes ;\n- Garantir la fiabilité et la disponibilité des systèmes en fonction des besoins ;\n- Garantir le niveau de sécurité requis en fonction des politiques déjà en place ;\n- Apporter une expertise lors des lancements de projets transverses et proposer des solutions ;\n- Coordonner les différentes parties prenantes et notamment les développeurs (NodeJS et Python) ;\n- Produire toute documentation technique nécessaire au bon déroulement des projets.\nEnvironnement technique : Azure Cloud, Azure AD, NodeJS et Python, Docker, Kubernetes, Jenkins, Ansible?\nSur ce poste, 2 journées de télétravail par semaine sont envisageables.\n\nProfil recherché : \n\nDiplômé d'une formation en informatique de niveau Bac +2/+5, vous justifiez idéalement d'une expérience réussie de 6 ans minimum sur un poste d'Architecte Cloud Azure (H/F).\nUne expérience dans les domaines bancaires et financiers serait vivement appréciée.\nCurieux(se), vous êtes motivé(e) à l'idée d'intégrer un environnement structuré et riche dans le domaine de la finance.\nÉgalement, votre autonomie et votre capacité d'adaptation vous permettront de devenir un élément moteur de l'équipe que vous rejoindrez.\nSi vous souhaitez intégrer une équipe humaine travaillant sur un projet de grande envergure et que vous souhaitez rejoindre une ESN innovante, POSTULEZ !"
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2751080",
+    "title": "Architecte Cloud - Grenoble (H/F)",
+    "company": "CAPGEMINI SERVICE ",
+    "location": "38",
+    "remote": null,
+    "publication_date": "2024-08-22",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": null,
+        "Experience": "Expérience exigée de 3 An(s)",
+        "Level": null
+    },
+    "company_data": {
+        "sector": "Conseil en systèmes et logiciels informatiques",
+        "company_size": null,
+        "turnover_in_millions": null
+    },
+    "description": "Capgemini\nChoisir Capgemini, c'est choisir une entreprise où vous serez en mesure de façonner votre carrière selon vos aspirations. Avec le soutien et l'inspiration d'une communauté d'experts dans le monde entier, vous pourrez réécrire votre futur. Rejoignez-nous pour redéfinir les limites de ce qui est possible, contribuer à libérer la valeur de la technologie pour les plus grandes organisations et participer à la construction d'un monde plus durable et inclusif.\nChoisir Capgemini, c'est choisir une entreprise où vous serez en mesure de façonner votre carrière selon vos aspirations. Vous serez soutenu et accompagné au sein d'une communauté collaborative composée de collègues du monde entier, où vous pourrez réécrire votre futur. Rejoignez-nous pour redéfinir les limites de ce qui est possible, contribuez à libérer la valeur de la technologie pour les plus grandes organisations et participez à la construction d'un monde plus durable et inclusif.\nDescription de la mission\n  *  Accompagner et conseiller les clients dans l'adoption et le déploiement des services natifs AWS ou Azure (Stratégie IT, Etude d'opportunités, Audit, Cadrage et Roadmap)\n  *  Concevoir des plateformes intégrant les services de référence AWS ou Azure (Architecture Serverless, Analytics, IoT, Kubernetes, .) dans des contextes CLOUD Natif et Hybride\n  *  Construire avec les référents DevSecOps l'industrialisation du développement et déploiement d'applications et d'infrastructures (InfraAsCode et CI/CD)\n  *  Analyser un besoin, Construire une Architecture et soutenir notre proposition de valeur lors d'avant-vente\nProfil\n- Diplôme en informatique, en génie logiciel ou équivalent.\n- Minimum 5 ans d'expériences\n- Vous avez des connaissances en DevSecOps et outils associés (Terraform, Ansible.)\n- Excellentes compétences en communication et capacité à travailler en équipe."
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2749058",
+    "title": "Architecte Cloud - Lyon (H/F)",
+    "company": "CAPGEMINI SERVICE ",
+    "location": "69",
+    "remote": null,
+    "publication_date": "2024-08-22",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": null,
+        "Experience": "Expérience exigée de 5 An(s)",
+        "Level": null
+    },
+    "company_data": {
+        "sector": "Conseil en systèmes et logiciels informatiques",
+        "company_size": null,
+        "turnover_in_millions": null
+    },
+    "description": "Capgemini\nChoisir Capgemini, c'est choisir une entreprise où vous serez en mesure de façonner votre carrière selon vos aspirations. Avec le soutien et l'inspiration d'une communauté d'experts dans le monde entier, vous pourrez réécrire votre futur. Rejoignez-nous pour redéfinir les limites de ce qui est possible, contribuer à libérer la valeur de la technologie pour les plus grandes organisations et participer à la construction d'un monde plus durable et inclusif.\nChoisir Capgemini, c'est choisir une entreprise où vous serez en mesure de façonner votre carrière selon vos aspirations. Vous serez soutenu et accompagné au sein d'une communauté collaborative composée de collègues du monde entier, où vous pourrez réécrire votre futur. Rejoignez-nous pour redéfinir les limites de ce qui \nest possible, contribuez à libérer la valeur de la technologie pour les plus grandes organisations et participez à la construction d'un monde plus durable et inclusif.\nVos missions :\n  *  Accompagner et conseiller les clients dans l'adoption et le déploiement des services natifs AWS ou Azure (Stratégie IT, Etude d'opportunités, Audit, Cadrage et Roadmap)\n  *  Concevoir des plateformes intégrant les services de référence AWS ou Azure (Architecture Serverless, Analytics, IoT, Kubernetes, .) dans des contextes CLOUD Natif et Hybride\n  *  Construire avec les référents DevSecOps l'industrialisation du développement et déploiement d'applications et d'infrastructures (InfraAsCode et CI/CD)\n  *  Analyser un besoin, Construire une Architecture et soutenir notre proposition de valeur lors d'avant-vente\nVotre profil :\n  *  Vous êtes titulaire d'un diplôme d'ingénieur ou d'un équivalent BAC +4/5\n  *  Vous avez au moins 5 ans d'expérience sur un poste similaire.\n  *  Vous avez construit une compétence autour des services managés AWS ou Azure\n  *  Vous avez des connaissances en DevSecOps et outils associés (Terraform, Ansible.)\n  *  Être titulaire d'une certification AWS ou Azure est un vrai plus."
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2745608",
+    "title": "Architecte - Cloud - Aeroline - Toulouse H/F",
+    "company": "GROUPE SOPRA STERIA ",
+    "location": "31",
+    "remote": null,
+    "publication_date": "2024-08-22",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": null,
+        "Experience": "Expérience exigée",
+        "Level": null
+    },
+    "company_data": {
+        "sector": null,
+        "company_size": null,
+        "turnover_in_millions": null
+    },
+    "description": "Company Description\n\nSopra Steria, acteur majeur de la Tech en Europe avec 56 000 collaborateurs dans près de 30 pays, est reconnu pour ses activités de conseil, de services numériques et d'édition de logiciels. Il aide ses clients à mener leur transformation digitale et à obtenir des bénéfices concrets et durables. Le Groupe apporte une réponse globale aux enjeux de compétitivité des grandes entreprises et organisations, combinant une connaissance approfondie des secteurs d'activité et des technologies innovantes à une approche résolument collaborative. Sopra Steria place l'humain au centre de son action et s'engage auprès de ses clients à tirer le meilleur parti du digital pour construire un avenir positif. En 2023, le Groupe a réalisé un chiffre d'affaires de 5,8 milliards d'euros.\n\n The world is how we shape it \n\nSopra Steria Infrastructure & Security Services est la business unit de Sopra Steria dédiée aux activités d'infrastructures, cloud et cybersécurité. Elle est un acteur clé du end-to-end de Sopra Steria. Forte de ses 3000 collaborateurs, Sopra Steria I2S se distingue par la flexibilité de son modèle de delivery qui associe la proximité clients depuis nos 8 agences et les capacités industrielles avancées de nos centres de services en off-shore.\n\nVotre futur environnement de travail :\n\n Au sein de la filiale Infrastructure & Cloud Services, vous intégrez une équipe chez un client grand compte dans un environnement stimulant. Vous êtes accompagné(e) par une équipe dynamique qui vous fera prendre activement part au projet dans son ensemble.\nVous participez au succès des projets de transformation digitale de nos clients depuis la phase d'étude en amont jusqu'à l'accompagnement au déploiement de la solutionVous accompagnez les clients par votre expertise à mettre en œuvre des solutions innovantesVous êtes le garant de la bonne conception des dossiers d'architectureVous échangez avec vos homologues de la Cellule Innovation et de la Communauté d'Experts\n\nJob Description\n\nVotre futur environnement de travail :\n\n Au sein de la filiale Infrastructure & Cloud Services, vous intégrez une équipe chez un client grand compte dans un environnement stimulant. Vous êtes accompagné(e) par une équipe dynamique qui vous fera prendre activement part au projet dans son ensemble.\nVous participez au succès des projets de transformation digitale de nos clients depuis la phase d'étude en amont jusqu'à l'accompagnement au déploiement de la solutionVous accompagnez les clients par votre expertise à mettre en œuvre des solutions innovantesVous êtes le garant de la bonne conception des dossiers d'architectureVous échangez avec vos homologues de la Cellule Innovation et de la Communauté d'Experts\nCe que nous vous proposons :\n\nUn accord télétravail pour télétravailler jusqu'à 2 jours par semaine selon vos missions.Un package avantages intéressant : une mutuelle, un CSE, des titres restaurants, un accord d'intéressement, des primes vacances et cooptation.Un accompagnement individualisé avec un mentor.Des opportunités de carrières multiples : plus de 50 métiers, autant de passerelles à imaginer ensemble.Plusieurs centaines de formations accessibles en toute autonomie depuis l'app mobile avec Sopra Steria Academy.La possibilité de s'engager auprès de notre fondation ou de notre partenaire « Vendredi ».L'opportunité de rejoindre le collectif Tech'Me UP (formations, conférences, veille, et bien plus ).\n\nQualifications\n\nVotre profil :\n\n Diplômé(e) d'une école d'Ingénieurs ou équivalent, vous avez acquis au moins 5 années d'expérience en tant qu'architecte en Infrastructure IT et au moins 1 an d'expérience sur des fonctions d'expertise Cloud Computing.\n Vous possédez les compétences et connaissances suivantes :\nVous avez d'excellentes qualités relationnelles et vous êtes capable de vous adapter à vos interlocuteurs \"métier\" ou \"technique\".Vous avez un excellent rédactionnel tant en français qu'en anglais, la maîtrise de l'anglais opérationnel est indispensable (oral / écrit)Vous êtes sensible à une démarche agile/DevopsVous avez obtenu une certification Architecte Cloud (GCP / Microsoft / AWS)"
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2745333",
+    "title": "Architecte Cloud (F/H/X) (H/F)",
+    "company": "PUBLICIS GROUPE ",
+    "location": "75",
+    "remote": null,
+    "publication_date": "2024-08-22",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": null,
+        "Experience": "Expérience exigée",
+        "Level": null
+    },
+    "company_data": {
+        "sector": null,
+        "company_size": null,
+        "turnover_in_millions": null
+    },
+    "description": "Description de l'entreprise\n\nA propos d'EPSILON France\n\nEPSILON France est l'entité Datamarketing de Publicis Groupe avec 650 experts data, marketing et technologiques et plus de 40 métiers représentés.\n\nAvec pour claim « Every Interaction Counts », la mission d'EPSILON est de conjuguer les pouvoirs de la data, du marketing et de la technologie pour rendre les interactions entre les marques et leurs clients toujours plus justes et pertinentes.\n\nEPSILON intervient sur l'ensemble des étapes-clé d'un projet de transformation data-driven, de la définition de la stratégie à l'exécution opérationnelle.\n\nEPSILON compte plus de 300 clients actifs et pilote quotidiennement plus de 100 plateformes datamarketing.\n\nDescription du poste\n\nDans le cadre du développement de la Direction Technique, nous recherchons un Architecte Cloud, qui renforcera la cellule architecture et collaborera avec les architectes solution et/ou data.\n\nLa Direction technique a pour mission de répondre de manière transverse et cohérente aux problématiques d'architecture applicative et technique, en interne comme en externe auprès de clients et prospects, sur des solutions Data, Digitales et Marketing, tant en environnement Cloud (GCP et Azure principalement) que On Premise.\n\nEn particulier, elle intervient dans les domaines du Big Data, de l'Analytics et de l'IA, du Cloud et des parcours digitaux.\n\nQue fait un Architecte CLOUD chez EPSILON France ?\n\nL'activité d'un architecte Cloud chez EPSILON s'articule autour de 3 piliers fondamentaux :\nL'évolution d'EPSILON et le suivi de l'innovation,La croissance d'EPSILON,L'apport d'expertise à nos clients.\nAu titre de l'évolution d'EPSILON et le suivi de l'innovation, l'architecte Cloud a pour mission :\nD'accompagner les équipes sur les bonnes pratiques, les cadres standards et la philosophie Cloud et Devops dans les différentes étapes projet,De participer au développement de nos offres en réalisant une veille technologique, en proposant des solutions standardisées, innovantes, fiables et réplicables dans le Cloud,D'accompagner les opérationnels en diffusant, en acculturant et en aidant à l'appropriation des solutions Cloud.\nAu titre de la croissance d'EPSILON, l'architecte Cloud a pour mission :\nD'apporter son regard d'architecte à la définition des offres data d'EPSILON,De structurer l'activité Cloud centric,De participer aux dossiers d'avant-ventes, à la rédaction des réponses et aux soutenances, ...De veiller à ce que les propositions faites aux clients soient toujours en phase avec les bonnes pratiques et les standards Cloud.De définir les guidelines sur les technologies Cloud (plateformes, outillages, ).\nAu titre de l'apport d'expertise aux clients d'EPSILON, l'architecte Cloud a pour mission :\nD'apporter son expertise sur les missions de cadrage et de schéma directeur,De réfléchir, conceptualiser et réaliser le design d'architecture Cloud à l'état de l'artDe suivre la bonne mise en œuvre des architectures Cloud définies, en assurant notamment l'information et la coordination des différents intervenants de la conception jusqu'au run (développeurs, chefs de projet, experts métier),De diagnostiquer, préconiser, mettre en œuvre ou optimiser les architectures Cloud et le monitoring Cloud déjà en production,De piloter l'intervention technique d'experts extérieurs sur les projets,D'apporter son aide dans la mise en place des bonnes pratiques d'automatisation et de monitoring (FinOps, CI/CD, GitOps, ).\nQualifications\n\nVOUS MARQUEZ DES POINTS SI\n\nIssu(e) d'une formation supérieure en informatique (bac+ 4/5) ou école d'ingénieur, vous maîtrisez les environnements Cloud et vous justifiez d'une expérience professionnelle similaire de 5 ans minimum dans le déploiement et l'intégration de solutions Cloud.\n\nVous avez une expérience en architecture applicative comme technique, dont plusieurs dans le Cloud.\n\nVous disposez d'une culture SI large et généraliste, avec nécessairement certaines compétences ou expertises parmi les domaines suivants : Cloud, Big Data, base de données, IA, technologies Open Sources, outils CRM et Digitaux.\n\nBon communiquant et pédagogue, vous savez et aimez transmettre votre savoir et convaincre de la pertinence de vos propositions.\n\nEnfin, vous êtes attaché à l'efficacité et l'utilité des solutions proposées, et avez à cœur la satisfaction de vos clients.\n\nA minima, vous saez lire l'anglais technique, et dans l'idéal, vous savez parler et rédiger en anglais.\n\nInformations supplémentaires\n\nLocalisation : Campus Bastille (Paris 11e) jusqu'en avril 2025, puis Campus 145 (rue de Courcelles, Paris 17e)\n\nRémunération : Nous savons que le salaire est un élément esse"
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2722906",
+    "title": "Architecte Cloud (H/F)",
+    "company": null,
+    "location": "TOULOUSE 31",
+    "remote": null,
+    "publication_date": "2024-08-22",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": null,
+        "Experience": "Expérience exigée de 1 An(s)",
+        "Level": null
+    },
+    "company_data": {
+        "sector": null,
+        "company_size": null,
+        "turnover_in_millions": null
+    },
+    "description": "Description du poste :\nEn tant que cabinet de recrutement spécialisé dans l'emploi et le handicap, Talents Handicap accompagne de très nombreuses entreprises & organisations en France dans leurs recrutements de collaborateurs en situation de handicap. Dans ce cadre, nous recherchons pour le poste ci-dessous des candidats, en situation de handicap et vous invitons à postuler si vous correspondez au profil.\nL'entreprise Sopra Steria recherche activement des profils pour le poste suivant :\nDescription de l'entreprise\nSopra Steria, acteur majeur de la Tech en Europe avec 56 000 collaborateurs dans près de 30 pays, est reconnu pour ses activités de conseil, de services numériques et d'édition de logiciels. Il aide ses clients à mener leur transformation digitale et à obtenir des bénéfices concrets et durables. Le Groupe apporte une réponse globale aux enjeux de compétitivité des grandes entreprises et organisations, combinant une connaissance approfondie des secteurs d'activité et des technologies innovantes à une approche résolument collaborative. Sopra Steria place l'humain au centre de son action et s'engage auprès de ses clients à tirer le meilleur parti du digital pour construire un avenir positif. En 2023, le Groupe a réalisé un chiffre d'affaires de 5,8 milliards d'euros.\nThe world is how we shape it\nSopra Steria Infrastructure & Security Services est la business unit de Sopra Steria dédiée aux activités d'infrastructures, cloud et cybersécurité. Elle est un acteur clé du end-to-end de Sopra Steria. Forte de ses 3000 collaborateurs, Sopra Steria I2S se distingue par la flexibilité de son modèle de delivery qui associe la proximité clients depuis nos 8 agences et les capacités industrielles avancées de nos centres de services en off-shore.\nVotre futur environnement de travail :\nAu sein de la filiale Infrastructure & Cloud Services, vous intégrez une équipe chez un client grand compte dans un environnement stimulant. Vous êtes accompagné(e) par une équipe dynamique qui vous fera prendre activement part au projet dans son ensemble.***Vous participez au succès des projets de transformation digitale de nos clients depuis la phase d'étude en amont jusqu'à l'accompagnement au déploiement de la solution\n* Vous accompagnez les clients par votre expertise à mettre en œuvre des solutions innovantes\n* Vous êtes le garant de la bonne conception des dossiers d'architecture\n* Vous échangez avec vos homologues de la Cellule Innovation et de la Communauté d'Experts\nDescription du poste\nVotre futur environnement de travail :\nAu sein de la filiale Infrastructure & Cloud Services, vous intégrez une équipe chez un client grand compte dans un environnement stimulant. Vous êtes accompagné(e) par une équipe dynamique qui vous fera prendre activement part au projet dans son ensemble.***Vous participez au succès des projets de transformation digitale de nos clients depuis la phase d'étude en amont jusqu'à l'accompagnement au déploiement de la solution\n* Vous accompagnez les clients par votre expertise à mettre en œuvre des solutions innovantes\n* Vous êtes le garant de la bonne conception des dossiers d'architecture\n* Vous échangez avec vos homologues de la Cellule Innovation et de la Communauté d'Experts\nCe que nous vous proposons :***Un accord télétravail pour télétravailler jusqu'à 2 jours par semaine selon vos missions.\n* Un package avantages intéressant : une mutuelle, un CSE, des titres restaurants, un accord d'intéressement, des primes vacances et cooptation.\n* Un accompagnement individualisé avec un mentor.\n* Des opportunités de carrières multiples : plus de 50 métiers, autant de passerelles à imaginer ensemble.\n* Plusieurs centaines de formations accessibles en toute autonomie depuis l'app mobile avec Sopra Steria Academy.\n* La possibilité de s'engager auprès de notre fondation ou de notre partenaire « Vendredi ».\n* L'opportunité de rejoindre le collectif Tech'Me UP (formations, conférences, veille, et bien plus encore...).\nQualifications\nVotre profil :\nDiplômé(e) d'une école d'Ingénieurs ou équivalent, vous avez acquis au moins 5 années d'expérience en tant qu'architecte en Infrastructure IT et au moins 1 an d'expérience sur des fonctions d'expertise Cloud Computing.\nVous possédez les compétences et connaissances suivantes :***Vous avez d'excellentes qualités relationnelles et vous êtes capable de vous adapter à vos interlocuteurs 'métier' ou 'technique'.\n* Vous avez un excellent rédactionnel tant en français qu'en anglais, la maîtrise de l'anglais opérationnel est indispensable (oral / écrit)\n* Vous êtes sensible à une démarche agile/Devops\n* Vous avez obtenu une certification Architecte Cloud (GCP / Microsoft / AWS)\nInformations supplémentaires\nEmployeur in"
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2712882",
+    "title": "Architecte Cyber- Compétence Cloud F/H (H/F)",
+    "company": "FRAMATOME ",
+    "location": "92",
+    "remote": null,
+    "publication_date": "2024-08-22",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": "Salaire brut : Annuel de 60000,00 Euros à 80000,00 Euros",
+        "Experience": "Expérience exigée de 3 An(s)",
+        "Level": null
+    },
+    "company_data": {
+        "sector": "Autres activités informatiques",
+        "company_size": "Framatome est un leader international de l'énergie nucléaire, reconnu pour ses solutions\ninnovantes et ses technologies à forte valeur ajoutée à destination du parc nucléaire mondial.\nSInerGIE est l'entité commune (Groupement d'Intérêt Economique) qui opère les systèmes\nd'information des sociétés Orano et Framatome.",
+        "turnover_in_millions": null
+    },
+    "description": "Le/la collaborateur(rice) sera rattaché(e) à la direction Cybersécurité de SI-nerGIE, au sein du pôle « architecture, audits et contrôle ». Ce pôle a deux missions principales :\nAccompagner les projets sur le plan de la cybersécurité, selon une approche basée sur les risques et sur la conformité vis-à-vis de nos standards sécurité afin que les mesures de sécurité préconisées soient en adéquation avec les enjeux métiers identifiées en début de projet. \nPiloter des audits de sécurité de SI-nerGIE / Orano et Framatome, du cadrage de l'audit au suivi du plan de remédiations.\nVos missions:\nÊtre un(e) référent(e) cybersécurité sur les sujets Azure\nContribuer à la rédaction des exigences de sécurité des services Azure et des composants en lien avec la consommation de ces services\nApporter une expertise sur les standards de sécurité et les solutions de protection appliquées aux services Azure\nAccompagner les architectes techniques et les responsables applicatifs pour concevoir la sécurité des services Azure\nEvaluer les mesures de sécurité en place et faire des recommandations d'amélioration en concordance avec les niveaux de risques.\nGérer l'administration sécurité des différentes souscriptions Azure\nVeiller au respect des règles de sécurité en vigueur\nMaintenir une veille sur les standards cybersécurité, les solutions de protection, les menaces, les vulnérabilités et des risques SI en lien notamment avec l'écosystème Azure\nCo-rédiger / Valider des Dossiers d'Architecture Technique (DAT)\nValider les demandes de changement des projets sur lesquels vous serez positionné(e)\nRédiger / valider les standards techniques (pattern d'architectures / solutions techniques)\nFormaliser des analyses des risques sur les projets et s'assurer de la bonne prise en compte des mesures de sécurité identifiées\nPour ce poste nous recherchons un(e) spécialiste confirmé(e) en cybersécurité ayant une expérience de 3-5 ans acquise soit au sein d'entreprise(s) utilisatrice(s) ou bien d'un (de) cabinet(s) de conseil.\nLe profil du recherché (diplôme d'ingénieur avec spécialisation en cyber sécurité ou équivalent) doit présenter les compétences suivantes :\nConnaissances en cybersécurité (bonnes pratiques, architectures, solutions, .)\nConnaissances des environnements Azure (Certification AZ-500)\nConnaissances d'architectures et d'organisation IT\nConnaissances des normes ISO27xxx, des référentiels de sécurité (NIST, CIS..) des solutions de sécurité\nMéthodologie d'analyse de risques ( EBIOS, MEHARI, ISO27005... ) \nConnaissance de l'environnement règlementaire en matière de sécurité \nLe profil du recherché devra présenter les qualités suivantes :\nForce de proposition\nSens de la communication écrite et orale\nAnglais professionnel\n Le poste sera basé dans les locaux de SI-nerGIE sur le site de Courbevoie. Le poste sera basé dans les locaux de SI-nerGIE sur le site de Courbevoie."
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2711794",
+    "title": "ARCHITECTE CLOUD AZURE F/H - Système, réseaux, données (H/F)",
+    "company": "LEO INTERNATIONAL ",
+    "location": "75",
+    "remote": null,
+    "publication_date": "2024-08-22",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": "Salaire brut : 60 - 100 k€ brut annuel",
+        "Experience": "Expérience exigée de 10 An(s)",
+        "Level": null
+    },
+    "company_data": {
+        "sector": "Conseil pour les affaires et autres conseils de gestion",
+        "company_size": "LEO INTERNATIONAL est un cabinet de recrutement Français, spécialisé dans le secteur des technologies de l'information (ERP, TIC, SYSTEMES & RESEAUX).",
+        "turnover_in_millions": null
+    },
+    "description": "Descriptif du poste:\n\nÊtre l interlocuteur technique Cloud dans le cadre de la mise en place de nouvelles solutions IT ou d amélioration de solutions existantes,\nGarantir la mise en place de solutions s intégrant dans le paysage IT en collaboration avec l architecture fonctionnelle, les équipes de sécurité IT et le fournisseur IT.\nLes objectifs détaillés de la mission sont de :\nRéceptionner, qualifier et designer la solution technique à mettre en place en respectant les standards IT mis en place suivant l étude fonctionnelle réalisée précédemment,\nApporter son expérience aux projets pour challenger les solutions techniques,\nOrganiser et implémenter la solution en collaboration directe avec le projet demandeur,\nOrganiser un suivi des différentes tâches à réaliser pour délivrer l infrastructure demandée,\nGarantir la mise à disposition des infrastructures aux dates souhaitées,\nDocumenter la solution mise en place en respectant les standards existants.\n \n\n \n\nProfil recherché:\n\nAzure : analyse, conception et mise en œuvre d architectures sur des thématiques variées mêlant des concepts IaaS et/ou PaaS,\nAzure : bonne connaissance des briques suivantes (App Service, App Gateway, SQL Server, ),\nAzure AD : bonne connaissance (PIM, etc.),\nInfrastructure as Code : bonne connaissance dans la mise en œuvre (Azure Resource Manager, Terraform),\nAzure DevOps: bonne connaissance et maîtrise opérationnelle des concepts d intégration et livraison continues (Azure Pipelines), \nCompétences rédactionnelles dans le cadre de la production de documentations et procédures à l attention des équipes de support.\n \n "
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2764654",
+    "title": "Ingénieur Cloud DevOps - POEI (H/F)",
+    "company": null,
+    "location": "NIORT 79",
+    "remote": null,
+    "publication_date": "2024-08-23",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": null,
+        "Experience": "Expérience exigée",
+        "Level": null
+    },
+    "company_data": {
+        "sector": null,
+        "company_size": null,
+        "turnover_in_millions": null
+    },
+    "description": "Notre entreprise partenaire vous propose un CDI précédé d'une formation professionnalisante accélérée de 400h, dans le cadre d'une POEI (Préparation Opérationnelle à l'Emploi Individuel), afin de consolider vos compétences et pour que vous soyez pleinement opérationnel dans la mission qui vous sera confiée par la suite.\nPour bénéficier du dispositif de la POEI, vous devez être obligatoirement inscrit(e) à France Travail en tant que demandeur(se) d'emploi.\nAssurée par des professionnels reconnus, cette formation se déroule sur une période de 12 semaines. A l'issue de la formation et au sein de nos équipes projets, vous évoluerez sur un poste d'Ingénieur DevOps.\nEn tant qu'Ingénieur DevOps, vous serez un véritable expert pour nos plus grandes entreprises partenaires !\nMISSIONS \nChargé(e) de concevoir des solutions d'automatisation pour les équipes business, projets et techniques, en tant qu'Ingénieur DevOps, vous proposerez les meilleures solutions aux entreprises en leur permettant d'optimiser leur activité, à travers quelques missions principales :\n* Intégration des fonctions et ressources du projet tout au long du cycle de vie du produit,\n* Déploiement et mise en service du produit,\n* Mise à jour du code et ajout de nouvelles fonctionnalités,\n* Préparation d'un environnement de tests,\n* Contrôle des performances du produit,\n* Automatisation de la création de serveurs à l'aide de scripts,\n* Intégration de l'infrastructure en production dans le Cloud,\n* Sécurisation de l'infrastructure,\n* Gestion des containers.\nCette description tient compte des principales tâches, mais n'est pas limitative. \nLES + DE CETTE EXPÉRIENCE :\nCe parcours s'inscrit dans le dispositif de POEI (Préparation Opérationnelle à l'Emploi Individuelle), qui vous offre plusieurs avantages :\n* Une promesse d'embauche de la part d'un cabinet de conseil de renom\n* Une formation de 3 mois chez DataScientest, 100% financée par pôle emploi avant d'intégrer l'entreprise\n* Un diplôme ou titre RNCP de niveau Bac +4\n* Une préparation optimale au passage de la certification éditeur : AWS SA\nPROFIL :\n* Vous êtes inscrit(e) à France Travail\n* Issu(e) d'une filière scientifique BAC+3/4/5 ou d'un diplôme d'ingénieur,\n* Vous disposez idéalement d'une expérience significative en développement informatique, en architecture réseaux ou dans la Data : avec la maîtrise d'un langage objet type Java, Linux, Nodejs, Python, C/C++, HTML,...\n* Vous justifiez d'au minimum 2 ans d'expérience professionnelle avec l'usage de Java / React\nRémunération selon l'expérience professionnelle de 30 à 50k€.\nPoste ouvert aux personnes en situation de handicap.\nType d'emploi : Temps plein, CDI\nStatut : Cadre\nRémunération : 30 000,00€ à 50 000,00€ par an\nAvantages :\n* Prise en charge du transport quotidien\nHoraires :\n* Période de travail de 8 Heures\n* Travail en journée\nLieu du poste : Déplacements fréquents"
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2760575",
+    "title": "CLOUD ARCHITECT H/F",
+    "company": "OPTIM'SEARCH ",
+    "location": "31",
+    "remote": null,
+    "publication_date": "2024-08-22",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": null,
+        "Experience": "Expérience exigée de 2 An(s)",
+        "Level": null
+    },
+    "company_data": {
+        "sector": "Activités des agences de placement de main-d'œuvre",
+        "company_size": null,
+        "turnover_in_millions": null
+    },
+    "description": "Pour renforcer l'équipe de notre client basé sur la région Toulousaine, et accompagner sa croissance, nous recherchons actuellement un Cloud Architect H/F en CDI.\n\nVous serez amené à intervenir dès les phases amont de différents projets de migration cloud pour des clients à forts enjeux sur du conseil technique et sur les fondamentaux du cloud public (sécurité, observabilité, réseau, billing, automatisation) jusqu'à la mise en service des solutions.\nReconnu pour votre capacité d'accompagnement, avec un très bon relationnel et une polyvalence au sein des équipes, vous êtes orienté aussi bien vers la sphère technique que vers l'Humain. \n\nVous participez notamment à :\n\n? Accompagner et acculturer des clients sur les principes du Cloud\n? Proposer et argumenter le design complet d'une architecture cloud d'entreprise basée sur les bonnes pratiques et adaptées au contexte client.\n? L'audit de configuration cloud de client et des préconisations d'amélioration. (GCP, AWS)\n? L'onboarding de clients sur les bonnes pratiques et la philosophie cloud et devops.\n? La conception et la mise en place des solutions d'observabilité sur des architectures Cloud (monitoring)\n? La mise en place des bonnes pratiques d'automatisation (CI/CD, GitOps)\n? S'assurer du succès du déploiement, de l'intégration et du passage en opération de la solution.\n\nL'écosystème technique de notre client  (indicatif, variable en fonction des missions) :\n?Compute systems : Kubernetes, Docker, Virtual Machines, Serverless functions,\n?Network & Security : VPC, Identity & Access Management, Zero Trust approach, Istio,..\n?Message Oriented Architectures : Kafka, PubSub, RabbitMQ\nData : Postgres, Mongo Atlas, S3-like...\n?Automation & Infrastructure as Code (IaC) : Terraform, CloudFormation, Ansible, GitLab CI, GitHub Actions,...\n? ? Public Cloud : GCP, AWS, Scaleway\n\nÉvoluer au sein de notre client, c'est  \n?Travailler en équipe sur les nouvelles technologies et frameworks (même en beta)\n?S'enrichir, apprendre et transmettre entouré d'une véritable communauté d'experts\n?Être formé/certifié sur vos technologies de prédilection\n?Être ambassadeur et moteur des pratiques Agiles\n?Avoir la possibilité de rédiger des articles, de donner des conférences, de devenir formateur\n\n\n  \n Profil recherché\n\nVous disposez de plusieurs expériences de conseil et d'implémentation en architecture cloud public, sensible au GitOps et à l'automatisation des infrastructures. Vous avez une vraie appétence pour les technologies Cloud, et de l'expérience sur au moins un fournisseur Cloud.\nMoteur au sein des équipes, vous êtes naturellement tourné vers la proactivité, le partage et la bienveillance. Plus qu'un profil type, notre client recherche des personnes proches de leur ADN : passionnées de tech, curieuses et disposant d'une véritable \\\"soif d'apprentissage\\\".\nVous aimez transmettre et intervenir à la fois en conseil technique et formations pour différents clients"
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2707310",
+    "title": "Architecte Azure Plateform H/F",
+    "company": null,
+    "location": "PARIS (DEPT.) 75",
+    "remote": null,
+    "publication_date": "2024-08-22",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": null,
+        "Experience": "Expérience exigée",
+        "Level": null
+    },
+    "company_data": {
+        "sector": null,
+        "company_size": null,
+        "turnover_in_millions": null
+    },
+    "description": "Cellenza est un cabinet de conseil spécialisé dans l'accompagnement de ses clients sur des projets stratégiques de transformation numérique et d'innovation.\nNous sommes une communauté de 120 passionnés avec des expertises en Stratégie IT, Plateformes Cloud et Data dans Azure, IA & ML, Développement & Devops, Conteneurisation et Sécurité .\nNous partageons les mêmes valeurs : excellence, bienveillance, partage, audace et pragmatisme.\nVos missions :\nVous accompagnez les entreprises pour définir l'architecture de leur plateforme Azure :\n- Architecture & mise en place de solutions full PaaS et/ou CaaS\n- Mise en place de socle Azure (identité, réseau, monitoring)\n- Accompagnement des équipes de :\no Développement : architecture, infra as code, configuration\no Run : monitoring, observabilité, backups, recovery\no Finops : mise en place, suivi et optimisation des couts\no Sécurité : définition & mise en place de la gouvernance\nMissions de référence réalisées par nos Consultants Azure Platform :\nChez un de nos clients dans l'industrie, un consultant Azure a désigné et implémenté une plateforme logicielle basée sur AKS pour migrer des applications depuis l'hébergeur historique du client.\nIl a aussi participé à l'architecture d'une application PHP réécrite en une application .Net qui sera hébergée sur la même plateforme\nPlusieurs problématiques ont été gérées :\n· La sécurité des données qui impose la privatisation des ressources azure\n· L'intégration au SI du client\n· L'accessibilité de la plateforme aux utilisateurs habituels\n· La montée en compétences des équipes du client pour le run\n· Intégration de la plateforme à Azure Devops pour les équipes de développement\nVenez nous rejoindre, si vous avez :\nUne première expérience dans la définition, et la mise en œuvre d'architecture tirant profit des services PaaS et/ou CaaS d'Azure.\nMaitrise des sujets technologiques parmi :\n· App Service, Functions, Logic Apps\n· Azure SQL, CosmosDB, Azure Storage, .\n· Application Insight, Log Analytics\n· Service Bus, Event Hub, API Management\n· Azure Kubernetes Service, Azure Container Registry\n· Azure AD, Réseau, Azure Policies\n· Azure Devops, Gitlab, GitHub\n· Terraform, Pulumi,.\nExcellence technique et méthodologique, sens du service, partage et collaboration sont vos maîtres-mots !\nPourquoi choisir Cellenza ?\n· Projets stratégiques et innovants.\n· Missions challengeantes techniquement et intellectuellement.\n· Accélérateur de carrière : un manager et un référent technique pour un accompagnement sur mesure.\n· Nombreux événements : Tech' Lunchs, Bootcamps, Meetups.\n· Apprentissage via des conférences et des formations (softskills et hardskills).\nNos avantages :\n· Mutuelle généreuse\n· Carte tickets restaurant\n· Prime de participation\n· Prime de vacances\n· Un ordinateur portable et un pack pour aménager votre espace de télétravail.\n· Accès illimité aux livres et aux certifications\nVous souhaitez progresser et booster votre carrière ? Venez nous rencontrer.\nCellenza recrute et reconnaît tous les talents, ses offres d'emplois sont handi-accessibles.\nType d'emploi : Temps plein, CDI\nStatut : Cadre\nRémunération : 55 000,00€ à 80 000,00€ par an\nAvantages :\n* Prise en charge du transport quotidien\n* RTT\n* Travail à domicile occasionnel\nHoraires :\n* Du lundi au vendredi\n* Flextime\n* Travail en journée\nRémunération supplémentaire :\n* Prime annuelle\n* Primes\nLieu du poste : En présentiel"
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2705854",
+    "title": "Architecte FPGA (H/F)",
+    "company": null,
+    "location": "TOULOUSE 31",
+    "remote": null,
+    "publication_date": "2024-08-22",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": null,
+        "Experience": "Expérience exigée",
+        "Level": null
+    },
+    "company_data": {
+        "sector": null,
+        "company_size": null,
+        "turnover_in_millions": null
+    },
+    "description": "En tant qu'architecte FPGA, vous intégrerez une équipe hardware de 12 personnes, organisée autour de trois pôles d'activité : FPGA, Conception électronique et Industrialisation. Vous contribuerez activement à la conception de fonctions FPGA complexes, répondant aux besoins fonctionnels des équipes produit et système, tout en tenant compte des contraintes de performance, de latence et d'intégration dans les produits finaux.\nVos principales missions incluent :\n* Concevoir des architectures FPGA et des modules de traitement avancés (signal et communication).\n* Mettre en œuvre des fonctions complexes liées au traitement RF (modulation, corrélateurs, FFT, intégrateurs) et traitement du signal (filtres temps réel, asservissements).\n* Développer et implémenter des interfaces de communication performantes.\n* Participer activement à toutes les phases du cycle de développement FPGA, de la spécification à la vérification sur carte.\n* Collaborer étroitement avec les équipes électroniques, logicielles et systèmes pour assurer une parfaite intégration.\n* Proposer et spécifier les stratégies de vérification (virtuelle et sur cible) adaptées aux projets.\n* Coder, simuler et tester les différents blocs fonctionnels.\n* Gérer les aspects coûts/délais avec rigueur et assurer le suivi des projets externalisés.\n* Offrir un support technique aux autres pôles de l'entreprise.\nProfil recherché :\n* Expérience et expertise : Vous justifiez d'une expérience solide (au moins 5 ans) en conception, architecture et vérification FPGA. Vous maîtrisez les langages HDL (VHDL/Verilog) ainsi que les contraintes STA.\n* Outils techniques : Vous avez une excellente connaissance des outils de simulation (Questa), de synthèse (Synplify Pro, Vivado, Libero) et de gestion de configuration (Git). Des compétences en vérification sur cible seraient un atout.\n* Autonomie complète : Capacité à prendre en charge la validation des exigences, la faisabilité d'implémentation, l'estimation des ressources et la gestion de la configuration de manière autonome.\n* Savoir-être : Rigoureux(se), organisé(e), avec un bon esprit d'équipe et de solides compétences en communication. Vous avez un réel goût pour l'encadrement et le tutorat d'ingénieurs juniors.\nType d'emploi : Temps plein, CDI\nStatut : Cadre\nRémunération : 50 000,00€ à 60 000,00€ par an\nAvantages :\n* Prise en charge du transport quotidien\n* RTT\n* Travail à domicile occasionnel\nHoraires :\n* Du lundi au vendredi\n* Flextime\n* Travail en journée\nRémunération supplémentaire :\n* Primes\nFormation:\n* Bac +5 (Master / MBA) (Optionnel)\nLieu du poste : En présentiel"
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2740701",
+    "title": "Architecte Big Data et ML H/F",
+    "company": "AXA FRANCE ",
+    "location": "92",
+    "remote": null,
+    "publication_date": "2024-08-22",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": null,
+        "Experience": "Expérience exigée",
+        "Level": null
+    },
+    "company_data": {
+        "sector": null,
+        "company_size": null,
+        "turnover_in_millions": null
+    },
+    "description": "Au sein de l'équipe Socles Big Data et Machine Learning, l'architecte solution Big Data & ML sera amené à :\n- Contribuer à l'évolution de l'offre de service de la plateforme Big Data & ML\n- Définir et maintenir le cadre de référence des principes d'architecture\n- D'accompagner les développeurs dans l'appropriation de ce cadre de référence,\n- Définir les solutions permettant de répondre aux besoins d'exposition, de consommation ou d'export de données des métiers\n- D'accompagner les développeurs et les différentes parties prenantes dans la mise en œuvre des solutions proposées.\n\nDe Formation scientifique (école d'ingénieur, école d'informatique), vous justifiez de :\nAu moins 5 ans dans la définition d'architecture de traitement de données Big Data et une connaissance avancée sur les principes de traitements distribués.\n\nVous avez eu une expérience professionnelle sur le cloud Microsoft Azure avec des outils comme Azure Databricks, Azure Data Lake Storage, Azure Data Factory et la topologie réseau sous-jacente. Terraform, Qlik seraient un plus.\n\nVous avez une connaissance solide des différents patterns d'architecture Big Data.\n\nVous êtes familiers aux principes cloud, devops et aux processus de continuous delivrery dans un environnement agile, ainsi qu'aux concepts ML et LLM.\n- La définition d'architecture cloud\n- l'automatisation des ressources azure\n- Gestion de sources Git et modèles de collaboration\n- Intégration & livraison continue avec Azure Pipelines\n- Gestion des artefacts avec Azure Artifact\n- Automatisation des déploiements\n- Traitements Big Data en mode Streaming\n- Pratiques et optimisations FinOps\n- Framework MLOps\n- Mise en place d'API LLM\n\nIdéalement vous avez déjà participé à la mise en œuvre d'architecture et solutions ML et LLM. AXA France développe actuellement un socle LLMOPS autour d'une solution groupe dont le cœur est AXA Secure GPT (API LLM). Cette solution nous permettra de tester plusieurs LLMs (Version de Chat GPT, Mistral, Claude, LLaMA, ...)\n\nDe nature pragmatique, vous êtes capable d'accompagner de manière pédagogique les métiers dans la définition de solutions répondant à leur besoin. Vous avez de bonnes aptitudes relationnelles, et vous faites preuve d'une grande curiosité et de capacité d'innovation et d'adaptation.\n\nNotre raison d'être chez AXA ? Chaque jour, nous agissons ensemble pour le progrès humain en protégeant ce qui compte. Une mission qui donne le sourire et envie de se lever le matin ! \n\nUn des leaders mondiaux de l'assurance dans la protection des biens, des personnes et des actifs, AXA c'est  collaborateurs et contributeurs qui s'engagent au quotidien pour nos clients, c'est 51 pays dans lesquels nous distribuons nos produits et services et plus de 90 millions de client qui nous font confiance dans le monde. Employeur citoyen et responsable, AXA s'engage au quotidien pour des causes sociétales & environnementales. Nous menons une politique inclusive engagée pour reconnaître et valoriser les différences individuelles. Ces ambitions vous parlent ? Alors venez changer le monde avec nous ! \n\nVictime ou témoin, en cas de discrimination, vous pouvez adresser vos signalements et/ou alertes discrimination à : \"Pour postuler, cliquez sur le bouton de candidature Monster\"\n\nNous sommes persuadés que pour bien prendre soin de nos clients, nous devons commencer par bien prendre soin de nos collaborateurs ! Les avantages que nous proposons à nos salariés sont nombreux. \n\n Nous choisir, c'est bénéficier par exemple : \n\n D'un  package de rémunération  complet comprenant un salaire fixe, un complément de rémunération variable, des primes, de la participation et de l'intéressement, la possibilité d'acquérir des actions AXA, ou encore des solutions d'épargne avantageuses ;  D'un  cadre de travail flexible  jusqu'à 3 jours de télétravail possible par semaine (selon profil du poste), des tickets restaurant pour les jours télétravaillés ou encore une participation à l'achat d'un écran ou fauteuil ergonomique ;  D'une politique visant à  concilier vie personnelle et vie professionnelle  avec 28 jours de congés payés, entre 14 et 16 RTT selon les années, des formules de travail à temps partiel ou encore des jours d'absence rémunérées pour la rentrée scolaire ou un déménagement par exemple ;  De la possibilité de s'engager pour une cause qui vous tient à cœur grâce à nos associations telles que AXA Atout Cœur, AXA Compétences Solidaires ou encore AXA Prévention ;  Et bien  plus encore  ! Perspectives de développement des compétences et de carrières immenses, CE, conciergerie, offres privilèges, soutien en cas d'épreuve s'arrête là, la liste est longue"
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2703905",
+    "title": "Architecte de données informatiques (H/F)",
+    "company": "THALES LAS FRANCE SAS ",
+    "location": "91",
+    "remote": null,
+    "publication_date": "2024-08-22",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": null,
+        "Experience": "Expérience exigée de 10 An(s)",
+        "Level": null
+    },
+    "company_data": {
+        "sector": null,
+        "company_size": null,
+        "turnover_in_millions": null
+    },
+    "description": "Chez Thales, nous sommes fiers de travailler ensemble pour imaginer des solutions innovantes qui contribuent à construire un avenir plus sûr, plus vert et plus inclusif. Un avenir de confiance. Mais ces technologies ne viennent pas de nulle part. L'intelligence humaine est le moteur derrière la technologie qui fait la renommée de Thales. Les projets que nous conduisons sont complexes et nos clients exigeants. Pour répondre aux besoins actuels et futurs de nos clients, nous maîtrisons plus d'une centaine de disciplines, de l'optique à la physique quantique, du traitement du signal à la connectivité et à l'intelligence artificielle. Rejoindre Thales, c'est repousser les limites de la technologie et la mettre au service du progrès et du développement durable de nos sociétés. C'est donc être au cœur d'une formidable aventure technique. Une attention portée à l'équilibre des collaborateurs au service de leur réussite. C'est pourquoi, notamment, nous nous efforçons de créer un environnement de travail accueillant et d'accorder la flexibilité nécessaire à l'équilibre entre vie professionnelle et vie personnelle. Nous savons que cet équilibre est essentiel à votre épanouissement et à la réussite des projets que nous vous confierons. Des parcours professionnels riches. Chez Thales, nous jouons collectif. Ce qui signifie travailler en équipe, côtoyer des experts et donc apprendre et développer ses compétences en permanence tout en faisant bénéficier le Groupe de son savoir-faire. C'est aussi la possibilité d'évoluer, de changer de fonction ou d'activité, voire de pays.\n    QUI SOMMES-NOUS ?\n    L'activité Systèmes terrestres et aériens conçoit des systèmes, des équipements, des capteurs et des services pour le contrôle du trafic aérien civil et militaire, la défense aérienne ainsi que le combat naval et terrestre.\n    A 20mn du cluster Paris-Saclay, le site de Limours réunit plus de 900 collaborateurs travaillant de la conception des solutions à la recette avec les clients, en passant par la production, des radars de surface. Ce site a connu ces dernières années de grandes évolutions et continue à s'adapter aux besoins des clients en termes de surveillance du ciel et de zones sensibles.\n    QUI ETES-VOUS ?\n     * De formation ingénieur ou équivalent, vous avez une expérience confirmée en architecture logiciel et/ou ingénierie des systèmes logiciels ?\n     * On vous reconnait une capacité à dynamiser les équipes ?\n     * Votre flexibilité et ouverture d'esprit vous permettent d'aboutir à des compromis dans vos négociations ?\n     * Vous avez une bonne capacité d'analyse et de méthode dans l'approche des problèmes ?\n    CE QUE NOUS POUVONS ACCOMPLIR ENSEMBLE :\n    Rattaché(e) au centre de compétences Radar Embedded Processing (REP) au sein du Domaine Surface Radar, vous êtes en charge de l'architecture complète d'un traitement numérique pour un des radars du portfolio du Surface Radar.\n    En nous rejoignant, vous vous verrez confier les missions suivantes :\n     * Définir l'architecture de la solution numérique complète, allouer les fonctions, définir les interfaces des produits à développer,\n     * Allouer les fonctionnalités logicielles du système complet aux sous-ensembles numériques (PCs, FPGA, DSP), en accord avec l'ingénierie radar et les responsables des sous-ensembles,\n     * Gérer les risques et opportunités techniques ainsi que les actions associées sur un produit avec un historique,\n     * Valider et commenter les documents de spécification logiciels,\n     * Proposer des innovations et participer à l'amélioration continue des méthodes de travail.\n    Vous collaborez avec :\n     * Les équipes d'ingénierie du Business Segment concerné pour appréhender et décliner les besoins,\n     * Les équipes REP, qui développent les constituants du traitement numérique :\n     + La plateforme matérielle\n     + La plateforme applicative constitué d'OS, de middleware et durcissements associés  \n     + Les logiciels de traitements sur PC (CPU, GPU) ou DPS et/ou FPGA\n     * Les équipes REP, qui intègrent les éléments du traitement numérique avant livraison aux équipes radar,\n     * Les équipes d'intégration radar pour la mise au point système.\n    VOTRE CARRIÈRE CHEZ THALES :\n    Différentes opportunités vous permettront de découvrir d'autres domaines ou sites. Vous pourrez évoluer et développer vos compétences dans différents domaines :\n     * Explorez un espace attentif au développement personnel\n     * Développez vos talents dans un autre domaine du groupe Thales, en découvrant de nouveaux produits, de nouveaux clients, un nouveau pays ou en vous orientant vers une solution plus complexe\n     * Choisissez entre une expertise technique ou un parcours de le"
+}]

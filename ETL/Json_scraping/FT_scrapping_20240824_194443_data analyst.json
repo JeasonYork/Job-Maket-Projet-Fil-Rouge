@@ -1,3 +1,803 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e5844264eda259bd7760ac67e8b533c6c58232ba42eca265339f96439f8fe77b
-size 137206
+[
+    {
+        "source": "France Travail",
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/2861398",
+        "title": "Data analyst moteur m88 en exploitation bordeaux f/h (H/F)",
+        "company": null,
+        "location": "BORDEAUX 33",
+        "remote": null,
+        "publication_date": "2024-08-24",
+        "details": {
+            "TypeContract": "CDI",
+            "Salary": null,
+            "Experience": "Expérience exigée",
+            "Level": null
+        },
+        "company_data": {
+            "sector": null,
+            "company_size": null,
+            "turnover_in_millions": null
+        },
+        "description": "Safran est un groupe international de haute technologie opérant dans les domaines de l'aéronautique (propulsion, équipements et intérieurs), de l'espace et de la défense. Sa mission : contribuer durablement à un monde plus sûr, où le transport aérien devient toujours plus respectueux de l'environnement, plus confortable et plus accessible. Implanté sur tous les continents, le Groupe emploie 92 000 collaborateurs pour un chiffre d'affaires de 23,2 milliards d'euros en 2023, et occupe, seul ou en partenariat, des positions de premier plan mondial ou européen sur ses marchés. Safran s'engage dans des programmes de recherche et développement qui préservent les priorités environnementales de sa feuille de route d'innovation technologique.\nSafran est la 1ère entreprise du secteur aéronautique et défense du classement « World's Best Companies 2023 » du magazine TIME.\n\nMotoriste aéronautique depuis plus de 110 ans, Safran Aircraft Engines, conçoit, développe, produit et commercialise, seul ou en coopération, des moteurs pour avions civils et militaires.- Expérience utilisateur Dataiku (idéalement, certification « Advanced Designer » de la Dataiku Academy + expérience d'utilisation de l'outil\n- Bonne connaissance du codage en Python, en particulier de la gestion des sources en .xml\n- Expérience en « ETL » (Extract Transform Load), en particulier Transform complexes \n- Connaissance du langage VBA\n- Bonne connaissance de PowerBI, notamment du langage DAX.\n- La connaissance du Machine Learning, en particulier du NLP (Natural Language Processing), serait un plus. \n- Connaissance turboréacteur, connaissances et compréhension des concepts d'utilisation et maintenance aéronautique.\n\n- Contribuer à la mise en place du protocole d'échange de données avec nos clients pour la récupération des données.\n- Identifier les données nécessaires aux analyses des futurs utilisateurs, les traiter et les nettoyer afin d'en extraire des informations permettant de répondre à des enjeux spécifiques et faciliter la prise de décision pour le métier et/ou plusieurs directions métiers.\n- Mettre en place des outils de reporting (Synthèse et/ou Indicateurs) et d'aide à la décision, de la data visualisation grâce à des outils informatiques de mise en forme des données et à de l'analyse statistique.\n- Analyser et comprendre les processus de flux de données existants (Dataiku), s'assurer de la cohérence des résultats au regard des besoins spécifiques métier. \n- Contribuer à la construction de la feuille de route Data du service.\n- Assurer la coordination d'un projet, des ressources et des moyens associés\n\nEnjeux / Challenge :\n-Fournir un appui analytique à la conduite d'exploration et à l'analyse complexe de données (multiplicité des univers et des sources de données). Faciliter les prises de décision des décideurs et conseiller au sein de sa direction ou de la société\n-L'emploi nécessite des relations de travail avec des équipes pluridisciplinaires et d'autres métiers pour parvenir au résultat attendu InterneDe formation ingénieur Bac +5 vous avez une solide expérience similaire."
+    }
+, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2856087",
+    "title": "Data Analyst Contrôle de gestion IFRS 17 H/F",
+    "company": "BNP PARIBAS ",
+    "location": "92",
+    "remote": null,
+    "publication_date": "2024-08-24",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": null,
+        "Experience": "Expérience exigée",
+        "Level": null
+    },
+    "company_data": {
+        "sector": null,
+        "company_size": null,
+        "turnover_in_millions": null
+    },
+    "description": "Votre poste, en bref \n\nAu sein de l'équipe Expertise transverse France, vous : \nAssurerez la mise en production du nouveau modèle d'allocation des coûts:Réalisation des Gap analysis du modèle d'allocation à partir de méthodes innovantes basées sur des méthodes D&A afin de sécuriser le nouveau modèle d'allocation des coûts (central + module IT)Au regard des contraintes de continuité avec les résultats d'allocation du modèle actuel sur les différents objets de coûts (rattachabilité, destination, BU etc.), proposition et mise en place des correctifs nécessaires à la validation du modèle.Développement et mise en place de rapports d'analyse automatisés des coûts alloués Assurerez les travaux de réconciliation des comptes clients à partir de méthodes Data Analysis, préparerez les dossiers de choix et présenterez les résultats au top management. Vous serez en interaction avec les équipes de la comptabilité et devrez assurer la passation des travaux pour reprise en interne.Participerez à des études quantitatives transverses en lien avec les autres équipes du contrôle de gestion et de la comptabilité \nVous aborderez également l'ensemble des thématiques suivantes :\nAnalyse normativeAnalyse des impacts quantitatifs et process Utilisation d'approches data dans les analysesRédaction d'EDB et mise en place des nouveaux process en lien avec le métier"
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2853815",
+    "title": "Data Analyst Senior H/F",
+    "company": "WILL RH ",
+    "location": "59",
+    "remote": null,
+    "publication_date": "2024-08-24",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": null,
+        "Experience": "Expérience exigée",
+        "Level": null
+    },
+    "company_data": {
+        "sector": null,
+        "company_size": null,
+        "turnover_in_millions": null
+    },
+    "description": "Nous recherchons pour l'un de nos clients un Data Analyst Senior !\n\nIl s'agit d'une start-up dynamique et innovante, spécialisée dans l'expertise data et le développement durable . Composée actuellement de 15 personnes, cette entreprise mise sur la transparence, la responsabilité, et le développement de ses collaborateurs. Vous cherchez une aventure à taille humaine où vos compétences en analyse de données peuvent véritablement faire la différence ? Vous êtes au bon endroit ! \n\nLieu : Full remote\nType de contrat : CDI\nDémarrage : ASAP\n\nVotre mission\n\nEn tant que Data Analyst Senior, vos principales missions seront :\nAnalyser des problématiques métiers et en synthétiser les enjeux Manipuler, exploiter et interpréter les données pour en dégager des insights business pertinents Créer des dashboards et des rapports pour faciliter la prise de décision Mettre en place des KPIs de performance pour offrir une vision claire des résultats aux équipes métiers Devenir le référent technique sur l'outil de reporting Power BI (très bonne maîtrise exigée !)Contribuer au développement de la start-up avec vos idées novatrices (architecture, organisation, événements, veille, etc.) \nVos responsabilités\nMaîtrise du SQL et de l'outil de reporting Power BICompétences analytiques et statistiques solidesConnaissance des environnements cloud et big data (Microsoft Azure notamment)Expérience avec un ou plusieurs outils d'analyse de données (SAS, R, etc.)La connaissance de Python et d'autres outils de reporting (Google Data Studio, Quicksight, ) est un plus La maîtrise de l'anglais est un plusExpérience professionnelle d'au moins 4 ans dans des missions similaires"
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2853653",
+    "title": "Tech Lead Data Analyst H/F",
+    "company": "JEMS ",
+    "location": "92",
+    "remote": null,
+    "publication_date": "2024-08-24",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": null,
+        "Experience": "Expérience exigée",
+        "Level": null
+    },
+    "company_data": {
+        "sector": null,
+        "company_size": null,
+        "turnover_in_millions": null
+    },
+    "description": "A propos de JEMS\n\nNous sommes le seul industriel de la donnée en Europe. Notre métier est de créer, manager et exploiter le patrimoine data de nos clients.\n\nNous avons la conviction que chaque entreprise peut adopter une démarche innovante de gestion de la donnée et créer des cas d'usage disruptifs en réduisant l'impact écologique et en diminuant la dette technique.\n\nNous comptons plus de 840 collaborateurs en mission chez nos clients grands comptes dans tout secteur d'activité : banque, assurance, santé, énergie, e-commerce, automobile, luxe, retail, transport, \n\nVos missions\n\nNous recherchons un(e) Tech Lead Data Analyst capable de trouver des solutions innovantes et robustes à l'ensemble des problématiques Data.\n\nVous aurez la charge de :\nAssurer la mise en œuvre de l'accès, du référencement et de la qualité de la donnéeAssurer l'industrialisation, la supervision et l'intégration des solutionsRédiger les normes de développementParticiper à la rédaction du manuel d'exploitationEn tant que Tech Lead, vous savez vous présenter et promouvoir des architectures data face au client. Vous savez identifier et comprendre les besoins métiers.Vous savez identifier et comprendre les besoins métiers.Vous formez, encadrez et faites évoluer les consultants juniorsVous participez à la réponse aux appels d'offres (avant-vente)\nVos compétences\n\nEn tant que Tech Lead Data Analyst vous maîtrisez :\nLe langage SQLMS OfficeDes outils BI Fonction Expertise sur les donnees du MetierDes solutions Analytiques (Data Science ou Data Mining / BI)Des outils de datavisualisationLa preparation de donnees\nVotre profil\n\nDiplômé(e) d'une école d'ingénieur ou d'une université, vous justifiez d'une expérience professionnelle dans un contexte projet Data. Rigoureux, proactif et autonome vous restez en veille technologique et êtes force de proposition. Vous êtes capable de prendre de la hauteur et vous adapter aux enjeux du projet.\n\nAvantages à travailler chez JEMS\nUne JEMS Académie au service de votre montée en compétences (formations et certifications sur les technologies de pointe)Un accompagnement personnalisé et un management de proximité pour vous proposer des évolutions de carrièreUne intégration dans des communautés techniques et de pratiques JEMS (encadrement par des experts, échanges sur les bonnes pratiques, favoriser l' )Une entreprise reconnue \"Great Place To Work\"Des évènements et séminaires inoubliables, des soirées d'agence conviviales"
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2853130",
+    "title": "DATA ANALYST (H/F)",
+    "company": "GROUPE BPCE ",
+    "location": "59",
+    "remote": null,
+    "publication_date": "2024-08-24",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": null,
+        "Experience": "Expérience exigée",
+        "Level": null
+    },
+    "company_data": {
+        "sector": null,
+        "company_size": null,
+        "turnover_in_millions": null
+    },
+    "description": "Description de l'entreprise\n\nLa Caisse d'Epargne Hauts de France recherche de nouveaux talents et de nouvelles compétences !\n\nAu sein de BPCE, 2ème groupe bancaire français, la Caisse d'Epargne Hauts de France est une banque coopérative régionale, qui accompagne les familles et les entreprises au nord de Paris.\n\nNotre réseau de 300 agences, 11 Centres d'Affaires, 1 Banque Privée et du Dirigeant, 1 Banque Digitale Multimédia Régionale et 3 000 collaborateurs accompagnent au quotidien nos clients sur tous les marchés.\n\nNous sommes fiers de faire partie d'une entreprise engagée, certifiée B Corp, dont les valeurs reposent sur le respect de l'environnement, la promotion du sport pour tous et la solidarité dans tout ce que nous entreprenons.\n\nParce que nous sommes +Green, +Sport, +Solidaire, nous sommes plus qu'une banque !\n\nRejoignez-nous !\n\nPoste et missions\n\nDans un contexte de développement de notre communauté DATA au sein de l'entreprise, nous recrutons un profil de DATA ANALYST (F/H) pour notre département Data Analyse Et Pilotage Transverse composé d'une équipe de 10 Data Analyst, 1 Data Scientist et 1 Data Architect.\n\nA ce titre, vous serez en interaction avec toutes les directions métiers de l'entreprise.\n\nVous aurez en charge de réaliser des analyses, mettre en place des pilotages, fiabiliser/enrichir les données de l'entreprise et développer des cas d'usage à forte valeur ajoutée à partir des données de l'entreprise mais aussi de données externes.\n\nAfin de réaliser ces activités, vous vous investissez auprès des interlocuteurs métier pour comprendre au mieux la problématique sur laquelle vous travaillez.\n\nVous imaginez les solutions data correspondantes en étant force de proposition avec une bonne connaissance des analyses et outils existants.\n\nDans une démarche d'amélioration continue, vous participez à des projets transverses au sein de la direction.\n\nProfil et compétences requises\n\nIssu(e) d'une formation Bac +5 types Ecole d'Ingénieur, Ecole de Commerce, ou diplômé(e) d'un Master en statistiques ou informatique décisionnelle.\n\nVous disposez impérativement d'une expérience validée de 3 ans en tant que Data Analyst.\n\nNous recherchons un profil agile, curieux, motivé par l'innovation et maitrisant idéalement les outils Alteryx, Power BI, Power Automate, Power APPS, GCP.\n\nVous faites preuve de rigueur dans la fiabilité de données et êtes force de de proposition dans la construction ou l'évolution de nos méthodes d'analyse.\n\nVous aspirez à une mission enrichissante où votre proactivité et vos propositions seront appréciées et encouragées.\n\nAu-delà de l'expérience, des compétences techniques et de la rigueur nécessaires dans ce poste, nous apprécions les personnes ouvertes, curieuses et dotées d'un bon relationnel.\n\nInformations complémentaires sur le poste\n\n Les + de la Caisse d'Epargne Hauts-de-France: \n\nEn tant que membre de notre équipe, vous bénéficierez de nombreux avantages, notamment :\nUne rémunération compétitive et équitable, assortie de primes et de bonus en fonction de vos performances individuelles et collectives.Des opportunités de formation et de développement professionnel pour faire évoluer votre carrière dans l'entreprise.Un socle social complet: 13 ième mois, mutuelle, tickets restaurants, prime de transport, 35 jours de congés payés et des jours de RTT.Un environnement de travail agréable et collaboratif, où les idées et les contributions de chacun sont valorisées et respectées.Vous disposerez au minimum d'une journée de télétravail par semaine."
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2839456",
+    "title": "Data analyst (H/F)",
+    "company": null,
+    "location": "VAUJOURS 93",
+    "remote": null,
+    "publication_date": "2024-08-24",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": "Salaire brut : Annuel de 40000,00 Euros à 50000,00 Euros",
+        "Experience": "Expérience exigée de 1 An(s)",
+        "Level": null
+    },
+    "company_data": {
+        "sector": null,
+        "company_size": "Au cœur de l'innovation en matière de recrutement, Leihia est la plateforme SaaS où l'intelligence artificielle rencontre l'expertise humaine pour façonner l'avenir de l'emploi. Nous sommes bien plus qu'un simple outil de mise en relation : nous sommes une réelle innovation dans la gestion de carrière et le recrutement.",
+        "turnover_in_millions": null
+    },
+    "description": "Description du poste :\nCrédit Agricole Île-de-France : Votre Partenaire Mutualiste Engagé\nAu Crédit Agricole Île-de-France, nous unissons nos forces pour offrir à nos 1.5 million de clients une expérience bancaire fondée sur la proximité, la responsabilité et la solidarité. Notre ambition ? Être le partenaire de confiance qui accompagne chaque projet, avec humanité et expertise.\nNous sommes persuadés que l'excellence de service se construit avec des talents comme vous - audacieux, passionnés par la qualité et porteurs de nos valeurs mutualistes.\nRejoindre nos 3.650 collaborateurs, c'est choisir une carrière dynamique au sein de notre réseau de 275 agences, où l'innovation, l'écoute et l'engagement sont au cœur de l'action. C'est également s'engager dans une banque qui prône la diversité et l'évolution professionnelle, reconnue par ses clients et ses équipes :***1ère caisse régionale du groupe Crédit Agricole,\n* 86% de clients satisfaits,\n* 89% de collaborateurs fiers de recommander notre entreprise,\n* Opportunités de développement et de mobilité, en Île-de-France et à l'international.\nNous investissons dans votre avenir dès le premier jour, avec un accompagnement dédié en gestion de carrière et un accès à des formations de pointe via notre propre centre de formation et notre université groupe.\nCrédit Agricole Île-de-France, c'est la promesse d'une carrière enrichissante dans une banque résolument tournée vers l'avenir. Prêt à vivre une expérience professionnelle unique où vos compétences seront le moteur de votre épanouissement\nData Analyst - Expert en VBA et SUADEO - CDI H/F\nPlongez au cœur de la transformation digitale du Crédit Agricole Île-de-France. En tant que Data Analyst, vous jouerez un rôle crucial en intégrant notre service informatique dédié à l'analyse et au pilotage des données, avec un focus particulier sur l'optimisation et la réécriture de nos processus existants en VBA vers SUADEO.\nVotre Mission :***Analyse et Réécriture VBA : Comprendre et analyser l'existant en Excel VBA pour le transposer dans l'environnement SUADEO, en garantissant la continuité et l'amélioration des processus actuels.\n* Gestion et Optimisation des Dashboards : Piloter et améliorer les dashboards existants pour offrir des outils de pilotage performants, permettant une prise de décision éclairée.\n* Production et Qualité des Données : Travailler étroitement avec les équipes métiers pour garantir l'intégrité et la qualité des données, en respectant les règles métiers et en optimisant les flux de données.\n* Utilisation d'Outils BI : Maîtriser les outils de Business Intelligence, avec une expertise sur SUADEO, pour assurer la cohérence et la pertinence des rapports et analyses produits.\n* Collaboration Inter-Équipes : Collaborer avec les équipes métiers pour bien comprendre leurs besoins, valider les exigences et proposer des solutions adaptées, tout en assurant une documentation rigoureuse.\nQui Êtes-Vous ?***Formation : Diplômé en informatique ou en gestion de données, avec une expertise en Excel VBA et une bonne maîtrise des outils BI, particulièrement SUADEO.\n* Expérience : Vous justifiez de 2 à 3 ans d'expérience en analyse de données, avec une forte orientation vers la réécriture et l'optimisation de processus.\n* Compétences : Solides compétences en analyse fonctionnelle des données, en compréhension des règles métiers, et en gestion de la qualité des données.\n* Qualités : Autonome, rigoureux(se), avec un esprit analytique et une passion pour les données et leur transformation en information stratégique.\nPourquoi Nous Rejoindre ?***Équipe : Rejoignez une équipe dynamique où l'autonomie, la collaboration et l'innovation sont au cœur des projets.\n* Environnement de Travail : Un cadre stimulant où les données et l'innovation technologique sont au centre de notre transformation digitale.\n* Opportunités de Carrière : Bénéficiez d'une réelle progression de carrière au sein du Crédit Agricole Île-de-France, avec des opportunités de développement et de spécialisation."
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2839011",
+    "title": "Data analyst (H/F)",
+    "company": null,
+    "location": "NOISEAU 94",
+    "remote": null,
+    "publication_date": "2024-08-24",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": "Salaire brut : Annuel de 40000,00 Euros à 50000,00 Euros",
+        "Experience": "Expérience exigée de 1 An(s)",
+        "Level": null
+    },
+    "company_data": {
+        "sector": null,
+        "company_size": "Au cœur de l'innovation en matière de recrutement, Leihia est la plateforme SaaS où l'intelligence artificielle rencontre l'expertise humaine pour façonner l'avenir de l'emploi. Nous sommes bien plus qu'un simple outil de mise en relation : nous sommes une réelle innovation dans la gestion de carrière et le recrutement.",
+        "turnover_in_millions": null
+    },
+    "description": "Description du poste :\nCrédit Agricole Île-de-France : Votre Partenaire Mutualiste Engagé\nAu Crédit Agricole Île-de-France, nous unissons nos forces pour offrir à nos 1.5 million de clients une expérience bancaire fondée sur la proximité, la responsabilité et la solidarité. Notre ambition ? Être le partenaire de confiance qui accompagne chaque projet, avec humanité et expertise.\nNous sommes persuadés que l'excellence de service se construit avec des talents comme vous - audacieux, passionnés par la qualité et porteurs de nos valeurs mutualistes.\nRejoindre nos 3.650 collaborateurs, c'est choisir une carrière dynamique au sein de notre réseau de 275 agences, où l'innovation, l'écoute et l'engagement sont au cœur de l'action. C'est également s'engager dans une banque qui prône la diversité et l'évolution professionnelle, reconnue par ses clients et ses équipes :***1ère caisse régionale du groupe Crédit Agricole,\n* 86% de clients satisfaits,\n* 89% de collaborateurs fiers de recommander notre entreprise,\n* Opportunités de développement et de mobilité, en Île-de-France et à l'international.\nNous investissons dans votre avenir dès le premier jour, avec un accompagnement dédié en gestion de carrière et un accès à des formations de pointe via notre propre centre de formation et notre université groupe.\nCrédit Agricole Île-de-France, c'est la promesse d'une carrière enrichissante dans une banque résolument tournée vers l'avenir. Prêt à vivre une expérience professionnelle unique où vos compétences seront le moteur de votre épanouissement\nData Analyst - Expert en VBA et SUADEO - CDI H/F\nPlongez au cœur de la transformation digitale du Crédit Agricole Île-de-France. En tant que Data Analyst, vous jouerez un rôle crucial en intégrant notre service informatique dédié à l'analyse et au pilotage des données, avec un focus particulier sur l'optimisation et la réécriture de nos processus existants en VBA vers SUADEO.\nVotre Mission :***Analyse et Réécriture VBA : Comprendre et analyser l'existant en Excel VBA pour le transposer dans l'environnement SUADEO, en garantissant la continuité et l'amélioration des processus actuels.\n* Gestion et Optimisation des Dashboards : Piloter et améliorer les dashboards existants pour offrir des outils de pilotage performants, permettant une prise de décision éclairée.\n* Production et Qualité des Données : Travailler étroitement avec les équipes métiers pour garantir l'intégrité et la qualité des données, en respectant les règles métiers et en optimisant les flux de données.\n* Utilisation d'Outils BI : Maîtriser les outils de Business Intelligence, avec une expertise sur SUADEO, pour assurer la cohérence et la pertinence des rapports et analyses produits.\n* Collaboration Inter-Équipes : Collaborer avec les équipes métiers pour bien comprendre leurs besoins, valider les exigences et proposer des solutions adaptées, tout en assurant une documentation rigoureuse.\nQui Êtes-Vous ?***Formation : Diplômé en informatique ou en gestion de données, avec une expertise en Excel VBA et une bonne maîtrise des outils BI, particulièrement SUADEO.\n* Expérience : Vous justifiez de 2 à 3 ans d'expérience en analyse de données, avec une forte orientation vers la réécriture et l'optimisation de processus.\n* Compétences : Solides compétences en analyse fonctionnelle des données, en compréhension des règles métiers, et en gestion de la qualité des données.\n* Qualités : Autonome, rigoureux(se), avec un esprit analytique et une passion pour les données et leur transformation en information stratégique.\nPourquoi Nous Rejoindre ?***Équipe : Rejoignez une équipe dynamique où l'autonomie, la collaboration et l'innovation sont au cœur des projets.\n* Environnement de Travail : Un cadre stimulant où les données et l'innovation technologique sont au centre de notre transformation digitale.\n* Opportunités de Carrière : Bénéficiez d'une réelle progression de carrière au sein du Crédit Agricole Île-de-France, avec des opportunités de développement et de spécialisation."
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2835240",
+    "title": "DATA ANALYST H/F",
+    "company": "FRAIKIN ",
+    "location": "92",
+    "remote": null,
+    "publication_date": "2024-08-24",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": null,
+        "Experience": "Débutant accepté",
+        "Level": null
+    },
+    "company_data": {
+        "sector": "Location de camions avec chauffeur",
+        "company_size": "Roulez, nous faisons le reste !  \n\nEnvie de rejoindre le numéro N°1 Européen de la location de véhicules industriels, utilitaires et commerciaux : 60000 véhicules, 180 agences en France et Europe, 3000 collaborateurs et un chiffre d'affaires de 965 millions d'euros en 2023.\n\nChez Fraikin, aucune journée ne se ressemble. Dans nos métiers, la diversité des missions est forte, et nous mettons un point d'honneur à ce que nos collaborateurs gardent toute leur polyva...",
+        "turnover_in_millions": null
+    },
+    "description": "FRAIKIN France recherche, pour accompagner son développement, un(e) : \n  \n DATA ANALYST \n\nDans le cadre du programme Management Accelerator Program (MAP), Fraikin Group recherche un(e) candidat(e).\n\nLe MAP est le programme des futurs leaders du Groupe Fraikin. Il s'adresse à des jeunes diplômés issus des meilleures grandes écoles d'ingénieurs de commerces françaises et internationales, ayant au maximum 1 an d'expérience. Le programme totalise 2 à 3 postes d'une durée de 12 à 18 mois maximum dans différents départements du Groupe Fraikin (Opérations, Stratégies, Finance, Pricing, Digital, etc.). A la suite du programme, les participants se verront proposer un poste à responsabilité au sein du Groupe.\n \nVous débuterez votre programme au sein de la Direction de la Stratégie et du Développement groupe et rattaché(e) au Directeur Market Intelligence en tant que Data Analyst.\n\nDans le cadre de ce premier poste, que vous occuperez entre 12 et 18 mois, vous travaillerez sur différents projets stratégiques pour du groupe à l'échelle Europe (analyse de parts de marché, taux churn, analyse prédictive, etc.). Le poste est à fort enjeux au sein de l'équipe stratégie du groupe, dont le rôle est d'apporter un éclairage analytique sur les sujets clés du Groupe ainsi que d'être un guide à la prise de décision du ComEx. \n\nA ce titre, vous :\n\nParticiperez aux analyses de données nécessaires à la transition énergétiques de notre flotte ; \n\nDéfinirez les règles de gestion des bases de données et des spécifications d'automatisation en relation avec la DSI ; \n\nDévelopperez des tableaux de bord permettant de répondre aux enjeux et besoins business ; \n\nParticiperez à des analyses prédictives permettant de définir des axes d'amélioration de nos processus et d'optimisation de nos résultats, notamment sur le churn de la flotte ; \n\nInterviendrez sur des missions transverses afin de délivrer des insights pertinents pour les différents services (commerce / expérience client.). \n\nvous serez amené à développer vos compétences sur les outils de reporting (Tableau BI) et CRM (Salesforce).\nProfil recherché : \n\nDiplômé d'un BAC+5 type top école de commerce ou école d'ingénieur, vous justifiez d'une première expérience (CDI/CDD ou stage) sur un poste à forte dimension analytique (type : conseil en stratégie / Audit / Banque / Fond d'investissement);\n\n * Forte capacité d'analyse et de synthèse \n\n * Goût prononcé pour les données chiffrées \n\n * Maitrise d'Excel et de préférence d'un outil de Business Intelligence tel que Tableau BI, Power BI, .\n\n * Bon niveau d'anglais pour interagir avec les filiales du Groupe \n\n * Rigueur et organisation vous permettront de travailler en transverse sur plusieurs projets"
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2830903",
+    "title": "Consultant Expérimenté & Manager en « Data Analyst & BI » - Secteur Financier, H/F",
+    "company": "EY ",
+    "location": "75",
+    "remote": null,
+    "publication_date": "2024-08-24",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": null,
+        "Experience": "Expérience exigée de 3 An(s)",
+        "Level": null
+    },
+    "company_data": {
+        "sector": null,
+        "company_size": null,
+        "turnover_in_millions": null
+    },
+    "description": "·        Conception, développement et implémentation d'outils ou de solutions de reporting, d'aide à la décision, de visualisations de données dans les domaines du customer, du digital, de la conformité.\n·       Conception et mise en œuvre de solutions de valorisation de la donnée depuis l'idéation jusqu'à l'industrialisation en passant par les études de faisabilité, la préparation des données et la modélisation\n·       Définition de stratégie data des clients (cas d'usage, trajectoires, roadmap.)\n·       Conception et mise en place de solutions d'analyse statistique.\n·       Cartographie des processus de transformation de données\n·       Etudes et choix de solutions et de plateformes big data, analytics.\n·       Veille sur l'évolution des méthodes, des pratiques, des outils.\n \nVous pourrez continuer de développer des compétences dans les domaines de votre choix grâce à l'approche de formation EY."
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2827027",
+    "title": "Data Analyst H/F",
+    "company": null,
+    "location": "PORCIEU AMBLAGNIEU 38",
+    "remote": null,
+    "publication_date": "2024-08-24",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": null,
+        "Experience": "Expérience exigée",
+        "Level": null
+    },
+    "company_data": {
+        "sector": null,
+        "company_size": null,
+        "turnover_in_millions": null
+    },
+    "description": "· Comprendre, récupérer et nettoyer les données adaptées aux usages.\n· Produire des indicateurs statistiques récurrents ou spécifiques (indicateurs de pilotage de l'activité, indicateurs de qualification et de mise en exergue de l'utilité des services.).\n· Produire et proposer des reportings pour valoriser l'activité.\n· Être force de proposition sur la valorisation des données.\n· Développer des indicateurs et tableaux de bord de pilotage, mettre à jour, entretenir et faire évoluer.\n· Mettre en place et utiliser des outils de veille sur la qualité des données.\n· Réaliser des analyses sur des populations ou sujets ciblés.\nS'interfacer avec les différents pôles pour comprendre, proposer et adapter les indicateurs de suivi.\nProfil souhaité\n2 ans minimum d'expérience en valorisation de service ou parcours constituerait un réel atout.\nVous maitrisez le langage SQL(MSSQL/MySQL), Excel niveau avancé/expert (formules complexes, TCD avancés, Power Query, Power Pivot) et langages M, DAX et VBA\nCe poste est idéal pour vous si vous:\n* Aimez travailler avec des données et les valoriser\n* Possédez de solides compétences en analyse statistique et en visualisation de données.\n* Avez d'excellentes compétences en communication écrite et orale.\n* Êtes capable de travailler de manière autonome et en équipe.\nPourquoi nous rejoindre\nDomplus Groupe et ses filiales placent l'humain au cœur de ses préoccupations. Ses valeurs telles que le l'engagement, le respect et la solidarité sont au centre de sa culture d'entreprise. Vous aurez donc l'opportunité de travailler dans un environnement de travail bienveillant et stimulant. Si vous êtes à la recherche d'un emploi valorisant, où vous pourrez faire la différence dans la vie des autres, alors BAZILE peut être une excellente opportunité pour vous.\nVoici quelques raisons de nous rejoindre :\n- Un sens du travail : Vous aurez la satisfaction de savoir que vous contribuez à améliorer la vie des personnes fragilisées et de leurs aidants.\n- Un environnement de travail positif : nous valorisons nos collaborateurs et mettons tout en œuvre pour créer un environnement de travail positif et stimulant.\n- Des opportunités d'évolution : nous encourageons le développement professionnel de nos collaborateurs et la mobilité interne.\n- Un bon équilibre entre vie professionnelle et vie personnelle : nous proposons du télétravail (2 jours par semaine) et des aménagements de travail pour les salariés aidants ou bien lors de situation de parcours de vie.\nType d'emploi : Temps plein, CDI\nRémunération : à partir de 30 000,00€ par an\nAvantages :\n* Intéressement et participation\n* Prise en charge du transport quotidien\n* RTT\n* Travail à domicile occasionnel\nHoraires :\n* Travail en journée\nRémunération supplémentaire :\n* Primes\nLieu du poste : Télétravail hybride (38320 Eybens)"
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2824386",
+    "title": "Data Analyst H/F",
+    "company": null,
+    "location": "PARIS (DEPT.) 75",
+    "remote": null,
+    "publication_date": "2024-08-24",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": null,
+        "Experience": "Débutant accepté",
+        "Level": null
+    },
+    "company_data": {
+        "sector": null,
+        "company_size": null,
+        "turnover_in_millions": null
+    },
+    "description": "En tant que Data Analyst au sein de notre entreprise, vous jouerez un rôle crucial dans l'optimisation de nos opérations. Votre mission principale sera d'analyser les données issues de nos opérateurs pour identifier des leviers d'amélioration et de développer des modèles de prédiction afin de rendre notre service plus performant et efficient.\nMissions principales :\nAnalyse de données opérationnelles :\n* Collecter, nettoyer, et analyser les données provenant de diverses sources (opérateurs, logistique, clients, etc.).\n* Identifier les tendances, anomalies, et opportunités d'amélioration à travers des analyses quantitatives.\n* Proposer des recommandations basées sur les données pour optimiser les processus opérationnels.\nDéveloppement de modèles prédictifs : \n* Développer et implémenter des modèles de prédiction pour anticiper les besoins opérationnels (ex : prévision de la demande, optimisation des routes de livraison, etc.).\n* Collaborer avec les équipes techniques et métiers pour intégrer ces modèles dans les processus existants.\nReporting et visualisation des données :\n* Créer des rapports et des tableaux de bord dynamiques pour suivre les performances des opérations en temps réel.\n* Présenter les résultats des analyses et les recommandations à la direction et aux équipes opérationnelles.\nCollaboration interservices : \n* Travailler étroitement avec les équipes de logistique, d'approvisionnement, et de service client pour comprendre leurs besoins et traduire les problématiques business en solutions analytiques.\n* Participer activement aux réunions stratégiques pour apporter une perspective basée sur les données.\nCompétences requises :\nTechniques :\n* Excellente maîtrise de **Python** pour l'analyse des données et le développement de modèles.\n* Solides compétences en **SQL** pour la gestion et l'extraction des données.\n* Expérience avec **BigQuery** pour manipuler de grands ensembles de données.\n* Maîtrise de **Looker** pour la création de rapports et la visualisation des données.\nAnalytique :\n* Forte capacité à interpréter les données et à en tirer des insights actionnables.\n* Compétences en modélisation statistique et en machine learning pour développer des modèles prédictifs.\nCommunication :\n* Capacité à expliquer des concepts techniques complexes à des non-spécialistes.\n* Aptitude à présenter les résultats de manière claire et convaincante.\nOrganisation et gestion du temps :\n* Autonomie dans la gestion des projets et respect des deadlines.\n* Capacité à travailler sur plusieurs projets simultanément tout en maintenant une grande attention aux détails.\nProfil recherché :\n* Diplôme en Statistiques, Mathématiques, Informatique, ou domaine connexe.\n* Expérience en tant que Data Analyst, idéalement dans le secteur de la logistique ou de la livraison.\n* Une expérience dans une startup ou dans un environnement de travail dynamique est un plus.\nType d'emploi : CDI, CDD\nStatut : Cadre\nRémunération : 42 000,00€ à 45 000,00€ par an\nAvantages :\n* Prise en charge du transport quotidien\n* RTT\n* Travail à domicile occasionnel\nHoraires :\n* Du lundi au vendredi\n* Travail en journée\nFormation:\n* Bac +5 (Master / MBA) (Optionnel)\nLieu du poste : Télétravail hybride (75010 Paris 10e)\nDate de début prévue : 02/09/2024"
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2820797",
+    "title": "Data analyst (H/F)",
+    "company": null,
+    "location": "LILLE 59",
+    "remote": null,
+    "publication_date": "2024-08-24",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": null,
+        "Experience": "Débutant accepté",
+        "Level": null
+    },
+    "company_data": {
+        "sector": null,
+        "company_size": "Le groupe SII est une société d'ingénierie et de conseil en technologies (ICT) et une entreprise de services numériques (ESN) créée en 1979 par Bernard HUVÉ, ingénieur de formation. Le groupe SII fait travailler plus de 16 000 personnes dans 21 pays au travers de 100 implantations de proximité et recrute chaque année en moyenne plus de 4 000 consultants et ingénieurs qui agissent au quotidien pour intégrer et développer de nouvelles technologies et faire évoluer les systèmes d...",
+        "turnover_in_millions": null
+    },
+    "description": "Le groupe SII est une société dingénierie et de conseil en technologies (ICT) et une entreprise de services numériques (ESN) créée en 1979 par Bernard HUVÉ, ingénieur de formation. Le groupe SII fait travailler plus de 16 000 personnes dans 21 pays au travers de 100 implantations de proximité et recrute chaque année en moyenne plus de 4 000 consultants et ingénieurs qui agissent au quotidien pour intégrer et développer de nouvelles technologies et faire évoluer les systèmes dinformation. Toujours soucieux dapporter des solutions à valeur ajoutée et innovantes, SII intervient auprès de grands groupes dans des secteurs dactivité variés tels que lAéronautique, le Spatial et la Défense, la Banque-Assurance, les Télécommunications, lEnergie, le Retail, les Transports et lIndustrie. Notre mission : faire évoluer les systèmes dinformation et contribuer à la conception et au développement des futurs produits ou services de nos clients ! Chez SII, la proximité du management est un enjeu interne important. Et ça, nous lavons bien compris. Chaque agence SII gère ses collaborateurs avec une grande autonomie ce qui permet un meilleur suivi et des cycles hiérarchiques courts. Cela correspond à notre façon de travailler, en méthode Agile : des cycles courts, des réponses rapides, un accès au management simplifié et une bonne réactivité. Labellisé EcoVadis Gold, Great Place To Work pour la septième année consécutive et parmi le Palmarès Best Workplaces des entreprises de plus de 2500 salariés, le groupe SII se démarque par sa politique sociétale en faveur dun monde numérique et durable et par une culture dentreprise ancrée en faveur de la qualité de vie au travail et de linclusion. En tant que société à fortes valeurs humaines, nous sommes signataires de la Charte de la diversité, de la Charte dengagement LGBT+ avec lAssociation L'Autre Cercle et sommes une entreprise handi-accueillante. SII puise sa force dans les hommes et les femmes qui composent le Groupe. Nos collaborateurs sont des ingénieurs passionnés souvent porteurs didées novatrices. Lintrapreneuriat est une valeur forte chez SII. Il insuffle de nombreuses initiatives professionnelles et personnelles. Quel que soit le background de nos collaborateurs, tous sont animés par la même soif de transmettre et dapprendre. Nos domaines dexpertise sont nombreux. Rejoignez-nous !"
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2814539",
+    "title": "Data Analyst H/F",
+    "company": "GROUPE LIBAUD ",
+    "location": "17",
+    "remote": null,
+    "publication_date": "2024-08-24",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": null,
+        "Experience": "Expérience exigée",
+        "Level": null
+    },
+    "company_data": {
+        "sector": "Fabrication d'éléments en béton pour la construction",
+        "company_size": "Le GROUPE LIBAUD (420 collaborateurs) est leader régional dans les activités de fabrication et de négoce de matériaux destinés au secteur des travaux publics. Ses dernières croissances externes lui permettent de couvrir désormais une zone géographique allant de Paris à Bayonne.",
+        "turnover_in_millions": null
+    },
+    "description": "POSTE : Data Analyst H/F\nDESCRIPTION : Rattaché hiérarchiquement au Directeur des Systèmes d'informations, au sein d'une équipe de 6 personnes, Le Data Analyst est responsable de l'analyse et de l'interprétation des données pour aider l'entreprise à prendre des décisions informées.\n\nIl/elle travaille avec des ensembles de données complexes pour extraire des informations pertinentes et créer des rapports compréhensibles.\n\nVous serez a même de :\n-  Concevoir et mettre en place une/des solution/s de BI permettant de consolider l'ensemble des informations nécessaires aux statistiques de l'entreprise\n-  Réaliser ou faire réaliser des applications et des intégrations d'applications entre les applications des SI Métiers et le BI\n-  Organiser la collecte des informations auprès des différentes sources de données de l'entreprise\n-  Apporter du support aux utilisateurs en réalisant les outils, requêtes ou en fournissant les données demandées.\n-  Rédiger et communiquer des procédures concernant les bonnes pratiques d'utilisation des outils déployés ou mis à disposition conformément aux processus de l'entreprise.\n-  Créer des rapports et des tableaux de bord visuels pour présenter les résultats de l'analyse de manière claire et compréhensible. Ces rapports peuvent inclure des graphiques, des diagrammes et des indicateurs de performance clés (KPI).\n-  Utiliser des techniques d'analyse prédictive pour anticiper les tendances futures et formuler des recommandations pour optimiser les stratégies commerciales et opérationnelles de l'entreprise.\n-  Rester à jour sur les dernières tendances, techniques et outils en matière d'analyse de données. Proposer des améliorations aux processus et aux méthodologies d'analyse existants pour augmenter l'efficacité et l'impact de l'analyse de données\nPROFIL : Issu d'une formation Bac +4/+5 en informatique, vous disposez d'expériences de mise en place, d'exploitation et maintenance de solutions de BI.\n\nLa connaissance d'outils Excel, PowerBi, langage de programmation, d'outils de statistiques (R, python), SQL est indispensable, la connaissance d'outils de BI, ETL est un plus.\n\nExcellente capacité à analyser et interpréter des données complexes, Solides compétences en résolution de problèmes et en pensée critique\n\nForce de proposition, pédagogue, curieux, à l'écoute et doté d'une aisance relationnelle, votre expertise dans l'analyse fonctionnelle, votre rigueur, votre organisation ainsi que votre réactivité seront de réels atouts pour mener à bien les missions.\n\nSi vous vous reconnaissez dans cette annonce et que vous êtes prêt à relever des nouveaux défis : n'hésitez pas à nous envoyer votre CV. Nous avons hâte de vous accueillir dans notre équipe !"
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2814342",
+    "title": "Alternant Bi - Data Analyst H/F",
+    "company": "TSE ENERGY ",
+    "location": "21",
+    "remote": null,
+    "publication_date": "2024-08-24",
+    "details": {
+        "TypeContract": "CDD",
+        "Salary": "Salaire brut : Mensuel de 477,07 Euros à 1766,92 Euros",
+        "Experience": "Expérience exigée",
+        "Level": null
+    },
+    "company_data": {
+        "sector": "Activités des sièges sociaux",
+        "company_size": "Fondée en 2016, TSE est un acteur majeur dans la production et le développement de centrales photovoltaïques à travers tout le pays. Avec une équipe de 270 collaborateurs dévoués, notre objectif premier est de contribuer activement à la transition énergétique et écologique.\n\nLeader dans le domaine des solutions agrivoltaïques, notre portefeuille de projets totalisant 2,5 GW repose sur des produits à la fois innovants et performants. Nos 12 agences régionales assurent ...",
+        "turnover_in_millions": null
+    },
+    "description": "POSTE : Alternant Bi - Data Analyst H/F\nDESCRIPTION : Vos Activités & Responsabilités\n\nAu sein de la DSI, vous interviendrez en lien avec notre chef de projet Digitalisation.\n\nVotre objectif :  accompagner les équipes métiers à la prise de décision et développer l'esprit data driven au sein de l'entreprise.\n\nA ce titre, vous serez amenés à collecter, agréger, qualifier et mettre à disposition des jeux de données pour alimenter des tableaux de bords ou encore pour exploiter des informations de natures différentes.\n-  Analyse de données\n-  Traitement et préparation des données\n-  Création de nouveaux tableaux de bord\n-  Récolte des besoins exprimés par le métier\n-  Participation active à la formation des utilisateurs\nPROFIL : Votre Profil\n\nTitulaire d'un Bac +2, vous souhaitez préparer une Formation Bac +3 ou Bac +5\n\nVous êtes passionnés par la data et le traitement de données via le langage SQL ainsi que par la data visualisation.\n\nMéthodique et résolu, vous appréciez le défi de résoudre des problèmes complexes.\n\nVotre organisation, votre adaptabilité, votre flexibilité ainsi que votre capacité à collaborer et communiquer sont des atouts essentiels pour réussir cette mission.\n\nL'ensemble de nos postes sont ouverts aux personnes en situation de handicap."
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2806330",
+    "title": "Data Analyst H/F",
+    "company": "ABYLSEN ",
+    "location": "13",
+    "remote": null,
+    "publication_date": "2024-08-24",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": null,
+        "Experience": "Expérience exigée",
+        "Level": null
+    },
+    "company_data": {
+        "sector": "Ingénierie, études techniques",
+        "company_size": "QUI SOMMES NOUS ?\n\nDepuis plus de 15 ans, avec 2600 collaborateurs présents sur 42 implantations dans 7 pays, le groupe Abylsen se démarque en ouvrant ses expertises métiers à de nouveaux horizons, afin de créer de la valeur pour ses 650 clients, partout dans le monde.\n\nFort de ses 250 collaborateurs, ABYLSEN SUD (Agences Sophia Antipolis, Aix en Provence, Montpellier) accompagne ses clients dans les domaines Aéronautique & Défense - Informatique - Construction / B...",
+        "turnover_in_millions": null
+    },
+    "description": "POSTE : Data Analyst H/F\nDESCRIPTION : VOTRE ROLE CONSISTERA A :\n\nX Analyser la qualité des données des outils à l'aide de méthodes statistiques et d'approches analytiques.\n\nX Détecter les incohérences, erreurs et lacunes dans les données, et proposer des solutions au Product Owner de l'outil.\n\nX Travailler en étroite collaboration avec les équipes de développement pour optimiser la qualité des données et l'efficacité des outils.\n\nX Élaborer des rapports et des présentations pour partager les résultats de l'analyse avec le Product Owner et la Directrice de Programme.\n\nX Assurer des échanges réguliers avec l'équipe pour garantir la conformité des outils aux exigences réglementaires.\n\nCompétences/environnement techniques : Gestion de projets Métier-IT, Gestion de programme pluridisciplinaire\nPROFIL : Ce poste est fait pour vous si :\n\n-  Vous êtes de formation Bac +5 ou Ingénieur en informatique\n-  Vous avez au minimum 1 à 3 ans d'expérience sur un poste similaire\n\n-  Solide expérience en analyse de données et en statistiques.\n\n- Maîtrise des outils et des méthodes d'analyse de données.\n\n- Aptitude à collaborer en équipe et à transmettre clairement les résultats d'analyse.\n\n- Capacité à travailler de façon autonome avec rigueur.\n\nLES AVANTAGES\n\nOpportunités d'Évolution : Explorez de nouveaux horizons professionnels, votre carrière n'a pas de limites.\n\nFormation Continue : Notre plateforme 360learning vous offre des formations en ligne adaptées.\n\nEnvironnement Inclusif : Chez Abylsen, nous célébrons la diversité et l'inclusion.\n-  Statut contractuel : CDI\n-  11 jours de RTT, 25 jours de congés payés\n-  Comité d'entreprise\n-  Prise en charge des transports\n-  Accord de participation\n-  Prime vacances\n-  Action Logement (aide au déménagement, conseils immobiliers, etc.).\n\nLE PROCESSUS DE RECRUTEMENT\n\n1. Si votre profil nous intéresse, vous serez convié(e) à un entretien avec un(e) Talent Acquisition et un manager.\n\n2. Si votre candidature est retenue une rencontre sera organisée avec notre responsable du centre de service et les équipes technique.\n\n3. Prise de poste : Immédiatement dans l'idéal ou à définir.\n\nDans le cadre de l'égalité des chances, toutes nos offres d'emploi sont ouvertes aux personnes en situation de handicap."
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2805597",
+    "title": "Alternance- Data Analyst - Mba Expert Big Data H/F",
+    "company": "MYDIGITALSCHOOL ANGERS ",
+    "location": "35",
+    "remote": null,
+    "publication_date": "2024-08-24",
+    "details": {
+        "TypeContract": "CDD",
+        "Salary": null,
+        "Experience": "Débutant accepté",
+        "Level": null
+    },
+    "company_data": {
+        "sector": "Enseignement supérieur",
+        "company_size": "L'Ecole Supérieure des Pays de Loire, basée à Angers, est un établissement pionnier dans la formation des étudiants dans le numérique et digital. Avec plus de 30 ans d'expérience, nous nous engageons à préparer nos étudiants à relever les défis du monde digital en constante évolution. Actuellement, nous cherchons un profil junior pour nous accompagner dans notre engagement en faveur de l'innovation et de l'expérience utilisateur.",
+        "turnover_in_millions": null
+    },
+    "description": "POSTE : Alternance- Data Analyst - Mba Expert Big Data H/F\nDESCRIPTION : Groupe industriel, familial et indépendant. \nSes activités diversifiées (nutrition des sols, des plantes, des animaux, agroalimentaire, énergies renouvelables), centrées sur les besoins humains, montrent l'ouverture d'esprit d'un Groupe connecté aux enjeux d'avenir.  \n \nLa DSI recherche un/une : \n \nBI - Data Analyst F/H, en alternance de 2 ans  \n \nVos missions seront : \n \nDévelopper des solutions BI : \n \n-  Analyser et recueillir les besoins exprimés par les différents métiers et services du Groupe, en offrant des conseils adaptés. \n-  Concevoir et réaliser des solutions BI, en mettant l'accent sur la transformation, la modélisation et le design de rapports pertinents. \n-  Participer activement à la mise en oeuvre de projets BI/Reporting, en garantissant leur qualité et leur conformité aux attentes.\n\nMaintenir et faire évoluer les outils existants : \n \n-  Assurer la gestion des flux de données et leur modélisation pour une utilisation efficace dans nos systèmes. \n-  Fournir une assistance technique aux utilisateurs métier sur les solutions BI, en les accompagnant dans leur utilisation quotidienne. \n-  Adapter les reportings existants en cas de modifications de la structure des données provenant des différentes applications, garantissant ainsi la pertinence et l'exactitude des informations fournies. \n-  Répondre aux demandes d'évolutions sur des solutions BI existantes.\nPROFIL : De formation Bac +3. \n \nVous avez la capacité à travailler en équipe et à communiquer efficacement avec des interlocuteurs variés. \n \nAutonomie, rigueur et esprit d'initiative sont des qualités essentielles pour réussir dans ce poste. \n \nCompétences souhaitées : \n \n-  Outils BI : Power BI principalement, connaissance de SSIS est un plus \n-  Langage de prog. : SQL, Python \n-  Compréhension de la modélisation de données \n-  Capacité d'analyse et une pointe de créativité pour créer des solutions adaptées \n-  Avoir une bonne vision des architectures SI"
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2805429",
+    "title": "Alternant Data Analyst - Scientist H/F",
+    "company": "GROUPE BEAUMANOIR ",
+    "location": "35",
+    "remote": null,
+    "publication_date": "2024-08-24",
+    "details": {
+        "TypeContract": "CDD",
+        "Salary": "Salaire brut : Mensuel de 477,07 Euros à 1766,92 Euros",
+        "Experience": "Expérience exigée",
+        "Level": null
+    },
+    "company_data": {
+        "sector": "Activités des sociétés holding",
+        "company_size": "Avec ses marques de prêt-à-porter (Cache-Cache, Bréal, Bonobo, La Halle, Vib's, Morgan, Caroll), son pôle lifestyle (Sarenza.com, Quiksilver, Roxy, Billabong, DC Shoes, Element, RVCA et VonZipper), sa filiale logistique C-Log, 2,3 Milliards de CA à fin février 2023, 15000 collaborateurs et 2700 points de vente dans le monde, le Groupe Beaumanoir poursuit son développement et recrute pour son siège.",
+        "turnover_in_millions": null
+    },
+    "description": "POSTE : Alternant Data Analyst - Scientist H/F\nDESCRIPTION : Le Groupe Beaumanoir cherche de nouveaux talents capables de tirer toute la quintessence des données générées par les millions de clients de ses marques de prêt-à-porter.\n\nAu sein de l'équipe DATA du Groupe, vous valorisez l'ensemble des données clients, magasins, produits et intervenez sur différents projets de modélisation de données, analyses descriptives et prédictives en fonction de cas d'usages Business.\nVous participez à des sujets tels que la reconnaissance d'image, la prévision de vente, le scoring d'appétence et développez la connaissance client à des fins de performance commerciale.\n\nIl s'agit d'une opportunité en alternance à pourvoir immédiatement au sein de notre belle ville Malouine !\nPROFIL : Vous suivez un Master en statistique, vous disposez d'une expérience significative en Data Science/Modélisation.\nVous avez de bonnes techniques statistiques et informatiques nécessaires au datamining et au machine Learning.\nVous êtes à l'aise avec les langages SQL, R et Python.\nVous êtes passioné(e) par la Data. Rigoureux(euse) autonome et dynamique, avec un vrai sens du collectif.\nVous avez l'esprit de service, la volonté d'apprendre et d'être un acteur du développement de notre Groupe et de ses marques de prêt-à-porter.\n\nCe que nous pouvons vous offrir ?\n-  Intégrer un groupe familial fondé à Saint-Malo en 1981,\n-  Parce qu'au-delà d'un diplôme c'est aussi une personnalité que nous recrutons, nous sommes animés par 7 valeurs dont le progrès, la proximité et la réactivité,\n-  Contribuer à développer nos actions de RSE,\n-  Profiter d'un parcours d'intégration complet pour avoir une vision 360° du Groupe,\n-  Votre parrain/marraine facilitera votre intégration au sein de la Tribu,\n-  Parce qu'il n'y a pas que la mode qui évolue, nous offrons des possibilités de mobilité interne pour construire votre carrière,\n-  Autres avantages : association sportive interne, avantages Comité d'Entreprise, carte tickets restaurants, réduction au personnel, dispositif \"1% logement\", système de rémunération variable, Blabla Car Daily etc."
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2804830",
+    "title": "Data Quality Analyst H/F",
+    "company": "BNP PARIBAS ",
+    "location": "92",
+    "remote": null,
+    "publication_date": "2024-08-24",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": null,
+        "Experience": "Expérience exigée",
+        "Level": null
+    },
+    "company_data": {
+        "sector": "Autres intermédiations monétaires",
+        "company_size": "BNP Paribas, acteur clé dans la finance mondiale, promeut une économie durable en conseillant et finançant ses clients de façon éthique. Nous innovons avec des solutions financières durables pour un impact positif sur notre environnement.",
+        "turnover_in_millions": null
+    },
+    "description": "POSTE : Data Quality Analyst H/F\nDESCRIPTION : Data Quality Analyst (H/F)\nConcrètement votre quotidien ?\nAu sein de l'entité BNP Paribas Personal Finance (« PF »), l'équipe JV Risk & Finance Credit Risk Data, créée en avril 2022 dans le cadre du programme de data-transformation « FRIDAY », recherche un Data Analyst expérimenté pour accompagner le développement à venir de ses activités.\nEn effet, au-delà des activités historiques relatives à la fiabilisation et l'optimisation des RWA (et le passage à Bâle IV), l'équipe va devoir assurer la mise en place des principes FRIDAY relatifs à la qualité des données sur le périmètre RISK et Finance à travers l'ensemble des entités PF :\n(i) Fiabilisation du calcul des RWA : Cette activité consiste à consolider chaque trimestre les données risques d'une dizaine d'entités PF pour les envoyer au Groupe afin de calculer les exigences en fonds propres pour PF. A ce titre, vous devrez :\n- Participer au bon déroulement des travaux de clôture trimestrielle (organisation, analyse et contrôles, etc.) et s'assurer de la bonne prise en compte des opérations d'optimisation des RWA (titrisations, assurances crédit) ;\n- Assurer et/ou superviser les divers travaux d'inter-arrêté en lien avec le Groupe (reportings réglementaires, projet Bâle IV, etc.) ;\n- Plus ponctuellement se positionner sur le traitement réglementaire de certaines expositions afin d'optimiser le calcul en fonds propres dans le respect des normes afin d'accompagner les différentes lignes de métier PF.\n(ii) Qualité des données : le programme FRIDAY prévoit la mise en place d'un nouvel « operating model » au sein de RISK et de Finance (en Central et à travers l'ensemble des entités) afin d'optimiser la remontée de données granulaires et leurs usages dans les divers reportings existants et à venir. L'équipe joue un rôle central dans la mise en qualité de ces données, et dans l'accompagnement des entités dans cette transformation. Dans ce cadre, vous devrez :\n- Participer à la définition des besoins en termes de données et de contrôles pour les futurs reportings qui seront progressivement couverts par le programme FRIDAY (IFRS9 Forward, enjeu ESG, Coût du risque, etc.),\n- Accompagner les entités dans la mise en oeuvre des définitions et contrôles en local, et suivre leur bonne implémentation,\n- Répondre aux diverses demandes du Data Office Risk-Finance sur l'état de la qualité des données et les options normatives prises par PF.\nVos missions quotidiennes impliquent notamment :\n- De l'analyse des données en provenance des entités, envoyées au Groupe pour les différents réglementaires communs entre Finance et Risk (Capital, IFRS9 Forward, etc.)\n- La compréhension des définitions demandées par le régulateur et leur déclinaison au sein des entités PF (adaptation des définitions, mise en place de règles de contrôle et d'éventuels « shortcuts », etc.),\n- Echanger régulièrement avec nos interlocuteurs dans les entités, pour comprendre leurs processus et leurs spécificités afin de challenger leur stratégie data,\n- Contribuer aux divers comités Data (QARC) et debriefings d'arrêté.\nLes missions c'est important, l'équipe et l'environnement aussi !\nVous aurez l'opportunité de travailler en lien étroit avec départements RISK, Finance, Data, IT tant au niveau de PF Central que des entités locales en France et à l'étranger.\nCréée en avril 2022, l'équipe JV Risk & Fin. Credit Risk Data est au coeur de la transformation data des fonctions PF RISK et Finance auxquelles elle est doublement rattachée. Il s'agit d'une équipe récente, constituée de 4 personnes, à la recherche de profils agiles et variés pour répondre aux différents enjeux réglementaires et Data. L'équipe est déjà constituée de profils divers avec des processus bien documentés permettant une intégration facile et une bonne compréhension des sujets.\nVous serez basé à Mérignac ou Levallois Perret en flex office, avec deux journées de télétravail par semaine\nVos perspectives d'évolution\nCe poste vous donnera accès à un large panel de tâches incluant de l'analyse de données (EAD, RWA, paramètres de risques), de la compréhension des textes/exigences réglementaires, de la réflexion sur la transformation data et les nouveaux modes de travail digitaux.\nLes contacts rapprochés, en central chez PF avec les équipes RISK, Finance, Data, Business, avec les entités locales PF, ou encore avec les équipes du Groupe vous permettront de renforcer/construire votre réseau de façon large et de vous offrir de réelles opportunités de développement professionnel.\nLes avantages à nous rejoindre :\nUn package rémunération et des avantages : - Un fixe annuel brut et un variable individuel et/ou collectif (défini en fonction de"
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2803221",
+    "title": "Data Analyst H/F",
+    "company": "PROXIAD ",
+    "location": "69",
+    "remote": null,
+    "publication_date": "2024-08-24",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": "Salaire brut : Annuel de 25000,00 Euros à 45000,00 Euros",
+        "Experience": "Expérience exigée",
+        "Level": null
+    },
+    "company_data": {
+        "sector": "Conseil en systèmes et logiciels informatiques",
+        "company_size": "Pourquoi nous rejoindre ?\n\nL'innovation, la qualité et l'agilité sont au coeur du développement de nos activités IT, encadrées et assurées par nos 850 collaborateurs et collaboratrices français(es) et bulgares !\n\nNotre savoir-faire ? Conseil, Développement, Analyse et Expertise Informatique pour accompagner nos clients dans l'évolution et la transformation de leur SI.\n\nEn plus de notre maîtrise des technologies PHP, JavaEE et.Net qui sont des composant...",
+        "turnover_in_millions": null
+    },
+    "description": "POSTE : Data Analyst H/F\nDESCRIPTION : Dans le cadre de notre développement, nous recrutons pour intégrer notre équipe située sur Lyon (69) un Data Analyst Confirmé H/F)\n\nVos missions, si vous les acceptez seront de :\n- Suivre la récupération et la qualité des données de consommation utilisées dans la facturation et la mise en oeuvre des régularisations (courbes de charge et index).\n- Définir et construire les outils de reportings nécessaires au suivi quotidien de la qualité des courbes de charge, particulièrement les courbes de charge utilisées dans les process de facturation.\n- Définir et construire les outils permettant de récupérer les données de consommation réalisées pour alimenter les calculs des régularisations annuelles sur des périmètres de sites profilés.\n- Comprendre, cataloguer l'origine des problèmes de récupération des données de consommation (courbe de charge et index) et coordonner leur résolution ponctuelle et structurelle.\n- Structurer et améliorer les processus de suivi et de résolution.\n- Fournir un appui analytique à la conduite d'exploration et à l'analyse complexe de données.\n- Contribuer aux projets nécessaires au bon déroulement et à l'amélioration de l'activité.\n- Contribuer à la définition et l'amélioration des process de facturation des offres indexés Bloc+Spot, 100% Spot et BSMA.\n- Participer aux projets d'automatisation des outils de traitement des données de consommation et participer aux phases de recette lors de livraison des outils.\n\nCompétences Techniques :\n- Maîtrise SQL-Databricks, PowerBI et Excel notamment sur les fonctions avancées.\n- Des compétences en programmation (Python) seraient un plus.\n- Des connaissances sur la fourniture d'énergie et du fonctionnement des marchés de l'électricité/gaz seraient un plus.\n-\nPROFIL : Le profil que nous recherchons :\n\nDe formation informatique avec minimum 4 ans d'expérience en tant que Data Analyst Confirmé.\n\nVous avez une expérience significative dans la gestion des données.\n\nVous êtes rigoureux, organisé, pragmatique et autonome.\n\nVous faites preuve d'un bon esprit critique. Vous présentez de bonnes capacités d'analyse et de synthèse.\n\nVous avez le goût du travail en équipe et avez la capacité à vous coordonner avec des interlocuteurs aux profils variés.\n\nVous aimez l'opérationnel et savez faire preuve d'agilité et de transparence.\n\nVous vous reconnaissez dans cette description ? Echangeons !\n\nPrise de fonction : A définir selon disponibilité\n\nSalaire : Selon profil"
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2802169",
+    "title": "Data Analyst en Alternance Bac +3 - 4 H/F",
+    "company": "YUTOPIA META CAMPUS ",
+    "location": "94",
+    "remote": null,
+    "publication_date": "2024-08-24",
+    "details": {
+        "TypeContract": "CDD",
+        "Salary": "Salaire brut : Mensuel de 471,74 Euros à 1747,20 Euros",
+        "Experience": "Expérience exigée",
+        "Level": null
+    },
+    "company_data": {
+        "sector": null,
+        "company_size": null,
+        "turnover_in_millions": null
+    },
+    "description": "POSTE : Data Analyst en Alternance Bac +3 - 4 H/F\nDESCRIPTION : Toi qui cherches une alternance en tant que data analyst, cette annonce est faite pour toi !\n\nYutopia Meta Campus Paris recrute pour un de ses partenaires dans l'univers de la Tech & du Numérique un(e) Data Analyst.\n\nYutopia ? Comment ? Tu ne connais pas?!\n\nC'est juste LA formation premium qui s'assure de ton employabilité !\n\nC'est l'école qui s'est donnée comme promesse et mission de t'apporter une formation en alternance d'excellence dans le domaine et un emploi à la suite de ta formation.\n\nConcernant notre alternance, si tu es titulaire d'un Bac +3 et que tu souhaites poursuivre tes études dans un domaine prometteur pour ton avenir, ce poste est fait pour toi !\n\nLa formation débutera en Octobre 2024 avec un rythme d'alternance de 3 semaines en entreprise et 1 semaine en cours.\n\nTes missions si tu l'acceptes :\n-  Identifier et collecter des ensembles de données pertinents pour les projets en cours.\n-  Effectuer une analyse exploratoire des données pour comprendre les tendances, les corrélations et les structures sous-jacentes.\n-  Utiliser des outils statistiques et de visualisation pour présenter les résultats de manière claire et compréhensible.\n-  Proposer des améliorations ou des ajustements aux processus existants\n\nFamiliariser avec un environnement technique riche, ton adaptabilité sera un plus pour réussir dans ce poste.\n\nLe poste sera évolutif en fonction de tes capacités.\n\nInformations complémentaires :\n\nRémunération : selon ton talent et ton expérience\n\nNote : On accepte les candidatures de toutes les personnes formidables, peu importe leur genre.\nPROFIL :"
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/179BBZR",
+    "title": "EXPERT DATA C# ENVIRONNEMENT AZURE (H/F)",
+    "company": "LYNX RH SERVICES ",
+    "location": "59",
+    "remote": null,
+    "publication_date": "2024-08-05",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": "Salaire brut : Annuel de 35000.0 Euros à 45000.0 Euros sur 12.0 mois",
+        "Experience": "Débutant accepté",
+        "Level": null
+    },
+    "company_data": {
+        "sector": "Activités des agences de travail temporaire",
+        "company_size": "0 salarié (n'ayant pas d'effectif au 31/12 mais ayant employé des salariés au cours de l'année de référence)",
+        "turnover_in_millions": null
+    },
+    "description": "Dans le cadre de son développement constant, nous recherchons pour notre client,\n\n\n\n\nVos missions:\nVos missions\nAdministrer le middleware 100% C# /.NET\n- Piloter et maintenir les modèles de données des différentes bases de données : MongoDb - SqlServer.\n- En relation avec notre prestataire en charge de la supervision de l'infrastructure Azure :\no Surveiller et optimiser la performance, la disponibilité et la sécurité sur Azure.\no Piloter la scalabilité de la solution sur l'architecture initiale et sur la croissance à venir\no Résoudre les problèmes et Collaborer avec les équipes de développement pour intégrer les meilleures pratiques de CI/CD.\no Automatiser les processus et mettre en place des stratégies de sauvegarde et de gestion des coûts\no Effectuer des audits et rester à jour sur les technologies cloud et sécurité\no Optimiser les coûts et les performances des servic  Développeur C#.Net, vous concevez des applications sur la plateforme développée par Microsoft.\n- Vous participez au développement du middleware mis à dispositions des développeur Gameplay pour l'accès aux données et à l'infrastructure Azure.\n- Vous contribuez à l'optimisation de l'infrastructure informatique existante en assurant une intégration transparente, sécurisée et efficace.\n- Vous participez au déploiement et à la maintenance des services Azure, la résolution de problème et l'automatisation des processus, avec un accent sur la sécurité et la collaboration en équipe.\nRémunération 35KEUR à 45KEUR\n\n\nOutils : Git/GitFlow, Visual Studio/Visual Code, Azure DevOps GIT, Docker, Kubernetes, services Azure (AKS, ACR, ACI, KeyVault, Storage Account, AD), framework .net, Terraform et Docker\n- Langage de programmation orienté objet : C# ou Python\n- Méthodologie : Agile, TDD\n- L'IDE Microsoft Visual Studio\n- Gitlab, Github et deploiement CI/CD\n- Les technologies web (HTML, CSS, JS Jquery, etc..)\n- Base de données : MongoDb - SqlServer\n- Autonome\n- Bon esprit d'équipe"
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/178XFVZ",
+    "title": "Chargé(e) d'études et Data (H/F)",
+    "company": "CCI DE MAINE-ET-LOIRE ",
+    "location": "49",
+    "remote": null,
+    "publication_date": "2024-08-01",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": "Salaire brut : salaire à négocier",
+        "Experience": "2 An(s)",
+        "Level": null
+    },
+    "company_data": {
+        "sector": "Activités des organisations patronales et consulaires",
+        "company_size": "50 à 99 salariés",
+        "turnover_in_millions": null
+    },
+    "description": "La CCI de Maine-et-Loire est l'interlocutrice privilégiée de 42 000 entreprises de l'industrie, du commerce et des services. De la création à la transmission, nous les accompagnons à chaque étape de leur développement.\nNous formons leurs collaborateurs actuels et futurs dans l'un de nos 3 établissements à Angers, Cholet et Saumur. \n\nAu sein de la Direction Relations Institutionnelles Etudes et Projets, nous réalisons des études et observatoires économiques pour des clients internes et pour le compte de clients externes, collectivités et entreprises, participant ainsi au positionnement politique de la CCI de Maine-et-Loire.\n\nFiers de notre engagement en matière de responsabilité sociétale (RSE), nous sommes labélisés Lucie.\n\n\nVOS MISSIONS PRINCIPALES\n\nVous aurez pour mission principale de concevoir, réaliser et contribuer aux études, enquêtes, observatoires et analyses territoriales dans une approche transversale et collaborative. Prenant appui sur votre maitrise de la gestion de la data, vous serez le référent de la qualité, de la fiabilité et de la cartographie des données.\n\nPour ce faire, vous serez notamment amené(e) à :\n- Elaborer les cahiers des charges en réponse à la demande du client,\n- Mettre en perspective les éléments significatifs et formuler des scénarii, hypothèses, propositions, \n- Présenter les résultats des analyses grâce à des outils de data visualisation : enquêtes de conjoncture, baromètres divers dont les baromètres formation et les restituer auprès de différents publics (collectivités, entreprises, partenaires institutionnels),\n- Traiter des données géographiques et produire des analyses cartographiques, \n- Extraire et structurer les données nécessaires à l'analyse en exploitant les bases de données existantes, collectées ou à intégrer (open data) et mettre en place des outils d'observation (méthodologie, tableaux de bord, indicateurs.), \n- Effectuer des repérages terrain,\n- Gérer et développer sous SIG un observatoire du commerce,     \nEt selon votre profil, vous pourrez rechercher et expérimenter de nouvelles méthodes de modélisation et d'analyse des données en faisant appel à l'intelligence artificielle.\n\nVOTRE PROFIL\n\n\nVous avez le goût du travail en équipe et en mode projet et l'envie de prendre part à l'ensemble de la chaîne de valeur des études depuis leur cadrage jusqu'à leur restitution ? Rejoignez-nous !\n\nDe formation supérieure (Master en géographie/aménagement du territoire, ingénierie économique, .), vous avez au moins 3 ans d'expérience au cours de laquelle vous avez acquis la maîtrise SIG (idéalement QGIS), de la gestion de la donnée et des études. Vous êtes force de proposition et vos qualités rédactionnelles, de présentation à l'oral et de synthèse sont reconnues."
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/178WSDM",
+    "title": "CHEF DE PROJET DATA (H/F)",
+    "company": "SHIFT CONSULTING ",
+    "location": "69",
+    "remote": null,
+    "publication_date": "2024-08-01",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": "Salaire brut : Annuel de 40000.0 Euros à 50000.0 Euros sur 12.0 mois",
+        "Experience": "5 An(s)",
+        "Level": null
+    },
+    "company_data": {
+        "sector": "Conseil en systèmes et logiciels informatiques",
+        "company_size": "100 à 199 salariés",
+        "turnover_in_millions": null
+    },
+    "description": "Pour savoir qui nous recherchons, il faut savoir ce qui nous anime ! \n\nNotre motivation repose sur nos valeurs : collaboration, transparence et solidarité. Chacun.e contribue de manière unique à notre collectif. Nos Shifter.euses sont passionné.es et en constante amélioration, avec des qualités d'engagement, de résilience, de créativité et de polyvalence. \n\nAlors tu veux en savoir plus ?  \n\nConcrètement, un.e Consultant.e Chef de projet DATA chez Shift c'est. : \n→ Ton rôle ?  \n\n- Gérer l'intégralité du projet (du recueil des besoins au closing) ; \n- Assurer la coordination et le pilotage du projet et des équipes ; \n- Respecter les impératifs : qualité, budget, performance et délais. \n\n→ Tes actions ? \n\n- Cadrage : définir le budget, les ressources nécessaires, le périmètre d'application, les différentes phases du projet ; \n- Analyse et diagnostic data : modélisation, cartographie, impacts ; \n- Gouvernance de la donnée : stratégie de la donnée, qualité des données ; \n- Démarrage : constituer les équipes projets, définir les délais, les tâches, tout en gardant un œil sur le périmètre et les objectifs ; \n- Exécution : suivre les sous-projets / séquences, paramétrage des solutions, \n- Contrôle : contrôler / superviser le temps, les KPIs et les ressources initialement alloué.es au projet pour statuer sur la continuité du projet ; \n- Clôture : s'assurer de l'adhésion de son rendu par les utilisateur.rices en mettant en exergue des REX et des livrables ; \n- Amélioration continue : maintien opérationnel, reporting, dashboards, data vizualisation ; \n- Customer satisfaction-oriented : s'assurer que le projet corresponde aux attentes du client. \n\n→ C'est aussi. \n\n- Renforcer l'appartenance Shift par l'implication en interne et le partage de connaissances, \n- Rassembler et fédérer autour de soi, \n- Transmettre les valeurs et contribuer à la visibilité de Shift, \n- Faire preuve de créativité et de prise d'initiative, \n- Remonter les informations utiles au développement de son client.\n\n\nTon profil correspond-il ? \n→ Profil :  \n\n- Minimum 5 ans d'expérience en gestion de projet et/ou consulting DATA, \n- Aisance opérationnelle en l'anglais écrit et oral (réunions, ateliers, entretiens.), \n- Capacités rédactionnelles et esprit de synthèse, \n- Connaissance d'outils de gestion de projet,  \n- Connaissance d'outils DATA / BI (Tableau, Qlik, Power BI...), \n- Connaissance de méthodologies (agiles, PMP, Prince2.). \n\n→ Savoir-être :  \n\n- Contribuer à une atmosphère de travail positive, \n- S'adapter aux nouveaux contextes, contraintes et interlocuteurs, \n- Analyser et observer pour détecter et anticiper les conflits / obstacles, \n- Bonne communication et bon relationnel. \n\n\"Tous nos postes sont ouverts, à compétences égales aux personnes en situation de handicap : Shift est engagé pour la diversité et l'inclusion.\"\n\n\nPour finir de te convaincre : \nNous nous préoccupons de ton équilibre vie pro/perso ! \n\n- Parcours Carrière construit par et pour des Consultant.es \n- Télétravail \n- Mutuelle prise en charge à 100% \n- Abonnements transports remboursés à 75% \n- Prime de mobilité douce (700€ /an) \n- Carte Swile (Carte titre-resto et plus encore !) d'une valeur de 9€/jour dont 5,40€ pris en charge \n- 9 jours de RTT (dont 1 journée de solidarité) \n\nAlors Shift est fait pour toi ?"
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/178RHFS",
+    "title": "DATA CONTROLLER (H/F)",
+    "company": "ODICEO ",
+    "location": "69",
+    "remote": null,
+    "publication_date": "2024-07-29",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": "Salaire brut : Annuel de 28000.0 Euros à 33000.0 Euros sur 12.0 mois",
+        "Experience": "1 An(s)",
+        "Level": null
+    },
+    "company_data": {
+        "sector": "Activités comptables",
+        "company_size": "50 à 99 salariés",
+        "turnover_in_millions": null
+    },
+    "description": "Nous recherchons un Data Controller talentueux et motivé pour rejoindre nos équipes.\nEn tant que véritable relais de communication entre le service comptable opérationnel et nos clients, vous avez pour missions principales :\n- Collecte et Intégration des Données :\no Collecte des informations périodiques dans les temps pour tenir les échéances et gestion des relances pour réceptionner les pièces manquantes.\no Gestion et suivi des flux à intégrer dans les outils comptables.\n- Contrôle et Amélioration Continue :\no Suivi de l'efficacité de la chaîne de traitement.\no Amélioration continue des paramétrages des outils numériques pour automatiser au maximum l'efficacité et la rapidité de production des informations.\n\nProfil recherché\nIssu(e) d'une formation de niveau Bac+2 à Bac+3 en gestion, informatique ou domaine similaire. Une formation comptable ainsi qu'une première expérience sur un poste de data controller serait un plus.\n- Aisance avec les outils informatiques et les logiciels\n- Rigueur, sens de l'organisation et du respect des process\n- Bonne communication et aptitude à travailler en équipe\n- Capacité à gérer les priorités et à respecter les délais\n- Esprit d'analyse et capacité à résoudre les problèmes\n\nCette création de poste vous offrira un rôle clé au sein de notre organisation ; vous serez un facilitateur au quotidien ; ce poste s'inscrit dans l'évolution de nos métiers en cabinets d'expertise comptable \nCe que nous offrons :\n- Un programme de mentorat pour vous accompagner dans vos premiers mois.\n- Un environnement de travail stimulant et bienveillant.\n- Des opportunités de formation et de développement professionnel.\n- Un package salarial attractif avec des avantages sociaux compétitifs.\n- La possibilité de travailler sur des projets variés et enrichissants.\n \nRejoignez-nous et participez à l'optimisation des outils de demain !\n\nNotre process de recrutement & d'intégration\n- 1 entretien visio \n- 1 entretien présentiel \n- 1 parcours d'Onboarding personnalisé et formations.\n________________________________________\nQui sommes-nous ?\nODICEO est un cabinet d'expertise comptable, d'audit et de conseil qui compte 100 collaborateurs et 10 associés. \nNotre ADN : cultivez et accompagnez l'esprit entrepreneurial !\nNous sommes convaincus que la réussite de l'entreprise ne peut se faire sans bien être, épanouissement personnel et professionnel pour nos collaborateurs. Nous sommes donc particulièrement attentifs à ce que chacun bénéficie d'une écoute et d'un accompagnement de qualité propices à son évolution.\nLe respect, la bienveillance et le professionnalisme sont les socles de nos relations.\nCes valeurs vous ressemblent et vous souhaitez vous investir au sein d'une équipe enthousiaste, alors n'hésitez pas et venez nous rejoindre."
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/176CSRL",
+    "title": "Technicien master data (H/F)",
+    "company": "AGC AUTOMOTIVE FRANCE ",
+    "location": "59",
+    "remote": null,
+    "publication_date": "2024-07-24",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": "Salaire brut : Salaire à étudié selon Profil",
+        "Experience": "2 An(s)",
+        "Level": null
+    },
+    "company_data": {
+        "sector": "Façonnage et transformation du verre plat",
+        "company_size": "250 à 499 salariés",
+        "turnover_in_millions": null
+    },
+    "description": "Le groupe AGC est un fournisseur mondial de verre plat, automobile et d'affichage (écrans), de produits chimiques et de composants et matériaux high-tech. Le siège social d'AGC Glass Europe est basé à Louvain-la-Neuve, Belgique. \nAGC produit du verre pour les secteurs de la construction (vitrage externe et verre décoratif d'intérieur) et de l'automobile. La division Automotive produit, transforme et distribue une large gamme de produits tels que des parebrises, vitres latérales, vitres arrières et toits panoramiques disposant de fonctionnalités avancées : parebrises chauffants, protection des UV et infrarouges, l'affichage tête haute (HUD).\nAGC Automotive Europe fournit à ses clients des solutions globales en termes de vitrage et technologies associées. Cela comprend la production et la vente de produits finis en verre aux constructeurs automobiles et ferroviaires ainsi qu'un panel complet de services sur le marché après-vente depuis la production jusqu'à la vente au détail.\n\nPour son secteur automobile et notamment pour son usine située à Aniche produisant des vitrages feuilletés à destination des constructeurs automobiles, AGC Automotive France recherche : 1 technicien Master Data (H/F)\n\nMISSIONS\nRattaché(e) au Responsable Logistique , vous serez en charge de : \n\n- Garantir la conformité des données informatiques permettant la gestion du système de production de l'usine d'Aniche\n\n- Définir une organisation permettant la collecte et la gestion des informations nécessaires à la mise à jour de la base de données.\n\n- Contrôler la qualité continue de la base de données par le biais de contrôles réguliers. Prendre les mesures pour combler les écarts constatés.\n\n- Apporter son support à l'ensemble des services et intervenir en tant qu'expert pour la résolution des problèmes relatifs à l'utilisation du système.\n\nPROFIL : \nVous maitrisez les outils informatiques (SAP) ainsi que le Pack Office ( Excel, Word..)\nVous êtes capable d'avoir un esprit critique et avez d'excellentes capacités de synthèse. \nVous disposez de connaissances techniques produits. \nVous savez travailler en autonomie.\nVous êtes un bon communicant ( travail en équipe, avec des clients et fournisseurs)\nUne bonne maitrise de l'anglais est un atout pour le poste."
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/179PFYC",
+    "title": "Alternant(e) - Analyste de Données et Support Opérationnel (H/F)",
+    "company": "SOC REUNIONNAISE DU RADIOTELEPHONE ",
+    "location": "974",
+    "remote": null,
+    "publication_date": "2024-08-19",
+    "details": {
+        "TypeContract": "CDD",
+        "Salary": "Salaire brut : Mensuel de 800.0 Euros sur 12.0 mois",
+        "Experience": "Débutant accepté",
+        "Level": "Bac+3, Bac+4 ou équivalents statistique"
+    },
+    "company_data": {
+        "sector": "Télécommunications sans fil",
+        "company_size": "100 à 199 salariés",
+        "turnover_in_millions": null
+    },
+    "description": "Vous êtes titulaires d'un bac+3 en mathématiques/statistiques et préparez un diplôme Bac+5. Vous avez un attrait particulier pour l'analyse des données et aimez travailler de manière transversale. A l'aise avec les chiffres, la maitrise d'Excel est votre principal atout.\n\nRejoignez SFR et démarrez votre avenir ! \n\nMissions :\n\nEn tant qu'Alternant(e) - Analyste de Données et Support Opérationnel, au sein de la direction Service Client et plus précisément du pôle Etude, vous serez chargé(e) d'épauler la personne en charge d'accompagner les responsables commerciaux, marketing et service clients ainsi que la direction sur des analyses diverses au quotidien.\n\nVotre rôle en action :\n\nRecueil des besoins et suivi des développements : \n\nVous participerez au recueil des demandes auprès des différents interlocuteurs\nVous retranscrirez les besoins au travers de cahiers des charges\nVous suivrez les développements et présenterez l'analyse des résultats. \n\nAnalyse et Gestion des Données : \n\nVous développerez la modélisation et l'enrichissement des bases de données.\nVous aurez la charge de la création de dashboards/Tableau de bord et de requêtes spécifiques.\nVous assurerez la mise à jour des reportings\nVous identifierez les informations pertinentes dans le cadre des études à mener pour offrir des analyses précises et utiles"
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/179LGJL",
+    "title": "Analyste de Développement Analytique (h/f)",
+    "company": "ADECCO FRANCE ",
+    "location": "04",
+    "remote": null,
+    "publication_date": "2024-08-13",
+    "details": {
+        "TypeContract": "Intérim",
+        "Salary": "Salaire brut : Mensuel de 2238.0 Euros à 2240.0 Euros sur 12.0 mois",
+        "Experience": "Débutant accepté",
+        "Level": null
+    },
+    "company_data": {
+        "sector": "Activités des agences de travail temporaire",
+        "company_size": "3 à 5 salariés",
+        "turnover_in_millions": null
+    },
+    "description": "Vous êtes à la recherche d'un poste d'Analyste de Développement Analytique H/F, alors lisez ce qui va suivre !\n\nNous recrutons pour notre client, leader mondial dans le domaine pharmaceutique : SANOFI.\n\n\nVos missions si vous les acceptez :\n\n - Respecter et appliquer la politique HSE dans le laboratoire\n - Respecter et appliquer les règles qualité (BPF) et les procédures associées\n - Assurer les contrôles analytiques en cours de synthèse décrits dans les dossiers de fabrication (analyses chromatographiques et analyses générales) dans le respect des délais fixés par le planning du pilote et sa hiérarchie)\n - Assurer le bon report des données brutes réalisées dans son travail notamment sur les dossiers de fabrication\n - Assurer les investigations analytiques complémentaires pour la connaissance des synthèses\n - Rendre compte aux responsables projet de l'avancement des travaux analytiques en concertation avec le responsable du laboratoire \n - Informer et participer à la rédaction des déviations analytiques / organisationnels observés dans son travail\n - Rédiger les PILCHROM et rapports type rapport de validation de nettoyage\n - Assurer l'entretien, la maintenance et la qualification des appareil du laboratoire\n - Participer à la rédaction des instructions relatives aux instruments de laboratoire\n - Participer aux taches communes du laboratoire (entretien, commande)\n - Participer à la rédaction / mise à jour des procédures du laboratoire avec le responsable du laboratoire\n\nDe formation Bac +2/3 en chimie analytique, chimie organique et vous justifiez d'une expérience de 2 ans minimum sur un poste similaire en milieu pharmaceutique.\n\nVous avez une expérience en chromatographiques (HPLC, GC, CCM) et analyses générales (teneur en eau, pHmétrie, perte de poids).\n\n\no Logiciels/outils : EMPOWER +\no Langues : anglais professionnel pour la documentation\n\n\nBonne communication, gestion du stress, persévérance, rigueur et diplomatie sont vos principaux atouts ?\n\nCe poste est pour vous ? N'hésitez plus et postulez directement sur Adecco.fr !"
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/177XJYZ",
+    "title": "Attaché d'Exploitation (H/F)",
+    "company": "MOULINOT COMPOST & BIOGAZ ",
+    "location": "93",
+    "remote": null,
+    "publication_date": "2024-07-24",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": "Salaire brut : Annuel de 30000.0 Euros à 35000.0 Euros sur 13.0 mois",
+        "Experience": "Débutant accepté",
+        "Level": null
+    },
+    "company_data": {
+        "sector": "Collecte des déchets non dangereux",
+        "company_size": "50 à 99 salariés",
+        "turnover_in_millions": null
+    },
+    "description": "Votre poste au sein de Moulinot\n\nRattaché(e) au Directeur d'Exploitation, l'Attaché(e) d'exploitation aura en charge le recueil et l'analyse des données d'exploitation liées à la collecte et au traitement des déchets alimentaires de nos clients.\n\nIl s'agit d'un poste opérationnel impliquant des échanges quotidiens avec les chefs d'équipe et chefs de service et nécessitant une aisance relationnelle permettant de réaliser des recommandations pertinentes en interne comme en externe.\n\n\n\nVos futures missions\n\n1/ Garantir la fiabilité des données saisies\n\n- S'assurer de la bonne remontée quotidienne, de la fiabilité et des validations des données en lien avec l'exploitation (validation de tournées, badgeages, cohérence des infos, suivis et exports journaliers),\n- Mettre à jour quotidiennement les informations terrain sur les logiciels d'exploitation, en lien avec l'ADV (logiciels métiers tels Odoo ou logiciels clients etc).\n- Compiler les informations pour éditer la préfacturation \n\n2/ Produire les reporting clients\n\n- Edition des reportings contractuels à destination des marchés publics et clients privés, comprenant des données d'exploitation et éventuellement une analyse critique (trames hebdomadaires, mensuelles, annuelles selon les besoins).\n\n3/ Analyser les données pour améliorer la performance du service\n\n- Apporter un soutien opérationnel aux exploitants pour donner une vision cohérente des résultats aux différentes équipes :\n- Centralisation et analyse des données,\n- Production & maintenance d'indicateurs opérationnels (KPI) et benchmark,\n- Identifier les éventuelles problématiques d'exploitation (ex : points noirs, cohérence des tournées), proposer des solutions et améliorer le taux de service,\n- Mettre en place de process/requêtes et automatisation en lien avec la Direction des Systèmes d'Information et la Direction des Affaires Financières\n\n\nVotre profil \n\nAutonome et force de proposition, vous avez un goût particulier pour le terrain et êtes réactif(ve).\nVous êtes convaincu(e) que l'esprit d'équipe est essentiel pour s'épanouir et êtes persuadé(e) qu'il est temps d'agir pour protéger notre environnement.\n\n- Profil de Niveau Bac +3 et ouvert aux jeunes diplômés sortant d'école et plus.\n- Excellente maîtrise de l'outil informatique : google sheet, excel (TCD)\n- Création de bases de données, PPT, word (mise en page de rapport)\n- Bonne expression et communication orale et écrite, pour rédiger des notes à des clients,\n- Savoir analyser et synthétiser des données et informations nombreuses,\n- Rigueur : savoir respecter les plannings, maintenir une organisation et les procédures,\n- Diplomatie : travail en équipe et en transversal pour solliciter plusieurs services,\n- Sens du service : un poste au service des autres,\n- Curiosité et esprit critique : comprendre les attentes du demandeur, le fonctionnement des outils, et participer au développement d'une nouvelle filière,\n- Intérêt : pour la protection de l'environnement, le recyclage.\n\nLes modalités \n\nType d'emploi : CDI, Temps plein\nStatut : Agent de Maitrise\nSalaire : 30 000,00€ à 35 000,00€ par an\nAvantages : carte Titre-restaurant Swile, 50% de prise en charge du titre de transport, Mutuelle prise en charge à 55% par l'entreprise\nProgrammation : Travail en journée - Possibilité d'une journée en télétravail\nTypes de primes et de gratifications : 13ème Mois\nLieu du poste : En présentiel / STAINS (93)\n\n\nVotre contact privilégié \n\nRejoignez Moulinot pour contribuer à une économie plus durable et solidaire !  \n\nNous attendons votre CV et votre lettre de motivation à l'adresse mail suivante : rh@moulinot.fr\n\nSans réponse de notre part dans un délai de trois semaines, vous pourrez considérer que votre candidature n'a pas été retenue."
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/179RCSG",
+    "title": "Alternance - Sustainability Analyst H/F (H/F)",
+    "company": null,
+    "location": "EPAGNY METZ TESSY 74",
+    "remote": null,
+    "publication_date": "2024-08-20",
+    "details": {
+        "TypeContract": "CDD",
+        "Salary": "Salaire brut : Mensuel de 1200.0 Euros à 1250.0 Euros sur 13.0 mois",
+        "Experience": "6 Mois",
+        "Level": "Bac+5 et plus ou équivalents data analytics - M2 Data Analyst"
+    },
+    "company_data": {
+        "sector": "Fabrication d'articles de sport",
+        "company_size": null,
+        "turnover_in_millions": null
+    },
+    "description": "En 2023, Salomon a développé sa nouvelle stratégie développement durable \"Change our Tomorrow 2030\". En 2024, Salomon souhaite accélérer dans la compréhension et le pilotage stratégique de ses impacts environnementaux et sociaux. En tant que stagiaire analyste données développement durable, tu seras directement impliqué(e) dans la construction du modèle de données développement durable de Salomon afin d'informer des décisions plus responsables au sein de l'ensemble de l'entreprise.\n\n \n\nAu sein de la direction Marque, dans le département Développement Durable, notre futur(e) analyste données développement durable aura les responsabilités suivantes : \n\nAccompagner la stratégie développement durable Salomon dans la collecte et l'analyse des données développement durable\nDonnées produits par saison (climat, éco-conception, circularité, produits chimiques, etc.) pour le suivi stratégique du programme et le reporting à nos clients B2B\nDonnées pour les certifications matières\nRéponses aux évaluations extra-financières demandées par nos clients B2B\nDonnées en lien avec nos exigences réglementaires (loi AGEC, CSRD, etc.)\nDonnées de conformité sociale\nContribuer à la definition et mise en place du process de gestion des données développement durable\nContribuer aux autres projets transversaux du programme \"Change Our Tomorrow\" (événements internes, etc.)\n \n\nEn paralèlle, notre alternant.e participera également à l'organisation d'événements internes."
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2861398",
+    "title": "Data analyst moteur m88 en exploitation bordeaux f/h (H/F)",
+    "company": null,
+    "location": "BORDEAUX 33",
+    "remote": null,
+    "publication_date": "2024-08-24",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": null,
+        "Experience": "Expérience exigée",
+        "Level": null
+    },
+    "company_data": {
+        "sector": null,
+        "company_size": null,
+        "turnover_in_millions": null
+    },
+    "description": "Safran est un groupe international de haute technologie opérant dans les domaines de l'aéronautique (propulsion, équipements et intérieurs), de l'espace et de la défense. Sa mission : contribuer durablement à un monde plus sûr, où le transport aérien devient toujours plus respectueux de l'environnement, plus confortable et plus accessible. Implanté sur tous les continents, le Groupe emploie 92 000 collaborateurs pour un chiffre d'affaires de 23,2 milliards d'euros en 2023, et occupe, seul ou en partenariat, des positions de premier plan mondial ou européen sur ses marchés. Safran s'engage dans des programmes de recherche et développement qui préservent les priorités environnementales de sa feuille de route d'innovation technologique.\nSafran est la 1ère entreprise du secteur aéronautique et défense du classement « World's Best Companies 2023 » du magazine TIME.\n\nMotoriste aéronautique depuis plus de 110 ans, Safran Aircraft Engines, conçoit, développe, produit et commercialise, seul ou en coopération, des moteurs pour avions civils et militaires.- Expérience utilisateur Dataiku (idéalement, certification « Advanced Designer » de la Dataiku Academy + expérience d'utilisation de l'outil\n- Bonne connaissance du codage en Python, en particulier de la gestion des sources en .xml\n- Expérience en « ETL » (Extract Transform Load), en particulier Transform complexes \n- Connaissance du langage VBA\n- Bonne connaissance de PowerBI, notamment du langage DAX.\n- La connaissance du Machine Learning, en particulier du NLP (Natural Language Processing), serait un plus. \n- Connaissance turboréacteur, connaissances et compréhension des concepts d'utilisation et maintenance aéronautique.\n\n- Contribuer à la mise en place du protocole d'échange de données avec nos clients pour la récupération des données.\n- Identifier les données nécessaires aux analyses des futurs utilisateurs, les traiter et les nettoyer afin d'en extraire des informations permettant de répondre à des enjeux spécifiques et faciliter la prise de décision pour le métier et/ou plusieurs directions métiers.\n- Mettre en place des outils de reporting (Synthèse et/ou Indicateurs) et d'aide à la décision, de la data visualisation grâce à des outils informatiques de mise en forme des données et à de l'analyse statistique.\n- Analyser et comprendre les processus de flux de données existants (Dataiku), s'assurer de la cohérence des résultats au regard des besoins spécifiques métier. \n- Contribuer à la construction de la feuille de route Data du service.\n- Assurer la coordination d'un projet, des ressources et des moyens associés\n\nEnjeux / Challenge :\n-Fournir un appui analytique à la conduite d'exploration et à l'analyse complexe de données (multiplicité des univers et des sources de données). Faciliter les prises de décision des décideurs et conseiller au sein de sa direction ou de la société\n-L'emploi nécessite des relations de travail avec des équipes pluridisciplinaires et d'autres métiers pour parvenir au résultat attendu InterneDe formation ingénieur Bac +5 vous avez une solide expérience similaire."
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2856087",
+    "title": "Data Analyst Contrôle de gestion IFRS 17 H/F",
+    "company": "BNP PARIBAS ",
+    "location": "92",
+    "remote": null,
+    "publication_date": "2024-08-24",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": null,
+        "Experience": "Expérience exigée",
+        "Level": null
+    },
+    "company_data": {
+        "sector": null,
+        "company_size": null,
+        "turnover_in_millions": null
+    },
+    "description": "Votre poste, en bref \n\nAu sein de l'équipe Expertise transverse France, vous : \nAssurerez la mise en production du nouveau modèle d'allocation des coûts:Réalisation des Gap analysis du modèle d'allocation à partir de méthodes innovantes basées sur des méthodes D&A afin de sécuriser le nouveau modèle d'allocation des coûts (central + module IT)Au regard des contraintes de continuité avec les résultats d'allocation du modèle actuel sur les différents objets de coûts (rattachabilité, destination, BU etc.), proposition et mise en place des correctifs nécessaires à la validation du modèle.Développement et mise en place de rapports d'analyse automatisés des coûts alloués Assurerez les travaux de réconciliation des comptes clients à partir de méthodes Data Analysis, préparerez les dossiers de choix et présenterez les résultats au top management. Vous serez en interaction avec les équipes de la comptabilité et devrez assurer la passation des travaux pour reprise en interne.Participerez à des études quantitatives transverses en lien avec les autres équipes du contrôle de gestion et de la comptabilité \nVous aborderez également l'ensemble des thématiques suivantes :\nAnalyse normativeAnalyse des impacts quantitatifs et process Utilisation d'approches data dans les analysesRédaction d'EDB et mise en place des nouveaux process en lien avec le métier"
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2853815",
+    "title": "Data Analyst Senior H/F",
+    "company": "WILL RH ",
+    "location": "59",
+    "remote": null,
+    "publication_date": "2024-08-24",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": null,
+        "Experience": "Expérience exigée",
+        "Level": null
+    },
+    "company_data": {
+        "sector": null,
+        "company_size": null,
+        "turnover_in_millions": null
+    },
+    "description": "Nous recherchons pour l'un de nos clients un Data Analyst Senior !\n\nIl s'agit d'une start-up dynamique et innovante, spécialisée dans l'expertise data et le développement durable . Composée actuellement de 15 personnes, cette entreprise mise sur la transparence, la responsabilité, et le développement de ses collaborateurs. Vous cherchez une aventure à taille humaine où vos compétences en analyse de données peuvent véritablement faire la différence ? Vous êtes au bon endroit ! \n\nLieu : Full remote\nType de contrat : CDI\nDémarrage : ASAP\n\nVotre mission\n\nEn tant que Data Analyst Senior, vos principales missions seront :\nAnalyser des problématiques métiers et en synthétiser les enjeux Manipuler, exploiter et interpréter les données pour en dégager des insights business pertinents Créer des dashboards et des rapports pour faciliter la prise de décision Mettre en place des KPIs de performance pour offrir une vision claire des résultats aux équipes métiers Devenir le référent technique sur l'outil de reporting Power BI (très bonne maîtrise exigée !)Contribuer au développement de la start-up avec vos idées novatrices (architecture, organisation, événements, veille, etc.) \nVos responsabilités\nMaîtrise du SQL et de l'outil de reporting Power BICompétences analytiques et statistiques solidesConnaissance des environnements cloud et big data (Microsoft Azure notamment)Expérience avec un ou plusieurs outils d'analyse de données (SAS, R, etc.)La connaissance de Python et d'autres outils de reporting (Google Data Studio, Quicksight, ) est un plus La maîtrise de l'anglais est un plusExpérience professionnelle d'au moins 4 ans dans des missions similaires"
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2853653",
+    "title": "Tech Lead Data Analyst H/F",
+    "company": "JEMS ",
+    "location": "92",
+    "remote": null,
+    "publication_date": "2024-08-24",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": null,
+        "Experience": "Expérience exigée",
+        "Level": null
+    },
+    "company_data": {
+        "sector": null,
+        "company_size": null,
+        "turnover_in_millions": null
+    },
+    "description": "A propos de JEMS\n\nNous sommes le seul industriel de la donnée en Europe. Notre métier est de créer, manager et exploiter le patrimoine data de nos clients.\n\nNous avons la conviction que chaque entreprise peut adopter une démarche innovante de gestion de la donnée et créer des cas d'usage disruptifs en réduisant l'impact écologique et en diminuant la dette technique.\n\nNous comptons plus de 840 collaborateurs en mission chez nos clients grands comptes dans tout secteur d'activité : banque, assurance, santé, énergie, e-commerce, automobile, luxe, retail, transport, \n\nVos missions\n\nNous recherchons un(e) Tech Lead Data Analyst capable de trouver des solutions innovantes et robustes à l'ensemble des problématiques Data.\n\nVous aurez la charge de :\nAssurer la mise en œuvre de l'accès, du référencement et de la qualité de la donnéeAssurer l'industrialisation, la supervision et l'intégration des solutionsRédiger les normes de développementParticiper à la rédaction du manuel d'exploitationEn tant que Tech Lead, vous savez vous présenter et promouvoir des architectures data face au client. Vous savez identifier et comprendre les besoins métiers.Vous savez identifier et comprendre les besoins métiers.Vous formez, encadrez et faites évoluer les consultants juniorsVous participez à la réponse aux appels d'offres (avant-vente)\nVos compétences\n\nEn tant que Tech Lead Data Analyst vous maîtrisez :\nLe langage SQLMS OfficeDes outils BI Fonction Expertise sur les donnees du MetierDes solutions Analytiques (Data Science ou Data Mining / BI)Des outils de datavisualisationLa preparation de donnees\nVotre profil\n\nDiplômé(e) d'une école d'ingénieur ou d'une université, vous justifiez d'une expérience professionnelle dans un contexte projet Data. Rigoureux, proactif et autonome vous restez en veille technologique et êtes force de proposition. Vous êtes capable de prendre de la hauteur et vous adapter aux enjeux du projet.\n\nAvantages à travailler chez JEMS\nUne JEMS Académie au service de votre montée en compétences (formations et certifications sur les technologies de pointe)Un accompagnement personnalisé et un management de proximité pour vous proposer des évolutions de carrièreUne intégration dans des communautés techniques et de pratiques JEMS (encadrement par des experts, échanges sur les bonnes pratiques, favoriser l' )Une entreprise reconnue \"Great Place To Work\"Des évènements et séminaires inoubliables, des soirées d'agence conviviales"
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2853130",
+    "title": "DATA ANALYST (H/F)",
+    "company": "GROUPE BPCE ",
+    "location": "59",
+    "remote": null,
+    "publication_date": "2024-08-24",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": null,
+        "Experience": "Expérience exigée",
+        "Level": null
+    },
+    "company_data": {
+        "sector": null,
+        "company_size": null,
+        "turnover_in_millions": null
+    },
+    "description": "Description de l'entreprise\n\nLa Caisse d'Epargne Hauts de France recherche de nouveaux talents et de nouvelles compétences !\n\nAu sein de BPCE, 2ème groupe bancaire français, la Caisse d'Epargne Hauts de France est une banque coopérative régionale, qui accompagne les familles et les entreprises au nord de Paris.\n\nNotre réseau de 300 agences, 11 Centres d'Affaires, 1 Banque Privée et du Dirigeant, 1 Banque Digitale Multimédia Régionale et 3 000 collaborateurs accompagnent au quotidien nos clients sur tous les marchés.\n\nNous sommes fiers de faire partie d'une entreprise engagée, certifiée B Corp, dont les valeurs reposent sur le respect de l'environnement, la promotion du sport pour tous et la solidarité dans tout ce que nous entreprenons.\n\nParce que nous sommes +Green, +Sport, +Solidaire, nous sommes plus qu'une banque !\n\nRejoignez-nous !\n\nPoste et missions\n\nDans un contexte de développement de notre communauté DATA au sein de l'entreprise, nous recrutons un profil de DATA ANALYST (F/H) pour notre département Data Analyse Et Pilotage Transverse composé d'une équipe de 10 Data Analyst, 1 Data Scientist et 1 Data Architect.\n\nA ce titre, vous serez en interaction avec toutes les directions métiers de l'entreprise.\n\nVous aurez en charge de réaliser des analyses, mettre en place des pilotages, fiabiliser/enrichir les données de l'entreprise et développer des cas d'usage à forte valeur ajoutée à partir des données de l'entreprise mais aussi de données externes.\n\nAfin de réaliser ces activités, vous vous investissez auprès des interlocuteurs métier pour comprendre au mieux la problématique sur laquelle vous travaillez.\n\nVous imaginez les solutions data correspondantes en étant force de proposition avec une bonne connaissance des analyses et outils existants.\n\nDans une démarche d'amélioration continue, vous participez à des projets transverses au sein de la direction.\n\nProfil et compétences requises\n\nIssu(e) d'une formation Bac +5 types Ecole d'Ingénieur, Ecole de Commerce, ou diplômé(e) d'un Master en statistiques ou informatique décisionnelle.\n\nVous disposez impérativement d'une expérience validée de 3 ans en tant que Data Analyst.\n\nNous recherchons un profil agile, curieux, motivé par l'innovation et maitrisant idéalement les outils Alteryx, Power BI, Power Automate, Power APPS, GCP.\n\nVous faites preuve de rigueur dans la fiabilité de données et êtes force de de proposition dans la construction ou l'évolution de nos méthodes d'analyse.\n\nVous aspirez à une mission enrichissante où votre proactivité et vos propositions seront appréciées et encouragées.\n\nAu-delà de l'expérience, des compétences techniques et de la rigueur nécessaires dans ce poste, nous apprécions les personnes ouvertes, curieuses et dotées d'un bon relationnel.\n\nInformations complémentaires sur le poste\n\n Les + de la Caisse d'Epargne Hauts-de-France: \n\nEn tant que membre de notre équipe, vous bénéficierez de nombreux avantages, notamment :\nUne rémunération compétitive et équitable, assortie de primes et de bonus en fonction de vos performances individuelles et collectives.Des opportunités de formation et de développement professionnel pour faire évoluer votre carrière dans l'entreprise.Un socle social complet: 13 ième mois, mutuelle, tickets restaurants, prime de transport, 35 jours de congés payés et des jours de RTT.Un environnement de travail agréable et collaboratif, où les idées et les contributions de chacun sont valorisées et respectées.Vous disposerez au minimum d'une journée de télétravail par semaine."
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2839456",
+    "title": "Data analyst (H/F)",
+    "company": null,
+    "location": "VAUJOURS 93",
+    "remote": null,
+    "publication_date": "2024-08-24",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": "Salaire brut : Annuel de 40000,00 Euros à 50000,00 Euros",
+        "Experience": "Expérience exigée de 1 An(s)",
+        "Level": null
+    },
+    "company_data": {
+        "sector": null,
+        "company_size": "Au cœur de l'innovation en matière de recrutement, Leihia est la plateforme SaaS où l'intelligence artificielle rencontre l'expertise humaine pour façonner l'avenir de l'emploi. Nous sommes bien plus qu'un simple outil de mise en relation : nous sommes une réelle innovation dans la gestion de carrière et le recrutement.",
+        "turnover_in_millions": null
+    },
+    "description": "Description du poste :\nCrédit Agricole Île-de-France : Votre Partenaire Mutualiste Engagé\nAu Crédit Agricole Île-de-France, nous unissons nos forces pour offrir à nos 1.5 million de clients une expérience bancaire fondée sur la proximité, la responsabilité et la solidarité. Notre ambition ? Être le partenaire de confiance qui accompagne chaque projet, avec humanité et expertise.\nNous sommes persuadés que l'excellence de service se construit avec des talents comme vous - audacieux, passionnés par la qualité et porteurs de nos valeurs mutualistes.\nRejoindre nos 3.650 collaborateurs, c'est choisir une carrière dynamique au sein de notre réseau de 275 agences, où l'innovation, l'écoute et l'engagement sont au cœur de l'action. C'est également s'engager dans une banque qui prône la diversité et l'évolution professionnelle, reconnue par ses clients et ses équipes :***1ère caisse régionale du groupe Crédit Agricole,\n* 86% de clients satisfaits,\n* 89% de collaborateurs fiers de recommander notre entreprise,\n* Opportunités de développement et de mobilité, en Île-de-France et à l'international.\nNous investissons dans votre avenir dès le premier jour, avec un accompagnement dédié en gestion de carrière et un accès à des formations de pointe via notre propre centre de formation et notre université groupe.\nCrédit Agricole Île-de-France, c'est la promesse d'une carrière enrichissante dans une banque résolument tournée vers l'avenir. Prêt à vivre une expérience professionnelle unique où vos compétences seront le moteur de votre épanouissement\nData Analyst - Expert en VBA et SUADEO - CDI H/F\nPlongez au cœur de la transformation digitale du Crédit Agricole Île-de-France. En tant que Data Analyst, vous jouerez un rôle crucial en intégrant notre service informatique dédié à l'analyse et au pilotage des données, avec un focus particulier sur l'optimisation et la réécriture de nos processus existants en VBA vers SUADEO.\nVotre Mission :***Analyse et Réécriture VBA : Comprendre et analyser l'existant en Excel VBA pour le transposer dans l'environnement SUADEO, en garantissant la continuité et l'amélioration des processus actuels.\n* Gestion et Optimisation des Dashboards : Piloter et améliorer les dashboards existants pour offrir des outils de pilotage performants, permettant une prise de décision éclairée.\n* Production et Qualité des Données : Travailler étroitement avec les équipes métiers pour garantir l'intégrité et la qualité des données, en respectant les règles métiers et en optimisant les flux de données.\n* Utilisation d'Outils BI : Maîtriser les outils de Business Intelligence, avec une expertise sur SUADEO, pour assurer la cohérence et la pertinence des rapports et analyses produits.\n* Collaboration Inter-Équipes : Collaborer avec les équipes métiers pour bien comprendre leurs besoins, valider les exigences et proposer des solutions adaptées, tout en assurant une documentation rigoureuse.\nQui Êtes-Vous ?***Formation : Diplômé en informatique ou en gestion de données, avec une expertise en Excel VBA et une bonne maîtrise des outils BI, particulièrement SUADEO.\n* Expérience : Vous justifiez de 2 à 3 ans d'expérience en analyse de données, avec une forte orientation vers la réécriture et l'optimisation de processus.\n* Compétences : Solides compétences en analyse fonctionnelle des données, en compréhension des règles métiers, et en gestion de la qualité des données.\n* Qualités : Autonome, rigoureux(se), avec un esprit analytique et une passion pour les données et leur transformation en information stratégique.\nPourquoi Nous Rejoindre ?***Équipe : Rejoignez une équipe dynamique où l'autonomie, la collaboration et l'innovation sont au cœur des projets.\n* Environnement de Travail : Un cadre stimulant où les données et l'innovation technologique sont au centre de notre transformation digitale.\n* Opportunités de Carrière : Bénéficiez d'une réelle progression de carrière au sein du Crédit Agricole Île-de-France, avec des opportunités de développement et de spécialisation."
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2839011",
+    "title": "Data analyst (H/F)",
+    "company": null,
+    "location": "NOISEAU 94",
+    "remote": null,
+    "publication_date": "2024-08-24",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": "Salaire brut : Annuel de 40000,00 Euros à 50000,00 Euros",
+        "Experience": "Expérience exigée de 1 An(s)",
+        "Level": null
+    },
+    "company_data": {
+        "sector": null,
+        "company_size": "Au cœur de l'innovation en matière de recrutement, Leihia est la plateforme SaaS où l'intelligence artificielle rencontre l'expertise humaine pour façonner l'avenir de l'emploi. Nous sommes bien plus qu'un simple outil de mise en relation : nous sommes une réelle innovation dans la gestion de carrière et le recrutement.",
+        "turnover_in_millions": null
+    },
+    "description": "Description du poste :\nCrédit Agricole Île-de-France : Votre Partenaire Mutualiste Engagé\nAu Crédit Agricole Île-de-France, nous unissons nos forces pour offrir à nos 1.5 million de clients une expérience bancaire fondée sur la proximité, la responsabilité et la solidarité. Notre ambition ? Être le partenaire de confiance qui accompagne chaque projet, avec humanité et expertise.\nNous sommes persuadés que l'excellence de service se construit avec des talents comme vous - audacieux, passionnés par la qualité et porteurs de nos valeurs mutualistes.\nRejoindre nos 3.650 collaborateurs, c'est choisir une carrière dynamique au sein de notre réseau de 275 agences, où l'innovation, l'écoute et l'engagement sont au cœur de l'action. C'est également s'engager dans une banque qui prône la diversité et l'évolution professionnelle, reconnue par ses clients et ses équipes :***1ère caisse régionale du groupe Crédit Agricole,\n* 86% de clients satisfaits,\n* 89% de collaborateurs fiers de recommander notre entreprise,\n* Opportunités de développement et de mobilité, en Île-de-France et à l'international.\nNous investissons dans votre avenir dès le premier jour, avec un accompagnement dédié en gestion de carrière et un accès à des formations de pointe via notre propre centre de formation et notre université groupe.\nCrédit Agricole Île-de-France, c'est la promesse d'une carrière enrichissante dans une banque résolument tournée vers l'avenir. Prêt à vivre une expérience professionnelle unique où vos compétences seront le moteur de votre épanouissement\nData Analyst - Expert en VBA et SUADEO - CDI H/F\nPlongez au cœur de la transformation digitale du Crédit Agricole Île-de-France. En tant que Data Analyst, vous jouerez un rôle crucial en intégrant notre service informatique dédié à l'analyse et au pilotage des données, avec un focus particulier sur l'optimisation et la réécriture de nos processus existants en VBA vers SUADEO.\nVotre Mission :***Analyse et Réécriture VBA : Comprendre et analyser l'existant en Excel VBA pour le transposer dans l'environnement SUADEO, en garantissant la continuité et l'amélioration des processus actuels.\n* Gestion et Optimisation des Dashboards : Piloter et améliorer les dashboards existants pour offrir des outils de pilotage performants, permettant une prise de décision éclairée.\n* Production et Qualité des Données : Travailler étroitement avec les équipes métiers pour garantir l'intégrité et la qualité des données, en respectant les règles métiers et en optimisant les flux de données.\n* Utilisation d'Outils BI : Maîtriser les outils de Business Intelligence, avec une expertise sur SUADEO, pour assurer la cohérence et la pertinence des rapports et analyses produits.\n* Collaboration Inter-Équipes : Collaborer avec les équipes métiers pour bien comprendre leurs besoins, valider les exigences et proposer des solutions adaptées, tout en assurant une documentation rigoureuse.\nQui Êtes-Vous ?***Formation : Diplômé en informatique ou en gestion de données, avec une expertise en Excel VBA et une bonne maîtrise des outils BI, particulièrement SUADEO.\n* Expérience : Vous justifiez de 2 à 3 ans d'expérience en analyse de données, avec une forte orientation vers la réécriture et l'optimisation de processus.\n* Compétences : Solides compétences en analyse fonctionnelle des données, en compréhension des règles métiers, et en gestion de la qualité des données.\n* Qualités : Autonome, rigoureux(se), avec un esprit analytique et une passion pour les données et leur transformation en information stratégique.\nPourquoi Nous Rejoindre ?***Équipe : Rejoignez une équipe dynamique où l'autonomie, la collaboration et l'innovation sont au cœur des projets.\n* Environnement de Travail : Un cadre stimulant où les données et l'innovation technologique sont au centre de notre transformation digitale.\n* Opportunités de Carrière : Bénéficiez d'une réelle progression de carrière au sein du Crédit Agricole Île-de-France, avec des opportunités de développement et de spécialisation."
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2835240",
+    "title": "DATA ANALYST H/F",
+    "company": "FRAIKIN ",
+    "location": "92",
+    "remote": null,
+    "publication_date": "2024-08-24",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": null,
+        "Experience": "Débutant accepté",
+        "Level": null
+    },
+    "company_data": {
+        "sector": "Location de camions avec chauffeur",
+        "company_size": "Roulez, nous faisons le reste !  \n\nEnvie de rejoindre le numéro N°1 Européen de la location de véhicules industriels, utilitaires et commerciaux : 60000 véhicules, 180 agences en France et Europe, 3000 collaborateurs et un chiffre d'affaires de 965 millions d'euros en 2023.\n\nChez Fraikin, aucune journée ne se ressemble. Dans nos métiers, la diversité des missions est forte, et nous mettons un point d'honneur à ce que nos collaborateurs gardent toute leur polyva...",
+        "turnover_in_millions": null
+    },
+    "description": "FRAIKIN France recherche, pour accompagner son développement, un(e) : \n  \n DATA ANALYST \n\nDans le cadre du programme Management Accelerator Program (MAP), Fraikin Group recherche un(e) candidat(e).\n\nLe MAP est le programme des futurs leaders du Groupe Fraikin. Il s'adresse à des jeunes diplômés issus des meilleures grandes écoles d'ingénieurs de commerces françaises et internationales, ayant au maximum 1 an d'expérience. Le programme totalise 2 à 3 postes d'une durée de 12 à 18 mois maximum dans différents départements du Groupe Fraikin (Opérations, Stratégies, Finance, Pricing, Digital, etc.). A la suite du programme, les participants se verront proposer un poste à responsabilité au sein du Groupe.\n \nVous débuterez votre programme au sein de la Direction de la Stratégie et du Développement groupe et rattaché(e) au Directeur Market Intelligence en tant que Data Analyst.\n\nDans le cadre de ce premier poste, que vous occuperez entre 12 et 18 mois, vous travaillerez sur différents projets stratégiques pour du groupe à l'échelle Europe (analyse de parts de marché, taux churn, analyse prédictive, etc.). Le poste est à fort enjeux au sein de l'équipe stratégie du groupe, dont le rôle est d'apporter un éclairage analytique sur les sujets clés du Groupe ainsi que d'être un guide à la prise de décision du ComEx. \n\nA ce titre, vous :\n\nParticiperez aux analyses de données nécessaires à la transition énergétiques de notre flotte ; \n\nDéfinirez les règles de gestion des bases de données et des spécifications d'automatisation en relation avec la DSI ; \n\nDévelopperez des tableaux de bord permettant de répondre aux enjeux et besoins business ; \n\nParticiperez à des analyses prédictives permettant de définir des axes d'amélioration de nos processus et d'optimisation de nos résultats, notamment sur le churn de la flotte ; \n\nInterviendrez sur des missions transverses afin de délivrer des insights pertinents pour les différents services (commerce / expérience client.). \n\nvous serez amené à développer vos compétences sur les outils de reporting (Tableau BI) et CRM (Salesforce).\nProfil recherché : \n\nDiplômé d'un BAC+5 type top école de commerce ou école d'ingénieur, vous justifiez d'une première expérience (CDI/CDD ou stage) sur un poste à forte dimension analytique (type : conseil en stratégie / Audit / Banque / Fond d'investissement);\n\n * Forte capacité d'analyse et de synthèse \n\n * Goût prononcé pour les données chiffrées \n\n * Maitrise d'Excel et de préférence d'un outil de Business Intelligence tel que Tableau BI, Power BI, .\n\n * Bon niveau d'anglais pour interagir avec les filiales du Groupe \n\n * Rigueur et organisation vous permettront de travailler en transverse sur plusieurs projets"
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2830903",
+    "title": "Consultant Expérimenté & Manager en « Data Analyst & BI » - Secteur Financier, H/F",
+    "company": "EY ",
+    "location": "75",
+    "remote": null,
+    "publication_date": "2024-08-24",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": null,
+        "Experience": "Expérience exigée de 3 An(s)",
+        "Level": null
+    },
+    "company_data": {
+        "sector": null,
+        "company_size": null,
+        "turnover_in_millions": null
+    },
+    "description": "·        Conception, développement et implémentation d'outils ou de solutions de reporting, d'aide à la décision, de visualisations de données dans les domaines du customer, du digital, de la conformité.\n·       Conception et mise en œuvre de solutions de valorisation de la donnée depuis l'idéation jusqu'à l'industrialisation en passant par les études de faisabilité, la préparation des données et la modélisation\n·       Définition de stratégie data des clients (cas d'usage, trajectoires, roadmap.)\n·       Conception et mise en place de solutions d'analyse statistique.\n·       Cartographie des processus de transformation de données\n·       Etudes et choix de solutions et de plateformes big data, analytics.\n·       Veille sur l'évolution des méthodes, des pratiques, des outils.\n \nVous pourrez continuer de développer des compétences dans les domaines de votre choix grâce à l'approche de formation EY."
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2827027",
+    "title": "Data Analyst H/F",
+    "company": null,
+    "location": "PORCIEU AMBLAGNIEU 38",
+    "remote": null,
+    "publication_date": "2024-08-24",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": null,
+        "Experience": "Expérience exigée",
+        "Level": null
+    },
+    "company_data": {
+        "sector": null,
+        "company_size": null,
+        "turnover_in_millions": null
+    },
+    "description": "· Comprendre, récupérer et nettoyer les données adaptées aux usages.\n· Produire des indicateurs statistiques récurrents ou spécifiques (indicateurs de pilotage de l'activité, indicateurs de qualification et de mise en exergue de l'utilité des services.).\n· Produire et proposer des reportings pour valoriser l'activité.\n· Être force de proposition sur la valorisation des données.\n· Développer des indicateurs et tableaux de bord de pilotage, mettre à jour, entretenir et faire évoluer.\n· Mettre en place et utiliser des outils de veille sur la qualité des données.\n· Réaliser des analyses sur des populations ou sujets ciblés.\nS'interfacer avec les différents pôles pour comprendre, proposer et adapter les indicateurs de suivi.\nProfil souhaité\n2 ans minimum d'expérience en valorisation de service ou parcours constituerait un réel atout.\nVous maitrisez le langage SQL(MSSQL/MySQL), Excel niveau avancé/expert (formules complexes, TCD avancés, Power Query, Power Pivot) et langages M, DAX et VBA\nCe poste est idéal pour vous si vous:\n* Aimez travailler avec des données et les valoriser\n* Possédez de solides compétences en analyse statistique et en visualisation de données.\n* Avez d'excellentes compétences en communication écrite et orale.\n* Êtes capable de travailler de manière autonome et en équipe.\nPourquoi nous rejoindre\nDomplus Groupe et ses filiales placent l'humain au cœur de ses préoccupations. Ses valeurs telles que le l'engagement, le respect et la solidarité sont au centre de sa culture d'entreprise. Vous aurez donc l'opportunité de travailler dans un environnement de travail bienveillant et stimulant. Si vous êtes à la recherche d'un emploi valorisant, où vous pourrez faire la différence dans la vie des autres, alors BAZILE peut être une excellente opportunité pour vous.\nVoici quelques raisons de nous rejoindre :\n- Un sens du travail : Vous aurez la satisfaction de savoir que vous contribuez à améliorer la vie des personnes fragilisées et de leurs aidants.\n- Un environnement de travail positif : nous valorisons nos collaborateurs et mettons tout en œuvre pour créer un environnement de travail positif et stimulant.\n- Des opportunités d'évolution : nous encourageons le développement professionnel de nos collaborateurs et la mobilité interne.\n- Un bon équilibre entre vie professionnelle et vie personnelle : nous proposons du télétravail (2 jours par semaine) et des aménagements de travail pour les salariés aidants ou bien lors de situation de parcours de vie.\nType d'emploi : Temps plein, CDI\nRémunération : à partir de 30 000,00€ par an\nAvantages :\n* Intéressement et participation\n* Prise en charge du transport quotidien\n* RTT\n* Travail à domicile occasionnel\nHoraires :\n* Travail en journée\nRémunération supplémentaire :\n* Primes\nLieu du poste : Télétravail hybride (38320 Eybens)"
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2824386",
+    "title": "Data Analyst H/F",
+    "company": null,
+    "location": "PARIS (DEPT.) 75",
+    "remote": null,
+    "publication_date": "2024-08-24",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": null,
+        "Experience": "Débutant accepté",
+        "Level": null
+    },
+    "company_data": {
+        "sector": null,
+        "company_size": null,
+        "turnover_in_millions": null
+    },
+    "description": "En tant que Data Analyst au sein de notre entreprise, vous jouerez un rôle crucial dans l'optimisation de nos opérations. Votre mission principale sera d'analyser les données issues de nos opérateurs pour identifier des leviers d'amélioration et de développer des modèles de prédiction afin de rendre notre service plus performant et efficient.\nMissions principales :\nAnalyse de données opérationnelles :\n* Collecter, nettoyer, et analyser les données provenant de diverses sources (opérateurs, logistique, clients, etc.).\n* Identifier les tendances, anomalies, et opportunités d'amélioration à travers des analyses quantitatives.\n* Proposer des recommandations basées sur les données pour optimiser les processus opérationnels.\nDéveloppement de modèles prédictifs : \n* Développer et implémenter des modèles de prédiction pour anticiper les besoins opérationnels (ex : prévision de la demande, optimisation des routes de livraison, etc.).\n* Collaborer avec les équipes techniques et métiers pour intégrer ces modèles dans les processus existants.\nReporting et visualisation des données :\n* Créer des rapports et des tableaux de bord dynamiques pour suivre les performances des opérations en temps réel.\n* Présenter les résultats des analyses et les recommandations à la direction et aux équipes opérationnelles.\nCollaboration interservices : \n* Travailler étroitement avec les équipes de logistique, d'approvisionnement, et de service client pour comprendre leurs besoins et traduire les problématiques business en solutions analytiques.\n* Participer activement aux réunions stratégiques pour apporter une perspective basée sur les données.\nCompétences requises :\nTechniques :\n* Excellente maîtrise de **Python** pour l'analyse des données et le développement de modèles.\n* Solides compétences en **SQL** pour la gestion et l'extraction des données.\n* Expérience avec **BigQuery** pour manipuler de grands ensembles de données.\n* Maîtrise de **Looker** pour la création de rapports et la visualisation des données.\nAnalytique :\n* Forte capacité à interpréter les données et à en tirer des insights actionnables.\n* Compétences en modélisation statistique et en machine learning pour développer des modèles prédictifs.\nCommunication :\n* Capacité à expliquer des concepts techniques complexes à des non-spécialistes.\n* Aptitude à présenter les résultats de manière claire et convaincante.\nOrganisation et gestion du temps :\n* Autonomie dans la gestion des projets et respect des deadlines.\n* Capacité à travailler sur plusieurs projets simultanément tout en maintenant une grande attention aux détails.\nProfil recherché :\n* Diplôme en Statistiques, Mathématiques, Informatique, ou domaine connexe.\n* Expérience en tant que Data Analyst, idéalement dans le secteur de la logistique ou de la livraison.\n* Une expérience dans une startup ou dans un environnement de travail dynamique est un plus.\nType d'emploi : CDI, CDD\nStatut : Cadre\nRémunération : 42 000,00€ à 45 000,00€ par an\nAvantages :\n* Prise en charge du transport quotidien\n* RTT\n* Travail à domicile occasionnel\nHoraires :\n* Du lundi au vendredi\n* Travail en journée\nFormation:\n* Bac +5 (Master / MBA) (Optionnel)\nLieu du poste : Télétravail hybride (75010 Paris 10e)\nDate de début prévue : 02/09/2024"
+}]

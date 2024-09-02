@@ -1,3 +1,803 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4c0c9615f5f5b667e12225d6283c204a5b12e3cac955b3d55b02ae7adb4512e4
-size 147677
+[
+    {
+        "source": "France Travail",
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/179SWHH",
+        "title": "Expert(e) IA et Calcul Quantique (H/F)",
+        "company": "MDM &YOBITRUST ",
+        "location": "93",
+        "remote": null,
+        "publication_date": "2024-08-21",
+        "details": {
+            "TypeContract": "CDI",
+            "Salary": "Salaire brut : Mensuel de 3000.0 Euros à 3800.0 Euros sur 12.0 mois",
+            "Experience": "36 Mois",
+            "Level": "Bac+5 et plus ou équivalents mathématiques appliquées - Ingénieur Data Science & AI"
+        },
+        "company_data": {
+            "sector": "Édition de logiciels applicatifs",
+            "company_size": "0 salarié (n'ayant pas d'effectif au 31/12 mais ayant employé des salariés au cours de l'année de référence)",
+            "turnover_in_millions": null
+        },
+        "description": "La détection précoce des maladies \"NR\" est cruciale pour améliorer les résultats cliniques et réduire les taux de mortalité. Ce projet a pour objectif de développer une solution basée sur l'intelligence artificielle (IA) pour détecter les antigènes associés aux maladies ... et générer des anticorps spécifiques à ces antigènes. Cette solution permettra une détection rapide et précise des maladies \"NR\"  en identifiant la présence d'antigènes spécifiques et en générant des anticorps correspondants pour des tests diagnostiques:\n1-Collecte des Données: Récupérer des données de séquences d'antigènes\net d'anticorps à partir de banques de données publiques et spécialisées\n2-Tokenisation et normalisation des séquences d'antigènes et\nd'anticorps. Convertir les structures en représentations numériques adaptées\naux modèles d'IA.\n3-Génération de Structures d'Anticorps\n4 Appliquer des modèles comme IgFold pour prédire\nla structure 3D des anticorps à partir des séquences générées par les modèles IA.\n5-Prédiction de la présence de Maladies \"NR\"; utiliser les anticorps générés pour\ncréer des tests diagnostiques permettant de détecter la présence d'antigènes\net prédire la présence de maladies \"NR\"\n6-Calcul HPC et Quantique\n7-Déploiement et Intégration sur Cloud"
+    }
+, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2729181",
+    "title": "Data scientist (H/F)",
+    "company": null,
+    "location": "PARIS 09 75",
+    "remote": null,
+    "publication_date": "2024-08-22",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": null,
+        "Experience": "Expérience exigée de 3 An(s)",
+        "Level": null
+    },
+    "company_data": {
+        "sector": null,
+        "company_size": "Le Groupe RATP, implanté dans 14 pays, sur quatre continents est le 5e groupe de transport public urbain au monde. Il est composé d'une maison-mère qui exploite le réseau francilien, un réseau multimodal parmi les plus complexes et d'une centaine de filiales qui proposent une variété d'expertises en France et à l'International. C'est une entreprise intégrée qui détient une expertise globale : Ingénierie, exploitation et maintenance.",
+        "turnover_in_millions": null
+    },
+    "description": "Description du poste :\nQuel sera votre quotidien ?\nVotre principal rôle sera de :\nParticiper à l'identification, la qualification et la priorisation de cas d'usage de data science à forte valeur métier\nDimensionner, sourcer et piloter une équipe capable d'assurer la réalisation des projets de data science, en alignement avec les enveloppes budgétaires qui leur sont allouées\nPiloter de bout en bout et participer à la réalisation scientifique et technique des projets, en se conformant au modèle de delivery et aux standards de développement promus par le CE Data\nAccompagner le déploiement des projets sur les infrastructures de production (support du build et du run) et leur intégration dans les processus métier concernés\nAssurer l'interface avec l'ensemble des parties prenantes (métiers et techniques) et animer les réunions projet : kick-offs, revues de sprint, comités de pilotage, etc.\nAssurer le reporting des activités auprès du Chief Data Scientist et de la CDO\nValoriser les travaux au sein et à l'extérieur du groupe par le biais de communications et de démonstrations\nVous contribuerez également aux activités transverses du CE Data : missions d'expertise diverses, création de contenus de formation et d'acculturation, développement de l'offre du CE Data, participation à l'animation de la communauté data science du groupe, etc.\nPour en savoir plus, cliquez sur le lien suivant : https://www.ratp.fr/groupe-ratp\nDescription du profil :\nVous êtes diplômé d'un BAC+5 en Data Science (ou équivalent) et avez acquis au moins 4 années d'expérience dans ce domaine.\nPour relever ces défis, nous recherchons une personne disposant d'une expérience significative dans la gestion et le pilotage de projets de data science, ainsi que dans l'animation des ressources associées.\nCette personne doit par ailleurs disposer d'un bagage scientifique et technique solide :\nCompétences avancées en mathématiques, statistiques et intelligence artificielle\nCompétences dans le recueil, le traitement et l'analyse de données afin de répondre à des besoins métier spécifiques\nCompétences dans le développement et le déploiement de modèles d'apprentissage automatique dans un contexte industriel\nConnaissance de Python et, idéalement, de PySpark, SQL et Git\nVous vous reconnaissez ? N'hésitez pas à postuler directement en ligne !\nTous nos métiers sont ouverts aux personnes en situation de handicap.\nInformations complémentaires\nType de contrat : CDI\nLocalisation : Maison de le RATP - Paris 12ème\nTélétravail : Oui\nPrincipaux avantages entreprise\nÉvolution de carrière vers d'autres métiers, y compris en filiales internationales\n9 semaines de congés, soit 206 jours travaillés par an"
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2714642",
+    "title": "Data Scientist F/H - Système, réseaux, données (H/F)",
+    "company": "EURO-INFORMATION DEVELOPPEMENTS ",
+    "location": "67",
+    "remote": null,
+    "publication_date": "2024-08-22",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": "Salaire brut : A négocier",
+        "Experience": "Débutant accepté",
+        "Level": null
+    },
+    "company_data": {
+        "sector": "Tierce maintenance de systèmes et d'applications informatiques",
+        "company_size": "Euro-Information, filiale technologique de Crédit Mutuel Alliance Fédérale, conçoit, réalise, maintient et exploite un système d'information commun utilisé par le Groupe.\n\nLes activités de développement et de production informatique au niveau national et international sont assurées par environ 4000 salariés répartis sur plusieurs sites géographiques au niveau national : Strasbourg, Nancy, Dijon, Orléans, Lyon, Lille, Cergy, Val de Fontenay, Paris et Nantes.\n\nPremière Ban...",
+        "turnover_in_millions": null
+    },
+    "description": "Descriptif du poste:\n\nNous recherchons actuellement un(e) Datascientist pour le secteur Solutions Cognitives. Notre équipe est en charge de la R&D et de la création des modèles d'IA pour le traitement automatique du langage (dont l'IA générative).\nNous développons notamment des modèles pour : l'analyse des e-mails, les chatbots à destination des clients et collaborateurs, les outils pour l'aide aux développeurs avec l'IA générative.\nNous travaillons sur les dernières technologies à l'état de l'art (Finetuning de Large language models open source, Llama, Mixtral etc.) avec une capacité de calcul sur GPU installé dans nos datacenters.\nNous recherchons une personne capable de travailler de l'étude d'un sujet R&D jusqu'à sa mise à disposition en production dans le cloud. Nous recherchons quelqu'un qui s'intéresse au sujet, se renseigne, aime apprendre et surtout, aime concevoir et développer des modèles et des services.\n \nDans ce contexte, en tant que Data Scientist, vous aurez à charge de développer des modèles et services d'intelligence artificielle dans un mode de fonctionnement agile (Scrum).\n\nPlus précisément, vous aurez à :\n* Créer des modèles de machine learning (Deep Learning, IA générative)\n* Réaliser de la veille technologique afin de rester à l'état de l'art.\n* Développer des services en Python\n* Rédiger des spécifications\n* Respecter les normes de développement et suivre des jalons définis dans les outils internes\n* Déploiements sur le cloud interne\n* Suivre les cérémonies de la méthodologie Scrum (planification de sprint, mêlée journalière etc...)\n\nProfil recherché:\n\nDe formation bac +4/5, vous avez les compétences suivantes :\n* Une solide compréhension de l'intelligence artificielle\n* Une capacité d'analyse et de veille afin de réaliser des études R&D\n* Une bonne connaissance du développement en Python et déploiement sur le cloud.\n* Bonne communication\n* Méthodologie de développement agile\n* Connaissance d'autres langages objets (C#, Java)\nVous maîtrisez l'anglais écrit et parlé.\n \nAutonome et organisé(e), vous faites preuve d'initiatives et d'esprit de synthèse.\nUne capacité à généraliser les concepts et à voir des similarités là où tout le monde ne voit que des différences sera très appréciée.\nVous avez le souci du respect des normes et standards qualité."
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2711430",
+    "title": "Data Scientist Expérimenté F/H - Système, réseaux, données (H/F)",
+    "company": "ERNST & YOUNG ",
+    "location": "92",
+    "remote": null,
+    "publication_date": "2024-08-22",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": "Salaire brut : A négocier",
+        "Experience": "Expérience exigée de 2 An(s)",
+        "Level": null
+    },
+    "company_data": {
+        "sector": "Conseil pour les affaires et autres conseils de gestion",
+        "company_size": "EY Consulting accompagne ses clients dans la réussite de leurs transformations stratégiques, au service d'une croissance économique durable et inclusive et de la construction d'un monde du travail meilleur. Notre offre s'articule autour de trois grands domaines d'expertise : Business Consulting, Technology Consulting et People Consulting, et s'appuie sur des expertises sectorielles fortes.\n \nMembre du réseau EY Europe West, leader du conseil sur la région, EY France offre à ses 1...",
+        "turnover_in_millions": null
+    },
+    "description": "Descriptif du poste:\n\nAu sein de Technology Consulting, Data & Analytics renforce ses équipes. Ses domaines d'interventions sont très larges (marketing, industrie, secteur public, énergie, retail et consumer product, etc.). Avec plus de 500 missions dans le domaine de l'analytics et du Big Data, nous sommes le premier cabinet de conseil en France dans le secteur. Nos consultants bénéficient de l'encadrement d'un large pool de managers, tous issus des meilleures formations et ayant des expertises techniques et métiers qui permettent à nos équipes d'être rapidement formées aux nouvelles méthodes et outils.\n \nEn outre, pour accélérer notre veille technologique, nous avons ouvert à la Tour First, un Lab de 600m² dédié à l'innovation autour du digital, de la data et de la blockchain. Déjà 40 nouvelles applications y ont vu le jour cette année.\n \nVous êtes Data Scientist, dataminer, architecte Big Data, consultant BI... H/F à la recherche d'une équipe dynamique, à la pointe des technologies et des innovations en Data Science, au service des entreprises les plus data driven, n'hésitez pas à nous contacter pour se rencontrer.\n \nVos missions  :\n \nPour soutenir notre développement dans les domaines « Analytics » (Analyse quantitative de données, datamining, Big data, Data Science.), vous êtes responsable de la réalisation de projet d'analyse quantitative de données, datamining dans un contexte souvent CRM - Marketing : segmentations, scores d'appétence, reportings analytiques, prévisions ...\n \nVous intervenez sur la définition de la stratégie en matière de gestion des données de nos clients ou sur le pilotage du déploiement de solutions technologiques Big Data. A partir de besoins métiers exprimés, vous encadrez l'équipe-projet et conduisez personnellement les aspects les plus sensibles de la mission client.\n \nGrâce à votre expérience, vous devez être en mesure de proposer et mettre en œuvre des méthodologies susceptibles de répondre efficacement et opérationnellement aux attentes du client dans le respect des délais et du budget prévu.\n \nVous développez une expertise sectorielle et devez être force de proposition sur les sujets et offres à présenter à nos clients pour les accompagner dans l'excellence de leur activité.\n\nProfil recherché:\n\nH/F, de formation supérieure de haut niveau en mathématiques / statistiques ou économétrie (écoles type ENSAE / ENSAI, ENSTA, Centrale Paris...), vous bénéficiez d'une expérience de 2 ans minimum idéalement acquise dans un cabinet de conseil ou au sein d'un département étude/connaissance client d'un grand groupe.\n \nVous maitrisez les principaux logiciels statistiques (R, SPSS, Modeler, SAS, etc.), les langages SQL et programmation (C, VBA, Python, etc.).\n \nDoté(e) d'un excellent sens relationnel, vous savez allier le sens de l'analyse et de la synthèse, rigueur et méthode. Vous êtes dynamique, autonome et responsable.\nCurieux(se), vous faites preuve d'esprit d'équipe et de leadership.\n \n \nVivez l'expérience EY, rejoignez-nous !\n \nDans le cadre de sa politique Diversité, EY étudie, toutes candidatures dont celles de personnes en situation de handicap. "
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2710183",
+    "title": "Data Scientist F/H - Système, réseaux, données (H/F)",
+    "company": "RATP ",
+    "location": "75",
+    "remote": null,
+    "publication_date": "2024-08-22",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": "Salaire brut : A partir de 35 k€ brut annuel",
+        "Experience": "Expérience exigée de 2 An(s)",
+        "Level": null
+    },
+    "company_data": {
+        "sector": "Transports urbains et suburbains de voyageurs",
+        "company_size": "Le Groupe RATP, implanté dans 14 pays, sur quatre continents est le 5e groupe de transport public urbain au monde. Il est composé d'une maison-mère qui exploite le réseau francilien, un réseau multimodal parmi les plus complexes et d'une centaine de filiales qui proposent une variété d'expertises en France et à l'International. C'est une entreprise intégrée qui détient une expertise globale : Ingénierie, exploitation et maintenance.",
+        "turnover_in_millions": null
+    },
+    "description": "Descriptif du poste:\nQuel sera votre quotidien ?\n\nVotre principal rôle sera de :\n\nParticiper à l'identification, la qualification et la priorisation de cas d'usage de data science à forte valeur métier ;\n\nAssurer, sous la supervision d'un Lead Data Scientist, la réalisation scientifique et technique des projets de data science, en se conformant au modèle de delivery et aux standards de développement promus par le CE Data\n\nAccompagner le déploiement des projets sur les infrastructures de production (support du build et du run) et leur intégration dans les processus métier concernés\n\nAssurer l'interface avec l'ensemble des parties prenantes (métiers et techniques) et contribuer à l'animation des réunions projet : kick-offs, revues de sprint, comités de pilotage, etc.\n\nValoriser les travaux au sein et à l'extérieur du groupe par le biais de communications et de démonstrations\n\nVous contribuerez également aux activités transverses du CE Data : missions d'expertise diverses, création de contenus de formation et d'acculturation, développement de l'offre du CE Data, participation à l'animation de la communauté data science du groupe, etc.\n\nPour en savoir plus, cliquez sur le lien suivant : https://www.ratp.fr/groupe-ratp\n\n\n\nProfil recherché:\nVous êtes diplômé d'un BAC+5 en Data Science (ou équivalent) et avez acquis au moins 2 années d'expérience dans ce domaine.\n\nPour relever ces défis, nous recherchons une personne disposant d'un bagage scientifique et technique solide :\n\nCompétences avancées en mathématiques, statistiques et intelligence artificielle\n\nCompétences dans le recueil, le traitement et l'analyse de données afin de répondre à des besoins métier spécifiques\n\nCompétences dans le développement et le déploiement de modèles d'apprentissage automatique dans un contexte industriel\n\nConnaissance de Python et, idéalement, de PySpark, SQL et Git\n\nVous vous reconnaissez ? N'hésitez pas à postuler directement en ligne !\n\nTous nos métiers sont ouverts aux personnes en situation de handicap.\n\nInformations complémentaires\n\nType de contrat : CDI\n\nLocalisation : Maison de le RATP - Paris 12ème\n\nTélétravail : Oui\n\nPrincipaux avantages de l'entreprise\n\nÉvolution de carrière vers d'autres métiers y compris en filiales internationales\n\n9 semaines de congés, soit 206 jours travaillés par an"
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2701494",
+    "title": "Data Scientist - Speech to Text (IT) / Freelance (H/F)",
+    "company": null,
+    "location": null,
+    "remote": null,
+    "publication_date": "2024-08-22",
+    "details": {
+        "TypeContract": "Profession",
+        "Salary": null,
+        "Experience": "Débutant accepté",
+        "Level": null
+    },
+    "company_data": {
+        "sector": null,
+        "company_size": null,
+        "turnover_in_millions": null
+    },
+    "description": "Je suis à la recherche d'un Data Scientist ayant déjà eu l'occasion de travailler sur des problématiques Speech to Text.\n?Amélioration de la transcription via des outils Speech to Text/ASR (Whisper AI)\n?Appétence pour comprendre l'utilisation d'outils open source\n?Capacité à établir un protocole scientifique dans sa méthodologie de travail\n?Être ouvert aux discussions autour des solutions à apporter, veille active, se renseigner sur les papiers scientifiques (veille active)\n?Appétence pour découvrir de nouvelles technologies\nProfil candidat:\nJe suis à la recherche d'un Data Scientist ayant déjà eu l'occasion de travailler sur des problématiques Speech to Text.\n?Amélioration de la transcription via des outils Speech to Text/ASR (Whisper AI)\n?Appétence pour comprendre l'utilisation d'outils open source\n?Capacité à établir un protocole scientifique dans sa méthodologie de travail\n?Être ouvert aux discussions autour des solutions à apporter, veille active, se renseigner sur les papiers scientifiques (veille active)\n?Appétence pour découvrir de nouvelles technologies"
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2701296",
+    "title": "Chef de projet informatique/Data Scientist (H/F) (IT) / Freelance",
+    "company": null,
+    "location": "LE PLESSIS ROBINSON 92",
+    "remote": null,
+    "publication_date": "2024-08-22",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": null,
+        "Experience": "Débutant accepté",
+        "Level": null
+    },
+    "company_data": {
+        "sector": null,
+        "company_size": null,
+        "turnover_in_millions": null
+    },
+    "description": "DSI GROUP recherche un  Data Scientist/ Chef de projet  (H/F), pour son client en Ile-de-France.\n \nVos missions sont les suivantes :\n L?architecture, la conception et la mise en ?uvre des solutions techniques,\n Création de documentation technique,\n Analyse initiale, et analyse des données,\n Définir, mettre en place et évaluer les solutions,\n Rédiger des rapports de synthèse.\nCompétences requises :\n Langue anglais : impératif (milieu anglophone),\n La compétence sur le Langage R, Python et Dataiku (plateforme de data science) sont impératifs,\n Expérience requise sur le pilotage d?équipes,\n Connaissance des architectures cloud et des technologies de big data.\nProfil candidat:\nIssu(e) d?une formation supérieure d?un Bac (+4/+5), vous justifiez d?une expérience de 8 ans minimum dans une fonction similaire.\n \n Lieu du poste : Ile-de-France (Le-Plessis-Robinson) et des déplacements 2 à 3 fois par mois à l?étranger sont à prévoir,\n Télétravail : 2 jours,\n Démarrage : Dès que possible et mission de longue durée,\n Salaire : Selon profil."
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2684409",
+    "title": "Data Scientist H/F",
+    "company": "BNP PARIBAS ",
+    "location": "92",
+    "remote": null,
+    "publication_date": "2024-08-21",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": null,
+        "Experience": "Expérience exigée",
+        "Level": null
+    },
+    "company_data": {
+        "sector": "Autres intermédiations monétaires",
+        "company_size": "BNP Paribas, acteur clé dans la finance mondiale, promeut une économie durable en conseillant et finançant ses clients de façon éthique. Nous innovons avec des solutions financières durables pour un impact positif sur notre environnement.",
+        "turnover_in_millions": null
+    },
+    "description": "POSTE : Data Scientist H/F\nDESCRIPTION : Data Scientist - H/F\n\nMissions, équipe et environnement de travail, ça donne quoi ?\n\nEn tant que Data Scientist vos responsabilités seront les suivantes\n-  Etudier la faisabilité des solutions proposées et donner un avis d'expert.\n-  Explorer et nettoyer les données.\n-  Proposer et mettre en oeuvre les modèles de Machine Learning adaptés.\n-  Présenter et vulgariser les résultats des analyses et des solutions développées.\n-  Mettre en place un tableau de bord pour le suivi des modèles en production.\n\nAu sein de la direction Actuariat & Data Science, vous rejoindrez le département Analytics France, composé de 5 Data Scientists et 5 Analytics Manager.\n\nCe département a pour objectif de mettre en oeuvre des solutions industrielles de Data Science pour l'ensemble de Business Unit et fonctions de Cardif France, en déployant des algorithmes grâce à DOMINO, notre plateforme de data science.\n\nVous prendrez part aux projets d'entreprise à composante Analytics et travaillerez en étroite collaboration avec l'Analytics Manager et les différents métiers concernés. Ces projets pourront avoir des finalités variées : améliorer l'efficacité de nos processus, prévenir le risque de fraude, simplifier un parcours client, optimiser la distribution d'un produit chez un partenaire\n\nNotre équipe, axée sur la création de valeur business, a déjà déployé une dizaine modèles en production au service des métiers. Dans le cadre de notre plan d'accélération IA, vous aurez l'opportunité de développer des solutions innovantes et à fort impact. Vous travaillerez sur des sujets d'actualité comme l'utilisation de LLM pour des systèmes de question-réponse (RAG) et la synthèse d'informations, ainsi que des techniques de Computer Vision pour l'automatisation du traitement des documents numérisés.\n\nLe poste est situé au siège de BNP Paribas Cardif, à Nanterre, accessible en 15 minutes par navette depuis la Défense ou par le RER A (gare de Rueil-Malmaison).\n\nDes déplacements occasionnels en Ile de France sont à prévoir.\n\nEt après ?\n\nCe poste vous permettra de participer une diversité de projet, ainsi qu'à différentes sessions de partage de connaissances techniques entre les membres de l'équipe, ainsi vous accélérerez votre montée en compétences.\n\nVous développerez aussi votre réseau : de par votre rôle central dans un projet Analytics, vous serez en contact régulier avec divers interlocuteurs d'autres BU ou directions.\n\nEnfin, le Groupe BNP PARIBAS ayant à coeur de faciliter la mobilité interne, vous aurez l'occasion d'évoluer vers d'autres postes au sein de CARDIF ou dans une autre entité du Groupe en France ou à l'étranger.\n\nTravailler chez BNP Paribas c'est :\n\nUn package rémunération et des avantages :\n-  Un fixe annuel brut et un variable individuel défini en fonction de votre performance.\n-  Plan épargne entreprise/retraite, intéressement et participation, couverture santé et prévoyance, activités sociales et culturelles via le comité d'entreprise\n-  De la flexibilité avec un rythme de travail hybride :  jusqu'à 2.5 jours de télétravail par semaine, à définir avec votre futur manager.\n\nRejoignez un Groupe engagé et prenez part à notre grand projet de transformation vers la construction d'un monde plus durable. Découvrez nos engagements pour notre clientèle et la société. \nEngagez-vous à nos côtés sur votre temps professionnel, à travers notre programme OneMillionHoursToHelp.\n\nEtes-vous notre prochain Data Scientist H/F ?\n\nOui si vous avez 3 ans d'expérience dans la réalisation de modèles de Machine Learning à usage opérationnel, avec au moins une expérience significative en NLP.\n\nVotre parcours vous permet d'avoir de très bonnes compétences en programmation sur Python, une bonne maîtrise du fonctionnement des modèles de langage (LLM) et/ou des techniques de traitement d'images.\n\nVous êtes curieux et rigoureux.\n\nVous avez démontré de solide capacité d'analyse.\n\nVous savez travailler dans un esprit collaboratif et faire preuve de pédagogie.\n\nEnfin vos qualités de communicant finiront de nous convaincre.\n\nLes prochaines étapes / Les étapes du recrutement\n\nSi votre CV est retenu par notre équipe de recrutement, vous serez amené à passer un à trois entretiens au maximum avec des RH (Staffing Business Partner) et/ou manager opérationnel.\n\nDans un monde qui change, la diversité, l'équité et l'inclusion sont des valeurs clés pour le bien-être et la performance des équipes. Chez BNP Paribas, nous souhaitons accueillir et retenir tous les talents sans distinction : c'est ainsi que nous const"
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2682904",
+    "title": "Consultant Expérimenté Data Scientist CDI H/F",
+    "company": "PWC ",
+    "location": "92",
+    "remote": null,
+    "publication_date": "2024-08-21",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": null,
+        "Experience": "Expérience exigée",
+        "Level": null
+    },
+    "company_data": {
+        "sector": "Activités comptables",
+        "company_size": "PwC poursuit sa stratégie mondiale The New Equation, portée par l'humain, nos engagements responsables, sociétaux et soutenus par la technologie. Dans ce contexte, nous investissons sur l'utilisation du cloud, de l'IA, des alliances technologiques, de la réalité virtuelle et de technologies émergentes.",
+        "turnover_in_millions": null
+    },
+    "description": "POSTE : Consultant Expérimenté Data Scientist CDI H/F\nDESCRIPTION : Notre communauté Data et IA réunit actuellement 300 experts (Data Strategists, Data Analysts, Data Scientists, Data Engineers, PO Data, etc.) en France, couvrant ainsi toute la chaîne de valeur, de la stratégie à l'exécution, afin d'accompagner nos clients sur l'ensemble de leurs métiers et de leurs entités, dans leur data transformation.\n\nCe que vous pouvez attendre de nous\n\nEn tant que Data Scientist dans les équipes Data & IA de PwC votre mission sera de :\nDévelopper des solutions Data science pour répondre aux enjeux d'efficacité et d'innovation de nos clients (algorithmes de recherche opérationnelle, Machine Learning, Deep Learning pour des tâches très diverses dans le NLP, Computer Vision, Time Series, etc.)\nParticiper à la conception et au développement de produits data PwC qui intégreront des offres Clients ou qui répondront à des besoins internes\nContribuer à la réflexion et à la mise en oeuvre pour l'amélioration constante des produits et outils de l'équipe :\nTester les solutions d'éditeurs et des algorithmes et framework de la communauté Open source\nPartager les résultats de vos travaux et enrichir vos compétences en échangeant avec les experts mondiaux IA (kaggle master) du réseau PwC\n\nNotre boite à outils et technologies :\nPython, R,\nAlteryx, Dataiku,\nSpark, Azure, AWS et GCP, Snowflake, Databricks,\nPandas, Jupyter, Tensorflow, Superset\n\nCe que nous attendons de vous\nVous êtes diplômé(e) d'une formation de haut niveau en mathématiques / statistiques et data science (écoles type ENSAE / ENSAI, ENSTA, Centrale Paris)\nVous avez une expérience solide en cabinet de conseil ou dans une équipe de Data Science d'une entreprise qui a déjà réalisé sa transformation data.\nDoté d'une curiosité intellectuelle, vous aimez les défis, résoudre des problèmes complexes et structurer l'approche pour y arriver\nVous aimez travailler en équipe, accompagner les plus juniors pour qu'ils montent en compétences\nVous avez déjà évolué dans un environnement d'entreprise ou de conseil pour développer des solutions Data\nVous avez déjà réalisé des projets en traitement et modélisation des données, algorithmes et architecture des données\nPython est pour vous un langage quotidien (et si vous maîtrisez R, SQL/noSQL, Scikit-Learn, Spark, Tensorflow, c'est encore mieux)\nVous êtes doté d'un esprit pragmatique capable de comprendre le besoin des clients et d'identifier les solutions data science adéquates\nVous connaissez les limites des divers algorithmes de machine learning et savez proposer des adaptations ou recommandations pour répondre au problème\n\nCes avantages que nous vous offrons :\nFlexibilité avec la charte FlexWork : télétravail étendu, mobilité géographique, FlexTime, Dress for your day\nPass mobilité durable pour couvrir vos dépenses de mobilité durable\nProgramme BE Well, Work Well pour prendre soin de sa santé (partenariat Gymlib, application United heroes, associations sportives, formations mindfulness)\nProgramme Family Care pour vous accompagner dans vos projets de parentalité comme dans les moments difficiles\nÉcosystème de santé pour trouver à qui parler, être écouté et aidé quelles que soient vos difficultés professionnelles ou personnelles\nCrédit de 3 jours par an sur le temps de travail pour des missions d'engagement sociétal\nMobilité interne et internationale possible à partir de 18 mois d'ancienneté\nCrystal Park (site de Neuilly-sur-Seine) : parc privatif de 2 hectares, conciergerie, salle de musique, salle de sport, Café Joyeux\nProgramme New World. New Skills pour monter en compétences sur les enjeux de demain (ESG, technologies, inclusion des diversités) et plateforme Vantage de formation à la demande\n- \nEt aussi : RTT, mutuelle santé et prévoyance, restaurants d'entreprise et titres-restaurants, avantages du Comité Inter-Entreprises\n\nToutes nos offres sont ouvertes aux personnes en situation de handicap\nPROFIL :"
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2682635",
+    "title": "Data Scientist H/F",
+    "company": "BPCE SA ",
+    "location": "75",
+    "remote": null,
+    "publication_date": "2024-08-21",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": null,
+        "Experience": "Expérience exigée",
+        "Level": null
+    },
+    "company_data": {
+        "sector": "Autres intermédiations monétaires",
+        "company_size": "Notre activité\n\nRejoignez une entreprise au coeur des activités du groupe BPCE, de ses évolutions et de son développement.",
+        "turnover_in_millions": null
+    },
+    "description": "POSTE : Data Scientist H/F\nDESCRIPTION : Organe central du Groupe, BPCE SA assure la coordination, la cohérence et les synergies entre les différentes marques pour porter les ambitions du Projet du Groupe BPCE 2024.\n\nLes missions confiées à nos collaborateurs offrent une vision transversale des enjeux économiques et stratégiques du Groupe.\n\nVos missions au sein de l'équipe\n\nAu sein du Pôle Digital & Payments, la Direction Data et IA comprend notamment le Centre d'Expertise Data Science, en charge de la maîtrise d'oeuvre des travaux de Data Science et d'IA transverse au Groupe, et à la tête de la Guilde Data Science du Groupe. Le Centre d'Expertise Data Science rassemble plus de 35 Data Scientists.\n\nNous recherchons un Data Scientist  pour rejoindre notre équipe dynamique et contribuer à l'analyse avancée de données dans le cadre de projets stratégiques. Sous la responsabilité hiérarchique d'un Manager Data Science, le Data Scientist travaillera en étroite collaboration avec les équipes techniques et métier pour transformer les données en informations stratégiques et en actions concrètes.\n\nResponsabilités principales :\n-  Contribuer à l'identification des besoins et des problématiques des directions métiers, et à leur cadrage\n-  Intervenir directement, en lien avec les Métiers, sur des projets de Data Science pour définir des orientations méthodologiques ou valider des choix d'approche,\n-  Interagir avec les équipes IT, en tant que client de plateforme et outils Big Data et en tant que contributeur à l'industrialisation des projets,\n-  Mener des actions de recherches sur des technologies de pointes, de nouvelles sources de données et prototyper des solutions « sur étagère » au service des entités du Groupe,\n-  Réaliser une veille active à des fins de R&D, dans le cadre des partenariats noués et de manière directe.\n\nVos atouts pour réussir\n\nLe candidat idéal possède au moins 5 ans d'expérience dans le domaine de la science des données, avec une solide expertise en modélisation statistique, machine learning et manipulation de grands ensembles de données.\n\nMaster ou doctorat en informatique, mathématiques, statistiques ou dans un domaine connexe.\n-  Maîtrise des langages de programmation tels que Python, R, ou Scala.\n-  Expérience avérée dans l'utilisation de frameworks de machine learning comme scikit-learn, TensorFlow, ou PyTorch.\n-  Compétences solides en statistique et en modélisation prédictive.\n-  Compétences en NLP et en IA Génératives\n-  Expérience avec les systèmes de gestion de bases de données SQL et NoSQL.\n-  Capacité à travailler avec des outils de visualisation de données tels que Tableau, Power BI ou des bibliothèques Python (Matplotlib, Seaborn).\n-  Bonne compréhension des infrastructures de données cloud (AWS, Azure, GCP).\n-  Familiarité avec les outils de versioning de code, tels que Git.\n-  Connaissance des méthodes de déploiement de modèles en production, notamment les conteneurs Docker et les orchestrateurs comme Kubernetes.\n\nPourquoi nous rejoindre ?\n\nUn Groupe engagé dans le développement de ses collaborateurs\n-  Des opportunités professionnelles au sein de l'ensemble du groupe BPCE, avec la possibilité de bénéficier d'accompagnements sur-mesure (parcours d'upskilling / reskilling, LinkedIn Learning)\n-  Un modèle managérial favorisant la mise en responsabilité et la prise d'initiatives\n\nUn Groupe engagé dans les enjeux sociétaux et environnementaux\n-  Le Groupe BPCE place le climat comme priorité d'action de tous ses métiers et de toutes ses entreprises. Trois objectifs sont fixés : aligner tous ses portefeuilles sur une trajectoire \"net zéro\", accompagner ses clients dans leur transition environnementale, et réduire sa propre empreinte.\n-  En quelques chiffres la RSE dans le Groupe :\n   - 1erfinanceur de l'économie sociale et solidaire avec 15.9 Md€ d'encours\n   - 35 Md€ d'encours de financement de la transition énergétique\n   - 6 millions d'emplois soutenus grâce à l'activité des réseaux BP et CE\n\nÊtre un employeur inclusif à travers des politiques fortes en termes de mixité, d'équilibre des temps de vie, de santé au travail\n\nMais aussi\n-  10 jours de télétravail par mois avec une subvention mensuelle de 22 Euros\n-  Une carte ticket-restaurant de 9,8 Euros par jour de télétravail\n-  29 jours de congés payés et entre 16 et 19 jours de RTT (en fonction du calendrier des jours fériés)\n-  64,2% de prise en charge des frais de transport\n-  Un dispositif d'épargne salarial attractif avec système d'abondement de 2500 Euros annuel\n-  Une mutuelle avantageuse avec la prise en charge de la cotisation à hauteur de 5"
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2682627",
+    "title": "Data Scientist H/F",
+    "company": "MYRIAM K ",
+    "location": "75",
+    "remote": null,
+    "publication_date": "2024-08-21",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": "Salaire brut : Annuel de 50000,00 Euros à 80000,00 Euros",
+        "Experience": "Expérience exigée",
+        "Level": null
+    },
+    "company_data": {
+        "sector": null,
+        "company_size": null,
+        "turnover_in_millions": null
+    },
+    "description": "POSTE : Data Scientist H/F\nDESCRIPTION : Vous êtes passionné(e) par les données et les chiffres ? Vous avez une expertise en analyse de données et en optimisation des processus ? Rejoignez notre équipe en tant que Data Scientist et participez à l'optimisation des performances des campagnes et activités sur les réseaux sociaux.  \n \nVos missions seront d'aider à suivre, analyser et optimiser les KPIs dans divers domaines tels que les achats, les stocks, les campagnes de réseaux sociaux, les collaborations avec les influenceurs et les campagnes d'e-mail marketing.  \n\nAlors si vous êtes un(e) expert(e) en analyse de données, en gestion de projets et en optimisation des processus, cette offre est faite pour vous ! Rejoignez une équipe dynamique et innovante pour relever de nouveaux défis et contribuer au succès de notre entreprise.\nTickets restaurant\n\nMutuelle\n\nCE\n\nAmbiance de travail \nPROFIL : Compétences attendues : \n-  Maîtrise des outils d'analyse de données \n-  Capacité à interpréter les résultats et à proposer des recommandations \n-  Excellentes compétences en communication et en travail d'équipe \n-  Capacité à gérer plusieurs projets en parallèle \n-  Connaissance des techniques d'optimisation des processus \n-  Expérience dans l'analyse des KPIs et des performances"
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2682486",
+    "title": "Senior Data Scientist For Audit CDI H/F",
+    "company": "PWC ",
+    "location": "92",
+    "remote": null,
+    "publication_date": "2024-08-21",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": null,
+        "Experience": "Expérience exigée",
+        "Level": null
+    },
+    "company_data": {
+        "sector": "Activités comptables",
+        "company_size": "L'audit financier ou l'analyse des risques sont nos métiers historiques. Mais cela ne nous empêche pas de les faire évoluer ! Automatisation, digitalisation, intelligence artificielle cela change tout dans le traitement et l'analyse des états financiers.\n\nLa technologie est au coeur de nos missions. La complexité des systèmes, l'augmentation de l'utilisation des données et l'investissement constant dans les technologies par nos clients créent de nouveaux enjeux mais égalem...",
+        "turnover_in_millions": null
+    },
+    "description": "POSTE : Senior Data Scientist For Audit CDI H/F\nDESCRIPTION : Dans nos équipes d'audit, nous avons investi significativement dans les technologies émergentes pour comprendre les processus, technologies et systèmes utilisés par nos clients et remodeler en profondeur nos approches métier.\n\nNotre équipe Data Science for Audit fait partie intégrante de cet eco-système. Nous fournissons et développons des initiatives technologiques sur tous les secteurs de nos clients.\n\nNous faisons cela à travers notre expertise en analyse de données, robotique, IA, GenAI, machine learning et en utilisant les meilleures pratiques existantes sur le marché.\n\nNos équipes travaillent également directement avec nos clients pour générer des informations pertinentes et faire parler les données afin de nous permettre d'avoir une meilleure compréhension de l'évaluation de leurs risques.\n\nCe que vous pouvez attendre de nous :\n\nL'équipe data est une équipe hautement qualifiée, performante, diversifiée et leader dans l'implémentation de solutions technologiques avancées pour l'audit. En tant que spécialiste data, vous allez :\n-  Conseiller les équipes d'audit sur les moyens d'automatiser et de réinventer nos missions, en mettant en oeuvre des technologies innovantes, telles que GenAI/Machine Learning et Python.\n-  Construire une solide compréhension du rôle que jouent la donnée et l'analyse dans la finance moderne.\n\nNous sommes en partenariat avec des acteurs majeurs de la Tech tels que OpenAI, Microsoft, Google, Databricks et Harvey.\n\nVous travaillerez sur des missions vous permettant de développer des compétences en analyse avancée, en GenAI et Machine Learning, en ingénierie des données et sur des outils de visualisation pour offrir aux clients l'expérience digitale de PwC. Cela signifie que vous développerez les compétences techniques et commerciales autour du thème des données et de l'analyse que nos clients exigent aujourd'hui.\n\nEn tant que principal acteur de l'analyse de la donnée pour l'audit de PwC France, vous travaillerez en étroite collaboration avec des clients et équipes d'audit dans un large éventail de secteurs (ex. Distribution, Retail, Pharmaceutique, Energie, Télécommunications, Banque, Assurance, etc.).\n\nFormation et développement :\n\nGrâce à notre programme de formation sur mesure, vous développerez les bases pour devenir un professionnel de la Data Science hautement qualifié. Vous bénéficierez également du soutien d'une équipe dynamique et expérimentée qui vous aidera à orienter votre carrière, afin que vous puissiez toujours donner le meilleur de vous-même.\n\nNotre objectif est de nous assurer que nos collaborateurs obtiennent des accréditations externes pertinentes (combinaison de compétences soft skills et techniques), vous distinguant ainsi comme expert de la Data.\n\nCe que nous attendons de vous :\n- \nDe formation supérieure, vous avez 3-5 ans d'expérience dans la Data\n-  Vous êtes capables d'accompagner des missions d'audit à l'aide de l'analyse de données et de technologie émergente (ex. LLM GenAI, Machine Learning)\n-  Un développement d'approches innovantes en lien avec les équipes métiers grâce à un socle de compétence solide, notamment :  - Connaissance GenAI (ex. OpenAI, VertexAI, Llama, Mistral)\n-  Compréhension des problèmes courants de qualité des données et de leurs effets sur les modèles GenAI et Machine Learning\n-  Transformer et modéliser (ex. pandas, polars et scikit-learn pour Python)\n-  Data storage et interrogation (ex. ChromaDB, SQL, Alteryx)\n-  Data visualisation (ex. PowerBI, Seaborn)\n-  Nettoyage et manipulation des données pour le GenAI et Machine Learning (ex. feature engineering)\n-  Vous êtes dynamique et aimez le travail en équipe et surtout : accompagner, transmettre et partager c'est votre leitmotiv !\n-  Vous avez commencé à développer vos compétences d'encadrement et de coaching d'équipe, et vous voulez aller plus loin dans la revue des travaux de l'équipe et leur supervision\n-  Vous avez à coeur de tisser un lien de confiance avec l'équipe et les auditeurs\n-  Comme les équipes sont multiples et partout, vous savez vous adapter\n-  La maîtrise de l'anglais est essentielle car votre quotidien chez PwC est ouvert sur le monde\n-  L'organisation, la rigueur, la curiosité et un excellent relationnel vous permettront de réussir sur ce poste\n\nCes avantages que nous vous offrons :\n\n· Flexibilité avec la charte FlexWork : télétravail étendu, mobilité géographique, FlexTime, Dress for your day\n\n· Pass mobilité durable pour couvrir vos dépenses de mobilité durable\n\n· Programme BE Well, Work Well pour prendre soin de sa santé (partenariat Gymlib, a"
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2682437",
+    "title": "Data Scientist Senior H/F",
+    "company": "GROUPAMA LOIRE BRETAGNE ",
+    "location": "35",
+    "remote": null,
+    "publication_date": "2024-08-21",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": null,
+        "Experience": "Expérience exigée",
+        "Level": null
+    },
+    "company_data": {
+        "sector": "Activités des sièges sociaux",
+        "company_size": "Groupama Loire Bretagne est la 1ère mutuelle sur son territoire (Bretagne - Loire-Atlantique et Maine-et-Loire). Une position d'acteur économique de poids : plus de 2200 collaborateurs, 296 agences, une politique d'achat régionale qui contribue à l'activité de plus de 1000 entreprises du territoire.   \n \n« Nous sommes là pour permettre au plus grand nombre de construire leur vie en confiance  \nPour cela, nous sommes fondés sur des communautés d'entraide humaines, proc...",
+        "turnover_in_millions": null
+    },
+    "description": "POSTE : Data Scientist Senior H/F\nDESCRIPTION : Contexte de la mission\nL'innovation et la Data n'ont de valeur que lorsqu'elles servent la stratégie de l'entreprise. Passionné.e par les enjeux Data, vous souhaitez pouvoir valoriser votre capacité à faire parler les données au service de la  stratégie dans un environnement en pleine transition aux bases solides ? Rejoignez le service Data Intelligence et Prospective de Groupama Loire Bretagne en tant que Data Scientist.\nLe service regroupe les différents métiers de la Data Intelligence - de la Business Intelligence à l'Intelligence Artificielle et de la Stratégie et Prospective.\nAssureur mutualiste incontournable sur le territoire, Groupama Loire Bretagne s'appuie sur un réseau d'agence et d'élus dense permettant d'être plus que jamais proche de ses sociétaires.\n\nDescription du poste\nEn tant que Data Scientist Senior, vous jouerez un rôle clé dans l'analyse et l'exploitation des données de l'entreprise et des données externes au service de l'améliorer de l'expérience client et de l'efficacité opérationnelle. Vous travaillerez principalement en étroite collaboration avec les équipes assurances, commerciales et informatiques pour développer des modèles prédictifs, segmenter notre base de clients et fournir des insights stratégiques.\n\nVos missions\nAu sein du service, vous aurez en charge, avec le soutien de Jeanne-Françoise, votre manager, d'apporter aux décideurs les éléments permettant la prise de décision dans ses orientations stratégiques. Plus concrètement, votre mission portera les aspects suivants :\nConcevoir et développer des modèles statistiques et des algorithmes pour comprendre et prédire les comportements clients afin d'améliorer la connaissance client.\nAnalyser des ensembles de données complexes pour identifier des tendances et des opportunités de marché.\nCollaborer avec l'ensemble des métiers de l'entreprise et du Groupe pour répondre à leurs besoins, en adoptant une posture de conseil, appuyée sur votre expertise\nPrésenter et valoriser des analyses statistiques et des résultats de manière claire et concise aux parties prenantes.\nAssurer une veille technologique pour rester à jour sur les nouvelles méthodes et outils en data science.\nIdentifier et proposer des projets à forte valeur ajoutée pour l'entreprise.\nAccompagner les talents de l'équipe dans leur montée en compétence autour de la Data Science.\n\nVotre cadre et conditions de travail\n\nVous serez basé au siège à Rennes près de la gare, dans un cadre agréable, sur un open-space.\n-  Du lundi au vendredi avec 22 jours de RTT par an\n-  Métier éligible au télé-travail sous condition (2jours/semaine)\n-  28 jours de CP\n-  Participation/intéressement\n-  PEE avec abondement de l'entreprise\n-  Mutuelle et contrat de prévoyance\n-  CE\n-  Chèques vacances\n-  Accès à la restauration d'entreprise avec participation employeur\nPROFIL : Les compétences clés pour réussir dans cette mission :\nVotre autonomie et votre organisation\nVotre capacité d'analyse et de synthèse\nVotre aisance relationnelle et vos qualités de communication\nVotre leadership\nVotre capacité à innover\n\nVotre profil :\nDiplôme en Statistiques, Informatique, Mathématiques, ou dans un domaine connexe.\nMinimum de 5 ans d'expérience en data science, de préférence dans le secteur de l'assurance ou des services financiers.\nMaîtrise des langages de programmation statistiques tels que R, Python.\nUne connaissance de l'outil DataIku serait appréciée\nSolides compétences en analyse de données et en modélisation prédictive.\nExcellente capacité à communiquer des concepts complexes à des non-spécialistes.\nAptitude à travailler de manière autonome et en équipe.\n\nL'aventure vous intéresse ? Postulez !\nAprès une étape de pré-sélection de CV, Anouchka vous contactera par téléphone pour un premier échange et vous proposera un entretien avec elle et Jeanne-Françoise (Entretiens calés le 20/09 sur Rennes). Puis nous vous proposerons de réaliser un assesment et de rencontrer Guillaume, le responsable du service."
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2657305",
+    "title": "Docteur R&D - Data Scientist / Machine Learning - JLS F/H - Projets scientifiques et techniques (H/F)",
+    "company": "RD2 CONSEIL ",
+    "location": "59",
+    "remote": null,
+    "publication_date": "2024-08-21",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": "Salaire brut : A négocier",
+        "Experience": "Débutant accepté",
+        "Level": null
+    },
+    "company_data": {
+        "sector": "Conseil pour les affaires et autres conseils de gestion",
+        "company_size": "RD2 Conseil est un cabinet de recrutement spécialisé sur la recherche de profils scientifiques pour les besoins en R&D des PME innovantes et entreprises privées, souhaitant se doter de compétences pointues et de réelles ressources humaines en matière d'innovation.\nNous recrutons actuellement 2 Docteurs R&D (H/F) pour intégrer et renforcer l'équipe scientifique du Data Lab de notre client : un profil Data Scientist / Machine Learning et un profil Data Engineer.\nCelui-ci, entrepr...",
+        "turnover_in_millions": null
+    },
+    "description": "Descriptif du poste:\n\nAfin de répondre aux enjeux du secteur de la mode et d'accompagner sa transformation digitale, notre client a créé un Data Lab interne au service des experts métiers de l'entreprise. Véritable outil de valorisation des données collectées par l'ensemble des services, il vise à développer des solutions basées sur l'Intelligence Artificielle au service des métiers et à révéler de nouveaux leviers stratégiques.\nEn fort développement, plusieurs recrutements auront lieu sur l'année, et notre client souhaite notamment renforcer l'expertise R&D de l'équipe Data (6 personnes aujourd'hui), par le recrutement de 2 profils : un(e) Docteur en Data Science / Machine Learning et un(e) Docteur Data Engineer.\nRattaché(e) au directeur de la Data et de l'IA, et accompagné(e) par une équipe de Data Analyst vous travaillerez en mode projet avec les product managers des sujets concernés (prévisions de ventes, descriptions des produits, comptes d'exploitation, .) et serez responsable de la roadmap produit et des livrables.\nLes projets envisagés couvriront un spectre large de thématiques liées à l'IA (NLP, Computer Vision, systèmes prédictifs, .).\nVotre capacité à innover et votre regard neuf sur les sujets seront des atouts pour l'entreprise qui souhaite mener une approche véritablement disruptive de ses modèles et habitudes.\nAu sein d'un Data Lab en développement, vous aurez accès aux dernières technologies (Azure Cloud, Databricks, Snowflake, Spark, Python, Dbt) et aurez les moyens nécessaires pour concevoir et tester des approches innovantes.\n \nEn tant que Data Scientist vous interviendrez sur les missions suivantes: \n* Vous évaluez la qualité des données, les nettoyez, les agrégez, et menez des études adhoc\n* Vous concevez, implémentez et comparez différents algorithmes et méthodes statistiques\n* Vous concevez et mener des protocoles de test en conditions réelles (magasins, entrepôts, .)\n* Vous mettez en production, maintenez et itérez sur les solutions : « you build it, you run it »\n* Vous collaborez avec l'écosystème interne (Merchandising, Marketing, Produit, IT) pour mettre en place les solutions adaptées à leurs besoins, et externe, pour piloter et mesurer les performances.\n* Responsable de vos projets, vous gérez les rapports, tableaux de bord, .\n \nEn tant que Data Engineer vous interviendrez sur les missions suivantes: \n* Modélisation des données\n* Développement et conception des solutions data, des pipelines donnés, ainsi que leur supervision\n* Conception et industrialisation des flux de données\n* Validation de la qualité des développements et maintenance des solutions existantes\n* Participation à la construction du socle et des services sur Azure Cloud et Snowflake en garantissant une data fiable et sécurisée\n* Utilisation de frameworks de calcul distribué\n* Contribution aux rituels agiles de l'équipe et à la veille technologique.\nDocumentation des modèles de données et des pipelines.\n\nProfil recherché:\n\nNous recherchons un candidat disposant en particulier des compétences suivantes :\nPour le poste de Data Scientist :\n* Un Doctorat en Informatique / Statistiques / Mathématiques Appliquées sur une thématique Data Science / Machine Learning;\n* Vous avez durant vos expériences doctorales / post-doctorales travaillé sur des problématiques de traitement et d'analyse de données par le biais d'algorithmes d'IA / Machine Learning (NLP et/ou Computer Vision et/ou systèmes de recommandations / prédictions,  ..).\n* Vous maîtrisez la programmation informatique permettant de concevoir et d'implémenter l'ensemble de ces systèmes. Une bonne maitrise de la programmation en Python et des librairies associées est requise.\n* Vous maîtrisez des systèmes de gestion des bases de données (capacité à effectuer des requêtes SQL et à travailler avec de grands ensembles de données),\n* La connaissance des environnements Cloud Azure est un plus,\n* Une 1ère expérience en visualisation des données (Matplotlib par exemple) est un plus.\n \nPour le poste de Data Engineer :\n* Un Doctorat en Informatique sur une thématique Data Science ;\n* Vous avez durant vos expériences doctorales / post-doctorales travaillé sur des problématiques d'architecture de la data et de gestion des flux de données. \n* Vous maîtrisez des systèmes de gestion des bases de données (capacité à effectuer des requêtes SQL et à travailler avec de grands ensembles de données),\n* La connaissance de l'un ou plusieurs des environnements suivants est un plus: Javascript, Scala, Python, Shell, Azure, CI/CD, Pipeline (Airflow, Dataflow.), API (Azure App Service, Flask, FastAPI.)\n \nPour mener à bien vos missions, vous serez amené(e) à collaborer avec des équipes interdisciplinaires, et à communiquer vos approches et résultats à des publics techniques et non techniques. Vous avez le goût d"
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2656639",
+    "title": "Data Scientist /X F/H - Système, réseaux, données (H/F)",
+    "company": "AMARIS NORD ",
+    "location": "59",
+    "remote": null,
+    "publication_date": "2024-08-21",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": "Salaire brut : A négocier",
+        "Experience": "Expérience exigée de 4 An(s)",
+        "Level": null
+    },
+    "company_data": {
+        "sector": "Conseil pour les affaires et autres conseils de gestion",
+        "company_size": "Amaris Consulting est une société indépendante de conseil en technologie qui fournit des conseils et des solutions aux entreprises. Elle regroupe plus de 6000 personnes de 95 nationalités différentes, réparties sur 5 continents et dans plus de 60 pays. Avec plus de 1000 clients dans le monde entier, nous opérons sur des projets majeurs depuis plus de dix ans.\nNos experts interviennent sur 4 domaines (IS & Digital, Telecom, Life Sciences et Engineering) et dans tous les secteurs, de...",
+        "turnover_in_millions": null
+    },
+    "description": "Descriptif du poste:\n\n* Analyser les données pour identifier des tendances, des modèles et des insights.\n* Développer des modèles prédictifs et des algorithmes pour résoudre des problèmes métier.\n* Travailler en étroite collaboration avec les équipes interfonctionnelles pour comprendre les besoins métier et proposer des solutions basées sur les données.\n* Communiquer efficacement les résultats de l'analyse et les recommandations aux parties prenantes.\n\nProfil recherché:\n\n* Vous avez une expérience de minimum 4 ans en tant qu'ingénieur de données.\n* Vous maîtrisez les langages de programmation tels que SQL, Python ou Java.\n* Une excellente communication et la capacité à travailler en équipe sont essentielles pour réussir dans ce rôle.\n* Votre esprit d'initiative vous permet d'être proactif(ve) dans l'amélioration continue des processus existants"
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2654441",
+    "title": "Data Scientist F/H - Système, réseaux, données (H/F)",
+    "company": "OUTSCALE ",
+    "location": "92",
+    "remote": null,
+    "publication_date": "2024-08-21",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": "Salaire brut : A négocier",
+        "Experience": "Expérience exigée de 3 An(s)",
+        "Level": null
+    },
+    "company_data": {
+        "sector": "Traitement de données, hébergement et activités connexes",
+        "company_size": "OUTSCALE, marque de Dassault Systèmes, est un opérateur souverain et durable de l Expérience en tant que Service qui offre à ses clients des environnements technologiques de confiance.\nNous offrons des expériences uniques grâce au savoir-faire de nos équipes passionnées, qui se reflète notamment par la création de solutions de Business Expériences, le développement de notre propre orchestrateur Cloud, TINA OS, ou encore l obtention de la qualification SecNumCloud.\n \nNotre m...",
+        "turnover_in_millions": null
+    },
+    "description": "Descriptif du poste:\n\nNous recrutons un·e Data Scientist afin de renforcer notre équipe Business Experience. \nVos missions \n* Analyser des problématiques et proposer des solutions.\n* Modéliser, implémenter et évaluer des algorithmes.\n* Traiter des données non structurées.\n* Optimiser des modèles ML/DL pour la scalabilité, l'efficacité et les performances.\n* Industrialiser des algorithmes dans les services API.\n* Déployer des services sur le cloud.\n* Participer à la rédaction de spécifications et documentations techniques.\n* Participer à des événements et publications scientifiques.\n\nStack technique\n* Python\n* Frameworks ML/DL (Pytorch)\n* Architectures de réseaux neuronaux (LLMs)\n* Implémentation d'algorithmes ML/DL (apprentissage supervisé/non-supervisé)\n\nProfil recherché:\n\n* Diplômé·e d'un Master  en Intelligence Artificielle, Machine Learning. \n* 3 ans d'expérience minimum post-diplôme dans le domaine de l'IA, Data Science, Machine Learning, NLP, Computer Vision.\n* Vous maîtrisez l'analyse et la transformation des données.\n* Idéalement, vous avez de l'expérience dans le déploiement des modèles ML/DL sur le cloud. \n* Motivé·e, organisé·e, curieux·se, vous appréciez travailler en équipe.\nLa Diversité d'OUTSCALE trouve aussi son expression dans notre politique de recrutement qui privilégie l'égalité des chances, la diversité des individus au sein de nos équipes."
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2683594",
+    "title": "Senior Associate Scientist H/F",
+    "company": "SANOFI ",
+    "location": "69",
+    "remote": null,
+    "publication_date": "2024-08-21",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": null,
+        "Experience": "Expérience exigée",
+        "Level": null
+    },
+    "company_data": {
+        "sector": "Activités des sièges sociaux",
+        "company_size": "Cette offre d'emploi est ouverte à toutes et tous, quel que soit le genre auquel s'identifie le candidat ou la candidate.",
+        "turnover_in_millions": null
+    },
+    "description": "POSTE : Senior Associate Scientist H/F\nDESCRIPTION : Intitulé du poste : Senior Associate Scientist\nLieu de travail : Marcy l'Etoile\nType de contrat CDI, temps plein\n\nÀ propos du poste\n\nNous sommes une entreprise de santé internationale innovante qui aide le monde à garder une longueur d'avance sur les maladies infectieuses en fournissant plus de 500 millions de doses de vaccins par an. Nos équipes talentueuses explorent de nouvelles technologies, dans différents pays, pour protéger les personnes et favoriser la bonne santé des populations. Chaque jour, nous recherchons les miracles de la science, toujours en quête de progrès afin de contribuer véritablement à améliorer la vie de millions de patients dans le monde.\n\nÊtes-vous prêt·e à façonner l'avenir de la médecine ? Le défi est lancé pour accélérer la course au développement et à l'industrialisation de nouveaux vaccins.\n\nVos compétences pourraient être déterminantes pour aider nos équipes à accélérer les progrès réalisés. Rejoignez notre laboratoire de pointe de R&D en Biochimie où vous allez interagir avec les autres acteurs analytiques (biophysique, immunologie, bactériologie, biologie moléculaire et virologie) ainsi que les équipes de développement des procédés et de production industrielle. Vous participerez au développement de méthodes analytiques pour les vaccins en phase clinique et au support analytique pour le développement des procédés, l'industrialisation, et l'amélioration des vaccins commercialisés. Vous bénéficierez de nombreuses opportunités d'élargir votre expérience et d'aiguiser vos compétences.\n\nPrincipales responsabilités :\n\nDans le respect des règles qualité et HSES du laboratoire\n-  Développer de nouvelles méthodes analytiques (en particulier HPLC) en lien avec les responsables scientifiques/responsable d'unité en fonction des besoins des projets\n-  Interagir avec les équipes de développement des procédés afin de préciser les besoins analytiques et accompagner l'interprétation des résultats\n-  Réaliser les analyses de support analytiques, de caractérisation, de stabilité, de troubleshooting\n-  Assurer une veille scientifique des nouveaux outils et des nouvelles méthodologies analytiques dans le domaine de la biochimie analytique\n-  Participer aux qualifications de méthodes et aux transferts analytiques inter laboratoires dans le respect des exigences qualités associées\n-  Participer à l'automatisation des préparations d'échantillons et des analyses au sein du laboratoire\n-  Rédaction de techniques, protocoles et rapports de qualification\n\nÀ propos de vous\nExpérience(s) : Expérience significative (3 ans ou plus) en développement analytique par HPLC\nSavoir être et savoir-faire :\nIntérêt pour les équipements analytiques et pour le travail technique en laboratoire\nCapacité à proposer et mettre en oeuvre des développements analytiques avec les solutions techniques appropriées (HPLC et autres techniques de biochimie analytique)\nBonnes connaissances de la biochimie des protéines\nCapacité à travailler en autonomie, en équipe, en multi-projets\nFormation : Diplôme en chimie, biochimie ou sciences analytiques (Bac +5)\n- \nLangue(s) : Bon niveau d'anglais écrit et parlé\n\nPourquoi choisir de travailler chez Sanofi ?\n\nDonnez vie aux miracles de la science au sein d'une équipe solidaire et tournée vers l'avenir\n\nDécouvrez les innombrables possibilités de développer vos talents et de faire progresser votre carrière, que ce soit par le biais d'une promotion ou d'une mission dans une autre organisation\n\nProfitez d'un ensemble d'avantages bien pensés et bien conçus qui reconnaissent votre contribution et amplifient votre impact\n\nPrenez bien soin de vous et de votre famille en bénéficiant d'un large éventail d'avantages en matière de santé et de bien-être, y compris des soins de santé de haute qualité, des programmes de prévention et de bien-être et un congé parental d'au moins 14 semaines, sans distinction de genre\n\nToujours progresser. Découvrir l'extraordinaire\n\nLe progrès ne se fait pas tout seul, ce sont les gens qui le construisent : des gens d'horizons différents, dans des lieux différents, dans des rôles différents, mais tous réunis par une même motivation : la volonté de rendre l'impossible possible. Et si vous rejoigniez cet élan ? Afin de poursuivre le changement, adopter de nouvelles idées et explorer toutes les opportunités que nous avons à offrir. Ensemble, continuons de progresser. Et partons à la découverte de l'extraordinaire.\n\nChez Sanofi, nous croyons en l'égalité des chances pour tout le monde, indépendamment de l'origine, de la couleur de peau, des croyances,"
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2683020",
+    "title": "Consultant Senior IA CDI H/F",
+    "company": "PWC ",
+    "location": "92",
+    "remote": null,
+    "publication_date": "2024-08-21",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": null,
+        "Experience": "Expérience exigée",
+        "Level": null
+    },
+    "company_data": {
+        "sector": "Activités comptables",
+        "company_size": "Rejoignez les équipes Data & Analytics de PwC et participez à la création de solutions innovantes basées sur l'intelligence artificielle générative.\n\nPwC poursuit sa stratégie mondiale The New Equation, portée par l'humain, nos engagements responsables, sociétaux et soutenus par la technologie. Dans ce contexte, nous investissons sur l'utilisation du cloud, de l'IA, des alliances technologiques, de la réalité virtuelle et de technologies émergentes.\n\nNotre com...",
+        "turnover_in_millions": null
+    },
+    "description": "POSTE : Consultant Senior IA CDI H/F\nDESCRIPTION : Dans le cadre de notre engagement à renforcer notre expertise en Intelligence Artificielle, nous sommes à la recherche d'un Data Scientist passionné par les nouvelles avancées en IA générative, prêt à explorer et à développer des solutions innovantes utilisant cette technologie de pointe.\n\nCe que vous pouvez attendre de nous :\n\nEn tant que Data Scientist Senior dans les équipes Data & Analytics de PwC, votre mission sera de :\nIdentifier et mettre en oeuvre les solutions d'IA les plus adaptées aux exigences et aux objectifs des cas d'usage, en s'appuyant sur une analyse approfondie des spécifications techniques et fonctionnelles.\nConcevoir des solutions Data Science et IA génératives de PwC pour répondre aux enjeux de produits et de services de nos clients.\nSuperviser le cycle complet des projets Data Science, de la conceptualisation à l'intégration dans les systèmes de production, en passant par le développement de POCs/POVs.\nAssurer la conformité et la sécurité des données en adhérant strictement aux normes de protection des données et de confidentialité.\nParticiper aux chantiers d'innovations et de veille continue sur les IA et les pratiques MLOPS/LLMOps\n\nCe que nous pouvons attendre de vous :\n\nCompétences techniques recommandées :\nDomaines d'expertise : Machine Learning, NLP, Deep Learning\nGenAI : LLM, RAG, Vector Database, Search Engines, LLMOps\nCloud : Azure (Azure ML, Azure OpenAI, Azure Prompt Flow, Databricks), GCP, AWS\nProgrammation : Python, SQL et outils d'analyse de données.\nFramework & Tools : Langchain, Chroma, FAISS, Hugging Face\nDEVOPS/MLOPS : Git, Docker, Kubernetes\n\nProfil recherché :\nVous êtes diplômé(e) d'une formation de haut niveau en mathématiques / statistiques, Data Science et IA\nVous avez au minimum 3 ans d'expérience professionnelle et vous avez déjà évolué dans un environnement d'entreprise ou de conseil pour développer des solutions Data et IA\nVous avez envie de concevoir et d'orchestrer la mise en oeuvre de transformations d'envergure et de participer, dans le cadre d'équipes multidisciplinaire agiles, au design et au déploiement de nouveaux produits et services à l'échelle\nVous possédez une bonne communication écrite et orale synthétique, en anglais comme en français\nVous possédez une bonne expertise dans le traitement du langage naturel (NLP) et maîtrisez les frameworks et outils connexes aux LLM tels que LangChain, Chromadb, Semantic Kernel et les méthodes d'application tels que les RAG, Chain-of-thought, etc.\nVous avez une bonne maîtrise des environnements Cloud (GCP, Azure ou AWS)\nVous avez bonne connaissance des modes de gestion de projets Agile\nVous avez déjà mis en oeuvre un projet IA ou GenAI dans le cadre d'un PoC dans un MVP ou Pilot et vous êtes autonomes pour l'implémentation et la livraison de cas d'usage.\n\nCes avantages que nous vous offrons :\n\nEnvironnement de travail et Flexibilité\nFlexibilité avec la charte FlexWork : télétravail étendu, mobilité géographique, FlexTime, Dress for your day\nCrystal Park (site de Neuilly-sur-Seine) : parc privatif de 2 hectares, conciergerie, salle de musique, salle de sport, Café Joyeux\n\nDéveloppement\nMobilité internationale et mobilité interne à partir de 12 mois d'ancienneté\nProgramme New World. New Skills pour monter en compétences sur les enjeux de demain (ESG, technologies, inclusion des diversités) et accès à une plateforme de formation à la demande\n\nEngagement\nCrédit de 3 jours par an sur le temps de travail pour des missions d'engagement sociétal\nPass mobilité durable pour couvrir vos dépenses de mobilité durable\n\nSanté/Bien-être\nProgramme BE Well, Work Well pour prendre soin de sa santé (partenariat Gymlib, application United heroes, associations sportives, formations mindfulness)\n- \nProgramme Family Care pour vous accompagner dans vos projets de parentalité comme dans les moments difficiles\n\nEt aussi : RTT, mutuelle santé et prévoyance, restaurants d'entreprise et titres-restaurants, avantages du Comité Inter-Entreprises\n\nToutes nos offres sont ouvertes aux personnes en situation de handicap.\nPROFIL :"
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2677634",
+    "title": "Manager - Senior Manager Transformation Data Stratégie - Gouvernance - Maîtrise - Bi&Analytics H/F",
+    "company": "RHAPSODIES CONSEIL ",
+    "location": "75",
+    "remote": null,
+    "publication_date": "2024-08-21",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": null,
+        "Experience": "Expérience exigée",
+        "Level": null
+    },
+    "company_data": {
+        "sector": "Conseil pour les affaires et autres conseils de gestion",
+        "company_size": "Rhapsodies conseil, un cabinet pas comme les autres\nCe qui nous démarque ? Notre ADN. Et oui ! Le conseil en management est\ninscrit dans les veines de chacun de nos consultants.\nDu conseil, certes, mais dans un environnement propice à l'épanouissement de\nchacun.\nNos consultants évoluent au sein d'un environnement stimulant, bienveillant et\nconvivial fondé sur le développement, le partage de connaissances, l'ouverture\nd'esprit ainsi que la valorisation...",
+        "turnover_in_millions": null
+    },
+    "description": "POSTE : Manager - Senior Manager Transformation Data Stratégie - Gouvernance - Maîtrise - Bi&Analytics H/F\nDESCRIPTION : Nos clients ont des enjeux de plus en plus importants sur différents axes de la Transformation Data : Stratégie Data, Gouvernance, Usages, BI&Analytics, Culture Data, et Maîtrise des données. Chez Rhapsodies Conseil, nous sommes tous consultants.\nNous avons besoin de tes compétences pour mener des missions de Conseil auprès de nos clients pour être un membre actif de l'équipe Transformation Data et contribuer à son développement. En tant que Manager, tu auras aussi en responsabilité un périmètre d'offre sur toutes ses dimensions : Proposition de valeur, animation de l'équipe, développement commercial, recrutement, communication externe Construire et orienter la stratégie Data, à travers une vision et des convictions, pour valoriser et protéger les données des organisations,\n* Cadrer les usages Data et faire le design des chaînes de valorisation de données, des sources de données jusqu'aux usages des métiers,\n* Contribuer à la construction et à la diffusion d'une culture Data au sein des organisations,\n* Construire et déployer le cadre de gouvernance et de régulation des données (modèle opérationnel, rôles et responsabilités, instances, processus, outils),\n* Participer à des projets de modélisation, de catalogage et de mise en qualité des données avec et pour les métiers\n* Piloter des projets BI & Analytics depuis les échanges avec les métiers jusqu'à leur concrétisation\n* Adopter des démarches numérique responsable pour conduire les projets.\nPROFIL : Créatif, curieux, autonome, diplômé Bac +5, tu justifies d'une expérience de 10 ans minimum dans le monde de la Data et du Digital.\nTu es un expert en maîtrise et gouvernance des données, ou en BI&Analytics.\nTu maîtrises aussi le développement d'activité de conseil sur le volet commercial (réseau, business développent, appels d'offres).\nTu sais animer et dynamiser une communauté, être actif sur le recrutement, et investir une position de coach qui aidera chacun à créer son parcours de progression individuelle."
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2652730",
+    "title": "CHEF DE PROJET DATA H/F",
+    "company": null,
+    "location": "PARIS (DEPT.) 75",
+    "remote": null,
+    "publication_date": "2024-08-21",
+    "details": {
+        "TypeContract": "CDD",
+        "Salary": null,
+        "Experience": "Débutant accepté",
+        "Level": null
+    },
+    "company_data": {
+        "sector": null,
+        "company_size": "Sans justice, il ne peut y avoir de démocratie. Elle est facteur d'ordre, d'équilibre et de lien social. Ministère régalien, le ministère de la Justice a pour mission de concrétiser cet ordre, cet équilibre, ce lien social, à travers son organisation et ses moyens humains et matériels.Il garantit le bon fonctionnement des juridictions (tribunaux et cours) et en gère les moyens en personnel, équipements et locaux. Il rend ainsi possible l'exercice de l'autorité judiciaire c'est-�.",
+        "turnover_in_millions": null
+    },
+    "description": "Référence CSP: 2024-1673203 \n Rattaché(e) au Bureau Valorisation de Données et Référentiels (VDR) et placé(e) sous la responsabilité de la cheffe du Bureau, vous intervenez en tant que Chef de projet Data H/F.\nÀ ce titre, vos principales missions (liste non-exhaustive) seront de :\n- Piloter l'ensemble des acteurs impliqués afin de tenir les engagements du projet\n- Accompagner la MOA ou les référents métiers dans l'élaboration de la solution, \n- Préparer et animer les instances du projet (Comité opérationnel, Comité de pilotage),\n- Être l'interlocuteur privilégié de l'ensemble des intervenants afin d'assurer le pilotage opérationnel du projet : suivi des actions, gestion des risques, remontée des alertes .\n- Piloter les prestations sur le projet\n- Évaluer, planifier et valider les spécifications fonctionnelles et techniques des évolutions\n- Communiquer sur le projet et effectuer un reporting régulier aux instances de pilotage et aux acteurs concernés"
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/179SWHH",
+    "title": "Expert(e) IA et Calcul Quantique (H/F)",
+    "company": "MDM &YOBITRUST ",
+    "location": "93",
+    "remote": null,
+    "publication_date": "2024-08-21",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": "Salaire brut : Mensuel de 3000.0 Euros à 3800.0 Euros sur 12.0 mois",
+        "Experience": "36 Mois",
+        "Level": "Bac+5 et plus ou équivalents mathématiques appliquées - Ingénieur Data Science & AI"
+    },
+    "company_data": {
+        "sector": "Édition de logiciels applicatifs",
+        "company_size": "0 salarié (n'ayant pas d'effectif au 31/12 mais ayant employé des salariés au cours de l'année de référence)",
+        "turnover_in_millions": null
+    },
+    "description": "La détection précoce des maladies \"NR\" est cruciale pour améliorer les résultats cliniques et réduire les taux de mortalité. Ce projet a pour objectif de développer une solution basée sur l'intelligence artificielle (IA) pour détecter les antigènes associés aux maladies ... et générer des anticorps spécifiques à ces antigènes. Cette solution permettra une détection rapide et précise des maladies \"NR\"  en identifiant la présence d'antigènes spécifiques et en générant des anticorps correspondants pour des tests diagnostiques:\n1-Collecte des Données: Récupérer des données de séquences d'antigènes\net d'anticorps à partir de banques de données publiques et spécialisées\n2-Tokenisation et normalisation des séquences d'antigènes et\nd'anticorps. Convertir les structures en représentations numériques adaptées\naux modèles d'IA.\n3-Génération de Structures d'Anticorps\n4 Appliquer des modèles comme IgFold pour prédire\nla structure 3D des anticorps à partir des séquences générées par les modèles IA.\n5-Prédiction de la présence de Maladies \"NR\"; utiliser les anticorps générés pour\ncréer des tests diagnostiques permettant de détecter la présence d'antigènes\net prédire la présence de maladies \"NR\"\n6-Calcul HPC et Quantique\n7-Déploiement et Intégration sur Cloud"
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2729181",
+    "title": "Data scientist (H/F)",
+    "company": null,
+    "location": "PARIS 09 75",
+    "remote": null,
+    "publication_date": "2024-08-22",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": null,
+        "Experience": "Expérience exigée de 3 An(s)",
+        "Level": null
+    },
+    "company_data": {
+        "sector": null,
+        "company_size": "Le Groupe RATP, implanté dans 14 pays, sur quatre continents est le 5e groupe de transport public urbain au monde. Il est composé d'une maison-mère qui exploite le réseau francilien, un réseau multimodal parmi les plus complexes et d'une centaine de filiales qui proposent une variété d'expertises en France et à l'International. C'est une entreprise intégrée qui détient une expertise globale : Ingénierie, exploitation et maintenance.",
+        "turnover_in_millions": null
+    },
+    "description": "Description du poste :\nQuel sera votre quotidien ?\nVotre principal rôle sera de :\nParticiper à l'identification, la qualification et la priorisation de cas d'usage de data science à forte valeur métier\nDimensionner, sourcer et piloter une équipe capable d'assurer la réalisation des projets de data science, en alignement avec les enveloppes budgétaires qui leur sont allouées\nPiloter de bout en bout et participer à la réalisation scientifique et technique des projets, en se conformant au modèle de delivery et aux standards de développement promus par le CE Data\nAccompagner le déploiement des projets sur les infrastructures de production (support du build et du run) et leur intégration dans les processus métier concernés\nAssurer l'interface avec l'ensemble des parties prenantes (métiers et techniques) et animer les réunions projet : kick-offs, revues de sprint, comités de pilotage, etc.\nAssurer le reporting des activités auprès du Chief Data Scientist et de la CDO\nValoriser les travaux au sein et à l'extérieur du groupe par le biais de communications et de démonstrations\nVous contribuerez également aux activités transverses du CE Data : missions d'expertise diverses, création de contenus de formation et d'acculturation, développement de l'offre du CE Data, participation à l'animation de la communauté data science du groupe, etc.\nPour en savoir plus, cliquez sur le lien suivant : https://www.ratp.fr/groupe-ratp\nDescription du profil :\nVous êtes diplômé d'un BAC+5 en Data Science (ou équivalent) et avez acquis au moins 4 années d'expérience dans ce domaine.\nPour relever ces défis, nous recherchons une personne disposant d'une expérience significative dans la gestion et le pilotage de projets de data science, ainsi que dans l'animation des ressources associées.\nCette personne doit par ailleurs disposer d'un bagage scientifique et technique solide :\nCompétences avancées en mathématiques, statistiques et intelligence artificielle\nCompétences dans le recueil, le traitement et l'analyse de données afin de répondre à des besoins métier spécifiques\nCompétences dans le développement et le déploiement de modèles d'apprentissage automatique dans un contexte industriel\nConnaissance de Python et, idéalement, de PySpark, SQL et Git\nVous vous reconnaissez ? N'hésitez pas à postuler directement en ligne !\nTous nos métiers sont ouverts aux personnes en situation de handicap.\nInformations complémentaires\nType de contrat : CDI\nLocalisation : Maison de le RATP - Paris 12ème\nTélétravail : Oui\nPrincipaux avantages entreprise\nÉvolution de carrière vers d'autres métiers, y compris en filiales internationales\n9 semaines de congés, soit 206 jours travaillés par an"
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2714642",
+    "title": "Data Scientist F/H - Système, réseaux, données (H/F)",
+    "company": "EURO-INFORMATION DEVELOPPEMENTS ",
+    "location": "67",
+    "remote": null,
+    "publication_date": "2024-08-22",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": "Salaire brut : A négocier",
+        "Experience": "Débutant accepté",
+        "Level": null
+    },
+    "company_data": {
+        "sector": "Tierce maintenance de systèmes et d'applications informatiques",
+        "company_size": "Euro-Information, filiale technologique de Crédit Mutuel Alliance Fédérale, conçoit, réalise, maintient et exploite un système d'information commun utilisé par le Groupe.\n\nLes activités de développement et de production informatique au niveau national et international sont assurées par environ 4000 salariés répartis sur plusieurs sites géographiques au niveau national : Strasbourg, Nancy, Dijon, Orléans, Lyon, Lille, Cergy, Val de Fontenay, Paris et Nantes.\n\nPremière Ban...",
+        "turnover_in_millions": null
+    },
+    "description": "Descriptif du poste:\n\nNous recherchons actuellement un(e) Datascientist pour le secteur Solutions Cognitives. Notre équipe est en charge de la R&D et de la création des modèles d'IA pour le traitement automatique du langage (dont l'IA générative).\nNous développons notamment des modèles pour : l'analyse des e-mails, les chatbots à destination des clients et collaborateurs, les outils pour l'aide aux développeurs avec l'IA générative.\nNous travaillons sur les dernières technologies à l'état de l'art (Finetuning de Large language models open source, Llama, Mixtral etc.) avec une capacité de calcul sur GPU installé dans nos datacenters.\nNous recherchons une personne capable de travailler de l'étude d'un sujet R&D jusqu'à sa mise à disposition en production dans le cloud. Nous recherchons quelqu'un qui s'intéresse au sujet, se renseigne, aime apprendre et surtout, aime concevoir et développer des modèles et des services.\n \nDans ce contexte, en tant que Data Scientist, vous aurez à charge de développer des modèles et services d'intelligence artificielle dans un mode de fonctionnement agile (Scrum).\n\nPlus précisément, vous aurez à :\n* Créer des modèles de machine learning (Deep Learning, IA générative)\n* Réaliser de la veille technologique afin de rester à l'état de l'art.\n* Développer des services en Python\n* Rédiger des spécifications\n* Respecter les normes de développement et suivre des jalons définis dans les outils internes\n* Déploiements sur le cloud interne\n* Suivre les cérémonies de la méthodologie Scrum (planification de sprint, mêlée journalière etc...)\n\nProfil recherché:\n\nDe formation bac +4/5, vous avez les compétences suivantes :\n* Une solide compréhension de l'intelligence artificielle\n* Une capacité d'analyse et de veille afin de réaliser des études R&D\n* Une bonne connaissance du développement en Python et déploiement sur le cloud.\n* Bonne communication\n* Méthodologie de développement agile\n* Connaissance d'autres langages objets (C#, Java)\nVous maîtrisez l'anglais écrit et parlé.\n \nAutonome et organisé(e), vous faites preuve d'initiatives et d'esprit de synthèse.\nUne capacité à généraliser les concepts et à voir des similarités là où tout le monde ne voit que des différences sera très appréciée.\nVous avez le souci du respect des normes et standards qualité."
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2711430",
+    "title": "Data Scientist Expérimenté F/H - Système, réseaux, données (H/F)",
+    "company": "ERNST & YOUNG ",
+    "location": "92",
+    "remote": null,
+    "publication_date": "2024-08-22",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": "Salaire brut : A négocier",
+        "Experience": "Expérience exigée de 2 An(s)",
+        "Level": null
+    },
+    "company_data": {
+        "sector": "Conseil pour les affaires et autres conseils de gestion",
+        "company_size": "EY Consulting accompagne ses clients dans la réussite de leurs transformations stratégiques, au service d'une croissance économique durable et inclusive et de la construction d'un monde du travail meilleur. Notre offre s'articule autour de trois grands domaines d'expertise : Business Consulting, Technology Consulting et People Consulting, et s'appuie sur des expertises sectorielles fortes.\n \nMembre du réseau EY Europe West, leader du conseil sur la région, EY France offre à ses 1...",
+        "turnover_in_millions": null
+    },
+    "description": "Descriptif du poste:\n\nAu sein de Technology Consulting, Data & Analytics renforce ses équipes. Ses domaines d'interventions sont très larges (marketing, industrie, secteur public, énergie, retail et consumer product, etc.). Avec plus de 500 missions dans le domaine de l'analytics et du Big Data, nous sommes le premier cabinet de conseil en France dans le secteur. Nos consultants bénéficient de l'encadrement d'un large pool de managers, tous issus des meilleures formations et ayant des expertises techniques et métiers qui permettent à nos équipes d'être rapidement formées aux nouvelles méthodes et outils.\n \nEn outre, pour accélérer notre veille technologique, nous avons ouvert à la Tour First, un Lab de 600m² dédié à l'innovation autour du digital, de la data et de la blockchain. Déjà 40 nouvelles applications y ont vu le jour cette année.\n \nVous êtes Data Scientist, dataminer, architecte Big Data, consultant BI... H/F à la recherche d'une équipe dynamique, à la pointe des technologies et des innovations en Data Science, au service des entreprises les plus data driven, n'hésitez pas à nous contacter pour se rencontrer.\n \nVos missions  :\n \nPour soutenir notre développement dans les domaines « Analytics » (Analyse quantitative de données, datamining, Big data, Data Science.), vous êtes responsable de la réalisation de projet d'analyse quantitative de données, datamining dans un contexte souvent CRM - Marketing : segmentations, scores d'appétence, reportings analytiques, prévisions ...\n \nVous intervenez sur la définition de la stratégie en matière de gestion des données de nos clients ou sur le pilotage du déploiement de solutions technologiques Big Data. A partir de besoins métiers exprimés, vous encadrez l'équipe-projet et conduisez personnellement les aspects les plus sensibles de la mission client.\n \nGrâce à votre expérience, vous devez être en mesure de proposer et mettre en œuvre des méthodologies susceptibles de répondre efficacement et opérationnellement aux attentes du client dans le respect des délais et du budget prévu.\n \nVous développez une expertise sectorielle et devez être force de proposition sur les sujets et offres à présenter à nos clients pour les accompagner dans l'excellence de leur activité.\n\nProfil recherché:\n\nH/F, de formation supérieure de haut niveau en mathématiques / statistiques ou économétrie (écoles type ENSAE / ENSAI, ENSTA, Centrale Paris...), vous bénéficiez d'une expérience de 2 ans minimum idéalement acquise dans un cabinet de conseil ou au sein d'un département étude/connaissance client d'un grand groupe.\n \nVous maitrisez les principaux logiciels statistiques (R, SPSS, Modeler, SAS, etc.), les langages SQL et programmation (C, VBA, Python, etc.).\n \nDoté(e) d'un excellent sens relationnel, vous savez allier le sens de l'analyse et de la synthèse, rigueur et méthode. Vous êtes dynamique, autonome et responsable.\nCurieux(se), vous faites preuve d'esprit d'équipe et de leadership.\n \n \nVivez l'expérience EY, rejoignez-nous !\n \nDans le cadre de sa politique Diversité, EY étudie, toutes candidatures dont celles de personnes en situation de handicap. "
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2710183",
+    "title": "Data Scientist F/H - Système, réseaux, données (H/F)",
+    "company": "RATP ",
+    "location": "75",
+    "remote": null,
+    "publication_date": "2024-08-22",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": "Salaire brut : A partir de 35 k€ brut annuel",
+        "Experience": "Expérience exigée de 2 An(s)",
+        "Level": null
+    },
+    "company_data": {
+        "sector": "Transports urbains et suburbains de voyageurs",
+        "company_size": "Le Groupe RATP, implanté dans 14 pays, sur quatre continents est le 5e groupe de transport public urbain au monde. Il est composé d'une maison-mère qui exploite le réseau francilien, un réseau multimodal parmi les plus complexes et d'une centaine de filiales qui proposent une variété d'expertises en France et à l'International. C'est une entreprise intégrée qui détient une expertise globale : Ingénierie, exploitation et maintenance.",
+        "turnover_in_millions": null
+    },
+    "description": "Descriptif du poste:\nQuel sera votre quotidien ?\n\nVotre principal rôle sera de :\n\nParticiper à l'identification, la qualification et la priorisation de cas d'usage de data science à forte valeur métier ;\n\nAssurer, sous la supervision d'un Lead Data Scientist, la réalisation scientifique et technique des projets de data science, en se conformant au modèle de delivery et aux standards de développement promus par le CE Data\n\nAccompagner le déploiement des projets sur les infrastructures de production (support du build et du run) et leur intégration dans les processus métier concernés\n\nAssurer l'interface avec l'ensemble des parties prenantes (métiers et techniques) et contribuer à l'animation des réunions projet : kick-offs, revues de sprint, comités de pilotage, etc.\n\nValoriser les travaux au sein et à l'extérieur du groupe par le biais de communications et de démonstrations\n\nVous contribuerez également aux activités transverses du CE Data : missions d'expertise diverses, création de contenus de formation et d'acculturation, développement de l'offre du CE Data, participation à l'animation de la communauté data science du groupe, etc.\n\nPour en savoir plus, cliquez sur le lien suivant : https://www.ratp.fr/groupe-ratp\n\n\n\nProfil recherché:\nVous êtes diplômé d'un BAC+5 en Data Science (ou équivalent) et avez acquis au moins 2 années d'expérience dans ce domaine.\n\nPour relever ces défis, nous recherchons une personne disposant d'un bagage scientifique et technique solide :\n\nCompétences avancées en mathématiques, statistiques et intelligence artificielle\n\nCompétences dans le recueil, le traitement et l'analyse de données afin de répondre à des besoins métier spécifiques\n\nCompétences dans le développement et le déploiement de modèles d'apprentissage automatique dans un contexte industriel\n\nConnaissance de Python et, idéalement, de PySpark, SQL et Git\n\nVous vous reconnaissez ? N'hésitez pas à postuler directement en ligne !\n\nTous nos métiers sont ouverts aux personnes en situation de handicap.\n\nInformations complémentaires\n\nType de contrat : CDI\n\nLocalisation : Maison de le RATP - Paris 12ème\n\nTélétravail : Oui\n\nPrincipaux avantages de l'entreprise\n\nÉvolution de carrière vers d'autres métiers y compris en filiales internationales\n\n9 semaines de congés, soit 206 jours travaillés par an"
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2701494",
+    "title": "Data Scientist - Speech to Text (IT) / Freelance (H/F)",
+    "company": null,
+    "location": null,
+    "remote": null,
+    "publication_date": "2024-08-22",
+    "details": {
+        "TypeContract": "Profession",
+        "Salary": null,
+        "Experience": "Débutant accepté",
+        "Level": null
+    },
+    "company_data": {
+        "sector": null,
+        "company_size": null,
+        "turnover_in_millions": null
+    },
+    "description": "Je suis à la recherche d'un Data Scientist ayant déjà eu l'occasion de travailler sur des problématiques Speech to Text.\n?Amélioration de la transcription via des outils Speech to Text/ASR (Whisper AI)\n?Appétence pour comprendre l'utilisation d'outils open source\n?Capacité à établir un protocole scientifique dans sa méthodologie de travail\n?Être ouvert aux discussions autour des solutions à apporter, veille active, se renseigner sur les papiers scientifiques (veille active)\n?Appétence pour découvrir de nouvelles technologies\nProfil candidat:\nJe suis à la recherche d'un Data Scientist ayant déjà eu l'occasion de travailler sur des problématiques Speech to Text.\n?Amélioration de la transcription via des outils Speech to Text/ASR (Whisper AI)\n?Appétence pour comprendre l'utilisation d'outils open source\n?Capacité à établir un protocole scientifique dans sa méthodologie de travail\n?Être ouvert aux discussions autour des solutions à apporter, veille active, se renseigner sur les papiers scientifiques (veille active)\n?Appétence pour découvrir de nouvelles technologies"
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2701296",
+    "title": "Chef de projet informatique/Data Scientist (H/F) (IT) / Freelance",
+    "company": null,
+    "location": "LE PLESSIS ROBINSON 92",
+    "remote": null,
+    "publication_date": "2024-08-22",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": null,
+        "Experience": "Débutant accepté",
+        "Level": null
+    },
+    "company_data": {
+        "sector": null,
+        "company_size": null,
+        "turnover_in_millions": null
+    },
+    "description": "DSI GROUP recherche un  Data Scientist/ Chef de projet  (H/F), pour son client en Ile-de-France.\n \nVos missions sont les suivantes :\n L?architecture, la conception et la mise en ?uvre des solutions techniques,\n Création de documentation technique,\n Analyse initiale, et analyse des données,\n Définir, mettre en place et évaluer les solutions,\n Rédiger des rapports de synthèse.\nCompétences requises :\n Langue anglais : impératif (milieu anglophone),\n La compétence sur le Langage R, Python et Dataiku (plateforme de data science) sont impératifs,\n Expérience requise sur le pilotage d?équipes,\n Connaissance des architectures cloud et des technologies de big data.\nProfil candidat:\nIssu(e) d?une formation supérieure d?un Bac (+4/+5), vous justifiez d?une expérience de 8 ans minimum dans une fonction similaire.\n \n Lieu du poste : Ile-de-France (Le-Plessis-Robinson) et des déplacements 2 à 3 fois par mois à l?étranger sont à prévoir,\n Télétravail : 2 jours,\n Démarrage : Dès que possible et mission de longue durée,\n Salaire : Selon profil."
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2684409",
+    "title": "Data Scientist H/F",
+    "company": "BNP PARIBAS ",
+    "location": "92",
+    "remote": null,
+    "publication_date": "2024-08-21",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": null,
+        "Experience": "Expérience exigée",
+        "Level": null
+    },
+    "company_data": {
+        "sector": "Autres intermédiations monétaires",
+        "company_size": "BNP Paribas, acteur clé dans la finance mondiale, promeut une économie durable en conseillant et finançant ses clients de façon éthique. Nous innovons avec des solutions financières durables pour un impact positif sur notre environnement.",
+        "turnover_in_millions": null
+    },
+    "description": "POSTE : Data Scientist H/F\nDESCRIPTION : Data Scientist - H/F\n\nMissions, équipe et environnement de travail, ça donne quoi ?\n\nEn tant que Data Scientist vos responsabilités seront les suivantes\n-  Etudier la faisabilité des solutions proposées et donner un avis d'expert.\n-  Explorer et nettoyer les données.\n-  Proposer et mettre en oeuvre les modèles de Machine Learning adaptés.\n-  Présenter et vulgariser les résultats des analyses et des solutions développées.\n-  Mettre en place un tableau de bord pour le suivi des modèles en production.\n\nAu sein de la direction Actuariat & Data Science, vous rejoindrez le département Analytics France, composé de 5 Data Scientists et 5 Analytics Manager.\n\nCe département a pour objectif de mettre en oeuvre des solutions industrielles de Data Science pour l'ensemble de Business Unit et fonctions de Cardif France, en déployant des algorithmes grâce à DOMINO, notre plateforme de data science.\n\nVous prendrez part aux projets d'entreprise à composante Analytics et travaillerez en étroite collaboration avec l'Analytics Manager et les différents métiers concernés. Ces projets pourront avoir des finalités variées : améliorer l'efficacité de nos processus, prévenir le risque de fraude, simplifier un parcours client, optimiser la distribution d'un produit chez un partenaire\n\nNotre équipe, axée sur la création de valeur business, a déjà déployé une dizaine modèles en production au service des métiers. Dans le cadre de notre plan d'accélération IA, vous aurez l'opportunité de développer des solutions innovantes et à fort impact. Vous travaillerez sur des sujets d'actualité comme l'utilisation de LLM pour des systèmes de question-réponse (RAG) et la synthèse d'informations, ainsi que des techniques de Computer Vision pour l'automatisation du traitement des documents numérisés.\n\nLe poste est situé au siège de BNP Paribas Cardif, à Nanterre, accessible en 15 minutes par navette depuis la Défense ou par le RER A (gare de Rueil-Malmaison).\n\nDes déplacements occasionnels en Ile de France sont à prévoir.\n\nEt après ?\n\nCe poste vous permettra de participer une diversité de projet, ainsi qu'à différentes sessions de partage de connaissances techniques entre les membres de l'équipe, ainsi vous accélérerez votre montée en compétences.\n\nVous développerez aussi votre réseau : de par votre rôle central dans un projet Analytics, vous serez en contact régulier avec divers interlocuteurs d'autres BU ou directions.\n\nEnfin, le Groupe BNP PARIBAS ayant à coeur de faciliter la mobilité interne, vous aurez l'occasion d'évoluer vers d'autres postes au sein de CARDIF ou dans une autre entité du Groupe en France ou à l'étranger.\n\nTravailler chez BNP Paribas c'est :\n\nUn package rémunération et des avantages :\n-  Un fixe annuel brut et un variable individuel défini en fonction de votre performance.\n-  Plan épargne entreprise/retraite, intéressement et participation, couverture santé et prévoyance, activités sociales et culturelles via le comité d'entreprise\n-  De la flexibilité avec un rythme de travail hybride :  jusqu'à 2.5 jours de télétravail par semaine, à définir avec votre futur manager.\n\nRejoignez un Groupe engagé et prenez part à notre grand projet de transformation vers la construction d'un monde plus durable. Découvrez nos engagements pour notre clientèle et la société. \nEngagez-vous à nos côtés sur votre temps professionnel, à travers notre programme OneMillionHoursToHelp.\n\nEtes-vous notre prochain Data Scientist H/F ?\n\nOui si vous avez 3 ans d'expérience dans la réalisation de modèles de Machine Learning à usage opérationnel, avec au moins une expérience significative en NLP.\n\nVotre parcours vous permet d'avoir de très bonnes compétences en programmation sur Python, une bonne maîtrise du fonctionnement des modèles de langage (LLM) et/ou des techniques de traitement d'images.\n\nVous êtes curieux et rigoureux.\n\nVous avez démontré de solide capacité d'analyse.\n\nVous savez travailler dans un esprit collaboratif et faire preuve de pédagogie.\n\nEnfin vos qualités de communicant finiront de nous convaincre.\n\nLes prochaines étapes / Les étapes du recrutement\n\nSi votre CV est retenu par notre équipe de recrutement, vous serez amené à passer un à trois entretiens au maximum avec des RH (Staffing Business Partner) et/ou manager opérationnel.\n\nDans un monde qui change, la diversité, l'équité et l'inclusion sont des valeurs clés pour le bien-être et la performance des équipes. Chez BNP Paribas, nous souhaitons accueillir et retenir tous les talents sans distinction : c'est ainsi que nous const"
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2682904",
+    "title": "Consultant Expérimenté Data Scientist CDI H/F",
+    "company": "PWC ",
+    "location": "92",
+    "remote": null,
+    "publication_date": "2024-08-21",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": null,
+        "Experience": "Expérience exigée",
+        "Level": null
+    },
+    "company_data": {
+        "sector": "Activités comptables",
+        "company_size": "PwC poursuit sa stratégie mondiale The New Equation, portée par l'humain, nos engagements responsables, sociétaux et soutenus par la technologie. Dans ce contexte, nous investissons sur l'utilisation du cloud, de l'IA, des alliances technologiques, de la réalité virtuelle et de technologies émergentes.",
+        "turnover_in_millions": null
+    },
+    "description": "POSTE : Consultant Expérimenté Data Scientist CDI H/F\nDESCRIPTION : Notre communauté Data et IA réunit actuellement 300 experts (Data Strategists, Data Analysts, Data Scientists, Data Engineers, PO Data, etc.) en France, couvrant ainsi toute la chaîne de valeur, de la stratégie à l'exécution, afin d'accompagner nos clients sur l'ensemble de leurs métiers et de leurs entités, dans leur data transformation.\n\nCe que vous pouvez attendre de nous\n\nEn tant que Data Scientist dans les équipes Data & IA de PwC votre mission sera de :\nDévelopper des solutions Data science pour répondre aux enjeux d'efficacité et d'innovation de nos clients (algorithmes de recherche opérationnelle, Machine Learning, Deep Learning pour des tâches très diverses dans le NLP, Computer Vision, Time Series, etc.)\nParticiper à la conception et au développement de produits data PwC qui intégreront des offres Clients ou qui répondront à des besoins internes\nContribuer à la réflexion et à la mise en oeuvre pour l'amélioration constante des produits et outils de l'équipe :\nTester les solutions d'éditeurs et des algorithmes et framework de la communauté Open source\nPartager les résultats de vos travaux et enrichir vos compétences en échangeant avec les experts mondiaux IA (kaggle master) du réseau PwC\n\nNotre boite à outils et technologies :\nPython, R,\nAlteryx, Dataiku,\nSpark, Azure, AWS et GCP, Snowflake, Databricks,\nPandas, Jupyter, Tensorflow, Superset\n\nCe que nous attendons de vous\nVous êtes diplômé(e) d'une formation de haut niveau en mathématiques / statistiques et data science (écoles type ENSAE / ENSAI, ENSTA, Centrale Paris)\nVous avez une expérience solide en cabinet de conseil ou dans une équipe de Data Science d'une entreprise qui a déjà réalisé sa transformation data.\nDoté d'une curiosité intellectuelle, vous aimez les défis, résoudre des problèmes complexes et structurer l'approche pour y arriver\nVous aimez travailler en équipe, accompagner les plus juniors pour qu'ils montent en compétences\nVous avez déjà évolué dans un environnement d'entreprise ou de conseil pour développer des solutions Data\nVous avez déjà réalisé des projets en traitement et modélisation des données, algorithmes et architecture des données\nPython est pour vous un langage quotidien (et si vous maîtrisez R, SQL/noSQL, Scikit-Learn, Spark, Tensorflow, c'est encore mieux)\nVous êtes doté d'un esprit pragmatique capable de comprendre le besoin des clients et d'identifier les solutions data science adéquates\nVous connaissez les limites des divers algorithmes de machine learning et savez proposer des adaptations ou recommandations pour répondre au problème\n\nCes avantages que nous vous offrons :\nFlexibilité avec la charte FlexWork : télétravail étendu, mobilité géographique, FlexTime, Dress for your day\nPass mobilité durable pour couvrir vos dépenses de mobilité durable\nProgramme BE Well, Work Well pour prendre soin de sa santé (partenariat Gymlib, application United heroes, associations sportives, formations mindfulness)\nProgramme Family Care pour vous accompagner dans vos projets de parentalité comme dans les moments difficiles\nÉcosystème de santé pour trouver à qui parler, être écouté et aidé quelles que soient vos difficultés professionnelles ou personnelles\nCrédit de 3 jours par an sur le temps de travail pour des missions d'engagement sociétal\nMobilité interne et internationale possible à partir de 18 mois d'ancienneté\nCrystal Park (site de Neuilly-sur-Seine) : parc privatif de 2 hectares, conciergerie, salle de musique, salle de sport, Café Joyeux\nProgramme New World. New Skills pour monter en compétences sur les enjeux de demain (ESG, technologies, inclusion des diversités) et plateforme Vantage de formation à la demande\n- \nEt aussi : RTT, mutuelle santé et prévoyance, restaurants d'entreprise et titres-restaurants, avantages du Comité Inter-Entreprises\n\nToutes nos offres sont ouvertes aux personnes en situation de handicap\nPROFIL :"
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2682635",
+    "title": "Data Scientist H/F",
+    "company": "BPCE SA ",
+    "location": "75",
+    "remote": null,
+    "publication_date": "2024-08-21",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": null,
+        "Experience": "Expérience exigée",
+        "Level": null
+    },
+    "company_data": {
+        "sector": "Autres intermédiations monétaires",
+        "company_size": "Notre activité\n\nRejoignez une entreprise au coeur des activités du groupe BPCE, de ses évolutions et de son développement.",
+        "turnover_in_millions": null
+    },
+    "description": "POSTE : Data Scientist H/F\nDESCRIPTION : Organe central du Groupe, BPCE SA assure la coordination, la cohérence et les synergies entre les différentes marques pour porter les ambitions du Projet du Groupe BPCE 2024.\n\nLes missions confiées à nos collaborateurs offrent une vision transversale des enjeux économiques et stratégiques du Groupe.\n\nVos missions au sein de l'équipe\n\nAu sein du Pôle Digital & Payments, la Direction Data et IA comprend notamment le Centre d'Expertise Data Science, en charge de la maîtrise d'oeuvre des travaux de Data Science et d'IA transverse au Groupe, et à la tête de la Guilde Data Science du Groupe. Le Centre d'Expertise Data Science rassemble plus de 35 Data Scientists.\n\nNous recherchons un Data Scientist  pour rejoindre notre équipe dynamique et contribuer à l'analyse avancée de données dans le cadre de projets stratégiques. Sous la responsabilité hiérarchique d'un Manager Data Science, le Data Scientist travaillera en étroite collaboration avec les équipes techniques et métier pour transformer les données en informations stratégiques et en actions concrètes.\n\nResponsabilités principales :\n-  Contribuer à l'identification des besoins et des problématiques des directions métiers, et à leur cadrage\n-  Intervenir directement, en lien avec les Métiers, sur des projets de Data Science pour définir des orientations méthodologiques ou valider des choix d'approche,\n-  Interagir avec les équipes IT, en tant que client de plateforme et outils Big Data et en tant que contributeur à l'industrialisation des projets,\n-  Mener des actions de recherches sur des technologies de pointes, de nouvelles sources de données et prototyper des solutions « sur étagère » au service des entités du Groupe,\n-  Réaliser une veille active à des fins de R&D, dans le cadre des partenariats noués et de manière directe.\n\nVos atouts pour réussir\n\nLe candidat idéal possède au moins 5 ans d'expérience dans le domaine de la science des données, avec une solide expertise en modélisation statistique, machine learning et manipulation de grands ensembles de données.\n\nMaster ou doctorat en informatique, mathématiques, statistiques ou dans un domaine connexe.\n-  Maîtrise des langages de programmation tels que Python, R, ou Scala.\n-  Expérience avérée dans l'utilisation de frameworks de machine learning comme scikit-learn, TensorFlow, ou PyTorch.\n-  Compétences solides en statistique et en modélisation prédictive.\n-  Compétences en NLP et en IA Génératives\n-  Expérience avec les systèmes de gestion de bases de données SQL et NoSQL.\n-  Capacité à travailler avec des outils de visualisation de données tels que Tableau, Power BI ou des bibliothèques Python (Matplotlib, Seaborn).\n-  Bonne compréhension des infrastructures de données cloud (AWS, Azure, GCP).\n-  Familiarité avec les outils de versioning de code, tels que Git.\n-  Connaissance des méthodes de déploiement de modèles en production, notamment les conteneurs Docker et les orchestrateurs comme Kubernetes.\n\nPourquoi nous rejoindre ?\n\nUn Groupe engagé dans le développement de ses collaborateurs\n-  Des opportunités professionnelles au sein de l'ensemble du groupe BPCE, avec la possibilité de bénéficier d'accompagnements sur-mesure (parcours d'upskilling / reskilling, LinkedIn Learning)\n-  Un modèle managérial favorisant la mise en responsabilité et la prise d'initiatives\n\nUn Groupe engagé dans les enjeux sociétaux et environnementaux\n-  Le Groupe BPCE place le climat comme priorité d'action de tous ses métiers et de toutes ses entreprises. Trois objectifs sont fixés : aligner tous ses portefeuilles sur une trajectoire \"net zéro\", accompagner ses clients dans leur transition environnementale, et réduire sa propre empreinte.\n-  En quelques chiffres la RSE dans le Groupe :\n   - 1erfinanceur de l'économie sociale et solidaire avec 15.9 Md€ d'encours\n   - 35 Md€ d'encours de financement de la transition énergétique\n   - 6 millions d'emplois soutenus grâce à l'activité des réseaux BP et CE\n\nÊtre un employeur inclusif à travers des politiques fortes en termes de mixité, d'équilibre des temps de vie, de santé au travail\n\nMais aussi\n-  10 jours de télétravail par mois avec une subvention mensuelle de 22 Euros\n-  Une carte ticket-restaurant de 9,8 Euros par jour de télétravail\n-  29 jours de congés payés et entre 16 et 19 jours de RTT (en fonction du calendrier des jours fériés)\n-  64,2% de prise en charge des frais de transport\n-  Un dispositif d'épargne salarial attractif avec système d'abondement de 2500 Euros annuel\n-  Une mutuelle avantageuse avec la prise en charge de la cotisation à hauteur de 5"
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2682627",
+    "title": "Data Scientist H/F",
+    "company": "MYRIAM K ",
+    "location": "75",
+    "remote": null,
+    "publication_date": "2024-08-21",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": "Salaire brut : Annuel de 50000,00 Euros à 80000,00 Euros",
+        "Experience": "Expérience exigée",
+        "Level": null
+    },
+    "company_data": {
+        "sector": null,
+        "company_size": null,
+        "turnover_in_millions": null
+    },
+    "description": "POSTE : Data Scientist H/F\nDESCRIPTION : Vous êtes passionné(e) par les données et les chiffres ? Vous avez une expertise en analyse de données et en optimisation des processus ? Rejoignez notre équipe en tant que Data Scientist et participez à l'optimisation des performances des campagnes et activités sur les réseaux sociaux.  \n \nVos missions seront d'aider à suivre, analyser et optimiser les KPIs dans divers domaines tels que les achats, les stocks, les campagnes de réseaux sociaux, les collaborations avec les influenceurs et les campagnes d'e-mail marketing.  \n\nAlors si vous êtes un(e) expert(e) en analyse de données, en gestion de projets et en optimisation des processus, cette offre est faite pour vous ! Rejoignez une équipe dynamique et innovante pour relever de nouveaux défis et contribuer au succès de notre entreprise.\nTickets restaurant\n\nMutuelle\n\nCE\n\nAmbiance de travail \nPROFIL : Compétences attendues : \n-  Maîtrise des outils d'analyse de données \n-  Capacité à interpréter les résultats et à proposer des recommandations \n-  Excellentes compétences en communication et en travail d'équipe \n-  Capacité à gérer plusieurs projets en parallèle \n-  Connaissance des techniques d'optimisation des processus \n-  Expérience dans l'analyse des KPIs et des performances"
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2682486",
+    "title": "Senior Data Scientist For Audit CDI H/F",
+    "company": "PWC ",
+    "location": "92",
+    "remote": null,
+    "publication_date": "2024-08-21",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": null,
+        "Experience": "Expérience exigée",
+        "Level": null
+    },
+    "company_data": {
+        "sector": "Activités comptables",
+        "company_size": "L'audit financier ou l'analyse des risques sont nos métiers historiques. Mais cela ne nous empêche pas de les faire évoluer ! Automatisation, digitalisation, intelligence artificielle cela change tout dans le traitement et l'analyse des états financiers.\n\nLa technologie est au coeur de nos missions. La complexité des systèmes, l'augmentation de l'utilisation des données et l'investissement constant dans les technologies par nos clients créent de nouveaux enjeux mais égalem...",
+        "turnover_in_millions": null
+    },
+    "description": "POSTE : Senior Data Scientist For Audit CDI H/F\nDESCRIPTION : Dans nos équipes d'audit, nous avons investi significativement dans les technologies émergentes pour comprendre les processus, technologies et systèmes utilisés par nos clients et remodeler en profondeur nos approches métier.\n\nNotre équipe Data Science for Audit fait partie intégrante de cet eco-système. Nous fournissons et développons des initiatives technologiques sur tous les secteurs de nos clients.\n\nNous faisons cela à travers notre expertise en analyse de données, robotique, IA, GenAI, machine learning et en utilisant les meilleures pratiques existantes sur le marché.\n\nNos équipes travaillent également directement avec nos clients pour générer des informations pertinentes et faire parler les données afin de nous permettre d'avoir une meilleure compréhension de l'évaluation de leurs risques.\n\nCe que vous pouvez attendre de nous :\n\nL'équipe data est une équipe hautement qualifiée, performante, diversifiée et leader dans l'implémentation de solutions technologiques avancées pour l'audit. En tant que spécialiste data, vous allez :\n-  Conseiller les équipes d'audit sur les moyens d'automatiser et de réinventer nos missions, en mettant en oeuvre des technologies innovantes, telles que GenAI/Machine Learning et Python.\n-  Construire une solide compréhension du rôle que jouent la donnée et l'analyse dans la finance moderne.\n\nNous sommes en partenariat avec des acteurs majeurs de la Tech tels que OpenAI, Microsoft, Google, Databricks et Harvey.\n\nVous travaillerez sur des missions vous permettant de développer des compétences en analyse avancée, en GenAI et Machine Learning, en ingénierie des données et sur des outils de visualisation pour offrir aux clients l'expérience digitale de PwC. Cela signifie que vous développerez les compétences techniques et commerciales autour du thème des données et de l'analyse que nos clients exigent aujourd'hui.\n\nEn tant que principal acteur de l'analyse de la donnée pour l'audit de PwC France, vous travaillerez en étroite collaboration avec des clients et équipes d'audit dans un large éventail de secteurs (ex. Distribution, Retail, Pharmaceutique, Energie, Télécommunications, Banque, Assurance, etc.).\n\nFormation et développement :\n\nGrâce à notre programme de formation sur mesure, vous développerez les bases pour devenir un professionnel de la Data Science hautement qualifié. Vous bénéficierez également du soutien d'une équipe dynamique et expérimentée qui vous aidera à orienter votre carrière, afin que vous puissiez toujours donner le meilleur de vous-même.\n\nNotre objectif est de nous assurer que nos collaborateurs obtiennent des accréditations externes pertinentes (combinaison de compétences soft skills et techniques), vous distinguant ainsi comme expert de la Data.\n\nCe que nous attendons de vous :\n- \nDe formation supérieure, vous avez 3-5 ans d'expérience dans la Data\n-  Vous êtes capables d'accompagner des missions d'audit à l'aide de l'analyse de données et de technologie émergente (ex. LLM GenAI, Machine Learning)\n-  Un développement d'approches innovantes en lien avec les équipes métiers grâce à un socle de compétence solide, notamment :  - Connaissance GenAI (ex. OpenAI, VertexAI, Llama, Mistral)\n-  Compréhension des problèmes courants de qualité des données et de leurs effets sur les modèles GenAI et Machine Learning\n-  Transformer et modéliser (ex. pandas, polars et scikit-learn pour Python)\n-  Data storage et interrogation (ex. ChromaDB, SQL, Alteryx)\n-  Data visualisation (ex. PowerBI, Seaborn)\n-  Nettoyage et manipulation des données pour le GenAI et Machine Learning (ex. feature engineering)\n-  Vous êtes dynamique et aimez le travail en équipe et surtout : accompagner, transmettre et partager c'est votre leitmotiv !\n-  Vous avez commencé à développer vos compétences d'encadrement et de coaching d'équipe, et vous voulez aller plus loin dans la revue des travaux de l'équipe et leur supervision\n-  Vous avez à coeur de tisser un lien de confiance avec l'équipe et les auditeurs\n-  Comme les équipes sont multiples et partout, vous savez vous adapter\n-  La maîtrise de l'anglais est essentielle car votre quotidien chez PwC est ouvert sur le monde\n-  L'organisation, la rigueur, la curiosité et un excellent relationnel vous permettront de réussir sur ce poste\n\nCes avantages que nous vous offrons :\n\n· Flexibilité avec la charte FlexWork : télétravail étendu, mobilité géographique, FlexTime, Dress for your day\n\n· Pass mobilité durable pour couvrir vos dépenses de mobilité durable\n\n· Programme BE Well, Work Well pour prendre soin de sa santé (partenariat Gymlib, a"
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2682437",
+    "title": "Data Scientist Senior H/F",
+    "company": "GROUPAMA LOIRE BRETAGNE ",
+    "location": "35",
+    "remote": null,
+    "publication_date": "2024-08-21",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": null,
+        "Experience": "Expérience exigée",
+        "Level": null
+    },
+    "company_data": {
+        "sector": "Activités des sièges sociaux",
+        "company_size": "Groupama Loire Bretagne est la 1ère mutuelle sur son territoire (Bretagne - Loire-Atlantique et Maine-et-Loire). Une position d'acteur économique de poids : plus de 2200 collaborateurs, 296 agences, une politique d'achat régionale qui contribue à l'activité de plus de 1000 entreprises du territoire.   \n \n« Nous sommes là pour permettre au plus grand nombre de construire leur vie en confiance  \nPour cela, nous sommes fondés sur des communautés d'entraide humaines, proc...",
+        "turnover_in_millions": null
+    },
+    "description": "POSTE : Data Scientist Senior H/F\nDESCRIPTION : Contexte de la mission\nL'innovation et la Data n'ont de valeur que lorsqu'elles servent la stratégie de l'entreprise. Passionné.e par les enjeux Data, vous souhaitez pouvoir valoriser votre capacité à faire parler les données au service de la  stratégie dans un environnement en pleine transition aux bases solides ? Rejoignez le service Data Intelligence et Prospective de Groupama Loire Bretagne en tant que Data Scientist.\nLe service regroupe les différents métiers de la Data Intelligence - de la Business Intelligence à l'Intelligence Artificielle et de la Stratégie et Prospective.\nAssureur mutualiste incontournable sur le territoire, Groupama Loire Bretagne s'appuie sur un réseau d'agence et d'élus dense permettant d'être plus que jamais proche de ses sociétaires.\n\nDescription du poste\nEn tant que Data Scientist Senior, vous jouerez un rôle clé dans l'analyse et l'exploitation des données de l'entreprise et des données externes au service de l'améliorer de l'expérience client et de l'efficacité opérationnelle. Vous travaillerez principalement en étroite collaboration avec les équipes assurances, commerciales et informatiques pour développer des modèles prédictifs, segmenter notre base de clients et fournir des insights stratégiques.\n\nVos missions\nAu sein du service, vous aurez en charge, avec le soutien de Jeanne-Françoise, votre manager, d'apporter aux décideurs les éléments permettant la prise de décision dans ses orientations stratégiques. Plus concrètement, votre mission portera les aspects suivants :\nConcevoir et développer des modèles statistiques et des algorithmes pour comprendre et prédire les comportements clients afin d'améliorer la connaissance client.\nAnalyser des ensembles de données complexes pour identifier des tendances et des opportunités de marché.\nCollaborer avec l'ensemble des métiers de l'entreprise et du Groupe pour répondre à leurs besoins, en adoptant une posture de conseil, appuyée sur votre expertise\nPrésenter et valoriser des analyses statistiques et des résultats de manière claire et concise aux parties prenantes.\nAssurer une veille technologique pour rester à jour sur les nouvelles méthodes et outils en data science.\nIdentifier et proposer des projets à forte valeur ajoutée pour l'entreprise.\nAccompagner les talents de l'équipe dans leur montée en compétence autour de la Data Science.\n\nVotre cadre et conditions de travail\n\nVous serez basé au siège à Rennes près de la gare, dans un cadre agréable, sur un open-space.\n-  Du lundi au vendredi avec 22 jours de RTT par an\n-  Métier éligible au télé-travail sous condition (2jours/semaine)\n-  28 jours de CP\n-  Participation/intéressement\n-  PEE avec abondement de l'entreprise\n-  Mutuelle et contrat de prévoyance\n-  CE\n-  Chèques vacances\n-  Accès à la restauration d'entreprise avec participation employeur\nPROFIL : Les compétences clés pour réussir dans cette mission :\nVotre autonomie et votre organisation\nVotre capacité d'analyse et de synthèse\nVotre aisance relationnelle et vos qualités de communication\nVotre leadership\nVotre capacité à innover\n\nVotre profil :\nDiplôme en Statistiques, Informatique, Mathématiques, ou dans un domaine connexe.\nMinimum de 5 ans d'expérience en data science, de préférence dans le secteur de l'assurance ou des services financiers.\nMaîtrise des langages de programmation statistiques tels que R, Python.\nUne connaissance de l'outil DataIku serait appréciée\nSolides compétences en analyse de données et en modélisation prédictive.\nExcellente capacité à communiquer des concepts complexes à des non-spécialistes.\nAptitude à travailler de manière autonome et en équipe.\n\nL'aventure vous intéresse ? Postulez !\nAprès une étape de pré-sélection de CV, Anouchka vous contactera par téléphone pour un premier échange et vous proposera un entretien avec elle et Jeanne-Françoise (Entretiens calés le 20/09 sur Rennes). Puis nous vous proposerons de réaliser un assesment et de rencontrer Guillaume, le responsable du service."
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2657305",
+    "title": "Docteur R&D - Data Scientist / Machine Learning - JLS F/H - Projets scientifiques et techniques (H/F)",
+    "company": "RD2 CONSEIL ",
+    "location": "59",
+    "remote": null,
+    "publication_date": "2024-08-21",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": "Salaire brut : A négocier",
+        "Experience": "Débutant accepté",
+        "Level": null
+    },
+    "company_data": {
+        "sector": "Conseil pour les affaires et autres conseils de gestion",
+        "company_size": "RD2 Conseil est un cabinet de recrutement spécialisé sur la recherche de profils scientifiques pour les besoins en R&D des PME innovantes et entreprises privées, souhaitant se doter de compétences pointues et de réelles ressources humaines en matière d'innovation.\nNous recrutons actuellement 2 Docteurs R&D (H/F) pour intégrer et renforcer l'équipe scientifique du Data Lab de notre client : un profil Data Scientist / Machine Learning et un profil Data Engineer.\nCelui-ci, entrepr...",
+        "turnover_in_millions": null
+    },
+    "description": "Descriptif du poste:\n\nAfin de répondre aux enjeux du secteur de la mode et d'accompagner sa transformation digitale, notre client a créé un Data Lab interne au service des experts métiers de l'entreprise. Véritable outil de valorisation des données collectées par l'ensemble des services, il vise à développer des solutions basées sur l'Intelligence Artificielle au service des métiers et à révéler de nouveaux leviers stratégiques.\nEn fort développement, plusieurs recrutements auront lieu sur l'année, et notre client souhaite notamment renforcer l'expertise R&D de l'équipe Data (6 personnes aujourd'hui), par le recrutement de 2 profils : un(e) Docteur en Data Science / Machine Learning et un(e) Docteur Data Engineer.\nRattaché(e) au directeur de la Data et de l'IA, et accompagné(e) par une équipe de Data Analyst vous travaillerez en mode projet avec les product managers des sujets concernés (prévisions de ventes, descriptions des produits, comptes d'exploitation, .) et serez responsable de la roadmap produit et des livrables.\nLes projets envisagés couvriront un spectre large de thématiques liées à l'IA (NLP, Computer Vision, systèmes prédictifs, .).\nVotre capacité à innover et votre regard neuf sur les sujets seront des atouts pour l'entreprise qui souhaite mener une approche véritablement disruptive de ses modèles et habitudes.\nAu sein d'un Data Lab en développement, vous aurez accès aux dernières technologies (Azure Cloud, Databricks, Snowflake, Spark, Python, Dbt) et aurez les moyens nécessaires pour concevoir et tester des approches innovantes.\n \nEn tant que Data Scientist vous interviendrez sur les missions suivantes: \n* Vous évaluez la qualité des données, les nettoyez, les agrégez, et menez des études adhoc\n* Vous concevez, implémentez et comparez différents algorithmes et méthodes statistiques\n* Vous concevez et mener des protocoles de test en conditions réelles (magasins, entrepôts, .)\n* Vous mettez en production, maintenez et itérez sur les solutions : « you build it, you run it »\n* Vous collaborez avec l'écosystème interne (Merchandising, Marketing, Produit, IT) pour mettre en place les solutions adaptées à leurs besoins, et externe, pour piloter et mesurer les performances.\n* Responsable de vos projets, vous gérez les rapports, tableaux de bord, .\n \nEn tant que Data Engineer vous interviendrez sur les missions suivantes: \n* Modélisation des données\n* Développement et conception des solutions data, des pipelines donnés, ainsi que leur supervision\n* Conception et industrialisation des flux de données\n* Validation de la qualité des développements et maintenance des solutions existantes\n* Participation à la construction du socle et des services sur Azure Cloud et Snowflake en garantissant une data fiable et sécurisée\n* Utilisation de frameworks de calcul distribué\n* Contribution aux rituels agiles de l'équipe et à la veille technologique.\nDocumentation des modèles de données et des pipelines.\n\nProfil recherché:\n\nNous recherchons un candidat disposant en particulier des compétences suivantes :\nPour le poste de Data Scientist :\n* Un Doctorat en Informatique / Statistiques / Mathématiques Appliquées sur une thématique Data Science / Machine Learning;\n* Vous avez durant vos expériences doctorales / post-doctorales travaillé sur des problématiques de traitement et d'analyse de données par le biais d'algorithmes d'IA / Machine Learning (NLP et/ou Computer Vision et/ou systèmes de recommandations / prédictions,  ..).\n* Vous maîtrisez la programmation informatique permettant de concevoir et d'implémenter l'ensemble de ces systèmes. Une bonne maitrise de la programmation en Python et des librairies associées est requise.\n* Vous maîtrisez des systèmes de gestion des bases de données (capacité à effectuer des requêtes SQL et à travailler avec de grands ensembles de données),\n* La connaissance des environnements Cloud Azure est un plus,\n* Une 1ère expérience en visualisation des données (Matplotlib par exemple) est un plus.\n \nPour le poste de Data Engineer :\n* Un Doctorat en Informatique sur une thématique Data Science ;\n* Vous avez durant vos expériences doctorales / post-doctorales travaillé sur des problématiques d'architecture de la data et de gestion des flux de données. \n* Vous maîtrisez des systèmes de gestion des bases de données (capacité à effectuer des requêtes SQL et à travailler avec de grands ensembles de données),\n* La connaissance de l'un ou plusieurs des environnements suivants est un plus: Javascript, Scala, Python, Shell, Azure, CI/CD, Pipeline (Airflow, Dataflow.), API (Azure App Service, Flask, FastAPI.)\n \nPour mener à bien vos missions, vous serez amené(e) à collaborer avec des équipes interdisciplinaires, et à communiquer vos approches et résultats à des publics techniques et non techniques. Vous avez le goût d"
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2656639",
+    "title": "Data Scientist /X F/H - Système, réseaux, données (H/F)",
+    "company": "AMARIS NORD ",
+    "location": "59",
+    "remote": null,
+    "publication_date": "2024-08-21",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": "Salaire brut : A négocier",
+        "Experience": "Expérience exigée de 4 An(s)",
+        "Level": null
+    },
+    "company_data": {
+        "sector": "Conseil pour les affaires et autres conseils de gestion",
+        "company_size": "Amaris Consulting est une société indépendante de conseil en technologie qui fournit des conseils et des solutions aux entreprises. Elle regroupe plus de 6000 personnes de 95 nationalités différentes, réparties sur 5 continents et dans plus de 60 pays. Avec plus de 1000 clients dans le monde entier, nous opérons sur des projets majeurs depuis plus de dix ans.\nNos experts interviennent sur 4 domaines (IS & Digital, Telecom, Life Sciences et Engineering) et dans tous les secteurs, de...",
+        "turnover_in_millions": null
+    },
+    "description": "Descriptif du poste:\n\n* Analyser les données pour identifier des tendances, des modèles et des insights.\n* Développer des modèles prédictifs et des algorithmes pour résoudre des problèmes métier.\n* Travailler en étroite collaboration avec les équipes interfonctionnelles pour comprendre les besoins métier et proposer des solutions basées sur les données.\n* Communiquer efficacement les résultats de l'analyse et les recommandations aux parties prenantes.\n\nProfil recherché:\n\n* Vous avez une expérience de minimum 4 ans en tant qu'ingénieur de données.\n* Vous maîtrisez les langages de programmation tels que SQL, Python ou Java.\n* Une excellente communication et la capacité à travailler en équipe sont essentielles pour réussir dans ce rôle.\n* Votre esprit d'initiative vous permet d'être proactif(ve) dans l'amélioration continue des processus existants"
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2654441",
+    "title": "Data Scientist F/H - Système, réseaux, données (H/F)",
+    "company": "OUTSCALE ",
+    "location": "92",
+    "remote": null,
+    "publication_date": "2024-08-21",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": "Salaire brut : A négocier",
+        "Experience": "Expérience exigée de 3 An(s)",
+        "Level": null
+    },
+    "company_data": {
+        "sector": "Traitement de données, hébergement et activités connexes",
+        "company_size": "OUTSCALE, marque de Dassault Systèmes, est un opérateur souverain et durable de l Expérience en tant que Service qui offre à ses clients des environnements technologiques de confiance.\nNous offrons des expériences uniques grâce au savoir-faire de nos équipes passionnées, qui se reflète notamment par la création de solutions de Business Expériences, le développement de notre propre orchestrateur Cloud, TINA OS, ou encore l obtention de la qualification SecNumCloud.\n \nNotre m...",
+        "turnover_in_millions": null
+    },
+    "description": "Descriptif du poste:\n\nNous recrutons un·e Data Scientist afin de renforcer notre équipe Business Experience. \nVos missions \n* Analyser des problématiques et proposer des solutions.\n* Modéliser, implémenter et évaluer des algorithmes.\n* Traiter des données non structurées.\n* Optimiser des modèles ML/DL pour la scalabilité, l'efficacité et les performances.\n* Industrialiser des algorithmes dans les services API.\n* Déployer des services sur le cloud.\n* Participer à la rédaction de spécifications et documentations techniques.\n* Participer à des événements et publications scientifiques.\n\nStack technique\n* Python\n* Frameworks ML/DL (Pytorch)\n* Architectures de réseaux neuronaux (LLMs)\n* Implémentation d'algorithmes ML/DL (apprentissage supervisé/non-supervisé)\n\nProfil recherché:\n\n* Diplômé·e d'un Master  en Intelligence Artificielle, Machine Learning. \n* 3 ans d'expérience minimum post-diplôme dans le domaine de l'IA, Data Science, Machine Learning, NLP, Computer Vision.\n* Vous maîtrisez l'analyse et la transformation des données.\n* Idéalement, vous avez de l'expérience dans le déploiement des modèles ML/DL sur le cloud. \n* Motivé·e, organisé·e, curieux·se, vous appréciez travailler en équipe.\nLa Diversité d'OUTSCALE trouve aussi son expression dans notre politique de recrutement qui privilégie l'égalité des chances, la diversité des individus au sein de nos équipes."
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2620400",
+    "title": "Data scientist (H/F)",
+    "company": "GROUPE APTENIA ",
+    "location": "75",
+    "remote": null,
+    "publication_date": "2024-08-20",
+    "details": {
+        "TypeContract": "Profession",
+        "Salary": null,
+        "Experience": "Expérience exigée de 2 An(s)",
+        "Level": null
+    },
+    "company_data": {
+        "sector": null,
+        "company_size": null,
+        "turnover_in_millions": null
+    },
+    "description": "Je suis à la recherche d'un Data Scientist ayant déjà eu l'occasion de travailler sur des problématiques Speech to Text.\n?Amélioration de la transcription via des outils Speech to Text/ASR (Whisper AI)\n?Appétence pour comprendre l'utilisation d'outils open source\n?Capacité à établir un protocole scientifique dans sa méthodologie de travail\n?Être ouvert aux discussions autour des solutions à apporter, veille active, se renseigner sur les papiers scientifiques (veille active)\n?Appétence pour découvrir de nouvelles technologies"
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2618267",
+    "title": "Data scientist (H/F)",
+    "company": "MANTU GROUPE ( AMARIS ) ",
+    "location": "59",
+    "remote": null,
+    "publication_date": "2024-08-20",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": "Salaire brut : Annuel de 30000,00 Euros à 40000,00 Euros",
+        "Experience": "Expérience exigée de 5 An(s)",
+        "Level": null
+    },
+    "company_data": {
+        "sector": null,
+        "company_size": null,
+        "turnover_in_millions": null
+    },
+    "description": "Amaris Consulting recherche un(e) Data Scientist pour rejoindre notre équipe à Lille. En tant que Data Scientist, vous serez responsable de l'analyse des données, du développement de modèles prédictifs, de la création d'algorithmes et de la génération d'insights exploitables à partir des données. Vous travaillerez en étroite collaboration avec nos équipes pour résoudre des problèmes complexes et apporter des solutions innovantes.\n? Vos responsabilités:\nAnalyser les données pour identifier des tendances, des modèles et des insights.\nDévelopper des modèles prédictifs et des algorithmes pour résoudre des problèmes métier.\nTravailler en étroite collaboration avec les équipes interfonctionnelles pour comprendre les besoins métier et proposer des solutions basées sur les données.\nCommuniquer efficacement les résultats de l'analyse et les recommandations aux parties prenantes."
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2618110",
+    "title": "Data scientist (H/F)",
+    "company": "SOLENT ",
+    "location": "44",
+    "remote": null,
+    "publication_date": "2024-08-20",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": null,
+        "Experience": "Expérience exigée de 5 An(s)",
+        "Level": null
+    },
+    "company_data": {
+        "sector": null,
+        "company_size": null,
+        "turnover_in_millions": null
+    },
+    "description": "? Quel est le projet ?\nNous recherchons un ingénieur logiciel embarqué C++ pour intervenir sur une mission chez l'un de nos clients, leader mondial de solutions d'assemblages. Vos principaux objectifs seront de concevoir le logiciel applicatif embarqué pour de nouveaux outillages : outils autonomes, logiciel de monitoring pour la mise au point et la recherche de défaillance, logiciel PC de traçabilité, etc.\nVous développerez de nouvelles fonctionnalités logicielles sur les produits existants, afin de créer de la valeur pour leurs clients des secteurs aéronautique et automobile.\n? Quelles seront vos missions ?\nEn prenant part à la méthodologie SCRUM déployée sur le projet :\nVous participez à la compréhension du besoin client et à sa transposition en spécifications et user stories.\nVous concevez et réalisez les logiciels en suivant les règles et processus des équipes.\nVous assurez la faisabilité technique et la qualité des implémentations (tests unitaires et fonctionnels).\nVous participez à l'élaboration des architectures logicielles et de la documentation technique associée.\nVous êtes un acteur de l'amélioration continue des processus de développement logiciel et produit au sein des équipes.\n? Quel est l'environnement technique ?\nStack technique : langage C++ (98, 11, 14), Python, Modélisation UML\nIntégration continue : Git, Redmine, Jenkins\nÉcosystème : Linux RT, OS Temps réel QNX, Processeur IMX\nOutils : Squish (test)\nBDD : SQLite, NoSQL\nMéthodologie : Agile\n? Quelle équipe et quelle méthodologie ?\nÉquipe : Intégré au centre R&D de notre client, au sein de l'équipe logicielle dédiée\nEncadrement : La méthode SOLENT ! Un management technique, couplé à un parcours d'onboarding jalonné d'objectifs clairs qui te permettront de monter en compétences rapidement et efficacement sur le projet.\n? Vous êtes...\n? Vous êtes diplômé d'une école d'ingénieur ou équivalent universitaire en développement logiciel embarqué ?\n? Vous avez a minima 5 ans d'expérience professionnelle en développement logiciel embarqué ?\n? Vous avez de bonnes capacités de conception et design logiciel ?\n? Mettre en place une stratégie de tests ne vous fait pas peur ?\n? \\\"Qui dit industrie, dit process, dit documentation !\\\" Cela vous est familier ?\n? Vous avez un bon niveau d'anglais (oral et écrit) ?\n? Vous possédez d'excellentes compétences en communication interpersonnelle et en collaboration d'équipe ?\n? Vous êtes avide de challenge ? De technique ?\nSi vous vous reconnaissez, alors n'hésitez plus et rejoignez nos équipes pour une nouvelle aventure !\nNous cherchons aujourd'hui nos talents de demain... ??"
+}, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/2595889",
+    "title": "Data scientist (H/F)",
+    "company": null,
+    "location": "MAISONS ALFORT 94",
+    "remote": null,
+    "publication_date": "2024-08-20",
+    "details": {
+        "TypeContract": "Intérim",
+        "Salary": "Salaire brut : Annuel de 40000,00 Euros",
+        "Experience": "Expérience exigée de 1 An(s)",
+        "Level": null
+    },
+    "company_data": {
+        "sector": "Activités des agences de travail temporaire",
+        "company_size": "Expectra, leader en France de l'intérim spécialisé et du recrutement en CDI de cadres et agents de maîtrise.\nLes consultants du Département Comptabilité & Finance vous proposent des opportunités de carrière. Nous recherchons pour le compte de notre client basé a Maisons-Alfort, Data Scientist (H/F) pour une mission d'intérim 4 mois.",
+        "turnover_in_millions": null
+    },
+    "description": "Description du poste :\nVos missions :\nLes principales responsabilités seront :\n- La modélisation du défaut de contrepartie (conception du modèle, documentation et présentation du travail réalisé) et des pertes en cas de défaut (LGD)\n- La mise en place d'indicateurs permettant d'assurer le suivi de la bonne capacité des modèles à discriminer le défaut et la réalisation des exercices de backtesting annuels\n- La production et l'enrichissement d'un document de suivi du risque par le prisme de la notation\n- La mise à jour du modèle de notre outil d'aide à la décision (OAD)\n- La mise en place et l'évolution de bases de données (dont la recette informatique)\n- La participation et la réflexion collective concernant des problématiques de l'équipe Notation (remise en cause / améliorations envisageables des modèles existants à moyen et long termes, limites du modèle.)\n- La veille documentaire sur les sujets concernant le contexte de crédit ou les notations internes\n- La présentation de vos travaux à l'ensemble du service et/ou à la direction\nDescription du profil :\nVotre profil :\nVous êtes diplômé d'une école d'ingénieur (ENSAE / ENSAI) ou d'un M2 en statistique\nVous disposez d'une première expérience de 2 à 4 ans (en banque serait un plus)\nVous maitrisez les méthodologies de statistiques exploratoires multivariées et les modèles de régression (linéaire, logistique.)\nVous maîtrisez le langage SAS et Python ainsi que les outils de bureautique (Excel, Word et Power Point).\nVous appréciez le travail en équipe et faîtes preuve de rigueur dans la production des travaux."
+}]
