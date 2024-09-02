@@ -1,23 +1,3 @@
-[
-    {
-        "source": "France Travail",
-        "link": "https://candidat.francetravail.fr/offres/recherche/detail/2821595",
-        "title": "AWS Machine Learning Engineer (F/H/X) (H/F)",
-        "company": null,
-        "location": null,
-        "remote": null,
-        "publication_date": "2024-08-24",
-        "details": {
-            "TypeContract": "CDI",
-            "Salary": null,
-            "Experience": "Débutant accepté",
-            "Level": null
-        },
-        "company_data": {
-            "sector": null,
-            "company_size": "Reply est un cabinet de conseil en technologie présent dans une vingtaine de pays à travers le monde. Data Reply est la marque du groupe Reply spécialisée dans la data et l'IA prédictive et générative qui rassemble plus de 300 experts dans plusieurs pays.",
-            "turnover_in_millions": null
-        },
-        "description": "Reply est un cabinet de conseil en technologie présent dans une vingtaine de pays à travers le monde.\n\nData Reply est la marque du groupe Reply spécialisée dans la data et lIA prédictive et générative qui rassemble plus de 300 experts dans plusieurs pays.\n\n\nCe dont nous avons besoin\n\n * Un Diplôme Bac +5 dans la data ou l'informatique, d'une Grande École d'Ingénieur ou d'une Université, de l'Union Européenne.\n\n * 5 ans d'expérience en CDI, CDD ou Freelancing comme Data Scientist, Machine Learning, Data ou Analytics Engineer avec une expérience sur les services AWS pour développer des solutions de Gen IA.\n\n * Pouvoir mener un entretien en anglais.\n\n\nCe que nous apprécions\n\n * Une certification Profesionnal sur AWS ou 2 ans d'expérience sur AWS.\n\n * Pouvoir mener des entretiens en tant que consultant et participer à des appels doffres.\n\n * Une appétence pour la gestion de projet ou de produit.\n\n\nIntéressé(e) par cette opportunité ?\n\nN'hésite pas à postuler maintenant, et notre recruteur reviendra vers toi pour une première discussion."
-    }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:07b8181282d63606707d713a54e29a34835115ef393f9f70aaaa92398bfe4d75
+size 2010

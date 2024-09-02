@@ -1,28 +1,3 @@
-[
-    {
-        "source": "France Travail",
-        "link": "https://candidat.francetravail.fr/offres/recherche/detail/178WVTQ",
-        "company": "VEOLIA ENVIRONNEMENT ",
-        "location": "Seine-Saint-Denis",
-        "remote": null,
-        "publication_date": "2024-08-01",
-        "details": {
-            "TypeContract": "CDI",
-            "Salary": "Salaire brut : Mensuel de 3000.0 Euros à 3500.0 Euros sur 13.0 mois",
-            "Experience": "2 an(s)",
-            "Level": "Bac+5 et plus ou équivalents data science - Master informatique spécialisé data"
-        },
-        "company_data": {
-            "sector": "Activités des sièges sociaux",
-            "company_size": "0 salarié (n'ayant pas d'effectif au 31/12 mais ayant employé des salariés au cours de l'année de référence)",
-            "turnover_in_millions": null
-        },
-        "description": "Basé au siège de Veolia à Aubervilliers, au sein de de notre Direction IT, le poste de Data engineer est de niveau cadre (au forfait 217 jours de travail/an). Rattaché à notre Direction Data, le poste est rattaché à notre Team Leader Group Data Platform. Le poste est éligible à notre accord télétravail (jusqu'à 2 jours/semaine).\n\nLe Data engineer est responsable de la conception, de la création et de la maintenance de l'infrastructure des données qui permet à nos entités de collecter, de stocker et d'analyser les données. Il/elle construit des infrastructures de données, développe des modèles de données et garantit la qualité et l'intégrité des données. Il/elle garantit que l'accès aux données est accordé conformément à la gouvernance et à la réglementation des données.\n\nLes principales missions du poste sont les suivantes :\n - Concevoir, construire, tester et maintenir des systèmes de gestion de données hautement évolutifs (big data)\n - Appliquer les meilleures pratiques en matière de sécurité des données\n - S'assurer que les systèmes répondent aux exigences commerciales et aux pratiques de l'industrie\n - Intégrer de nouvelles sources de données provenant de divers systèmes d'information\n - Comprendre les plateformes et outils hétérogènes pour pouvoir connecter des ensembles de données\n - Intégrer les nouvelles technologies de gestion des données et les meilleures pratiques\n - Contribuer à maintenir des niveaux élevés d'industrialisation de la plateforme\n - Comprendre, en fonction des contextes de données, quels outils utiliser pour transformer les données\n - Rendre ces outils disponibles pour une utilisation en aval\n - Étudier les coûts, la qualité du service et l'empreinte des solutions de données et conseiller sur les compromis\n - Effectuer le suivi de la facturation et alerter si besoin\n - Suivre les technologies du marché et gérer la dette technique de manière agile\n - Collaborer avec les architectes de données dans la conception et la documentation des services de données\n - Mettre en œuvre des procédures de reprise après sinistre\n - Aider les fournisseurs de données à améliorer la fiabilité, l'efficacité et la qualité des données",
-        "title": "data engineer",
-        "skills": {
-            "Other": [
-                "Big Data"
-            ]
-        }
-    }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:9c6a082db42913440ac6590e90b208ab66f2e41559642edbf12ec48fa0d186a6
+size 3295

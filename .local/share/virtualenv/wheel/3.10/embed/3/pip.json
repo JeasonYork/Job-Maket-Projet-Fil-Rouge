@@ -1,13 +1,3 @@
-{
-  "completed": "2024-05-12T08:01:13.226587Z",
-  "periodic": true,
-  "started": "2024-05-12T08:01:05.729902Z",
-  "versions": [
-    {
-      "filename": "pip-24.0-py3-none-any.whl",
-      "found_date": "2024-05-12T08:01:06.251253Z",
-      "release_date": "2024-02-03T09:53:09.000000Z",
-      "source": "periodic"
-    }
-  ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:7067d7541edce89000aba5cdadef4165c263111c297159263fc3869171c866bd
+size 323
