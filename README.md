@@ -4,7 +4,7 @@ Webscrapping des site Welcome to the Jungle, France Travail (ex pôle emploi), i
 # Projet ETL pour l'analyse du marché de l'emploi dans les métiers de la data
 
 ## Introduction
-Ce projet vise à développer une platforme pour analyser les offres d'emploi dans le secteur des métiers de la data. Le processus d'ETL permet d'extraire les nouvelles offres d'emploi quotidiennement, de les transformer et de les charger dans une base de données Elasticsearch. Cette base est accessible via deux APIs. Le projet s'appuie sur plusieurs technologies, notamment Docker, Elasticsearch, Dash, FastAPI et Airflow.
+Ce projet vise à développer une platforme pour analyser les offres d'emploi dans le secteur des métiers de la data. Le processus d'ETL permet d'extraire les nouvelles offres d'emploi quotidiennement, de les transformer et de les charger dans une base de données Elasticsearch. Cette base est accessible via deux APIs. Le projet s'appuie sur plusieurs technologies, notamment Docker, Elasticsearch, Dash, FastAPI et Airflow. Le projet est presenté dans le fichier "**Presentation_Jobmarket_02.pptx**"
 
 ## Partie Extraction
 
@@ -99,6 +99,7 @@ Pour lancer le container Airflow, suivez les étapes suivantes :
   docker-compose up -d
   ```
 
+ 
   Cette commande démarre Airflow en mode détaché, ce qui permet à Airflow de s’exécuter en arrière-plan.
     
   Le container Airflow orchestrera ensuite les tâches de transformation et de chargement des données, garantissant que les données extraites sont traitées et intégrées à Elasticsearch chaque jour.
