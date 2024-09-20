@@ -4,7 +4,7 @@ Webscrapping des site Welcome to the Jungle, France Travail (ex pôle emploi), i
 # Projet ETL pour l'analyse du marché de l'emploi dans les métiers de la data
 
 ## Introduction
-Ce projet vise à développer un pipeline ETL (Extraction, Transformation, Chargement) pour analyser les offres d'emploi dans le secteur des métiers de la data. Le processus d'ETL permet d'extraire les nouvelles offres d'emploi quotidiennement, de les transformer et de les charger dans une base de données accessible via une API. Le projet s'appuie sur plusieurs technologies, notamment Docker, Elasticsearch, Dash, FastAPI et Airflow.
+Ce projet vise à développer une platforme pour analyser les offres d'emploi dans le secteur des métiers de la data. Le processus d'ETL permet d'extraire les nouvelles offres d'emploi quotidiennement, de les transformer et de les charger dans une base de données Elasticsearch. Cette base est accessible via deux APIs. Le projet s'appuie sur plusieurs technologies, notamment Docker, Elasticsearch, Dash, FastAPI et Airflow.
 
 ## Partie Extraction
 
@@ -15,9 +15,10 @@ L'extraction des données est gérée par deux cron jobs qui s'exécutent quotid
 - **Welcome to the Jungle** : L'extraction est réalisée via un container Docker.
 - **France Travail** : L'extraction est réalisée via un script Python.
 
-### 2. Lancement des Containers Docker
+### 2. Transformation et chargement des données dans Elasticsearch
 
-Après l'extraction, il est nécessaire de lancer plusieurs containers Docker pour assurer le stockage, la présentation des données et la gestion de l'API.
+Après l'extraction, les fichiers Json généré sont transformé par le script Transformation 
+Data_cleaning.py, par la suite les fichiers transformés sont chargé dans la base par le script Bulk_script.py. Les deux script de transformation et de chargement sont automatisé par Airflow.
 
 #### a. Lancement du container Elasticsearch
 
@@ -34,15 +35,22 @@ Les containers Dash et FastAPI sont utilisés pour gérer la présentation des d
 
 1. **Accédez au répertoire API :**
 
-   Pour commencer, naviguez vers le répertoire où sont situés les scripts nécessaires pour créer et lancer les images Docker :
+   Pour commencer, naviguez vers le répertoire où sont situés les scripts nécessaires pour créer et lancer les images Docker de chacune des APIs :
 
    ```bash
-   cd /home/ubuntu/API/
+   cd /home/ubuntu/APIs/
+   ```
+   Avant de passer à l'étape suivante il faudra configurer l'adresse IP du server host pour chaque ficher Dockerfile pour chacune des APIs (MyDashAPI_app , MyFastAPI_app).
+   
+   ```bash
+   # Définir la variable d'environnement ES_HOST
+   ENV ES_HOST=xx.xx.xx.xx:9200
    ```
 
-2. **Création des Images Docker :**
+3. **Création des Images Docker :**
 
-   Après avoir accédé au répertoire approprié, créez les images Docker nécessaires en exécutant le script `CreateImages.sh`. Ce script construira les images Docker qui contiennent toutes les dépendances et configurations nécessaires pour Dash et FastAPI.
+   Après avoir accédé au répertoire approprié (APIs), créez les images Docker nécessaires en exécutant le script `CreateImages.sh`. Ce script construira les images Docker qui contiennent toutes les dépendances 
+   et configurations nécessaires pour Dash et FastAPI.
 
    Pour créer les images, utilisez la commande suivante :
 
@@ -52,7 +60,8 @@ Les containers Dash et FastAPI sont utilisés pour gérer la présentation des d
 
    3. **Lancement des Containers :**
 
-   Une fois les images Docker créées, vous devez lancer les containers correspondants. Ces containers hébergeront l'application Dash, qui est utilisée pour la présentation des données, ainsi que l'API FastAPI, qui permet de gérer les requêtes et d'interagir avec les données.
+   Une fois les images Docker créées, vous devez lancer les containers correspondants. Ces containers hébergeront l'API de visualisation des données my-dash-app et l'API d'interfaçage my-fastapi-app qui permet 
+   d'interagir avec les données.
 
    Pour lancer les containers, exécutez le script `Launch.sh` en utilisant la commande suivante :
 
@@ -92,7 +101,7 @@ Pour lancer le container Airflow, suivez les étapes suivantes :
 
   Cette commande démarre Airflow en mode détaché, ce qui permet à Airflow de s’exécuter en arrière-plan.
     
-  Le container Airflow orchestrera ensuite les tâches de transformation et de chargement des données, garantissant que les données extraites sont traitées et intégrées à l'API chaque jour.
+  Le container Airflow orchestrera ensuite les tâches de transformation et de chargement des données, garantissant que les données extraites sont traitées et intégrées à Elasticsearch chaque jour.
 
-Avec Airflow en place, le pipeline ETL est entièrement automatisé, assurant une gestion fluide et continue du processus de traitement des données.
+  Avec Airflow en place, le pipeline ETL est entièrement automatisé, assurant une gestion fluide et continue du processus de traitement des données.
 
